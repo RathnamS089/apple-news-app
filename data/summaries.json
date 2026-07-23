@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-07-23",
-    "generatedAt": "2026-07-23T06:59:13.049Z",
+    "generatedAt": "2026-07-23T07:35:35.227Z",
     "articles": [
       {
         "id": "top-b09ce658",
@@ -56,17 +56,17 @@
         "publishedAt": "2026-07-23T03:48:27.000Z"
       },
       {
-        "id": "top-be2f5103",
-        "title": "Hope for thousands of MS patients as 'life-changing' drug now on NHS in England",
-        "summary": "Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible.",
+        "id": "top-b2baa8f2",
+        "title": "Airport drop-off fees up by a third - here are the priciest",
+        "summary": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
         "bullets": [
-          "Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible."
+          "The cost of parking closest to the terminal has hit £10 at two of the UK's airports."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-22T23:38:58.000Z"
+        "publishedAt": "2026-07-23T07:03:20.000Z"
       },
       {
         "id": "tech-847bcb78",
