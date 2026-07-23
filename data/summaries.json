@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-07-23",
-    "generatedAt": "2026-07-23T07:35:35.227Z",
+    "generatedAt": "2026-07-23T11:02:28.521Z",
     "articles": [
       {
         "id": "top-b09ce658",
@@ -30,30 +30,30 @@
         "publishedAt": "2026-07-23T04:49:24.000Z"
       },
       {
-        "id": "top-320ad9e2",
-        "title": "US signs landmark nuclear deal with Saudi Arabia",
-        "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+        "id": "top-69865025",
+        "title": "Friend of Manchester synagogue attacker jailed for plot on military base",
+        "summary": "Mohammad Bashir, 31, drove Jihad Al-Shamie on a trip to conduct hostile reconnaissance at a military base.",
         "bullets": [
-          "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme."
+          "Mohammad Bashir, 31, drove Jihad Al-Shamie on a trip to conduct hostile reconnaissance at a military base."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg791nenvvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T00:21:53.000Z"
+        "publishedAt": "2026-07-23T10:53:54.000Z"
       },
       {
-        "id": "top-8b9bee2f",
-        "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-        "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+        "id": "top-8136091d",
+        "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+        "summary": "A group including former England footballer Gary Kineker write to the new PM telling him \"we can afford it\".",
         "bullets": [
-          "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia."
+          "A group including former England footballer Gary Kineker write to the new PM telling him \"we can afford it\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T03:48:27.000Z"
+        "publishedAt": "2026-07-23T10:43:06.000Z"
       },
       {
         "id": "top-b2baa8f2",
@@ -211,7 +211,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T00:21:53.000Z"
+        "publishedAt": "2026-07-23T09:17:50.000Z"
       },
       {
         "id": "world-8b9bee2f",
@@ -227,6 +227,32 @@
         "publishedAt": "2026-07-23T03:48:27.000Z"
       },
       {
+        "id": "world-4b0a24fa",
+        "title": "Thousands evacuated in France fires",
+        "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+        "bullets": [
+          "A third firefighter has died in Europe while tackling ongoing wildfires across the continent."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T10:53:43.000Z"
+      },
+      {
+        "id": "world-126301e0",
+        "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+        "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
+        "bullets": [
+          "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T06:37:23.000Z"
+      },
+      {
         "id": "world-71834544",
         "title": "Tankers make sharp U-turns after Houthi shipping threat",
         "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
@@ -238,32 +264,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-22T14:42:49.000Z"
-      },
-      {
-        "id": "world-59880684",
-        "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-        "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-        "bullets": [
-          "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T06:15:35.000Z"
-      },
-      {
-        "id": "world-20b4f722",
-        "title": "Fire kills 10 members of same family in Peru, police say",
-        "summary": "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.",
-        "bullets": [
-          "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-22T20:56:26.000Z"
       }
     ]
   }
