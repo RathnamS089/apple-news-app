@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-07-23",
-    "generatedAt": "2026-07-23T19:47:54.068Z",
+    "generatedAt": "2026-07-23T22:16:36.893Z",
     "articles": [
       {
         "id": "top-782dc851",
@@ -30,6 +30,19 @@
         "publishedAt": "2026-07-23T17:23:21.000Z"
       },
       {
+        "id": "top-1e3fa09c",
+        "title": "US announces tariffs on dozens of countries over forced labour concerns",
+        "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "bullets": [
+          "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T21:46:34.000Z"
+      },
+      {
         "id": "top-fe79304a",
         "title": "Oil prices hit $100 for the first time since May",
         "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
@@ -43,30 +56,69 @@
         "publishedAt": "2026-07-23T15:31:00.000Z"
       },
       {
-        "id": "top-969f79b6",
-        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-        "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+        "id": "top-641d2f89",
+        "title": "PM to spend first day working from northern branch of No 10",
+        "summary": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
         "bullets": [
-          "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
+          "Various ministers are also set to work regularly from the northern branch of Downing Street."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T17:58:02.000Z"
+        "publishedAt": "2026-07-23T21:31:03.000Z"
       },
       {
-        "id": "top-42fdf776",
-        "title": "Senior ministers and aides set to work from No 10 North",
-        "summary": "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months.",
+        "id": "tech-09958433",
+        "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+        "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
         "bullets": [
-          "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months."
+          "App is installed through Windows Update when certain LG monitors connect to a PC."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czrjl0nev3no?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T14:46:01.000Z"
+        "publishedAt": "2026-07-23T20:47:33.000Z"
+      },
+      {
+        "id": "tech-4773e75b",
+        "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+        "summary": "The FDA hasn't said where the cases are or how they're linked.",
+        "bullets": [
+          "The FDA hasn't said where the cases are or how they're linked."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:22:36.000Z"
+      },
+      {
+        "id": "tech-9beedce8",
+        "title": "Forgot your Google password? Now you can log in with a selfie.",
+        "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+        "bullets": [
+          "Google's selfie videos can be used for account access, AI Avatars, and age verification."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:14:25.000Z"
+      },
+      {
+        "id": "tech-5bc4e21b",
+        "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+        "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+        "bullets": [
+          "Bill would let Homeland Security chief decide when an AI should be shut down."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:08:01.000Z"
       },
       {
         "id": "tech-d3ad6717",
@@ -82,63 +134,24 @@
         "publishedAt": "2026-07-23T18:01:46.000Z"
       },
       {
-        "id": "tech-53689805",
-        "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
-        "summary": "The case provides a novel report of the emergence of heterovirulence.",
+        "id": "ai-87963e23",
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
         "bullets": [
-          "The case provides a novel report of the emergence of heterovirulence."
+          "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T16:58:26.000Z"
-      },
-      {
-        "id": "tech-ca407f2e",
-        "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
-        "summary": "Google becomes third tech giant to face huge fines under the Digital Markets Act.",
-        "bullets": [
-          "Google becomes third tech giant to face huge fines under the Digital Markets Act."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T16:41:36.000Z"
-      },
-      {
-        "id": "tech-b99185d5",
-        "title": "Sony's decision to ditch discs was practically inevitable, data shows",
-        "summary": "Circana numbers show US gamers overwhelmingly voting with their wallets.",
-        "bullets": [
-          "Circana numbers show US gamers overwhelmingly voting with their wallets."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T16:25:46.000Z"
-      },
-      {
-        "id": "tech-5da2de2b",
-        "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-        "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
-        "bullets": [
-          "Google continues to report big quarterly revenue, but its AI spending has skyrocketed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T16:04:19.000Z"
+        "publishedAt": "2026-07-23T20:33:02.000Z"
       },
       {
         "id": "ai-825d80b9",
         "title": "Anthropic updates Claude voice mode with more capable models",
-        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email",
+        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
         "bullets": [
-          "Claude's new voice model will let you reschedule your meeting or draft an email"
+          "Claude's new voice model will let you reschedule your meeting or draft an email."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
@@ -186,19 +199,6 @@
         "publishedAt": "2026-07-23T17:00:00.000Z"
       },
       {
-        "id": "ai-6c0f2085",
-        "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-        "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-        "bullets": [
-          "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T16:28:50.000Z"
-      },
-      {
         "id": "world-fe79304a",
         "title": "Oil prices hit $100 for the first time since May",
         "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
@@ -225,19 +225,6 @@
         "publishedAt": "2026-07-23T17:58:02.000Z"
       },
       {
-        "id": "world-e3cb0fe4",
-        "title": "Ukraine's ousted defence minister insists on being reinstated",
-        "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-        "bullets": [
-          "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T17:37:59.000Z"
-      },
-      {
         "id": "world-8d9c3218",
         "title": "France evacuates 20,000 as wildfires spread in south-west",
         "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
@@ -251,17 +238,30 @@
         "publishedAt": "2026-07-23T19:17:42.000Z"
       },
       {
-        "id": "world-6951a144",
-        "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-        "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+        "id": "world-26c9cd41",
+        "title": "India activist ends hunger strike after 26 days",
+        "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
         "bullets": [
-          "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel."
+          "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T16:50:59.000Z"
+        "publishedAt": "2026-07-23T21:27:04.000Z"
+      },
+      {
+        "id": "world-e3cb0fe4",
+        "title": "Ukraine's ousted defence minister insists on being reinstated",
+        "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+        "bullets": [
+          "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T17:37:59.000Z"
       }
     ]
   }
