@@ -1,8 +1,21 @@
 [
   {
     "date": "2026-07-23",
-    "generatedAt": "2026-07-23T14:34:49.799Z",
+    "generatedAt": "2026-07-23T16:48:41.204Z",
     "articles": [
+      {
+        "id": "top-fe79304a",
+        "title": "Oil prices hit $100 for the first time since May",
+        "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+        "bullets": [
+          "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T15:31:00.000Z"
+      },
       {
         "id": "top-969f79b6",
         "title": "Saudis must recognise Israel for nuclear deal, says Trump",
@@ -14,20 +27,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T13:56:35.000Z"
+        "publishedAt": "2026-07-23T16:17:44.000Z"
       },
       {
-        "id": "top-e5f654cf",
-        "title": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
-        "summary": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack.",
+        "id": "top-1940fcde",
+        "title": "Haigh, Rayner and Powell likely to regularly work from No 10 North",
+        "summary": "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months.",
         "bullets": [
-          "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack."
+          "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czrjl0nev3no?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T13:05:01.000Z"
+        "publishedAt": "2026-07-23T14:46:01.000Z"
+      },
+      {
+        "id": "top-b4791648",
+        "title": "Rayner rules out repaying severance cash after making cabinet return",
+        "summary": "The returning housing secretary received £16,876 after leaving government in September 2025.",
+        "bullets": [
+          "The returning housing secretary received £16,876 after leaving government in September 2025."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx27mg0erd3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T13:59:23.000Z"
       },
       {
         "id": "top-ec945615",
@@ -43,37 +69,24 @@
         "publishedAt": "2026-07-23T14:00:51.000Z"
       },
       {
-        "id": "top-fe79304a",
-        "title": "Oil prices hit $100 for the first time since May",
-        "summary": "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate.",
+        "id": "tech-7777b819",
+        "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+        "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
         "bullets": [
-          "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate."
+          "Aggressive training techniques sharpens threat of bad behavior by leading models."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T13:55:56.000Z"
-      },
-      {
-        "id": "top-8136091d",
-        "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-        "summary": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
-        "bullets": [
-          "A group including the former England footballer write to the new PM telling him \"we can afford it\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T12:18:36.000Z"
+        "publishedAt": "2026-07-23T14:45:05.000Z"
       },
       {
         "id": "tech-6080a540",
         "title": "White House report says Trump can usher in a \"new golden age\" of science",
-        "summary": "The resulting report is a near-random mixture of real problems and grievances.",
+        "summary": "The resulting report is a near-random mixture of grievances and real problems.",
         "bullets": [
-          "The resulting report is a near-random mixture of real problems and grievances."
+          "The resulting report is a near-random mixture of grievances and real problems."
         ],
         "source": "Ars Technica - All content",
         "sourceUrl": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
@@ -95,8 +108,8 @@
         "publishedAt": "2026-07-23T11:00:50.000Z"
       },
       {
-        "id": "tech-847bcb78",
-        "title": "Orcas team up to ram sunfish until they explode",
+        "id": "tech-0dfd890e",
+        "title": "Watch orcas ram a sunfish so hard it explodes",
         "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
         "bullets": [
           "“We think this may help younger orcas feed more easily, or it could also just be for fun.”"
@@ -121,17 +134,56 @@
         "publishedAt": "2026-07-22T21:15:19.000Z"
       },
       {
-        "id": "tech-dd4f592a",
-        "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-        "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
+        "id": "ai-6c0f2085",
+        "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+        "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
         "bullets": [
-          "First four compatible titles can be run with an 11-year-old graphics card."
+          "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-22T20:36:19.000Z"
+        "publishedAt": "2026-07-23T16:28:50.000Z"
+      },
+      {
+        "id": "ai-ea20b093",
+        "title": "Nvidia is sending GPUs to the moon",
+        "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+        "bullets": [
+          "If there's a place in the universe without GPUs, Nvidia is sending them there."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T15:00:00.000Z"
+      },
+      {
+        "id": "ai-b2647dc4",
+        "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+        "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+        "bullets": [
+          "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required,..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T15:00:00.000Z"
+      },
+      {
+        "id": "ai-a942fa9e",
+        "title": "Google’s Gemini nears billion-user milestone",
+        "summary": "Gemini had over 750 million monthly users in February.",
+        "bullets": [
+          "Gemini had over 750 million monthly users in February."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T14:52:44.000Z"
       },
       {
         "id": "ai-1ed20bfa",
@@ -147,56 +199,17 @@
         "publishedAt": "2026-07-23T11:00:00.000Z"
       },
       {
-        "id": "ai-b17f914a",
-        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-        "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+        "id": "world-fe79304a",
+        "title": "Oil prices hit $100 for the first time since May",
+        "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
         "bullets": [
-          "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
+          "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T06:09:13.000Z"
-      },
-      {
-        "id": "ai-4b288fd0",
-        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-        "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-        "bullets": [
-          "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-22T23:47:54.000Z"
-      },
-      {
-        "id": "ai-820efff2",
-        "title": "Google justifies its massive AI spending with a booming cloud business",
-        "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-        "bullets": [
-          "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-22T22:01:52.000Z"
-      },
-      {
-        "id": "ai-40ac9268",
-        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-        "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-        "bullets": [
-          "The episode has also intensified a broader debate in Washington over the influx of Chinese open models."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-22T20:49:03.000Z"
+        "publishedAt": "2026-07-23T15:31:00.000Z"
       },
       {
         "id": "world-969f79b6",
@@ -209,20 +222,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T13:56:35.000Z"
-      },
-      {
-        "id": "world-fe79304a",
-        "title": "Oil prices hit $100 for the first time since May",
-        "summary": "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate.",
-        "bullets": [
-          "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T13:55:56.000Z"
+        "publishedAt": "2026-07-23T16:17:44.000Z"
       },
       {
         "id": "world-8d9c3218",
@@ -235,7 +235,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T13:25:02.000Z"
+        "publishedAt": "2026-07-23T16:41:52.000Z"
       },
       {
         "id": "world-6951a144",
@@ -248,7 +248,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T14:18:13.000Z"
+        "publishedAt": "2026-07-23T16:04:15.000Z"
       },
       {
         "id": "world-126301e0",
@@ -261,7 +261,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T12:51:55.000Z"
+        "publishedAt": "2026-07-23T15:22:06.000Z"
       }
     ]
   }
