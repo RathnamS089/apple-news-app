@@ -1,8 +1,34 @@
 [
   {
     "date": "2026-07-23",
-    "generatedAt": "2026-07-23T16:48:41.204Z",
+    "generatedAt": "2026-07-23T19:47:54.068Z",
     "articles": [
+      {
+        "id": "top-782dc851",
+        "title": "Burnham pauses plan to release some prisoners early from September",
+        "summary": "The prime minister says no prisoners will be released until a review has been conducted.",
+        "bullets": [
+          "The prime minister says no prisoners will be released until a review has been conducted."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T18:17:54.000Z"
+      },
+      {
+        "id": "top-5888ca98",
+        "title": "Mum and daughter who died at beach were trying to save boy, 7",
+        "summary": "Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say.",
+        "bullets": [
+          "Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T17:23:21.000Z"
+      },
       {
         "id": "top-fe79304a",
         "title": "Oil prices hit $100 for the first time since May",
@@ -27,11 +53,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T16:17:44.000Z"
+        "publishedAt": "2026-07-23T17:58:02.000Z"
       },
       {
-        "id": "top-1940fcde",
-        "title": "Haigh, Rayner and Powell likely to regularly work from No 10 North",
+        "id": "top-42fdf776",
+        "title": "Senior ministers and aides set to work from No 10 North",
         "summary": "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months.",
         "bullets": [
           "A think tank blueprint for No 10 North recommends a workforce of up to 300 staff within 18 months."
@@ -43,95 +69,121 @@
         "publishedAt": "2026-07-23T14:46:01.000Z"
       },
       {
-        "id": "top-b4791648",
-        "title": "Rayner rules out repaying severance cash after making cabinet return",
-        "summary": "The returning housing secretary received £16,876 after leaving government in September 2025.",
+        "id": "tech-d3ad6717",
+        "title": "Final Coyote vs. Acme trailer drops at SDCC",
+        "summary": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
         "bullets": [
-          "The returning housing secretary received £16,876 after leaving government in September 2025."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx27mg0erd3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T13:59:23.000Z"
-      },
-      {
-        "id": "top-ec945615",
-        "title": "Wildfires and record dry conditions trigger drought in parts of Wales",
-        "summary": "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves.",
-        "bullets": [
-          "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T14:00:51.000Z"
-      },
-      {
-        "id": "tech-7777b819",
-        "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-        "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-        "bullets": [
-          "Aggressive training techniques sharpens threat of bad behavior by leading models."
+          "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T14:45:05.000Z"
+        "publishedAt": "2026-07-23T18:01:46.000Z"
       },
       {
-        "id": "tech-6080a540",
-        "title": "White House report says Trump can usher in a \"new golden age\" of science",
-        "summary": "The resulting report is a near-random mixture of grievances and real problems.",
+        "id": "tech-53689805",
+        "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
+        "summary": "The case provides a novel report of the emergence of heterovirulence.",
         "bullets": [
-          "The resulting report is a near-random mixture of grievances and real problems."
+          "The case provides a novel report of the emergence of heterovirulence."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T11:23:21.000Z"
+        "publishedAt": "2026-07-23T16:58:26.000Z"
       },
       {
-        "id": "tech-de07a4a8",
-        "title": "I wanted a clock that never needed setting. Things escalated.",
-        "summary": "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!",
+        "id": "tech-ca407f2e",
+        "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
+        "summary": "Google becomes third tech giant to face huge fines under the Digital Markets Act.",
         "bullets": [
-          "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!"
+          "Google becomes third tech giant to face huge fines under the Digital Markets Act."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T11:00:50.000Z"
+        "publishedAt": "2026-07-23T16:41:36.000Z"
       },
       {
-        "id": "tech-0dfd890e",
-        "title": "Watch orcas ram a sunfish so hard it explodes",
-        "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
+        "id": "tech-b99185d5",
+        "title": "Sony's decision to ditch discs was practically inevitable, data shows",
+        "summary": "Circana numbers show US gamers overwhelmingly voting with their wallets.",
         "bullets": [
-          "“We think this may help younger orcas feed more easily, or it could also just be for fun.”"
+          "Circana numbers show US gamers overwhelmingly voting with their wallets."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T04:00:38.000Z"
+        "publishedAt": "2026-07-23T16:25:46.000Z"
       },
       {
-        "id": "tech-1c992035",
-        "title": "Sales were up at Tesla but so were costs and spending",
-        "summary": "Q2 2026 was profitable, but barely.",
+        "id": "tech-5da2de2b",
+        "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+        "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
         "bullets": [
-          "Q2 2026 was profitable, but barely."
+          "Google continues to report big quarterly revenue, but its AI spending has skyrocketed."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+        "sourceUrl": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-22T21:15:19.000Z"
+        "publishedAt": "2026-07-23T16:04:19.000Z"
+      },
+      {
+        "id": "ai-825d80b9",
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email",
+        "bullets": [
+          "Claude's new voice model will let you reschedule your meeting or draft an email"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:00:00.000Z"
+      },
+      {
+        "id": "ai-206ab012",
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+        "bullets": [
+          "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T18:38:34.000Z"
+      },
+      {
+        "id": "ai-c1b8976e",
+        "title": "Runway launches AI model router as generative media gets crowded",
+        "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+        "bullets": [
+          "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T17:07:35.000Z"
+      },
+      {
+        "id": "ai-bd85123e",
+        "title": "OpenAI makes ChatGPT Health available to all US users",
+        "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+        "bullets": [
+          "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T17:00:00.000Z"
       },
       {
         "id": "ai-6c0f2085",
@@ -145,58 +197,6 @@
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-07-23T16:28:50.000Z"
-      },
-      {
-        "id": "ai-ea20b093",
-        "title": "Nvidia is sending GPUs to the moon",
-        "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-        "bullets": [
-          "If there's a place in the universe without GPUs, Nvidia is sending them there."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T15:00:00.000Z"
-      },
-      {
-        "id": "ai-b2647dc4",
-        "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-        "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-        "bullets": [
-          "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T15:00:00.000Z"
-      },
-      {
-        "id": "ai-a942fa9e",
-        "title": "Google’s Gemini nears billion-user milestone",
-        "summary": "Gemini had over 750 million monthly users in February.",
-        "bullets": [
-          "Gemini had over 750 million monthly users in February."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T14:52:44.000Z"
-      },
-      {
-        "id": "ai-1ed20bfa",
-        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-        "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-        "bullets": [
-          "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T11:00:00.000Z"
       },
       {
         "id": "world-fe79304a",
@@ -222,7 +222,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T16:17:44.000Z"
+        "publishedAt": "2026-07-23T17:58:02.000Z"
+      },
+      {
+        "id": "world-e3cb0fe4",
+        "title": "Ukraine's ousted defence minister insists on being reinstated",
+        "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+        "bullets": [
+          "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T17:37:59.000Z"
       },
       {
         "id": "world-8d9c3218",
@@ -235,7 +248,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T16:41:52.000Z"
+        "publishedAt": "2026-07-23T19:17:42.000Z"
       },
       {
         "id": "world-6951a144",
@@ -248,20 +261,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T16:04:15.000Z"
-      },
-      {
-        "id": "world-126301e0",
-        "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-        "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
-        "bullets": [
-          "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T15:22:06.000Z"
+        "publishedAt": "2026-07-23T16:50:59.000Z"
       }
     ]
   }
