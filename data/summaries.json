@@ -1,72 +1,98 @@
 [
   {
     "date": "2026-07-23",
-    "generatedAt": "2026-07-23T11:21:29.101Z",
+    "generatedAt": "2026-07-23T14:34:49.799Z",
     "articles": [
       {
-        "id": "top-b09ce658",
-        "title": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
-        "summary": "The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated.",
+        "id": "top-969f79b6",
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
         "bullets": [
-          "The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated."
+          "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T05:12:30.000Z"
+        "publishedAt": "2026-07-23T13:56:35.000Z"
       },
       {
-        "id": "top-8df02454",
-        "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-        "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+        "id": "top-e5f654cf",
+        "title": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
+        "summary": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack.",
         "bullets": [
-          "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab."
+          "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T04:49:24.000Z"
+        "publishedAt": "2026-07-23T13:05:01.000Z"
       },
       {
-        "id": "top-69865025",
-        "title": "Friend of Manchester synagogue attacker jailed for plot on military base",
-        "summary": "Mohammad Bashir, 31, drove Jihad Al-Shamie on a trip to conduct hostile reconnaissance at a military base.",
+        "id": "top-ec945615",
+        "title": "Wildfires and record dry conditions trigger drought in parts of Wales",
+        "summary": "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves.",
         "bullets": [
-          "Mohammad Bashir, 31, drove Jihad Al-Shamie on a trip to conduct hostile reconnaissance at a military base."
+          "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg791nenvvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T11:17:00.000Z"
+        "publishedAt": "2026-07-23T14:00:51.000Z"
+      },
+      {
+        "id": "top-fe79304a",
+        "title": "Oil prices hit $100 for the first time since May",
+        "summary": "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate.",
+        "bullets": [
+          "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T13:55:56.000Z"
       },
       {
         "id": "top-8136091d",
         "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-        "summary": "A group including former England footballer Gary Kineker write to the new PM telling him \"we can afford it\".",
+        "summary": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
         "bullets": [
-          "A group including former England footballer Gary Kineker write to the new PM telling him \"we can afford it\"."
+          "A group including the former England footballer write to the new PM telling him \"we can afford it\"."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T10:43:06.000Z"
+        "publishedAt": "2026-07-23T12:18:36.000Z"
       },
       {
-        "id": "top-b2baa8f2",
-        "title": "Airport drop-off fees up by a third - here are the priciest",
-        "summary": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
+        "id": "tech-6080a540",
+        "title": "White House report says Trump can usher in a \"new golden age\" of science",
+        "summary": "The resulting report is a near-random mixture of real problems and grievances.",
         "bullets": [
-          "The cost of parking closest to the terminal has hit £10 at two of the UK's airports."
+          "The resulting report is a near-random mixture of real problems and grievances."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T07:03:20.000Z"
+        "publishedAt": "2026-07-23T11:23:21.000Z"
+      },
+      {
+        "id": "tech-de07a4a8",
+        "title": "I wanted a clock that never needed setting. Things escalated.",
+        "summary": "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!",
+        "bullets": [
+          "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T11:00:50.000Z"
       },
       {
         "id": "tech-847bcb78",
@@ -108,31 +134,17 @@
         "publishedAt": "2026-07-22T20:36:19.000Z"
       },
       {
-        "id": "tech-408a3240",
-        "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
-        "summary": "FCC lets ISPs stop listing all fees after companies complained it was too hard.",
+        "id": "ai-1ed20bfa",
+        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+        "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
         "bullets": [
-          "FCC lets ISPs stop listing all fees after companies complained it was too hard."
+          "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-22T20:17:18.000Z"
-      },
-      {
-        "id": "tech-4aa967f6",
-        "title": "Clayface trailer leans into the body horror",
-        "summary": "\"The people I trusted betrayed me. The justice system failed me.\"",
-        "bullets": [
-          "\"The people I trusted betrayed me.",
-          "The justice system failed me.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-22T19:18:17.000Z"
+        "publishedAt": "2026-07-23T11:00:00.000Z"
       },
       {
         "id": "ai-b17f914a",
@@ -187,57 +199,56 @@
         "publishedAt": "2026-07-22T20:49:03.000Z"
       },
       {
-        "id": "ai-b896273a",
-        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-        "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "id": "world-969f79b6",
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
         "bullets": [
-          "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox.",
-          "According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-22T19:11:46.000Z"
-      },
-      {
-        "id": "world-320ad9e2",
-        "title": "US signs landmark nuclear deal with Saudi Arabia",
-        "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-        "bullets": [
-          "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme."
+          "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T09:17:50.000Z"
+        "publishedAt": "2026-07-23T13:56:35.000Z"
       },
       {
-        "id": "world-8b9bee2f",
-        "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-        "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+        "id": "world-fe79304a",
+        "title": "Oil prices hit $100 for the first time since May",
+        "summary": "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate.",
         "bullets": [
-          "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia."
+          "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T03:48:27.000Z"
+        "publishedAt": "2026-07-23T13:55:56.000Z"
       },
       {
-        "id": "world-4b0a24fa",
-        "title": "Thousands evacuated in France fires",
-        "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+        "id": "world-8d9c3218",
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
+        "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
         "bullets": [
-          "A third firefighter has died in Europe while tackling ongoing wildfires across the continent."
+          "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T10:53:43.000Z"
+        "publishedAt": "2026-07-23T13:25:02.000Z"
+      },
+      {
+        "id": "world-6951a144",
+        "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+        "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+        "bullets": [
+          "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T14:18:13.000Z"
       },
       {
         "id": "world-126301e0",
@@ -250,20 +261,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T06:37:23.000Z"
-      },
-      {
-        "id": "world-71834544",
-        "title": "Tankers make sharp U-turns after Houthi shipping threat",
-        "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
-        "bullets": [
-          "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-22T14:42:49.000Z"
+        "publishedAt": "2026-07-23T12:51:55.000Z"
       }
     ]
   }
