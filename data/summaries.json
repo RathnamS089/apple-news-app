@@ -267,7 +267,7 @@
   },
   {
     "date": "2026-07-24",
-    "generatedAt": "2026-07-24T14:15:08.996Z",
+    "generatedAt": "2026-07-24T16:59:18.725Z",
     "articles": [
       {
         "id": "top-b52d350a",
@@ -283,30 +283,30 @@
         "publishedAt": "2026-07-24T11:43:40.000Z"
       },
       {
-        "id": "top-d2692184",
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
-        "bullets": [
-          "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T11:50:17.000Z"
-      },
-      {
         "id": "top-dfb5ab98",
         "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
-        "summary": "Two people are arrested after a vehicle was stopped in County Monaghan in an operation targeting dissident republican activity.",
+        "summary": "A woman in her 20s has been charged by gardaí (Irish police) and is due in court on Friday evening.",
         "bullets": [
-          "Two people are arrested after a vehicle was stopped in County Monaghan in an operation targeting dissident republican activity."
+          "A woman in her 20s has been charged by gardaí (Irish police) and is due in court on Friday evening."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T13:58:23.000Z"
+        "publishedAt": "2026-07-24T16:53:59.000Z"
+      },
+      {
+        "id": "top-15ee1375",
+        "title": "Officers hurt as police boat hits Westminster Bridge",
+        "summary": "Police say a number of officers entered the water but were recovered following the crash.",
+        "bullets": [
+          "Police say a number of officers entered the water but were recovered following the crash."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T16:46:15.000Z"
       },
       {
         "id": "top-f626cdb4",
@@ -319,20 +319,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T12:19:43.000Z"
+        "publishedAt": "2026-07-24T14:21:24.000Z"
       },
       {
-        "id": "top-12a82e7d",
-        "title": "Chris Mason: What Burnham's first week in power tells us about his agenda",
-        "summary": "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political editor Chris Mason explains.",
+        "id": "top-74b71684",
+        "title": "Andy Burnham's first week pledges - how much do they add up to?",
+        "summary": "BBC Verify has looked at how much Burnham's new spending commitments cost and how they will be paid for",
         "bullets": [
-          "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political..."
+          "BBC Verify has looked at how much Burnham's new spending commitments cost and how they will be paid for"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T12:58:58.000Z"
+        "publishedAt": "2026-07-24T13:04:47.000Z"
+      },
+      {
+        "id": "tech-b833995d",
+        "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+        "summary": "\"These are things that tend to be really hard.\"",
+        "bullets": [
+          "\"These are things that tend to be really hard.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T15:23:06.000Z"
+      },
+      {
+        "id": "tech-11882dab",
+        "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
+        "summary": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
+        "bullets": [
+          "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T14:34:25.000Z"
+      },
+      {
+        "id": "tech-dfa2c7c1",
+        "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+        "summary": "Rule would allow states to decide how much—if any—public input there can be.",
+        "bullets": [
+          "Rule would allow states to decide how much—if any—public input there can be."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T13:49:38.000Z"
       },
       {
         "id": "tech-c6421c2b",
@@ -361,43 +400,58 @@
         "publishedAt": "2026-07-23T20:47:33.000Z"
       },
       {
-        "id": "tech-4773e75b",
-        "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-        "summary": "The FDA hasn't said where the cases are or how they're linked.",
+        "id": "ai-6dbf0397",
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
         "bullets": [
-          "The FDA hasn't said where the cases are or how they're linked."
+          "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T19:22:36.000Z"
+        "publishedAt": "2026-07-24T15:51:49.000Z"
       },
       {
-        "id": "tech-9beedce8",
-        "title": "Forgot your Google password? Now you can log in with a selfie.",
-        "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+        "id": "ai-cb74f27e",
+        "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+        "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
         "bullets": [
-          "Google's selfie videos can be used for account access, AI Avatars, and age verification."
+          "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T19:14:25.000Z"
+        "publishedAt": "2026-07-24T15:13:57.000Z"
       },
       {
-        "id": "tech-5bc4e21b",
-        "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-        "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+        "id": "ai-b1b190b6",
+        "title": "Midjourney acquired the astrology app Co-Star",
+        "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
         "bullets": [
-          "Bill would let Homeland Security chief decide when an AI should be shut down."
+          "The AI lab Midjourney continues to expand its purview beyond image and video generation."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T19:08:01.000Z"
+        "publishedAt": "2026-07-24T15:09:55.000Z"
+      },
+      {
+        "id": "ai-8b5c76c1",
+        "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+        "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test...",
+        "bullets": [
+          "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do...",
+          "AI industry reacted to it.",
+          "Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real&#160;security breach at Hugging..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T14:00:00.000Z"
       },
       {
         "id": "ai-d45f4424",
@@ -411,71 +465,6 @@
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-07-24T13:36:42.000Z"
-      },
-      {
-        "id": "ai-72e7bdb9",
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "bullets": [
-          "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T01:00:00.000Z"
-      },
-      {
-        "id": "ai-87963e23",
-        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-        "bullets": [
-          "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T20:33:02.000Z"
-      },
-      {
-        "id": "ai-825d80b9",
-        "title": "Anthropic updates Claude voice mode with more capable models",
-        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-        "bullets": [
-          "Claude's new voice model will let you reschedule your meeting or draft an email."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T19:00:00.000Z"
-      },
-      {
-        "id": "ai-206ab012",
-        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-        "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-        "bullets": [
-          "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T18:38:34.000Z"
-      },
-      {
-        "id": "world-d2692184",
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
-        "bullets": [
-          "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T11:50:17.000Z"
       },
       {
         "id": "world-0b1dabf6",
@@ -501,7 +490,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T09:20:07.000Z"
+        "publishedAt": "2026-07-24T15:22:40.000Z"
       },
       {
         "id": "world-acd66095",
@@ -528,6 +517,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-24T11:53:49.000Z"
+      },
+      {
+        "id": "world-e92a1b05",
+        "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+        "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+        "bullets": [
+          "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T16:37:17.000Z"
       }
     ]
   }
