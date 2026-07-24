@@ -267,7 +267,7 @@
   },
   {
     "date": "2026-07-24",
-    "generatedAt": "2026-07-24T11:13:34.849Z",
+    "generatedAt": "2026-07-24T14:15:08.996Z",
     "articles": [
       {
         "id": "top-b52d350a",
@@ -280,11 +280,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T10:44:24.000Z"
+        "publishedAt": "2026-07-24T11:43:40.000Z"
       },
       {
-        "id": "top-24f1bdc9",
-        "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+        "id": "top-d2692184",
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
         "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
         "bullets": [
           "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
@@ -293,7 +293,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T10:50:26.000Z"
+        "publishedAt": "2026-07-24T11:50:17.000Z"
+      },
+      {
+        "id": "top-dfb5ab98",
+        "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
+        "summary": "Two people are arrested after a vehicle was stopped in County Monaghan in an operation targeting dissident republican activity.",
+        "bullets": [
+          "Two people are arrested after a vehicle was stopped in County Monaghan in an operation targeting dissident republican activity."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T13:58:23.000Z"
       },
       {
         "id": "top-f626cdb4",
@@ -306,33 +319,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T10:01:51.000Z"
+        "publishedAt": "2026-07-24T12:19:43.000Z"
       },
       {
-        "id": "top-7c09857e",
-        "title": "Fifty women tell BBC they were pressured into having sex with strangers",
-        "summary": "Women said their partners had pushed or coerced them into taking part in swinging.",
+        "id": "top-12a82e7d",
+        "title": "Chris Mason: What Burnham's first week in power tells us about his agenda",
+        "summary": "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political editor Chris Mason explains.",
         "bullets": [
-          "Women said their partners had pushed or coerced them into taking part in swinging."
+          "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T05:01:19.000Z"
+        "publishedAt": "2026-07-24T12:58:58.000Z"
       },
       {
-        "id": "top-0b1dabf6",
-        "title": "US hits dozens of countries with new wave of tariffs",
-        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+        "id": "tech-c6421c2b",
+        "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+        "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
         "bullets": [
-          "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in..."
+          "US robotics researchers flew to Venezuela with snakebots after getting a call."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T08:59:31.000Z"
+        "publishedAt": "2026-07-24T11:20:43.000Z"
       },
       {
         "id": "tech-09958433",
@@ -387,17 +400,17 @@
         "publishedAt": "2026-07-23T19:08:01.000Z"
       },
       {
-        "id": "tech-d3ad6717",
-        "title": "Final Coyote vs. Acme trailer drops at SDCC",
-        "summary": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
+        "id": "ai-d45f4424",
+        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+        "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
         "bullets": [
-          "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman."
+          "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T18:01:46.000Z"
+        "publishedAt": "2026-07-24T13:36:42.000Z"
       },
       {
         "id": "ai-72e7bdb9",
@@ -452,21 +465,8 @@
         "publishedAt": "2026-07-23T18:38:34.000Z"
       },
       {
-        "id": "ai-c1b8976e",
-        "title": "Runway launches AI model router as generative media gets crowded",
-        "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-        "bullets": [
-          "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T17:07:35.000Z"
-      },
-      {
-        "id": "world-24f1bdc9",
-        "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+        "id": "world-d2692184",
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
         "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
         "bullets": [
           "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
@@ -475,7 +475,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T10:50:26.000Z"
+        "publishedAt": "2026-07-24T11:50:17.000Z"
       },
       {
         "id": "world-0b1dabf6",
@@ -488,7 +488,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T08:59:31.000Z"
+        "publishedAt": "2026-07-24T12:40:44.000Z"
       },
       {
         "id": "world-efed094b",
@@ -514,7 +514,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T23:19:58.000Z"
+        "publishedAt": "2026-07-24T13:33:06.000Z"
       },
       {
         "id": "world-96875a30",
@@ -527,7 +527,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T10:34:04.000Z"
+        "publishedAt": "2026-07-24T11:53:49.000Z"
       }
     ]
   }
