@@ -264,5 +264,271 @@
         "publishedAt": "2026-07-23T17:37:59.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-07-24",
+    "generatedAt": "2026-07-24T03:46:32.525Z",
+    "articles": [
+      {
+        "id": "top-dd100728",
+        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "bullets": [
+          "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T02:10:00.000Z"
+      },
+      {
+        "id": "top-641d2f89",
+        "title": "PM to spend first day working from northern branch of No 10",
+        "summary": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
+        "bullets": [
+          "Various ministers are also set to work regularly from the northern branch of Downing Street."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T01:44:39.000Z"
+      },
+      {
+        "id": "top-76fb33c2",
+        "title": "UK complacent about war threat, warns defence boss",
+        "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
+        "bullets": [
+          "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T23:04:19.000Z"
+      },
+      {
+        "id": "top-782dc851",
+        "title": "Burnham pauses plan to release some prisoners early from September",
+        "summary": "The prime minister says no prisoners will be released until a review has been conducted.",
+        "bullets": [
+          "The prime minister says no prisoners will be released until a review has been conducted."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T18:17:54.000Z"
+      },
+      {
+        "id": "top-173ded5d",
+        "title": "King's Tardis entrance as Commonwealth Games begin",
+        "summary": "King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow.",
+        "bullets": [
+          "King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T21:53:02.000Z"
+      },
+      {
+        "id": "tech-09958433",
+        "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+        "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+        "bullets": [
+          "App is installed through Windows Update when certain LG monitors connect to a PC."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T20:47:33.000Z"
+      },
+      {
+        "id": "tech-4773e75b",
+        "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+        "summary": "The FDA hasn't said where the cases are or how they're linked.",
+        "bullets": [
+          "The FDA hasn't said where the cases are or how they're linked."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:22:36.000Z"
+      },
+      {
+        "id": "tech-9beedce8",
+        "title": "Forgot your Google password? Now you can log in with a selfie.",
+        "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+        "bullets": [
+          "Google's selfie videos can be used for account access, AI Avatars, and age verification."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:14:25.000Z"
+      },
+      {
+        "id": "tech-5bc4e21b",
+        "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+        "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+        "bullets": [
+          "Bill would let Homeland Security chief decide when an AI should be shut down."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:08:01.000Z"
+      },
+      {
+        "id": "tech-d3ad6717",
+        "title": "Final Coyote vs. Acme trailer drops at SDCC",
+        "summary": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
+        "bullets": [
+          "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T18:01:46.000Z"
+      },
+      {
+        "id": "ai-72e7bdb9",
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "bullets": [
+          "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T01:00:00.000Z"
+      },
+      {
+        "id": "ai-87963e23",
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "bullets": [
+          "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T20:33:02.000Z"
+      },
+      {
+        "id": "ai-825d80b9",
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+        "bullets": [
+          "Claude's new voice model will let you reschedule your meeting or draft an email."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:00:00.000Z"
+      },
+      {
+        "id": "ai-206ab012",
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+        "bullets": [
+          "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T18:38:34.000Z"
+      },
+      {
+        "id": "ai-c1b8976e",
+        "title": "Runway launches AI model router as generative media gets crowded",
+        "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+        "bullets": [
+          "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T17:07:35.000Z"
+      },
+      {
+        "id": "world-dd100728",
+        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "bullets": [
+          "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T02:10:00.000Z"
+      },
+      {
+        "id": "world-fe79304a",
+        "title": "Oil prices hit $100 for the first time since May",
+        "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+        "bullets": [
+          "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T15:31:00.000Z"
+      },
+      {
+        "id": "world-acd66095",
+        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+        "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+        "bullets": [
+          "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T23:19:58.000Z"
+      },
+      {
+        "id": "world-969f79b6",
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+        "bullets": [
+          "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T17:58:02.000Z"
+      },
+      {
+        "id": "world-8d9c3218",
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
+        "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+        "bullets": [
+          "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-23T19:17:42.000Z"
+      }
+    ]
   }
 ]
