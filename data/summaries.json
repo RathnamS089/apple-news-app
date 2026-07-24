@@ -267,8 +267,21 @@
   },
   {
     "date": "2026-07-24",
-    "generatedAt": "2026-07-24T06:55:18.169Z",
+    "generatedAt": "2026-07-24T08:44:45.269Z",
     "articles": [
+      {
+        "id": "top-f424e6ac",
+        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+        "bullets": [
+          "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T07:59:28.000Z"
+      },
       {
         "id": "top-c0aa0745",
         "title": "US hits dozens of trading partners with new wave of tariffs",
@@ -280,14 +293,27 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T06:47:08.000Z"
+        "publishedAt": "2026-07-24T08:30:15.000Z"
       },
       {
-        "id": "top-cf24787a",
-        "title": "Fifty women come forward saying they were pressured into swinging",
-        "summary": "Women told the BBC their partners had pushed or coerced them into having sex with other men.",
+        "id": "top-f626cdb4",
+        "title": "Angela Rayner rules out rent controls in England",
+        "summary": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.",
         "bullets": [
-          "Women told the BBC their partners had pushed or coerced them into having sex with other men."
+          "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T08:22:02.000Z"
+      },
+      {
+        "id": "top-7c09857e",
+        "title": "Fifty women tell BBC they were pressured into having sex with strangers",
+        "summary": "Women said their partners had pushed or coerced them into taking part in swinging.",
+        "bullets": [
+          "Women said their partners had pushed or coerced them into taking part in swinging."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss",
@@ -306,33 +332,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T01:44:39.000Z"
-      },
-      {
-        "id": "top-8728c1a0",
-        "title": "UK complacent about war threat, warns BAE boss",
-        "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
-        "bullets": [
-          "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T23:04:19.000Z"
-      },
-      {
-        "id": "top-173ded5d",
-        "title": "King's Tardis entrance as Commonwealth Games begin",
-        "summary": "King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow.",
-        "bullets": [
-          "King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T21:53:02.000Z"
+        "publishedAt": "2026-07-24T07:15:22.000Z"
       },
       {
         "id": "tech-09958433",
@@ -465,6 +465,19 @@
         "publishedAt": "2026-07-23T17:07:35.000Z"
       },
       {
+        "id": "world-f424e6ac",
+        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+        "bullets": [
+          "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T07:59:28.000Z"
+      },
+      {
         "id": "world-c0aa0745",
         "title": "US hits dozens of trading partners with new wave of tariffs",
         "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
@@ -475,7 +488,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T06:47:08.000Z"
+        "publishedAt": "2026-07-24T08:30:15.000Z"
       },
       {
         "id": "world-fe79304a",
@@ -504,30 +517,17 @@
         "publishedAt": "2026-07-23T23:19:58.000Z"
       },
       {
-        "id": "world-969f79b6",
-        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-        "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+        "id": "world-2762c14e",
+        "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+        "summary": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
         "bullets": [
-          "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
+          "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T17:58:02.000Z"
-      },
-      {
-        "id": "world-8d9c3218",
-        "title": "France evacuates 20,000 as wildfires spread in south-west",
-        "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-        "bullets": [
-          "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T19:17:42.000Z"
+        "publishedAt": "2026-07-24T08:30:58.000Z"
       }
     ]
   }
