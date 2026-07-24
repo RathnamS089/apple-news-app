@@ -267,20 +267,33 @@
   },
   {
     "date": "2026-07-24",
-    "generatedAt": "2026-07-24T03:46:32.525Z",
+    "generatedAt": "2026-07-24T06:30:04.731Z",
     "articles": [
       {
-        "id": "top-dd100728",
-        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-        "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "id": "top-c0aa0745",
+        "title": "US hits dozens of trading partners with new wave of tariffs",
+        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
         "bullets": [
-          "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
+          "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T02:10:00.000Z"
+        "publishedAt": "2026-07-24T06:12:47.000Z"
+      },
+      {
+        "id": "top-cf24787a",
+        "title": "Fifty women come forward saying they were pressured into swinging",
+        "summary": "Women told the BBC their partners had pushed or coerced them into having sex with other men.",
+        "bullets": [
+          "Women told the BBC their partners had pushed or coerced them into having sex with other men."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T05:01:19.000Z"
       },
       {
         "id": "top-641d2f89",
@@ -296,8 +309,8 @@
         "publishedAt": "2026-07-24T01:44:39.000Z"
       },
       {
-        "id": "top-76fb33c2",
-        "title": "UK complacent about war threat, warns defence boss",
+        "id": "top-8728c1a0",
+        "title": "UK complacent about war threat, warns BAE boss",
         "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
         "bullets": [
           "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned."
@@ -307,19 +320,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-23T23:04:19.000Z"
-      },
-      {
-        "id": "top-782dc851",
-        "title": "Burnham pauses plan to release some prisoners early from September",
-        "summary": "The prime minister says no prisoners will be released until a review has been conducted.",
-        "bullets": [
-          "The prime minister says no prisoners will be released until a review has been conducted."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T18:17:54.000Z"
       },
       {
         "id": "top-173ded5d",
@@ -465,17 +465,17 @@
         "publishedAt": "2026-07-23T17:07:35.000Z"
       },
       {
-        "id": "world-dd100728",
-        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-        "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "id": "world-c0aa0745",
+        "title": "US hits dozens of trading partners with new wave of tariffs",
+        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
         "bullets": [
-          "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
+          "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T02:10:00.000Z"
+        "publishedAt": "2026-07-24T06:12:47.000Z"
       },
       {
         "id": "world-fe79304a",
