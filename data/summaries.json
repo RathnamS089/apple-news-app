@@ -267,59 +267,33 @@
   },
   {
     "date": "2026-07-24",
-    "generatedAt": "2026-07-24T16:59:18.725Z",
+    "generatedAt": "2026-07-24T19:48:57.967Z",
     "articles": [
       {
-        "id": "top-b52d350a",
-        "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
-        "summary": "On Thursday, Axel Rudakubana was moved from prison to a secure psychiatric hospital in Berkshire.",
+        "id": "top-b494f7c3",
+        "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
+        "summary": "Craig Bowe says he heard screams during a trip to a beach to celebrate his daughter's birthday.",
         "bullets": [
-          "On Thursday, Axel Rudakubana was moved from prison to a secure psychiatric hospital in Berkshire."
+          "Craig Bowe says he heard screams during a trip to a beach to celebrate his daughter's birthday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T11:43:40.000Z"
+        "publishedAt": "2026-07-24T17:40:14.000Z"
       },
       {
-        "id": "top-dfb5ab98",
-        "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
-        "summary": "A woman in her 20s has been charged by gardaí (Irish police) and is due in court on Friday evening.",
+        "id": "top-5a6d64fb",
+        "title": "Law student is charged over intercepted bomb in car",
+        "summary": "An Irish court is told the accused, Isobella Perrie Sullivan, is studying to become a barrister.",
         "bullets": [
-          "A woman in her 20s has been charged by gardaí (Irish police) and is due in court on Friday evening."
+          "An Irish court is told the accused, Isobella Perrie Sullivan, is studying to become a barrister."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T16:53:59.000Z"
-      },
-      {
-        "id": "top-15ee1375",
-        "title": "Officers hurt as police boat hits Westminster Bridge",
-        "summary": "Police say a number of officers entered the water but were recovered following the crash.",
-        "bullets": [
-          "Police say a number of officers entered the water but were recovered following the crash."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T16:46:15.000Z"
-      },
-      {
-        "id": "top-f626cdb4",
-        "title": "Angela Rayner rules out rent controls in England",
-        "summary": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.",
-        "bullets": [
-          "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T14:21:24.000Z"
+        "publishedAt": "2026-07-24T19:39:44.000Z"
       },
       {
         "id": "top-74b71684",
@@ -335,6 +309,84 @@
         "publishedAt": "2026-07-24T13:04:47.000Z"
       },
       {
+        "id": "top-f626cdb4",
+        "title": "Angela Rayner rules out rent controls in England",
+        "summary": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.",
+        "bullets": [
+          "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T14:21:24.000Z"
+      },
+      {
+        "id": "top-afe4dd04",
+        "title": "NBA superstar LeBron James to join Philadelphia 76ers",
+        "summary": "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA.",
+        "bullets": [
+          "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T16:07:33.000Z"
+      },
+      {
+        "id": "tech-6be205ca",
+        "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
+        "summary": "There's no human safety or efficacy data, but that no longer seems to matter.",
+        "bullets": [
+          "There's no human safety or efficacy data, but that no longer seems to matter."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T19:10:09.000Z"
+      },
+      {
+        "id": "tech-ce027a7c",
+        "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
+        "summary": "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US.",
+        "bullets": [
+          "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T18:02:21.000Z"
+      },
+      {
+        "id": "tech-b3bc3fec",
+        "title": "European Union grants US request to restrict satellite images of Iran War region",
+        "summary": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
+        "bullets": [
+          "New delay on Copernicus satellite pics comes as US ramps up war with Iran again."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T17:45:05.000Z"
+      },
+      {
+        "id": "tech-593df6aa",
+        "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+        "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
+        "bullets": [
+          "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T17:31:26.000Z"
+      },
+      {
         "id": "tech-b833995d",
         "title": "This is the world's most advanced robotic servicing satellite—that we know about",
         "summary": "\"These are things that tend to be really hard.\"",
@@ -348,56 +400,30 @@
         "publishedAt": "2026-07-24T15:23:06.000Z"
       },
       {
-        "id": "tech-11882dab",
-        "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
-        "summary": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
+        "id": "ai-92d44891",
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent...",
         "bullets": [
-          "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida."
+          "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T14:34:25.000Z"
+        "publishedAt": "2026-07-24T18:07:32.000Z"
       },
       {
-        "id": "tech-dfa2c7c1",
-        "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-        "summary": "Rule would allow states to decide how much—if any—public input there can be.",
+        "id": "ai-2e126baf",
+        "title": "Anthropic launches Opus 5",
+        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
         "bullets": [
-          "Rule would allow states to decide how much—if any—public input there can be."
+          "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T13:49:38.000Z"
-      },
-      {
-        "id": "tech-c6421c2b",
-        "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-        "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
-        "bullets": [
-          "US robotics researchers flew to Venezuela with snakebots after getting a call."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T11:20:43.000Z"
-      },
-      {
-        "id": "tech-09958433",
-        "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-        "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
-        "bullets": [
-          "App is installed through Windows Update when certain LG monitors connect to a PC."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T20:47:33.000Z"
+        "publishedAt": "2026-07-24T17:00:00.000Z"
       },
       {
         "id": "ai-6dbf0397",
@@ -439,45 +465,30 @@
         "publishedAt": "2026-07-24T15:09:55.000Z"
       },
       {
-        "id": "ai-8b5c76c1",
-        "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-        "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test...",
+        "id": "world-5788d3f7",
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
         "bullets": [
-          "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do...",
-          "AI industry reacted to it.",
-          "Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real&#160;security breach at Hugging..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T14:00:00.000Z"
-      },
-      {
-        "id": "ai-d45f4424",
-        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-        "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-        "bullets": [
-          "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T13:36:42.000Z"
-      },
-      {
-        "id": "world-0b1dabf6",
-        "title": "US hits dozens of countries with new wave of tariffs",
-        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-        "bullets": [
-          "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in..."
+          "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T12:40:44.000Z"
+        "publishedAt": "2026-07-24T18:51:17.000Z"
+      },
+      {
+        "id": "world-fbafc0be",
+        "title": "Trump vows to investigate EU over fining of US tech companies",
+        "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+        "bullets": [
+          "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\""
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T18:57:39.000Z"
       },
       {
         "id": "world-efed094b",
@@ -490,7 +501,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T15:22:40.000Z"
+        "publishedAt": "2026-07-24T18:13:02.000Z"
       },
       {
         "id": "world-acd66095",
@@ -517,19 +528,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-24T11:53:49.000Z"
-      },
-      {
-        "id": "world-e92a1b05",
-        "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-        "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-        "bullets": [
-          "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T16:37:17.000Z"
       }
     ]
   }
