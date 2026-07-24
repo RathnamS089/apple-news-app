@@ -267,8 +267,47 @@
   },
   {
     "date": "2026-07-24",
-    "generatedAt": "2026-07-24T19:48:57.967Z",
+    "generatedAt": "2026-07-24T22:28:55.271Z",
     "articles": [
+      {
+        "id": "top-d97645ca",
+        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+        "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+        "bullets": [
+          "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T21:47:16.000Z"
+      },
+      {
+        "id": "top-5a6d64fb",
+        "title": "Law student is charged over intercepted bomb in car",
+        "summary": "Isobella Perrie Sullivan's lawyer says she did not know that a bag in the car she was driving contained a bomb.",
+        "bullets": [
+          "Isobella Perrie Sullivan's lawyer says she did not know that a bag in the car she was driving contained a bomb."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T21:51:53.000Z"
+      },
+      {
+        "id": "top-bf6d224e",
+        "title": "Watch moment of explosion as huge fire breaks out in Essex",
+        "summary": "More than 100 firefighters were sent to tackle a huge fire at industrial units on a farm on Friday.",
+        "bullets": [
+          "More than 100 firefighters were sent to tackle a huge fire at industrial units on a farm on Friday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvg9e334d0yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T21:48:49.000Z"
+      },
       {
         "id": "top-b494f7c3",
         "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
@@ -280,20 +319,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T17:40:14.000Z"
-      },
-      {
-        "id": "top-5a6d64fb",
-        "title": "Law student is charged over intercepted bomb in car",
-        "summary": "An Irish court is told the accused, Isobella Perrie Sullivan, is studying to become a barrister.",
-        "bullets": [
-          "An Irish court is told the accused, Isobella Perrie Sullivan, is studying to become a barrister."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T19:39:44.000Z"
+        "publishedAt": "2026-07-24T21:14:02.000Z"
       },
       {
         "id": "top-74b71684",
@@ -309,30 +335,43 @@
         "publishedAt": "2026-07-24T13:04:47.000Z"
       },
       {
-        "id": "top-f626cdb4",
-        "title": "Angela Rayner rules out rent controls in England",
-        "summary": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.",
+        "id": "tech-eed396fc",
+        "title": "Canadian legislator reads out apparent LLM response in floor speech",
+        "summary": "\"Here’s a more natural, flowing version of that section...\"",
         "bullets": [
-          "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market."
+          "\"Here’s a more natural, flowing version of that section...\""
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T14:21:24.000Z"
+        "publishedAt": "2026-07-24T21:25:15.000Z"
       },
       {
-        "id": "top-afe4dd04",
-        "title": "NBA superstar LeBron James to join Philadelphia 76ers",
-        "summary": "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA.",
+        "id": "tech-b15ab03a",
+        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+        "summary": "Models are improving quickly, but the cheaper options are often good enough.",
         "bullets": [
-          "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA."
+          "Models are improving quickly, but the cheaper options are often good enough."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T16:07:33.000Z"
+        "publishedAt": "2026-07-24T21:05:51.000Z"
+      },
+      {
+        "id": "tech-262b631b",
+        "title": "Roku raises streaming stick prices by up to 60 percent",
+        "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+        "bullets": [
+          "Roku blames RAM shortage after CEO called it \"great\" for business in May."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T19:41:06.000Z"
       },
       {
         "id": "tech-6be205ca",
@@ -361,43 +400,17 @@
         "publishedAt": "2026-07-24T18:02:21.000Z"
       },
       {
-        "id": "tech-b3bc3fec",
-        "title": "European Union grants US request to restrict satellite images of Iran War region",
-        "summary": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
+        "id": "ai-f4551652",
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+        "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
         "bullets": [
-          "New delay on Copernicus satellite pics comes as US ramps up war with Iran again."
+          "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T17:45:05.000Z"
-      },
-      {
-        "id": "tech-593df6aa",
-        "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-        "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-        "bullets": [
-          "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T17:31:26.000Z"
-      },
-      {
-        "id": "tech-b833995d",
-        "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-        "summary": "\"These are things that tend to be really hard.\"",
-        "bullets": [
-          "\"These are things that tend to be really hard.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T15:23:06.000Z"
+        "publishedAt": "2026-07-24T22:25:58.000Z"
       },
       {
         "id": "ai-92d44891",
@@ -452,17 +465,17 @@
         "publishedAt": "2026-07-24T15:13:57.000Z"
       },
       {
-        "id": "ai-b1b190b6",
-        "title": "Midjourney acquired the astrology app Co-Star",
-        "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+        "id": "world-d97645ca",
+        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+        "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
         "bullets": [
-          "The AI lab Midjourney continues to expand its purview beyond image and video generation."
+          "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T15:09:55.000Z"
+        "publishedAt": "2026-07-24T21:47:16.000Z"
       },
       {
         "id": "world-5788d3f7",
@@ -488,7 +501,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T18:57:39.000Z"
+        "publishedAt": "2026-07-24T20:23:58.000Z"
       },
       {
         "id": "world-efed094b",
@@ -504,30 +517,17 @@
         "publishedAt": "2026-07-24T18:13:02.000Z"
       },
       {
-        "id": "world-acd66095",
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+        "id": "world-d807375f",
+        "title": "ICC top prosecutor removed over sexual misconduct allegations",
+        "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
         "bullets": [
-          "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear."
+          "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T13:33:06.000Z"
-      },
-      {
-        "id": "world-96875a30",
-        "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-        "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
-        "bullets": [
-          "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T11:53:49.000Z"
+        "publishedAt": "2026-07-24T21:02:30.000Z"
       }
     ]
   }
