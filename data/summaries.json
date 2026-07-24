@@ -267,11 +267,24 @@
   },
   {
     "date": "2026-07-24",
-    "generatedAt": "2026-07-24T08:44:45.269Z",
+    "generatedAt": "2026-07-24T11:13:34.849Z",
     "articles": [
       {
-        "id": "top-f424e6ac",
-        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "id": "top-b52d350a",
+        "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
+        "summary": "On Thursday, Axel Rudakubana was moved from prison to a secure psychiatric hospital in Berkshire.",
+        "bullets": [
+          "On Thursday, Axel Rudakubana was moved from prison to a secure psychiatric hospital in Berkshire."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T10:44:24.000Z"
+      },
+      {
+        "id": "top-24f1bdc9",
+        "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
         "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
         "bullets": [
           "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
@@ -280,20 +293,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T07:59:28.000Z"
-      },
-      {
-        "id": "top-c0aa0745",
-        "title": "US hits dozens of trading partners with new wave of tariffs",
-        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-        "bullets": [
-          "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T08:30:15.000Z"
+        "publishedAt": "2026-07-24T10:50:26.000Z"
       },
       {
         "id": "top-f626cdb4",
@@ -306,7 +306,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T08:22:02.000Z"
+        "publishedAt": "2026-07-24T10:01:51.000Z"
       },
       {
         "id": "top-7c09857e",
@@ -322,17 +322,17 @@
         "publishedAt": "2026-07-24T05:01:19.000Z"
       },
       {
-        "id": "top-641d2f89",
-        "title": "PM to spend first day working from northern branch of No 10",
-        "summary": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
+        "id": "top-0b1dabf6",
+        "title": "US hits dozens of countries with new wave of tariffs",
+        "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
         "bullets": [
-          "Various ministers are also set to work regularly from the northern branch of Downing Street."
+          "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T07:15:22.000Z"
+        "publishedAt": "2026-07-24T08:59:31.000Z"
       },
       {
         "id": "tech-09958433",
@@ -465,8 +465,8 @@
         "publishedAt": "2026-07-23T17:07:35.000Z"
       },
       {
-        "id": "world-f424e6ac",
-        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "id": "world-24f1bdc9",
+        "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
         "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
         "bullets": [
           "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
@@ -475,11 +475,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T07:59:28.000Z"
+        "publishedAt": "2026-07-24T10:50:26.000Z"
       },
       {
-        "id": "world-c0aa0745",
-        "title": "US hits dozens of trading partners with new wave of tariffs",
+        "id": "world-0b1dabf6",
+        "title": "US hits dozens of countries with new wave of tariffs",
         "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
         "bullets": [
           "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in..."
@@ -488,20 +488,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T08:30:15.000Z"
+        "publishedAt": "2026-07-24T08:59:31.000Z"
       },
       {
-        "id": "world-fe79304a",
-        "title": "Oil prices hit $100 for the first time since May",
-        "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+        "id": "world-efed094b",
+        "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+        "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
         "bullets": [
-          "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
+          "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-23T15:31:00.000Z"
+        "publishedAt": "2026-07-24T09:20:07.000Z"
       },
       {
         "id": "world-acd66095",
@@ -517,17 +517,17 @@
         "publishedAt": "2026-07-23T23:19:58.000Z"
       },
       {
-        "id": "world-2762c14e",
-        "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-        "summary": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
+        "id": "world-96875a30",
+        "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+        "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
         "bullets": [
-          "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation."
+          "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T08:30:58.000Z"
+        "publishedAt": "2026-07-24T10:34:04.000Z"
       }
     ]
   }
