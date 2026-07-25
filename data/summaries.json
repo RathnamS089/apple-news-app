@@ -533,7 +533,7 @@
   },
   {
     "date": "2026-07-25",
-    "generatedAt": "2026-07-25T19:36:44.283Z",
+    "generatedAt": "2026-07-25T22:12:15.497Z",
     "articles": [
       {
         "id": "top-0bc9a325",
@@ -575,19 +575,6 @@
         "publishedAt": "2026-07-25T14:18:32.000Z"
       },
       {
-        "id": "top-4900a8e7",
-        "title": "Cairngorm residents say wildfire response 'too slow'",
-        "summary": "Nethy Bridge residents were evacuated on Friday and a major incident was declared.",
-        "bullets": [
-          "Nethy Bridge residents were evacuated on Friday and a major incident was declared."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T18:05:08.000Z"
-      },
-      {
         "id": "top-de50538f",
         "title": "India's 'cockroach' protest called off after education minister quits",
         "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
@@ -599,6 +586,32 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-25T17:44:46.000Z"
+      },
+      {
+        "id": "top-c7b9bb33",
+        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
+        "summary": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
+        "bullets": [
+          "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T18:20:20.000Z"
+      },
+      {
+        "id": "tech-e67d325a",
+        "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+        "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+        "bullets": [
+          "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T20:52:30.000Z"
       },
       {
         "id": "tech-46ad1886",
@@ -651,19 +664,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-07-24T22:28:20.000Z"
-      },
-      {
-        "id": "tech-93d2faec",
-        "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-        "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
-        "bullets": [
-          "“Halting this merger while our case proceeds is a critical victory,\" NY AG said."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:56:02.000Z"
       },
       {
         "id": "ai-ee6a3f37",
@@ -745,6 +745,19 @@
         "publishedAt": "2026-07-25T17:13:40.000Z"
       },
       {
+        "id": "world-701ca116",
+        "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+        "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
+        "bullets": [
+          "Police say an intensive manhunt is under way after the incident in Berlin's city centre."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T21:33:00.000Z"
+      },
+      {
         "id": "world-130ec624",
         "title": "Trump takes swipes at press during White House Correspondents' Dinner",
         "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
@@ -782,19 +795,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-25T06:34:40.000Z"
-      },
-      {
-        "id": "world-5788d3f7",
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-        "bullets": [
-          "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T00:06:53.000Z"
       }
     ]
   }
