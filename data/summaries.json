@@ -533,7 +533,7 @@
   },
   {
     "date": "2026-07-25",
-    "generatedAt": "2026-07-25T08:25:41.448Z",
+    "generatedAt": "2026-07-25T10:45:53.018Z",
     "articles": [
       {
         "id": "top-c1595bca",
@@ -562,8 +562,8 @@
         "publishedAt": "2026-07-25T06:41:42.000Z"
       },
       {
-        "id": "top-2bc5fc5a",
-        "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
+        "id": "top-4cd17361",
+        "title": "Police declare 'major incident' over Cairngorms wildfire",
         "summary": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.",
         "bullets": [
           "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading."
@@ -572,20 +572,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T07:08:41.000Z"
-      },
-      {
-        "id": "top-4fc861fd",
-        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-        "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-        "bullets": [
-          "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T23:01:06.000Z"
+        "publishedAt": "2026-07-25T10:40:22.000Z"
       },
       {
         "id": "top-c5d509ed",
@@ -599,6 +586,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-24T21:53:49.000Z"
+      },
+      {
+        "id": "top-ffb5b0f0",
+        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+        "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+        "bullets": [
+          "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T23:23:53.000Z"
       },
       {
         "id": "tech-c5cd0699",
@@ -731,17 +731,30 @@
         "publishedAt": "2026-07-24T15:51:49.000Z"
       },
       {
-        "id": "world-d9bb18a6",
-        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "id": "world-130ec624",
+        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+        "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
         "bullets": [
-          "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
+          "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T02:29:36.000Z"
+        "publishedAt": "2026-07-25T06:41:42.000Z"
+      },
+      {
+        "id": "world-85779633",
+        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+        "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+        "bullets": [
+          "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T06:34:40.000Z"
       },
       {
         "id": "world-5788d3f7",
@@ -781,19 +794,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-24T22:49:59.000Z"
-      },
-      {
-        "id": "world-41fe1115",
-        "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-        "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-        "bullets": [
-          "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T02:14:50.000Z"
       }
     ]
   }
