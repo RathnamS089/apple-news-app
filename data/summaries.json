@@ -533,72 +533,98 @@
   },
   {
     "date": "2026-07-25",
-    "generatedAt": "2026-07-25T10:45:53.018Z",
+    "generatedAt": "2026-07-25T14:04:11.832Z",
     "articles": [
       {
-        "id": "top-c1595bca",
-        "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
-        "summary": "Farmers talk of attacks as police receive nearly 9,000 reports of banned hare coursing, the BBC finds.",
+        "id": "top-150ef51e",
+        "title": "Tourists tell BBC how their holiday turned into race to escape fires",
+        "summary": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
         "bullets": [
-          "Farmers talk of attacks as police receive nearly 9,000 reports of banned hare coursing, the BBC finds."
+          "Families visiting France have told the BBC how their holidays have become evacuation missions."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T05:00:21.000Z"
-      },
-      {
-        "id": "top-130ec624",
-        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-        "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-        "bullets": [
-          "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T06:41:42.000Z"
+        "publishedAt": "2026-07-25T13:49:52.000Z"
       },
       {
         "id": "top-4cd17361",
         "title": "Police declare 'major incident' over Cairngorms wildfire",
-        "summary": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.",
+        "summary": "Some residents in the village of Nethy Bridge have left their homes over the threat the wildfire spreading.",
         "bullets": [
-          "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading."
+          "Some residents in the village of Nethy Bridge have left their homes over the threat the wildfire spreading."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T10:40:22.000Z"
+        "publishedAt": "2026-07-25T13:04:30.000Z"
       },
       {
-        "id": "top-c5d509ed",
-        "title": "Horror injury overshadows gymnastics silver for England at Commonwealths",
-        "summary": "A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.",
+        "id": "top-c7b9bb33",
+        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
+        "summary": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
         "bullets": [
-          "A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow..."
+          "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T21:53:49.000Z"
+        "publishedAt": "2026-07-25T12:26:14.000Z"
       },
       {
-        "id": "top-ffb5b0f0",
-        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-        "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+        "id": "top-77215d64",
+        "title": "Sean McCann, Madeleine's brother, makes Commonwealths final",
+        "summary": "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games.",
         "bullets": [
-          "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?"
+          "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-24T23:23:53.000Z"
+        "publishedAt": "2026-07-25T12:27:09.000Z"
+      },
+      {
+        "id": "top-ce930a0a",
+        "title": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
+        "summary": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+        "bullets": [
+          "The government wants to relax wedding laws so couples can get married almost anywhere."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T23:31:11.000Z"
+      },
+      {
+        "id": "tech-f93d3dbe",
+        "title": "With help from data, art museums are reframing the visitor experience",
+        "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+        "bullets": [
+          "Museums are embracing data-driven curation and a shifting technology landscape."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T11:00:32.000Z"
+      },
+      {
+        "id": "tech-2debb111",
+        "title": "Big Tech accused of stonewalling European social media researchers",
+        "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
+        "bullets": [
+          "Researchers say TikTok, X, and Meta aren't providing data they're legally required to."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T10:45:32.000Z"
       },
       {
         "id": "tech-c5cd0699",
@@ -638,32 +664,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-07-24T21:25:15.000Z"
-      },
-      {
-        "id": "tech-b15ab03a",
-        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-        "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-        "bullets": [
-          "Models are improving quickly, but the cheaper options are often good enough."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:05:51.000Z"
-      },
-      {
-        "id": "tech-262b631b",
-        "title": "Roku raises streaming stick prices by up to 60 percent",
-        "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
-        "bullets": [
-          "Roku blames RAM shortage after CEO called it \"great\" for business in May."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T19:41:06.000Z"
       },
       {
         "id": "ai-9c0eb406",
@@ -741,7 +741,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T06:41:42.000Z"
+        "publishedAt": "2026-07-25T13:51:07.000Z"
       },
       {
         "id": "world-85779633",
