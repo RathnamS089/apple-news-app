@@ -530,5 +530,271 @@
         "publishedAt": "2026-07-24T21:02:30.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "generatedAt": "2026-07-25T03:40:55.754Z",
+    "articles": [
+      {
+        "id": "top-d9bb18a6",
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "bullets": [
+          "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T02:29:36.000Z"
+      },
+      {
+        "id": "top-2bc5fc5a",
+        "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
+        "summary": "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.",
+        "bullets": [
+          "All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T01:12:39.000Z"
+      },
+      {
+        "id": "top-bf6d224e",
+        "title": "Watch moment of explosion as huge fire breaks out in Essex",
+        "summary": "More than 100 firefighters were sent to tackle a huge fire at industrial units on a farm on Friday.",
+        "bullets": [
+          "More than 100 firefighters were sent to tackle a huge fire at industrial units on a farm on Friday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvg9e334d0yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T21:48:49.000Z"
+      },
+      {
+        "id": "top-4fc861fd",
+        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+        "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+        "bullets": [
+          "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T23:01:06.000Z"
+      },
+      {
+        "id": "top-1b888eba",
+        "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+        "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+        "bullets": [
+          "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T02:23:09.000Z"
+      },
+      {
+        "id": "tech-c5cd0699",
+        "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+        "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
+        "bullets": [
+          "\"Any potential damage will be assessed when it is safe to do so.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T22:28:20.000Z"
+      },
+      {
+        "id": "tech-93d2faec",
+        "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+        "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
+        "bullets": [
+          "“Halting this merger while our case proceeds is a critical victory,\" NY AG said."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T21:56:02.000Z"
+      },
+      {
+        "id": "tech-eed396fc",
+        "title": "Canadian legislator reads out apparent LLM response in floor speech",
+        "summary": "\"Here’s a more natural, flowing version of that section...\"",
+        "bullets": [
+          "\"Here’s a more natural, flowing version of that section...\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T21:25:15.000Z"
+      },
+      {
+        "id": "tech-b15ab03a",
+        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+        "summary": "Models are improving quickly, but the cheaper options are often good enough.",
+        "bullets": [
+          "Models are improving quickly, but the cheaper options are often good enough."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T21:05:51.000Z"
+      },
+      {
+        "id": "tech-262b631b",
+        "title": "Roku raises streaming stick prices by up to 60 percent",
+        "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+        "bullets": [
+          "Roku blames RAM shortage after CEO called it \"great\" for business in May."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T19:41:06.000Z"
+      },
+      {
+        "id": "ai-9c0eb406",
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "bullets": [
+          "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T00:23:11.000Z"
+      },
+      {
+        "id": "ai-78bfbeeb",
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "bullets": [
+          "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T22:25:58.000Z"
+      },
+      {
+        "id": "ai-92d44891",
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+        "bullets": [
+          "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T18:07:32.000Z"
+      },
+      {
+        "id": "ai-2e126baf",
+        "title": "Anthropic launches Opus 5",
+        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "bullets": [
+          "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T17:00:00.000Z"
+      },
+      {
+        "id": "ai-6dbf0397",
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "bullets": [
+          "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T15:51:49.000Z"
+      },
+      {
+        "id": "world-d9bb18a6",
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "bullets": [
+          "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T02:29:36.000Z"
+      },
+      {
+        "id": "world-5788d3f7",
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+        "bullets": [
+          "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T00:06:53.000Z"
+      },
+      {
+        "id": "world-4fc861fd",
+        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+        "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+        "bullets": [
+          "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T23:01:06.000Z"
+      },
+      {
+        "id": "world-41fe1115",
+        "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+        "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+        "bullets": [
+          "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T02:14:50.000Z"
+      },
+      {
+        "id": "world-fbafc0be",
+        "title": "Trump vows to investigate EU over fining of US tech companies",
+        "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+        "bullets": [
+          "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\""
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T20:23:58.000Z"
+      }
+    ]
   }
 ]
