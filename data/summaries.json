@@ -533,8 +533,34 @@
   },
   {
     "date": "2026-07-25",
-    "generatedAt": "2026-07-25T16:13:12.449Z",
+    "generatedAt": "2026-07-25T19:36:44.283Z",
     "articles": [
+      {
+        "id": "top-0bc9a325",
+        "title": "Police investigate donations by Tice company to Reform UK",
+        "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
+        "bullets": [
+          "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T18:04:50.000Z"
+      },
+      {
+        "id": "top-eed053fd",
+        "title": "More than 250,000 flee wildfires in France and Spain",
+        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "bullets": [
+          "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T17:13:40.000Z"
+      },
       {
         "id": "top-150ef51e",
         "title": "Tourists tell BBC how their holiday turned into race to escape fires",
@@ -549,19 +575,6 @@
         "publishedAt": "2026-07-25T14:18:32.000Z"
       },
       {
-        "id": "top-0bc9a325",
-        "title": "Police investigate donations by Tice company to Reform UK",
-        "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
-        "bullets": [
-          "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T16:00:57.000Z"
-      },
-      {
         "id": "top-4900a8e7",
         "title": "Cairngorm residents say wildfire response 'too slow'",
         "summary": "Nethy Bridge residents were evacuated on Friday and a major incident was declared.",
@@ -572,33 +585,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T15:56:32.000Z"
+        "publishedAt": "2026-07-25T18:05:08.000Z"
       },
       {
-        "id": "top-c7b9bb33",
-        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
-        "summary": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
+        "id": "top-de50538f",
+        "title": "India's 'cockroach' protest called off after education minister quits",
+        "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
         "bullets": [
-          "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg."
+          "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T12:26:14.000Z"
+        "publishedAt": "2026-07-25T17:44:46.000Z"
       },
       {
-        "id": "top-77215d64",
-        "title": "Sean McCann, Madeleine's brother, makes Commonwealths final",
-        "summary": "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games.",
+        "id": "tech-46ad1886",
+        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
         "bullets": [
-          "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games."
+          "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T12:27:09.000Z"
+        "publishedAt": "2026-07-25T17:47:22.000Z"
       },
       {
         "id": "tech-f93d3dbe",
@@ -651,19 +664,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-07-24T21:56:02.000Z"
-      },
-      {
-        "id": "tech-eed396fc",
-        "title": "Canadian legislator reads out apparent LLM response in floor speech",
-        "summary": "\"Here’s a more natural, flowing version of that section...\"",
-        "bullets": [
-          "\"Here’s a more natural, flowing version of that section...\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:25:15.000Z"
       },
       {
         "id": "ai-ee6a3f37",
@@ -732,6 +732,19 @@
         "publishedAt": "2026-07-24T18:07:32.000Z"
       },
       {
+        "id": "world-eed053fd",
+        "title": "More than 250,000 flee wildfires in France and Spain",
+        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "bullets": [
+          "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T17:13:40.000Z"
+      },
+      {
         "id": "world-130ec624",
         "title": "Trump takes swipes at press during White House Correspondents' Dinner",
         "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
@@ -743,6 +756,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-25T13:51:07.000Z"
+      },
+      {
+        "id": "world-de50538f",
+        "title": "India's 'cockroach' protest called off after education minister quits",
+        "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+        "bullets": [
+          "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T17:44:46.000Z"
       },
       {
         "id": "world-85779633",
@@ -769,32 +795,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-25T00:06:53.000Z"
-      },
-      {
-        "id": "world-4fc861fd",
-        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-        "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-        "bullets": [
-          "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T23:01:06.000Z"
-      },
-      {
-        "id": "world-e92a1b05",
-        "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-        "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-        "bullets": [
-          "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T22:49:59.000Z"
       }
     ]
   }
