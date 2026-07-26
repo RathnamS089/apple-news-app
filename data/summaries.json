@@ -800,21 +800,8 @@
   },
   {
     "date": "2026-07-26",
-    "generatedAt": "2026-07-26T19:36:53.889Z",
+    "generatedAt": "2026-07-26T22:14:44.457Z",
     "articles": [
-      {
-        "id": "top-f4272a0f",
-        "title": "What we know so far about the Berlin Pride ramming attack",
-        "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-        "bullets": [
-          "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-26T17:45:30.000Z"
-      },
       {
         "id": "top-fc6b7e03",
         "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -829,43 +816,56 @@
         "publishedAt": "2026-07-26T18:40:08.000Z"
       },
       {
-        "id": "top-c1a814d9",
-        "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
-        "summary": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+        "id": "top-a982b3ff",
+        "title": "Berlin Pride attack suspect shot and killed during police operation",
+        "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
         "bullets": [
-          "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your..."
+          "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T05:00:14.000Z"
+        "publishedAt": "2026-07-26T19:21:26.000Z"
       },
       {
-        "id": "top-067d7d30",
-        "title": "Andy Burnham rules out early election in exclusive BBC interview",
-        "summary": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
+        "id": "top-f02e6aae",
+        "title": "Badenoch says PM must rule out tax rises to fund social care reform",
+        "summary": "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform.",
         "bullets": [
-          "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early..."
+          "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T05:00:56.000Z"
+        "publishedAt": "2026-07-26T21:00:27.000Z"
       },
       {
-        "id": "top-bec61274",
-        "title": "Water returning to Gatwick Airport after major outage",
-        "summary": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers.",
+        "id": "top-f43d85a2",
+        "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+        "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
         "bullets": [
-          "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers."
+          "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T18:50:47.000Z"
+        "publishedAt": "2026-07-26T21:30:20.000Z"
+      },
+      {
+        "id": "top-4e72cd76",
+        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+        "bullets": [
+          "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T21:23:53.000Z"
       },
       {
         "id": "tech-e67d325a",
@@ -933,6 +933,19 @@
         "publishedAt": "2026-07-24T22:28:20.000Z"
       },
       {
+        "id": "ai-33ae0ebf",
+        "title": "Making sense of the panic over Chinese AI",
+        "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+        "bullets": [
+          "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T19:40:57.000Z"
+      },
+      {
         "id": "ai-281cc311",
         "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
         "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
@@ -987,43 +1000,56 @@
         "publishedAt": "2026-07-25T13:05:00.000Z"
       },
       {
-        "id": "ai-9c0eb406",
-        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "id": "world-a982b3ff",
+        "title": "Berlin Pride attack suspect shot and killed during police operation",
+        "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
         "bullets": [
-          "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+          "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T00:23:11.000Z"
+        "publishedAt": "2026-07-26T19:21:26.000Z"
       },
       {
         "id": "world-f4272a0f",
         "title": "What we know so far about the Berlin Pride ramming attack",
-        "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+        "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
         "bullets": [
-          "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
+          "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T17:45:30.000Z"
+        "publishedAt": "2026-07-26T20:34:23.000Z"
       },
       {
         "id": "world-4e72cd76",
         "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
         "bullets": [
-          "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two..."
+          "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T10:26:05.000Z"
+        "publishedAt": "2026-07-26T21:23:53.000Z"
+      },
+      {
+        "id": "world-f43d85a2",
+        "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+        "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+        "bullets": [
+          "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T21:30:20.000Z"
       },
       {
         "id": "world-fc6b7e03",
@@ -1037,32 +1063,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-26T18:40:08.000Z"
-      },
-      {
-        "id": "world-130ec624",
-        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-        "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-        "bullets": [
-          "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T13:51:07.000Z"
-      },
-      {
-        "id": "world-de50538f",
-        "title": "India's 'cockroach' protest called off after education minister quits",
-        "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-        "bullets": [
-          "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T17:44:46.000Z"
       }
     ]
   }
