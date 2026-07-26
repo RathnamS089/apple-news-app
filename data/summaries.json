@@ -800,7 +800,7 @@
   },
   {
     "date": "2026-07-26",
-    "generatedAt": "2026-07-26T08:40:23.038Z",
+    "generatedAt": "2026-07-26T10:54:44.927Z",
     "articles": [
       {
         "id": "top-c1a814d9",
@@ -839,33 +839,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T07:21:11.000Z"
+        "publishedAt": "2026-07-26T09:16:46.000Z"
       },
       {
-        "id": "top-1afdfb7a",
-        "title": "What Love Island tells us about the changing face of dating",
-        "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+        "id": "top-6336344f",
+        "title": "Iran's 'sabre-rattling' should not intimidate UK, Wes Streeting says",
+        "summary": "The defence secretary warns Britain \"stands ready to respond to any attacks Iran wishes to wage against this country or our allies\".",
         "bullets": [
-          "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture"
+          "The defence secretary warns Britain \"stands ready to respond to any attacks Iran wishes to wage against this country or our allies\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dng4lvrvqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T23:31:49.000Z"
+        "publishedAt": "2026-07-26T09:33:39.000Z"
       },
       {
-        "id": "top-0bc9a325",
-        "title": "Police investigate donations by Tice company to Reform UK",
-        "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
+        "id": "top-2a7c9550",
+        "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+        "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
         "bullets": [
-          "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election."
+          "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T18:04:50.000Z"
+        "publishedAt": "2026-07-25T23:30:07.000Z"
       },
       {
         "id": "tech-e67d325a",
@@ -999,17 +999,17 @@
         "publishedAt": "2026-07-24T22:25:58.000Z"
       },
       {
-        "id": "world-6fbca1e1",
-        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-        "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
+        "id": "world-f4272a0f",
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
         "bullets": [
-          "A 21-year-old suspect has been identified by police, but he has not been found."
+          "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T08:14:55.000Z"
+        "publishedAt": "2026-07-26T09:18:33.000Z"
       },
       {
         "id": "world-efd95ce1",
@@ -1022,7 +1022,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T07:21:11.000Z"
+        "publishedAt": "2026-07-26T09:16:46.000Z"
       },
       {
         "id": "world-130ec624",
@@ -1038,6 +1038,19 @@
         "publishedAt": "2026-07-25T13:51:07.000Z"
       },
       {
+        "id": "world-4e72cd76",
+        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+        "bullets": [
+          "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T10:26:05.000Z"
+      },
+      {
         "id": "world-de50538f",
         "title": "India's 'cockroach' protest called off after education minister quits",
         "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
@@ -1049,19 +1062,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-25T17:44:46.000Z"
-      },
-      {
-        "id": "world-85779633",
-        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-        "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-        "bullets": [
-          "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T06:34:40.000Z"
       }
     ]
   }
