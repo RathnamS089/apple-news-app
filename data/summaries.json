@@ -800,7 +800,7 @@
   },
   {
     "date": "2026-07-26",
-    "generatedAt": "2026-07-26T13:59:33.681Z",
+    "generatedAt": "2026-07-26T16:15:15.675Z",
     "articles": [
       {
         "id": "top-f4272a0f",
@@ -852,7 +852,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T13:44:01.000Z"
+        "publishedAt": "2026-07-26T15:59:08.000Z"
       },
       {
         "id": "top-fc6b7e03",
@@ -865,7 +865,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T11:29:07.000Z"
+        "publishedAt": "2026-07-26T15:50:41.000Z"
       },
       {
         "id": "tech-e67d325a",
@@ -1035,7 +1035,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T11:29:07.000Z"
+        "publishedAt": "2026-07-26T15:50:41.000Z"
       },
       {
         "id": "world-130ec624",
