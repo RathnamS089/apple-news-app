@@ -800,7 +800,7 @@
   },
   {
     "date": "2026-07-26",
-    "generatedAt": "2026-07-26T16:15:15.675Z",
+    "generatedAt": "2026-07-26T19:36:53.889Z",
     "articles": [
       {
         "id": "top-f4272a0f",
@@ -813,7 +813,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T13:40:29.000Z"
+        "publishedAt": "2026-07-26T17:45:30.000Z"
+      },
+      {
+        "id": "top-fc6b7e03",
+        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+        "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+        "bullets": [
+          "More than 330,000 people have now been evacuated from wildfires across France and Spain."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T18:40:08.000Z"
       },
       {
         "id": "top-c1a814d9",
@@ -842,30 +855,17 @@
         "publishedAt": "2026-07-26T05:00:56.000Z"
       },
       {
-        "id": "top-30036399",
-        "title": "Gatwick Airport left without running water after major outage",
-        "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+        "id": "top-bec61274",
+        "title": "Water returning to Gatwick Airport after major outage",
+        "summary": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers.",
         "bullets": [
-          "Bottled water is being handed out to passengers and staff while the issue is investigated."
+          "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T15:59:08.000Z"
-      },
-      {
-        "id": "top-fc6b7e03",
-        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-        "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-        "bullets": [
-          "More than 330,000 people have now been evacuated from wildfires across France and Spain."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-26T15:50:41.000Z"
+        "publishedAt": "2026-07-26T18:50:47.000Z"
       },
       {
         "id": "tech-e67d325a",
@@ -933,6 +933,20 @@
         "publishedAt": "2026-07-24T22:28:20.000Z"
       },
       {
+        "id": "ai-281cc311",
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+        "bullets": [
+          "\"The first autonomous agent cyberattack is an unprecedented event.",
+          "It deserves an unprecedented response!\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T16:33:13.000Z"
+      },
+      {
         "id": "ai-5e3ed6c4",
         "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
         "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -986,19 +1000,6 @@
         "publishedAt": "2026-07-25T00:23:11.000Z"
       },
       {
-        "id": "ai-78bfbeeb",
-        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-        "bullets": [
-          "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T22:25:58.000Z"
-      },
-      {
         "id": "world-f4272a0f",
         "title": "What we know so far about the Berlin Pride ramming attack",
         "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
@@ -1009,7 +1010,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T13:40:29.000Z"
+        "publishedAt": "2026-07-26T17:45:30.000Z"
       },
       {
         "id": "world-4e72cd76",
@@ -1035,7 +1036,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T15:50:41.000Z"
+        "publishedAt": "2026-07-26T18:40:08.000Z"
       },
       {
         "id": "world-130ec624",
