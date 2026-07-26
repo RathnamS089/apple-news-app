@@ -797,5 +797,272 @@
         "publishedAt": "2026-07-25T06:34:40.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-07-26",
+    "generatedAt": "2026-07-26T03:57:51.027Z",
+    "articles": [
+      {
+        "id": "top-0bc9a325",
+        "title": "Police investigate donations by Tice company to Reform UK",
+        "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
+        "bullets": [
+          "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T18:04:50.000Z"
+      },
+      {
+        "id": "top-6d4fb6f7",
+        "title": "More than 300,000 flee wildfires in France and Spain",
+        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "bullets": [
+          "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T00:54:06.000Z"
+      },
+      {
+        "id": "top-1afdfb7a",
+        "title": "What Love Island tells us about the changing face of dating",
+        "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+        "bullets": [
+          "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T23:31:49.000Z"
+      },
+      {
+        "id": "top-c7b9bb33",
+        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
+        "summary": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
+        "bullets": [
+          "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T18:20:20.000Z"
+      },
+      {
+        "id": "top-9ea973d2",
+        "title": "Man charged with possession of explosive substance after bomb found in car",
+        "summary": "The Dublin man appeared at the Criminal Courts of Justice on Saturday evening.",
+        "bullets": [
+          "The Dublin man appeared at the Criminal Courts of Justice on Saturday evening."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T01:46:13.000Z"
+      },
+      {
+        "id": "tech-e67d325a",
+        "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+        "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+        "bullets": [
+          "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T20:52:30.000Z"
+      },
+      {
+        "id": "tech-46ad1886",
+        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+        "bullets": [
+          "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T17:47:22.000Z"
+      },
+      {
+        "id": "tech-f93d3dbe",
+        "title": "With help from data, art museums are reframing the visitor experience",
+        "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+        "bullets": [
+          "Museums are embracing data-driven curation and a shifting technology landscape."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T11:00:32.000Z"
+      },
+      {
+        "id": "tech-2debb111",
+        "title": "Big Tech accused of stonewalling European social media researchers",
+        "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
+        "bullets": [
+          "Researchers say TikTok, X, and Meta aren't providing data they're legally required to."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T10:45:32.000Z"
+      },
+      {
+        "id": "tech-c5cd0699",
+        "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+        "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
+        "bullets": [
+          "\"Any potential damage will be assessed when it is safe to do so.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T22:28:20.000Z"
+      },
+      {
+        "id": "ai-5e3ed6c4",
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "bullets": [
+          "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T01:30:00.000Z"
+      },
+      {
+        "id": "ai-ee6a3f37",
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+        "bullets": [
+          "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T16:00:00.000Z"
+      },
+      {
+        "id": "ai-d5aa78fb",
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+        "bullets": [
+          "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions.",
+          "Here's how to fix the problem."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T13:05:00.000Z"
+      },
+      {
+        "id": "ai-9c0eb406",
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "bullets": [
+          "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T00:23:11.000Z"
+      },
+      {
+        "id": "ai-78bfbeeb",
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "bullets": [
+          "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-24T22:25:58.000Z"
+      },
+      {
+        "id": "world-6d4fb6f7",
+        "title": "More than 300,000 flee wildfires in France and Spain",
+        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "bullets": [
+          "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T00:54:06.000Z"
+      },
+      {
+        "id": "world-130ec624",
+        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+        "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+        "bullets": [
+          "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T13:51:07.000Z"
+      },
+      {
+        "id": "world-de50538f",
+        "title": "India's 'cockroach' protest called off after education minister quits",
+        "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+        "bullets": [
+          "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T17:44:46.000Z"
+      },
+      {
+        "id": "world-85779633",
+        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+        "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+        "bullets": [
+          "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T06:34:40.000Z"
+      },
+      {
+        "id": "world-5788d3f7",
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+        "bullets": [
+          "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T00:06:53.000Z"
+      }
+    ]
   }
 ]
