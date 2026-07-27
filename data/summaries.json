@@ -1065,5 +1065,272 @@
         "publishedAt": "2026-07-26T18:40:08.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-07-27",
+    "generatedAt": "2026-07-27T04:04:49.219Z",
+    "articles": [
+      {
+        "id": "top-2dfe5b8b",
+        "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
+        "summary": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate.",
+        "bullets": [
+          "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T02:04:10.000Z"
+      },
+      {
+        "id": "top-f02e6aae",
+        "title": "Badenoch says PM must rule out tax rises to fund social care reform",
+        "summary": "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform.",
+        "bullets": [
+          "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T21:00:27.000Z"
+      },
+      {
+        "id": "top-f43d85a2",
+        "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+        "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+        "bullets": [
+          "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T21:30:20.000Z"
+      },
+      {
+        "id": "top-a982b3ff",
+        "title": "Berlin Pride attack suspect shot and killed during police operation",
+        "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+        "bullets": [
+          "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T19:21:26.000Z"
+      },
+      {
+        "id": "top-6ab36973",
+        "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+        "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+        "bullets": [
+          "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T21:10:58.000Z"
+      },
+      {
+        "id": "tech-27cecf7e",
+        "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+        "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
+        "bullets": [
+          "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T19:48:43.000Z"
+      },
+      {
+        "id": "tech-e67d325a",
+        "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+        "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+        "bullets": [
+          "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T20:52:30.000Z"
+      },
+      {
+        "id": "tech-46ad1886",
+        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+        "bullets": [
+          "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T17:47:22.000Z"
+      },
+      {
+        "id": "tech-f93d3dbe",
+        "title": "With help from data, art museums are reframing the visitor experience",
+        "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+        "bullets": [
+          "Museums are embracing data-driven curation and a shifting technology landscape."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T11:00:32.000Z"
+      },
+      {
+        "id": "tech-2debb111",
+        "title": "Big Tech accused of stonewalling European social media researchers",
+        "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
+        "bullets": [
+          "Researchers say TikTok, X, and Meta aren't providing data they're legally required to."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T10:45:32.000Z"
+      },
+      {
+        "id": "ai-6f93e950",
+        "title": "Are brain waves the next unlock for physical AI?",
+        "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "bullets": [
+          "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T00:19:14.000Z"
+      },
+      {
+        "id": "ai-33ae0ebf",
+        "title": "Making sense of the panic over Chinese AI",
+        "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+        "bullets": [
+          "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T19:40:57.000Z"
+      },
+      {
+        "id": "ai-281cc311",
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+        "bullets": [
+          "\"The first autonomous agent cyberattack is an unprecedented event.",
+          "It deserves an unprecedented response!\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T16:33:13.000Z"
+      },
+      {
+        "id": "ai-5e3ed6c4",
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "bullets": [
+          "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T01:30:00.000Z"
+      },
+      {
+        "id": "ai-ee6a3f37",
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+        "bullets": [
+          "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-25T16:00:00.000Z"
+      },
+      {
+        "id": "world-fc6b7e03",
+        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+        "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+        "bullets": [
+          "More than 330,000 people have now been evacuated from wildfires across France and Spain."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T18:40:08.000Z"
+      },
+      {
+        "id": "world-53a1c03f",
+        "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+        "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+        "bullets": [
+          "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T00:27:58.000Z"
+      },
+      {
+        "id": "world-a982b3ff",
+        "title": "Berlin Pride attack suspect shot and killed during police operation",
+        "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+        "bullets": [
+          "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T19:21:26.000Z"
+      },
+      {
+        "id": "world-f4272a0f",
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+        "bullets": [
+          "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T20:34:23.000Z"
+      },
+      {
+        "id": "world-4e72cd76",
+        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+        "bullets": [
+          "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-26T21:23:53.000Z"
+      }
+    ]
   }
 ]
