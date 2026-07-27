@@ -1068,11 +1068,11 @@
   },
   {
     "date": "2026-07-27",
-    "generatedAt": "2026-07-27T19:57:11.130Z",
+    "generatedAt": "2026-07-27T22:19:58.699Z",
     "articles": [
       {
-        "id": "top-7a4c38f4",
-        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "id": "top-aff849c3",
+        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
         "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
         "bullets": [
           "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
@@ -1081,7 +1081,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T17:50:42.000Z"
+        "publishedAt": "2026-07-27T20:34:55.000Z"
       },
       {
         "id": "top-b852eb84",
@@ -1110,8 +1110,8 @@
         "publishedAt": "2026-07-27T16:46:19.000Z"
       },
       {
-        "id": "top-3b4f191f",
-        "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
+        "id": "top-ce34d6d3",
+        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
         "summary": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
         "bullets": [
           "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine."
@@ -1120,7 +1120,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T19:26:00.000Z"
+        "publishedAt": "2026-07-27T21:57:08.000Z"
       },
       {
         "id": "top-fe50c6ab",
@@ -1201,6 +1201,32 @@
         "publishedAt": "2026-07-27T15:58:34.000Z"
       },
       {
+        "id": "ai-a3f277f4",
+        "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+        "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+        "bullets": [
+          "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself —..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T21:17:11.000Z"
+      },
+      {
+        "id": "ai-ecfd763c",
+        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+        "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+        "bullets": [
+          "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T20:19:42.000Z"
+      },
+      {
         "id": "ai-6b6f948f",
         "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
         "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
@@ -1240,34 +1266,8 @@
         "publishedAt": "2026-07-27T16:45:24.000Z"
       },
       {
-        "id": "ai-a8492efc",
-        "title": "Google’s AI search is rapidly becoming the default, new data shows",
-        "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-        "bullets": [
-          "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T15:57:12.000Z"
-      },
-      {
-        "id": "ai-36c83b1b",
-        "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-        "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-        "bullets": [
-          "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T15:30:00.000Z"
-      },
-      {
-        "id": "world-7a4c38f4",
-        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "id": "world-aff849c3",
+        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
         "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
         "bullets": [
           "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
@@ -1276,20 +1276,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T17:50:42.000Z"
+        "publishedAt": "2026-07-27T20:34:55.000Z"
       },
       {
-        "id": "world-b852eb84",
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+        "id": "world-7c4ac7c2",
+        "title": "Trump says Iran war talks taking place during lull in strikes",
+        "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
         "bullets": [
-          "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires..."
+          "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T15:59:27.000Z"
+        "publishedAt": "2026-07-27T21:10:56.000Z"
       },
       {
         "id": "world-a34d5b5a",
@@ -1305,19 +1305,6 @@
         "publishedAt": "2026-07-27T16:33:05.000Z"
       },
       {
-        "id": "world-973c4f69",
-        "title": "More than 600 US military service members injured since Iran War began in February",
-        "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
-        "bullets": [
-          "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T13:31:57.000Z"
-      },
-      {
         "id": "world-57e9abbc",
         "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
         "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
@@ -1329,6 +1316,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-27T12:33:31.000Z"
+      },
+      {
+        "id": "world-630642fc",
+        "title": "US singer D4vd to go on trial for murder in death of teen",
+        "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+        "bullets": [
+          "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T21:37:59.000Z"
       }
     ]
   }
