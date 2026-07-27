@@ -1068,46 +1068,33 @@
   },
   {
     "date": "2026-07-27",
-    "generatedAt": "2026-07-27T15:16:12.096Z",
+    "generatedAt": "2026-07-27T17:13:28.865Z",
     "articles": [
       {
-        "id": "top-d3f5c7ce",
-        "title": "How wildfires in France and Spain might affect your travel plans",
-        "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "id": "top-b852eb84",
+        "title": "Devastating European wildfires in maps - and how they're being tackled",
+        "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
         "bullets": [
-          "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans."
+          "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T13:21:49.000Z"
+        "publishedAt": "2026-07-27T15:59:27.000Z"
       },
       {
-        "id": "top-12c9556c",
-        "title": "NHS 'will collapse' without social care reform, PM tells BBC",
-        "summary": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
+        "id": "top-61ed30fa",
+        "title": "Funeral director who left people unburied breached families' trust 'on industrial scale', court hears",
+        "summary": "The sentencing hearing of Robert Bush hears how the funeral parlour was likened to a \"horror scene\".",
         "bullets": [
-          "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system."
+          "The sentencing hearing of Robert Bush hears how the funeral parlour was likened to a \"horror scene\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T13:16:10.000Z"
-      },
-      {
-        "id": "top-fe50c6ab",
-        "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
-        "summary": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
-        "bullets": [
-          "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T13:22:22.000Z"
+        "publishedAt": "2026-07-27T16:46:19.000Z"
       },
       {
         "id": "top-792addee",
@@ -1123,17 +1110,56 @@
         "publishedAt": "2026-07-27T11:50:13.000Z"
       },
       {
-        "id": "top-687b5d2c",
-        "title": "Carly Simon reveals Parkinson's diagnosis",
-        "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+        "id": "top-fe50c6ab",
+        "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
+        "summary": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
         "bullets": [
-          "The singer also reveals she has received treatment for skin cancer, but vows to keep singing."
+          "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T14:04:01.000Z"
+        "publishedAt": "2026-07-27T16:38:33.000Z"
+      },
+      {
+        "id": "top-20c7dee2",
+        "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
+        "summary": "The Ukrainian president became the new prime minister's first international visitor since taking office.",
+        "bullets": [
+          "The Ukrainian president became the new prime minister's first international visitor since taking office."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T15:58:27.000Z"
+      },
+      {
+        "id": "tech-ba800b06",
+        "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+        "summary": "The government says destroying his own data during an airport interrogation was illegal.",
+        "bullets": [
+          "The government says destroying his own data during an airport interrogation was illegal."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T15:58:34.000Z"
+      },
+      {
+        "id": "tech-200ed361",
+        "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+        "summary": "Framework's latest modular laptop trades one set of problems for another.",
+        "bullets": [
+          "Framework's latest modular laptop trades one set of problems for another."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T15:02:45.000Z"
       },
       {
         "id": "tech-7759d15e",
@@ -1175,30 +1201,56 @@
         "publishedAt": "2026-07-26T19:48:43.000Z"
       },
       {
-        "id": "tech-e67d325a",
-        "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-        "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+        "id": "ai-a272d063",
+        "title": "Threads users can now chat with Meta AI in their DMs",
+        "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
         "bullets": [
-          "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel."
+          "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T20:52:30.000Z"
+        "publishedAt": "2026-07-27T16:45:24.000Z"
       },
       {
-        "id": "tech-46ad1886",
-        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+        "id": "ai-a8492efc",
+        "title": "Google’s AI search is rapidly becoming the default, new data shows",
+        "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
         "bullets": [
-          "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight."
+          "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T17:47:22.000Z"
+        "publishedAt": "2026-07-27T15:57:12.000Z"
+      },
+      {
+        "id": "ai-36c83b1b",
+        "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+        "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+        "bullets": [
+          "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T15:30:00.000Z"
+      },
+      {
+        "id": "ai-65c702c7",
+        "title": "This $9 key physically locks your most addictive apps",
+        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+        "bullets": [
+          "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T15:25:37.000Z"
       },
       {
         "id": "ai-fef5613f",
@@ -1214,59 +1266,6 @@
         "publishedAt": "2026-07-27T15:01:50.000Z"
       },
       {
-        "id": "ai-7505dc18",
-        "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-        "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-        "bullets": [
-          "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T13:00:00.000Z"
-      },
-      {
-        "id": "ai-6f93e950",
-        "title": "Are brain waves the next unlock for physical AI?",
-        "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-        "bullets": [
-          "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T00:19:14.000Z"
-      },
-      {
-        "id": "ai-33ae0ebf",
-        "title": "Making sense of the panic over Chinese AI",
-        "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-        "bullets": [
-          "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-26T19:40:57.000Z"
-      },
-      {
-        "id": "ai-281cc311",
-        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-        "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-        "bullets": [
-          "\"The first autonomous agent cyberattack is an unprecedented event.",
-          "It deserves an unprecedented response!\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-26T16:33:13.000Z"
-      },
-      {
         "id": "world-b852eb84",
         "title": "Devastating European wildfires in maps - and how they're being tackled",
         "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
@@ -1277,33 +1276,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T14:21:32.000Z"
+        "publishedAt": "2026-07-27T15:59:27.000Z"
       },
       {
-        "id": "world-691617c1",
-        "title": "Oil price dives as US and Iran pause attacks",
-        "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+        "id": "world-a34d5b5a",
+        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+        "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
         "bullets": [
-          "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
+          "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T15:08:37.000Z"
-      },
-      {
-        "id": "world-c6cfdb7a",
-        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-        "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-        "bullets": [
-          "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T12:33:31.000Z"
+        "publishedAt": "2026-07-27T16:33:05.000Z"
       },
       {
         "id": "world-973c4f69",
@@ -1319,17 +1305,31 @@
         "publishedAt": "2026-07-27T13:31:57.000Z"
       },
       {
-        "id": "world-88582c23",
-        "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-        "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+        "id": "world-57e9abbc",
+        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+        "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
         "bullets": [
-          "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws."
+          "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T10:59:13.000Z"
+        "publishedAt": "2026-07-27T12:33:31.000Z"
+      },
+      {
+        "id": "world-c7b7baec",
+        "title": "Shots fired at US consulate in Toronto for a second time this year",
+        "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+        "bullets": [
+          "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large.",
+          "Three people were arrested in June after a similar attack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T16:56:57.000Z"
       }
     ]
   }
