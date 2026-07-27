@@ -1068,8 +1068,21 @@
   },
   {
     "date": "2026-07-27",
-    "generatedAt": "2026-07-27T10:11:34.854Z",
+    "generatedAt": "2026-07-27T15:16:12.096Z",
     "articles": [
+      {
+        "id": "top-d3f5c7ce",
+        "title": "How wildfires in France and Spain might affect your travel plans",
+        "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "bullets": [
+          "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T13:21:49.000Z"
+      },
       {
         "id": "top-12c9556c",
         "title": "NHS 'will collapse' without social care reform, PM tells BBC",
@@ -1081,59 +1094,72 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T08:19:08.000Z"
+        "publishedAt": "2026-07-27T13:16:10.000Z"
       },
       {
-        "id": "top-a982b3ff",
-        "title": "Berlin Pride attack suspect shot and killed during police operation",
-        "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+        "id": "top-fe50c6ab",
+        "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
+        "summary": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
         "bullets": [
-          "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin."
+          "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T19:21:26.000Z"
+        "publishedAt": "2026-07-27T13:22:22.000Z"
       },
       {
-        "id": "top-2588608c",
-        "title": "TV presenter and comedian Bill Oddie dies at 85",
-        "summary": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
+        "id": "top-792addee",
+        "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+        "summary": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
         "bullets": [
-          "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist."
+          "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T10:03:33.000Z"
+        "publishedAt": "2026-07-27T11:50:13.000Z"
       },
       {
-        "id": "top-b72c6ac5",
-        "title": "Girlguiding unveils first major redesign of uniform range since 1990",
-        "summary": "Under the new rules, members will be able to wear a top from the new range with their own trousers.",
+        "id": "top-687b5d2c",
+        "title": "Carly Simon reveals Parkinson's diagnosis",
+        "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
         "bullets": [
-          "Under the new rules, members will be able to wear a top from the new range with their own trousers."
+          "The singer also reveals she has received treatment for skin cancer, but vows to keep singing."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T08:27:40.000Z"
+        "publishedAt": "2026-07-27T14:04:01.000Z"
       },
       {
-        "id": "top-2fbae045",
-        "title": "Man and woman die after being pulled from sea off Cornish beach",
-        "summary": "A man and a woman both died at the scene after being recovered from the sea off Cornwall.",
+        "id": "tech-7759d15e",
+        "title": "What public health professionals can learn from anti-vaccine storytelling",
+        "summary": "Sometimes, compelling stories beat medical evidence.",
         "bullets": [
-          "A man and a woman both died at the scene after being recovered from the sea off Cornwall."
+          "Sometimes, compelling stories beat medical evidence."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T08:35:29.000Z"
+        "publishedAt": "2026-07-27T14:01:56.000Z"
+      },
+      {
+        "id": "tech-d0171378",
+        "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+        "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
+        "bullets": [
+          "Meme generator may have screwed up by using templates in outputs, expert says."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T10:50:37.000Z"
       },
       {
         "id": "tech-27cecf7e",
@@ -1175,30 +1201,30 @@
         "publishedAt": "2026-07-25T17:47:22.000Z"
       },
       {
-        "id": "tech-f93d3dbe",
-        "title": "With help from data, art museums are reframing the visitor experience",
-        "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+        "id": "ai-fef5613f",
+        "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+        "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
         "bullets": [
-          "Museums are embracing data-driven curation and a shifting technology landscape."
+          "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T11:00:32.000Z"
+        "publishedAt": "2026-07-27T15:01:50.000Z"
       },
       {
-        "id": "tech-2debb111",
-        "title": "Big Tech accused of stonewalling European social media researchers",
-        "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
+        "id": "ai-7505dc18",
+        "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+        "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
         "bullets": [
-          "Researchers say TikTok, X, and Meta aren't providing data they're legally required to."
+          "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-25T10:45:32.000Z"
+        "publishedAt": "2026-07-27T13:00:00.000Z"
       },
       {
         "id": "ai-6f93e950",
@@ -1241,96 +1267,69 @@
         "publishedAt": "2026-07-26T16:33:13.000Z"
       },
       {
-        "id": "ai-5e3ed6c4",
-        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "id": "world-b852eb84",
+        "title": "Devastating European wildfires in maps - and how they're being tackled",
+        "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
         "bullets": [
-          "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-26T01:30:00.000Z"
-      },
-      {
-        "id": "ai-ee6a3f37",
-        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-        "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-        "bullets": [
-          "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T16:00:00.000Z"
-      },
-      {
-        "id": "world-ecb9546f",
-        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-        "summary": "Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody.",
-        "bullets": [
-          "Several others, including a two-year-old boy, were also injured.",
-          "Seattle Mayor Katie Wilson says a suspect is in custody."
+          "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T06:11:20.000Z"
+        "publishedAt": "2026-07-27T14:21:32.000Z"
       },
       {
-        "id": "world-a982b3ff",
-        "title": "Berlin Pride attack suspect shot and killed during police operation",
-        "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+        "id": "world-691617c1",
+        "title": "Oil price dives as US and Iran pause attacks",
+        "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
         "bullets": [
-          "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin."
+          "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T19:21:26.000Z"
+        "publishedAt": "2026-07-27T15:08:37.000Z"
       },
       {
-        "id": "world-53a1c03f",
-        "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-        "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+        "id": "world-c6cfdb7a",
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
         "bullets": [
-          "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International..."
+          "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T09:59:15.000Z"
+        "publishedAt": "2026-07-27T12:33:31.000Z"
       },
       {
-        "id": "world-590611a0",
-        "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-        "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+        "id": "world-973c4f69",
+        "title": "More than 600 US military service members injured since Iran War began in February",
+        "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
         "bullets": [
-          "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
+          "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T06:48:02.000Z"
+        "publishedAt": "2026-07-27T13:31:57.000Z"
       },
       {
-        "id": "world-4e72cd76",
-        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+        "id": "world-88582c23",
+        "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+        "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
         "bullets": [
-          "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two..."
+          "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-26T21:23:53.000Z"
+        "publishedAt": "2026-07-27T10:59:13.000Z"
       }
     ]
   }
