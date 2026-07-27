@@ -1068,8 +1068,21 @@
   },
   {
     "date": "2026-07-27",
-    "generatedAt": "2026-07-27T17:13:28.865Z",
+    "generatedAt": "2026-07-27T19:57:11.130Z",
     "articles": [
+      {
+        "id": "top-7a4c38f4",
+        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+        "bullets": [
+          "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T17:50:42.000Z"
+      },
       {
         "id": "top-b852eb84",
         "title": "Devastating European wildfires in maps - and how they're being tackled",
@@ -1097,17 +1110,17 @@
         "publishedAt": "2026-07-27T16:46:19.000Z"
       },
       {
-        "id": "top-792addee",
-        "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-        "summary": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
+        "id": "top-3b4f191f",
+        "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
+        "summary": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
         "bullets": [
-          "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained."
+          "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T11:50:13.000Z"
+        "publishedAt": "2026-07-27T19:26:00.000Z"
       },
       {
         "id": "top-fe50c6ab",
@@ -1123,17 +1136,56 @@
         "publishedAt": "2026-07-27T16:38:33.000Z"
       },
       {
-        "id": "top-20c7dee2",
-        "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
-        "summary": "The Ukrainian president became the new prime minister's first international visitor since taking office.",
+        "id": "tech-d9b43377",
+        "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+        "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
         "bullets": [
-          "The Ukrainian president became the new prime minister's first international visitor since taking office."
+          "Age verification is okay, but filtering is preempted by Section 230, judges find."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T15:58:27.000Z"
+        "publishedAt": "2026-07-27T19:18:02.000Z"
+      },
+      {
+        "id": "tech-13959b3d",
+        "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+        "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
+        "bullets": [
+          "Telecom expects AI revenue from dark fiber deals and retrofitted data centers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T18:48:41.000Z"
+      },
+      {
+        "id": "tech-7b2e1297",
+        "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
+        "summary": "NASA has not made substantial investments in thermal protection research for decades.",
+        "bullets": [
+          "NASA has not made substantial investments in thermal protection research for decades."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T18:34:40.000Z"
+      },
+      {
+        "id": "tech-5c89e269",
+        "title": "ChatGPT starts blocking direct requests to copy an author's style",
+        "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+        "bullets": [
+          "New behavior capturing a writer's \"broad qualities\" could have legal implications."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T16:58:46.000Z"
       },
       {
         "id": "tech-ba800b06",
@@ -1149,56 +1201,30 @@
         "publishedAt": "2026-07-27T15:58:34.000Z"
       },
       {
-        "id": "tech-200ed361",
-        "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-        "summary": "Framework's latest modular laptop trades one set of problems for another.",
+        "id": "ai-6b6f948f",
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+        "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
         "bullets": [
-          "Framework's latest modular laptop trades one set of problems for another."
+          "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T15:02:45.000Z"
+        "publishedAt": "2026-07-27T18:32:11.000Z"
       },
       {
-        "id": "tech-7759d15e",
-        "title": "What public health professionals can learn from anti-vaccine storytelling",
-        "summary": "Sometimes, compelling stories beat medical evidence.",
+        "id": "ai-050d3520",
+        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+        "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
         "bullets": [
-          "Sometimes, compelling stories beat medical evidence."
+          "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T14:01:56.000Z"
-      },
-      {
-        "id": "tech-d0171378",
-        "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-        "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
-        "bullets": [
-          "Meme generator may have screwed up by using templates in outputs, expert says."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T10:50:37.000Z"
-      },
-      {
-        "id": "tech-27cecf7e",
-        "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
-        "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
-        "bullets": [
-          "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-26T19:48:43.000Z"
+        "publishedAt": "2026-07-27T17:28:42.000Z"
       },
       {
         "id": "ai-a272d063",
@@ -1240,30 +1266,17 @@
         "publishedAt": "2026-07-27T15:30:00.000Z"
       },
       {
-        "id": "ai-65c702c7",
-        "title": "This $9 key physically locks your most addictive apps",
-        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+        "id": "world-7a4c38f4",
+        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
         "bullets": [
-          "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+          "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T15:25:37.000Z"
-      },
-      {
-        "id": "ai-fef5613f",
-        "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-        "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-        "bullets": [
-          "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T15:01:50.000Z"
+        "publishedAt": "2026-07-27T17:50:42.000Z"
       },
       {
         "id": "world-b852eb84",
@@ -1316,20 +1329,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-27T12:33:31.000Z"
-      },
-      {
-        "id": "world-c7b7baec",
-        "title": "Shots fired at US consulate in Toronto for a second time this year",
-        "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-        "bullets": [
-          "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large.",
-          "Three people were arrested in June after a similar attack."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T16:56:57.000Z"
       }
     ]
   }
