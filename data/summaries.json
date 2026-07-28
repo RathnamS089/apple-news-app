@@ -1334,7 +1334,7 @@
   },
   {
     "date": "2026-07-28",
-    "generatedAt": "2026-07-28T09:07:16.877Z",
+    "generatedAt": "2026-07-28T11:29:02.660Z",
     "articles": [
       {
         "id": "top-dd2006db",
@@ -1347,7 +1347,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T08:23:37.000Z"
+        "publishedAt": "2026-07-28T10:25:52.000Z"
       },
       {
         "id": "top-60d739cb",
@@ -1363,8 +1363,8 @@
         "publishedAt": "2026-07-28T00:18:58.000Z"
       },
       {
-        "id": "top-bb3612f7",
-        "title": "Naga Munchetty to leave BBC One's Breakfast after 17 years",
+        "id": "top-961481bb",
+        "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
         "summary": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
         "bullets": [
           "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast."
@@ -1373,33 +1373,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T08:41:01.000Z"
+        "publishedAt": "2026-07-28T10:16:37.000Z"
       },
       {
-        "id": "top-a48ecbaf",
-        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+        "id": "top-ab0e629b",
+        "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+        "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
         "bullets": [
-          "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer."
+          "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T01:53:58.000Z"
+        "publishedAt": "2026-07-28T09:45:10.000Z"
       },
       {
-        "id": "top-89079ba3",
-        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-        "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+        "id": "top-efdb5a60",
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
         "bullets": [
-          "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime."
+          "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T05:01:19.000Z"
+        "publishedAt": "2026-07-28T10:41:41.000Z"
       },
       {
         "id": "tech-b86b1ec8",
@@ -1532,6 +1532,19 @@
         "publishedAt": "2026-07-27T18:32:11.000Z"
       },
       {
+        "id": "world-efdb5a60",
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "bullets": [
+          "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T10:41:41.000Z"
+      },
+      {
         "id": "world-89079ba3",
         "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
         "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
@@ -1545,19 +1558,6 @@
         "publishedAt": "2026-07-28T05:01:19.000Z"
       },
       {
-        "id": "world-7c4ac7c2",
-        "title": "Trump says Iran war talks taking place during lull in strikes",
-        "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-        "bullets": [
-          "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T21:10:56.000Z"
-      },
-      {
         "id": "world-a73f56ba",
         "title": "US walks out of UN Security Council meeting during France's remarks",
         "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
@@ -1568,33 +1568,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T08:41:45.000Z"
+        "publishedAt": "2026-07-28T09:32:25.000Z"
       },
       {
-        "id": "world-53e418a3",
-        "title": "Ariana Grande sues hackers who leaked music and videos",
-        "summary": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
+        "id": "world-df2ad794",
+        "title": "Zidane confirmed as France head coach",
+        "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
         "bullets": [
-          "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs."
+          "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T08:37:12.000Z"
+        "publishedAt": "2026-07-28T09:03:49.000Z"
       },
       {
-        "id": "world-a48ecbaf",
-        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+        "id": "world-ab0e629b",
+        "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+        "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
         "bullets": [
-          "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer."
+          "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T01:53:58.000Z"
+        "publishedAt": "2026-07-28T09:45:10.000Z"
       }
     ]
   }
