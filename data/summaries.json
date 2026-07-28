@@ -1334,7 +1334,7 @@
   },
   {
     "date": "2026-07-28",
-    "generatedAt": "2026-07-28T19:54:56.962Z",
+    "generatedAt": "2026-07-28T22:18:10.753Z",
     "articles": [
       {
         "id": "top-62e8c249",
@@ -1352,9 +1352,9 @@
       {
         "id": "top-79d0135d",
         "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
-        "summary": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+        "summary": "Some parents on benefits lose income if their children take on apprenticeships.",
         "bullets": [
-          "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships."
+          "Some parents on benefits lose income if their children take on apprenticeships."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
@@ -1363,8 +1363,8 @@
         "publishedAt": "2026-07-28T17:32:56.000Z"
       },
       {
-        "id": "top-e70ba09e",
-        "title": "Uefa & Burnham criticise Infantino World Cup plan",
+        "id": "top-4d792381",
+        "title": "Uefa and PM criticise Infantino World Cup plan",
         "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
         "bullets": [
           "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup."
@@ -1389,17 +1389,43 @@
         "publishedAt": "2026-07-28T16:14:03.000Z"
       },
       {
-        "id": "top-771f56a8",
-        "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
-        "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+        "id": "top-51f4953d",
+        "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+        "summary": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.",
         "bullets": [
-          "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview."
+          "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T16:12:35.000Z"
+        "publishedAt": "2026-07-28T20:57:29.000Z"
+      },
+      {
+        "id": "tech-b08b0cc9",
+        "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+        "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+        "bullets": [
+          "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T18:43:36.000Z"
+      },
+      {
+        "id": "tech-baaf566e",
+        "title": "Judge blocks first state law that would have banned prediction markets",
+        "summary": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
+        "bullets": [
+          "Judge may allow Minnesota to ban some types of bets, but not all of them."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T18:31:13.000Z"
       },
       {
         "id": "tech-426cfaa8",
@@ -1441,30 +1467,43 @@
         "publishedAt": "2026-07-27T21:56:14.000Z"
       },
       {
-        "id": "tech-3df91082",
-        "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-        "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
+        "id": "ai-9c85ac1c",
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
         "bullets": [
-          "Starlink has a Texas factory but also makes routers in Vietnam."
+          "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T21:40:27.000Z"
+        "publishedAt": "2026-07-28T21:29:34.000Z"
       },
       {
-        "id": "tech-b200db02",
-        "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
-        "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
+        "id": "ai-b3b286f7",
+        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+        "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
         "bullets": [
-          "Kennedy has focused on nutrition but has neglected food safety, critics say."
+          "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T20:42:13.000Z"
+        "publishedAt": "2026-07-28T20:45:12.000Z"
+      },
+      {
+        "id": "ai-7aa610e2",
+        "title": "Sam Altman is ready to decelerate",
+        "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+        "bullets": [
+          "His change of position comes after \"the first security incident that I have felt very viscerally.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T20:17:08.000Z"
       },
       {
         "id": "ai-4fc6e3df",
@@ -1493,45 +1532,6 @@
         "publishedAt": "2026-07-28T14:00:00.000Z"
       },
       {
-        "id": "ai-5cce83cd",
-        "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-        "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-        "bullets": [
-          "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T13:19:17.000Z"
-      },
-      {
-        "id": "ai-81ce5791",
-        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-        "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-        "bullets": [
-          "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T04:30:00.000Z"
-      },
-      {
-        "id": "ai-387e4a15",
-        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-        "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-        "bullets": [
-          "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T00:13:33.000Z"
-      },
-      {
         "id": "world-c121026e",
         "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
         "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
@@ -1545,8 +1545,8 @@
         "publishedAt": "2026-07-28T16:14:03.000Z"
       },
       {
-        "id": "world-e70ba09e",
-        "title": "Uefa & Burnham criticise Infantino World Cup plan",
+        "id": "world-4d792381",
+        "title": "Uefa and PM criticise Infantino World Cup plan",
         "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
         "bullets": [
           "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup."
