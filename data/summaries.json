@@ -1334,7 +1334,7 @@
   },
   {
     "date": "2026-07-28",
-    "generatedAt": "2026-07-28T16:52:43.077Z",
+    "generatedAt": "2026-07-28T19:54:56.962Z",
     "articles": [
       {
         "id": "top-62e8c249",
@@ -1350,6 +1350,32 @@
         "publishedAt": "2026-07-28T15:32:37.000Z"
       },
       {
+        "id": "top-79d0135d",
+        "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+        "summary": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
+        "bullets": [
+          "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T17:32:56.000Z"
+      },
+      {
+        "id": "top-e70ba09e",
+        "title": "Uefa & Burnham criticise Infantino World Cup plan",
+        "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+        "bullets": [
+          "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T15:36:29.000Z"
+      },
+      {
         "id": "top-c121026e",
         "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
         "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
@@ -1361,19 +1387,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-28T16:14:03.000Z"
-      },
-      {
-        "id": "top-58e7abbe",
-        "title": "Uefa reacts with fury to Infantino World Cup plan",
-        "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
-        "bullets": [
-          "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T15:36:29.000Z"
       },
       {
         "id": "top-771f56a8",
@@ -1389,17 +1402,17 @@
         "publishedAt": "2026-07-28T16:12:35.000Z"
       },
       {
-        "id": "top-75498023",
-        "title": "Powell says student loan system at top of in-tray",
-        "summary": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
+        "id": "tech-426cfaa8",
+        "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
+        "summary": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
         "bullets": [
-          "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\"."
+          "Trump is fixated on the false, long-debunked claim that vaccines cause autism."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T14:50:02.000Z"
+        "publishedAt": "2026-07-28T16:16:25.000Z"
       },
       {
         "id": "tech-72c533ff",
@@ -1454,19 +1467,6 @@
         "publishedAt": "2026-07-27T20:42:13.000Z"
       },
       {
-        "id": "tech-c7f2b9ef",
-        "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
-        "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
-        "bullets": [
-          "These are likely the last updates of note before Apple's bigger fall updates."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T20:32:45.000Z"
-      },
-      {
         "id": "ai-4fc6e3df",
         "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
         "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
@@ -1482,9 +1482,9 @@
       {
         "id": "ai-d0d4fb1f",
         "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-        "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+        "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
         "bullets": [
-          "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates..."
+          "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
@@ -1493,11 +1493,11 @@
         "publishedAt": "2026-07-28T14:00:00.000Z"
       },
       {
-        "id": "ai-a6f785b7",
-        "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
-        "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+        "id": "ai-5cce83cd",
+        "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+        "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
         "bullets": [
-          "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date."
+          "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
@@ -1545,17 +1545,30 @@
         "publishedAt": "2026-07-28T16:14:03.000Z"
       },
       {
-        "id": "world-58e7abbe",
-        "title": "Uefa reacts with fury to Infantino World Cup plan",
-        "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+        "id": "world-e70ba09e",
+        "title": "Uefa & Burnham criticise Infantino World Cup plan",
+        "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
         "bullets": [
-          "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World..."
+          "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-28T15:36:29.000Z"
+      },
+      {
+        "id": "world-67886550",
+        "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+        "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+        "bullets": [
+          "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T18:19:57.000Z"
       },
       {
         "id": "world-2ec3f4ba",
@@ -1571,30 +1584,17 @@
         "publishedAt": "2026-07-28T16:37:02.000Z"
       },
       {
-        "id": "world-89079ba3",
-        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-        "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+        "id": "world-ab0e629b",
+        "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+        "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
         "bullets": [
-          "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime."
+          "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T05:01:19.000Z"
-      },
-      {
-        "id": "world-a73f56ba",
-        "title": "US walks out of UN Security Council meeting during France's remarks",
-        "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-        "bullets": [
-          "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T09:32:25.000Z"
+        "publishedAt": "2026-07-28T15:11:28.000Z"
       }
     ]
   }
