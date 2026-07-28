@@ -1334,59 +1334,46 @@
   },
   {
     "date": "2026-07-28",
-    "generatedAt": "2026-07-28T03:39:25.114Z",
+    "generatedAt": "2026-07-28T09:07:16.877Z",
     "articles": [
       {
-        "id": "top-aff91e52",
-        "title": "Burnham says pupils in England need clearer pathway into work",
-        "summary": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
+        "id": "top-dd2006db",
+        "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
+        "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
         "bullets": [
-          "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs."
+          "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T02:56:21.000Z"
+        "publishedAt": "2026-07-28T08:23:37.000Z"
       },
       {
-        "id": "top-aff849c3",
-        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+        "id": "top-60d739cb",
+        "title": "Fourth heatwave grips parts of UK with 35C forecast",
+        "summary": "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week.",
         "bullets": [
-          "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
+          "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T20:34:55.000Z"
+        "publishedAt": "2026-07-28T00:18:58.000Z"
       },
       {
-        "id": "top-b852eb84",
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+        "id": "top-bb3612f7",
+        "title": "Naga Munchetty to leave BBC One's Breakfast after 17 years",
+        "summary": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
         "bullets": [
-          "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires..."
+          "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T15:59:27.000Z"
-      },
-      {
-        "id": "top-ce34d6d3",
-        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
-        "summary": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
-        "bullets": [
-          "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T21:57:08.000Z"
+        "publishedAt": "2026-07-28T08:41:01.000Z"
       },
       {
         "id": "top-a48ecbaf",
@@ -1400,6 +1387,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-28T01:53:58.000Z"
+      },
+      {
+        "id": "top-89079ba3",
+        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+        "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+        "bullets": [
+          "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T05:01:19.000Z"
       },
       {
         "id": "tech-b86b1ec8",
@@ -1467,6 +1467,19 @@
         "publishedAt": "2026-07-27T20:22:03.000Z"
       },
       {
+        "id": "ai-81ce5791",
+        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+        "bullets": [
+          "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T04:30:00.000Z"
+      },
+      {
         "id": "ai-387e4a15",
         "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
         "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
@@ -1519,30 +1532,17 @@
         "publishedAt": "2026-07-27T18:32:11.000Z"
       },
       {
-        "id": "ai-050d3520",
-        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-        "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+        "id": "world-89079ba3",
+        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+        "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
         "bullets": [
-          "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T17:28:42.000Z"
-      },
-      {
-        "id": "world-aff849c3",
-        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-        "bullets": [
-          "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
+          "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T20:34:55.000Z"
+        "publishedAt": "2026-07-28T05:01:19.000Z"
       },
       {
         "id": "world-7c4ac7c2",
@@ -1558,43 +1558,43 @@
         "publishedAt": "2026-07-27T21:10:56.000Z"
       },
       {
-        "id": "world-a34d5b5a",
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+        "id": "world-a73f56ba",
+        "title": "US walks out of UN Security Council meeting during France's remarks",
+        "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
         "bullets": [
-          "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\"."
+          "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T16:33:05.000Z"
+        "publishedAt": "2026-07-28T08:41:45.000Z"
       },
       {
-        "id": "world-fec72d4f",
-        "title": "China's new challenge as natural disasters strike - fake AI videos",
-        "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+        "id": "world-53e418a3",
+        "title": "Ariana Grande sues hackers who leaked music and videos",
+        "summary": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
         "bullets": [
-          "Storms and flooding incidents over the last few months have seen fake videos inundating social media."
+          "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T22:07:23.000Z"
+        "publishedAt": "2026-07-28T08:37:12.000Z"
       },
       {
-        "id": "world-61061fac",
-        "title": "A Japanese town wrestles with identity after protests over its first mosque",
-        "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+        "id": "world-a48ecbaf",
+        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
         "bullets": [
-          "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions."
+          "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T22:08:21.000Z"
+        "publishedAt": "2026-07-28T01:53:58.000Z"
       }
     ]
   }
