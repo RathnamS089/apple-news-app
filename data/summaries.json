@@ -1331,5 +1331,271 @@
         "publishedAt": "2026-07-27T21:37:59.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-07-28",
+    "generatedAt": "2026-07-28T03:39:25.114Z",
+    "articles": [
+      {
+        "id": "top-aff91e52",
+        "title": "Burnham says pupils in England need clearer pathway into work",
+        "summary": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
+        "bullets": [
+          "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T02:56:21.000Z"
+      },
+      {
+        "id": "top-aff849c3",
+        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+        "bullets": [
+          "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T20:34:55.000Z"
+      },
+      {
+        "id": "top-b852eb84",
+        "title": "Devastating European wildfires in maps - and how they're being tackled",
+        "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+        "bullets": [
+          "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T15:59:27.000Z"
+      },
+      {
+        "id": "top-ce34d6d3",
+        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
+        "summary": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
+        "bullets": [
+          "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T21:57:08.000Z"
+      },
+      {
+        "id": "top-a48ecbaf",
+        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+        "bullets": [
+          "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T01:53:58.000Z"
+      },
+      {
+        "id": "tech-b86b1ec8",
+        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+        "bullets": [
+          "Microsoft says tools cost less than competing ones and outperform them, too."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T21:56:14.000Z"
+      },
+      {
+        "id": "tech-3df91082",
+        "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+        "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
+        "bullets": [
+          "Starlink has a Texas factory but also makes routers in Vietnam."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T21:40:27.000Z"
+      },
+      {
+        "id": "tech-b200db02",
+        "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+        "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
+        "bullets": [
+          "Kennedy has focused on nutrition but has neglected food safety, critics say."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T20:42:13.000Z"
+      },
+      {
+        "id": "tech-c7f2b9ef",
+        "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+        "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
+        "bullets": [
+          "These are likely the last updates of note before Apple's bigger fall updates."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T20:32:45.000Z"
+      },
+      {
+        "id": "tech-ff7d3020",
+        "title": "A missing underscore sent innocent man to prison for 18 months",
+        "summary": "When the first step goes wrong, bad results follow.",
+        "bullets": [
+          "When the first step goes wrong, bad results follow."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T20:22:03.000Z"
+      },
+      {
+        "id": "ai-387e4a15",
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+        "bullets": [
+          "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T00:13:33.000Z"
+      },
+      {
+        "id": "ai-a3f277f4",
+        "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+        "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+        "bullets": [
+          "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself —..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T21:17:11.000Z"
+      },
+      {
+        "id": "ai-ecfd763c",
+        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+        "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+        "bullets": [
+          "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T20:19:42.000Z"
+      },
+      {
+        "id": "ai-6b6f948f",
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+        "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+        "bullets": [
+          "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T18:32:11.000Z"
+      },
+      {
+        "id": "ai-050d3520",
+        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+        "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+        "bullets": [
+          "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T17:28:42.000Z"
+      },
+      {
+        "id": "world-aff849c3",
+        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+        "bullets": [
+          "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T20:34:55.000Z"
+      },
+      {
+        "id": "world-7c4ac7c2",
+        "title": "Trump says Iran war talks taking place during lull in strikes",
+        "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+        "bullets": [
+          "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T21:10:56.000Z"
+      },
+      {
+        "id": "world-a34d5b5a",
+        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+        "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+        "bullets": [
+          "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T16:33:05.000Z"
+      },
+      {
+        "id": "world-fec72d4f",
+        "title": "China's new challenge as natural disasters strike - fake AI videos",
+        "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+        "bullets": [
+          "Storms and flooding incidents over the last few months have seen fake videos inundating social media."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T22:07:23.000Z"
+      },
+      {
+        "id": "world-61061fac",
+        "title": "A Japanese town wrestles with identity after protests over its first mosque",
+        "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+        "bullets": [
+          "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-27T22:08:21.000Z"
+      }
+    ]
   }
 ]
