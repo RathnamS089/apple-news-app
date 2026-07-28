@@ -1334,7 +1334,7 @@
   },
   {
     "date": "2026-07-28",
-    "generatedAt": "2026-07-28T11:29:02.660Z",
+    "generatedAt": "2026-07-28T14:40:52.391Z",
     "articles": [
       {
         "id": "top-dd2006db",
@@ -1350,30 +1350,17 @@
         "publishedAt": "2026-07-28T10:25:52.000Z"
       },
       {
-        "id": "top-60d739cb",
-        "title": "Fourth heatwave grips parts of UK with 35C forecast",
-        "summary": "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week.",
+        "id": "top-b83bd447",
+        "title": "French patrol boat appears to fire gunshots in the Channel during MP's BBC interview",
+        "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
         "bullets": [
-          "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week."
+          "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T00:18:58.000Z"
-      },
-      {
-        "id": "top-961481bb",
-        "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
-        "summary": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
-        "bullets": [
-          "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T10:16:37.000Z"
+        "publishedAt": "2026-07-28T13:53:26.000Z"
       },
       {
         "id": "top-ab0e629b",
@@ -1389,17 +1376,43 @@
         "publishedAt": "2026-07-28T09:45:10.000Z"
       },
       {
-        "id": "top-efdb5a60",
-        "title": "Zelensky to press Trump on air defences while in Washington",
-        "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+        "id": "top-961481bb",
+        "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
+        "summary": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
         "bullets": [
-          "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks."
+          "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T10:41:41.000Z"
+        "publishedAt": "2026-07-28T11:38:26.000Z"
+      },
+      {
+        "id": "top-a73f56ba",
+        "title": "US walks out of UN Security Council meeting during France's remarks",
+        "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+        "bullets": [
+          "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T09:32:25.000Z"
+      },
+      {
+        "id": "tech-72c533ff",
+        "title": "As US measles cases rise, biotech firms start developing new treatments",
+        "summary": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
+        "bullets": [
+          "The US is making measles great again, so treatment options are needed for the most vulnerable."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T13:32:23.000Z"
       },
       {
         "id": "tech-b86b1ec8",
@@ -1454,17 +1467,30 @@
         "publishedAt": "2026-07-27T20:32:45.000Z"
       },
       {
-        "id": "tech-ff7d3020",
-        "title": "A missing underscore sent innocent man to prison for 18 months",
-        "summary": "When the first step goes wrong, bad results follow.",
+        "id": "ai-84055093",
+        "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+        "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
         "bullets": [
-          "When the first step goes wrong, bad results follow."
+          "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-27T20:22:03.000Z"
+        "publishedAt": "2026-07-28T14:00:00.000Z"
+      },
+      {
+        "id": "ai-1a73bfe0",
+        "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+        "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+        "bullets": [
+          "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T13:19:17.000Z"
       },
       {
         "id": "ai-81ce5791",
@@ -1506,43 +1532,17 @@
         "publishedAt": "2026-07-27T21:17:11.000Z"
       },
       {
-        "id": "ai-ecfd763c",
-        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-        "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+        "id": "world-a1684f7e",
+        "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+        "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
         "bullets": [
-          "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T20:19:42.000Z"
-      },
-      {
-        "id": "ai-6b6f948f",
-        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-        "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-        "bullets": [
-          "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T18:32:11.000Z"
-      },
-      {
-        "id": "world-efdb5a60",
-        "title": "Zelensky to press Trump on air defences while in Washington",
-        "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-        "bullets": [
-          "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks."
+          "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T10:41:41.000Z"
+        "publishedAt": "2026-07-28T13:25:13.000Z"
       },
       {
         "id": "world-89079ba3",
@@ -1571,30 +1571,30 @@
         "publishedAt": "2026-07-28T09:32:25.000Z"
       },
       {
-        "id": "world-df2ad794",
-        "title": "Zidane confirmed as France head coach",
-        "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+        "id": "world-c5d5dd1f",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
         "bullets": [
-          "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team."
+          "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T09:03:49.000Z"
+        "publishedAt": "2026-07-28T11:50:59.000Z"
       },
       {
-        "id": "world-ab0e629b",
-        "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-        "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
+        "id": "world-0afc871b",
+        "title": "Mancini reappointed Italy boss after Pirlo controversy",
+        "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
         "bullets": [
-          "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed."
+          "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T09:45:10.000Z"
+        "publishedAt": "2026-07-28T13:54:00.000Z"
       }
     ]
   }
