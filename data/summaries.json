@@ -1600,11 +1600,11 @@
   },
   {
     "date": "2026-07-29",
-    "generatedAt": "2026-07-29T14:33:37.756Z",
+    "generatedAt": "2026-07-29T16:39:40.577Z",
     "articles": [
       {
-        "id": "top-c4e49d4f",
-        "title": "More than half of England officially in drought, Environment Agency says",
+        "id": "top-ce2344fa",
+        "title": "More than half of England in drought, Environment Agency declares",
         "summary": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
         "bullets": [
           "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature."
@@ -1613,7 +1613,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T12:55:03.000Z"
+        "publishedAt": "2026-07-29T14:37:30.000Z"
       },
       {
         "id": "top-aa116389",
@@ -1626,11 +1626,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T14:13:12.000Z"
+        "publishedAt": "2026-07-29T16:32:53.000Z"
       },
       {
-        "id": "top-82e6c66f",
-        "title": "Serial killer given whole life order for murders of two men as police investigate four more deaths",
+        "id": "top-922f3004",
+        "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
         "summary": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
         "bullets": [
           "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed."
@@ -1639,7 +1639,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T14:27:17.000Z"
+        "publishedAt": "2026-07-29T16:10:40.000Z"
       },
       {
         "id": "top-999bf07c",
@@ -1655,21 +1655,34 @@
         "publishedAt": "2026-07-29T05:00:07.000Z"
       },
       {
-        "id": "top-66235e31",
-        "title": "Boy, 7, dies in hospital after beach tragedy",
-        "summary": "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.",
+        "id": "top-9fad6259",
+        "title": "Is World Cup sell-off plan a step too far by Infantino?",
+        "summary": "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be.",
         "bullets": [
-          "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday."
+          "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T12:42:14.000Z"
+        "publishedAt": "2026-07-29T13:48:10.000Z"
       },
       {
-        "id": "tech-07774f15",
-        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+        "id": "tech-431d7f4f",
+        "title": "What happens when you put AI to work deciphering lost languages?",
+        "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
+        "bullets": [
+          "AI is fantastic at spotting patterns, but human insight is the key."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T13:23:31.000Z"
+      },
+      {
+        "id": "tech-35b4fc2f",
+        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
         "summary": "Deciding what's real on the Internet won't be easy in the future.",
         "bullets": [
           "Deciding what's real on the Internet won't be easy in the future."
@@ -1720,18 +1733,30 @@
         "publishedAt": "2026-07-28T22:09:00.000Z"
       },
       {
-        "id": "tech-2b0b2033",
-        "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
-        "summary": "Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
+        "id": "ai-52917f05",
+        "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+        "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
         "bullets": [
-          "Lab students were supposed to ID a mild germ.",
-          "They all identified a deadly pathogen."
+          "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T21:49:52.000Z"
+        "publishedAt": "2026-07-29T15:35:09.000Z"
+      },
+      {
+        "id": "ai-f6ca3534",
+        "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+        "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+        "bullets": [
+          "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T14:41:06.000Z"
       },
       {
         "id": "ai-7e337971",
@@ -1774,30 +1799,17 @@
         "publishedAt": "2026-07-28T21:29:34.000Z"
       },
       {
-        "id": "ai-b3b286f7",
-        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-        "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+        "id": "world-541b9f01",
+        "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+        "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages, in the latest summer wildfire in Southern Europe.",
         "bullets": [
-          "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself."
+          "Gale-force winds have whipped up the flames prompting the evacuation of several villages, in the latest summer wildfire in Southern Europe."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T20:45:12.000Z"
-      },
-      {
-        "id": "ai-7aa610e2",
-        "title": "Sam Altman is ready to decelerate",
-        "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-        "bullets": [
-          "His change of position comes after \"the first security incident that I have felt very viscerally.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T20:17:08.000Z"
+        "publishedAt": "2026-07-29T16:23:41.000Z"
       },
       {
         "id": "world-293d1916",
@@ -1826,19 +1838,6 @@
         "publishedAt": "2026-07-29T13:48:41.000Z"
       },
       {
-        "id": "world-b94937d8",
-        "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-        "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
-        "bullets": [
-          "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T14:27:13.000Z"
-      },
-      {
         "id": "world-db4e95d6",
         "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
         "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
@@ -1849,7 +1848,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T14:29:34.000Z"
+        "publishedAt": "2026-07-29T15:40:24.000Z"
       },
       {
         "id": "world-1c9c1785",
