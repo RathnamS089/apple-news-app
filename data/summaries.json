@@ -1600,7 +1600,7 @@
   },
   {
     "date": "2026-07-29",
-    "generatedAt": "2026-07-29T19:46:38.487Z",
+    "generatedAt": "2026-07-29T22:15:05.896Z",
     "articles": [
       {
         "id": "top-ce2344fa",
@@ -1614,19 +1614,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-29T14:37:30.000Z"
-      },
-      {
-        "id": "top-aa116389",
-        "title": "Burnham doesn't rule out tax rises to fix social care",
-        "summary": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
-        "bullets": [
-          "The prime minister holds cross-party talks as he speeds up review of social care in England."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T16:32:53.000Z"
       },
       {
         "id": "top-b7ad1618",
@@ -1652,24 +1639,76 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T17:04:42.000Z"
+        "publishedAt": "2026-07-29T21:36:06.000Z"
       },
       {
-        "id": "top-e73c7d0d",
-        "title": "France fire crews face searing heat in battle to contain flames",
-        "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+        "id": "top-c72bb27c",
+        "title": "Police to take no further action against Polanski over guillotine re-post",
+        "summary": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
         "bullets": [
-          "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
+          "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T16:49:41.000Z"
+        "publishedAt": "2026-07-29T19:53:48.000Z"
       },
       {
-        "id": "tech-9686d4fa",
-        "title": "Google begins global rollout of age verification API in Google Play",
+        "id": "top-89610207",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+        "bullets": [
+          "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T18:41:31.000Z"
+      },
+      {
+        "id": "tech-76636362",
+        "title": "Who wins and who loses after US bans foreign robots?",
+        "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+        "bullets": [
+          "Government ban on foreign-made robots may hinder instead of help US robotics."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T20:03:42.000Z"
+      },
+      {
+        "id": "tech-3469fd60",
+        "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+        "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+        "bullets": [
+          "Comcast, accused of negligence, says lawsuit mischaracterized alleged events."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T19:33:55.000Z"
+      },
+      {
+        "id": "tech-d86f8fa6",
+        "title": "Customize Ars your way with an Ars Pro subscription",
+        "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+        "bullets": [
+          "Ars Pro subscribers get customizable layouts along with no ads and no trackers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T19:23:27.000Z"
+      },
+      {
+        "id": "tech-1efb1079",
+        "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
         "summary": "Google's new API relies on parents to set age ranges in Family Link.",
         "bullets": [
           "Google's new API relies on parents to set age ranges in Family Link."
@@ -1694,43 +1733,44 @@
         "publishedAt": "2026-07-29T17:58:24.000Z"
       },
       {
-        "id": "tech-b57ef1bb",
-        "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
-        "summary": "Companies are making sure we have a surplus of options for building qubits.",
+        "id": "ai-eee6dba7",
+        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
         "bullets": [
-          "Companies are making sure we have a surplus of options for building qubits."
+          "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T17:37:47.000Z"
+        "publishedAt": "2026-07-29T21:16:39.000Z"
       },
       {
-        "id": "tech-8dc2cd5e",
-        "title": "Actually, Starliner might fly into space this year",
-        "summary": "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said.",
+        "id": "ai-a55b4484",
+        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
         "bullets": [
-          "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said."
+          "Weng previously served as the VP of AI Safety Research at OpenAI."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T17:24:41.000Z"
+        "publishedAt": "2026-07-29T21:07:48.000Z"
       },
       {
-        "id": "tech-e49b7108",
-        "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-        "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+        "id": "ai-cdfc76fb",
+        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+        "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
         "bullets": [
-          "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them."
+          "Another way to think about the whole thing is to picture a bear at a campsite.",
+          "(Really, we are going there.)"
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T15:52:48.000Z"
+        "publishedAt": "2026-07-29T19:44:49.000Z"
       },
       {
         "id": "ai-455fcbfa",
@@ -1759,46 +1799,6 @@
         "publishedAt": "2026-07-29T15:35:09.000Z"
       },
       {
-        "id": "ai-f6ca3534",
-        "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-        "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-        "bullets": [
-          "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T14:41:06.000Z"
-      },
-      {
-        "id": "ai-7e337971",
-        "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-        "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-        "bullets": [
-          "Pangram has raised $9 million to scale its AI detection software.",
-          "The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T11:00:00.000Z"
-      },
-      {
-        "id": "ai-b0b917d5",
-        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-        "summary": "The deal is Cyera's third acquisition this year.",
-        "bullets": [
-          "The deal is Cyera's third acquisition this year."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T00:09:05.000Z"
-      },
-      {
         "id": "world-89610207",
         "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
         "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
@@ -1825,24 +1825,24 @@
         "publishedAt": "2026-07-29T16:23:41.000Z"
       },
       {
-        "id": "world-584e3aca",
-        "title": "Fifa opens disciplinary proceedings against Argentina",
-        "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+        "id": "world-0e891c62",
+        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+        "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
         "bullets": [
-          "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament."
+          "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T17:21:57.000Z"
+        "publishedAt": "2026-07-29T20:21:46.000Z"
       },
       {
-        "id": "world-e73c7d0d",
-        "title": "France fire crews face searing heat in battle to contain flames",
-        "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+        "id": "world-dac51c7c",
+        "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+        "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
         "bullets": [
-          "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
+          "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
@@ -1861,7 +1861,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T17:04:42.000Z"
+        "publishedAt": "2026-07-29T21:36:06.000Z"
       }
     ]
   }
