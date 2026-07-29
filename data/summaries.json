@@ -1600,8 +1600,21 @@
   },
   {
     "date": "2026-07-29",
-    "generatedAt": "2026-07-29T09:11:23.388Z",
+    "generatedAt": "2026-07-29T11:35:17.198Z",
     "articles": [
+      {
+        "id": "top-49b3267d",
+        "title": "Seven areas of England officially in drought, Environment Agency says",
+        "summary": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
+        "bullets": [
+          "Scorching temperatures and very low levels of rain have seen droughts declared across much of England."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T11:24:19.000Z"
+      },
       {
         "id": "top-999bf07c",
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -1616,45 +1629,6 @@
         "publishedAt": "2026-07-29T05:00:07.000Z"
       },
       {
-        "id": "top-cc79b9c6",
-        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-        "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-        "bullets": [
-          "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T08:43:46.000Z"
-      },
-      {
-        "id": "top-0b702714",
-        "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
-        "summary": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.",
-        "bullets": [
-          "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T00:49:40.000Z"
-      },
-      {
-        "id": "top-ec145699",
-        "title": "Today's 20-somethings really do have it worse - here's why",
-        "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
-        "bullets": [
-          "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T23:52:23.000Z"
-      },
-      {
         "id": "top-caa2bb4e",
         "title": "OpenAI says its rogue AI tried to hack other companies",
         "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
@@ -1666,6 +1640,32 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-29T08:49:27.000Z"
+      },
+      {
+        "id": "top-633551df",
+        "title": "The evidence that shows today's 20-somethings really do have it worse than previous generations",
+        "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
+        "bullets": [
+          "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-28T23:52:23.000Z"
+      },
+      {
+        "id": "top-a53c700c",
+        "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
+        "summary": "The blaze has destroyed about 25 sq km of moorland and forestry near Aviemore since Wednesday 15 July.",
+        "bullets": [
+          "The blaze has destroyed about 25 sq km of moorland and forestry near Aviemore since Wednesday 15 July."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T11:01:32.000Z"
       },
       {
         "id": "tech-85b258a9",
@@ -1799,6 +1799,19 @@
         "publishedAt": "2026-07-28T15:42:26.000Z"
       },
       {
+        "id": "world-03e5af2f",
+        "title": "More than 100 aftershocks hit Japan after deadly quake that killed 13",
+        "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+        "bullets": [
+          "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T11:10:54.000Z"
+      },
+      {
         "id": "world-8d4bfe88",
         "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
         "summary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
@@ -1822,20 +1835,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T08:43:46.000Z"
+        "publishedAt": "2026-07-29T09:39:56.000Z"
       },
       {
-        "id": "world-483f42a5",
-        "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-        "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+        "id": "world-1c9c1785",
+        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+        "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
         "bullets": [
-          "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs."
+          "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T23:25:53.000Z"
+        "publishedAt": "2026-07-29T10:23:29.000Z"
       },
       {
         "id": "world-cc0cb6fe",
@@ -1849,19 +1862,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-29T05:00:07.000Z"
-      },
-      {
-        "id": "world-4f3f849a",
-        "title": "Trump administration bans new Chinese humanoid robots",
-        "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-        "bullets": [
-          "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T02:30:50.000Z"
       }
     ]
   }
