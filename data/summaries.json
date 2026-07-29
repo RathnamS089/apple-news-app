@@ -1600,7 +1600,7 @@
   },
   {
     "date": "2026-07-29",
-    "generatedAt": "2026-07-29T16:39:40.577Z",
+    "generatedAt": "2026-07-29T19:46:38.487Z",
     "articles": [
       {
         "id": "top-ce2344fa",
@@ -1629,17 +1629,17 @@
         "publishedAt": "2026-07-29T16:32:53.000Z"
       },
       {
-        "id": "top-922f3004",
-        "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
-        "summary": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+        "id": "top-b7ad1618",
+        "title": "Moment police officers set foot in 'horror scene' funeral home",
+        "summary": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
         "bullets": [
-          "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed."
+          "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T16:10:40.000Z"
+        "publishedAt": "2026-07-29T17:00:41.000Z"
       },
       {
         "id": "top-999bf07c",
@@ -1652,85 +1652,98 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T05:00:07.000Z"
+        "publishedAt": "2026-07-29T17:04:42.000Z"
       },
       {
-        "id": "top-9fad6259",
-        "title": "Is World Cup sell-off plan a step too far by Infantino?",
-        "summary": "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be.",
+        "id": "top-e73c7d0d",
+        "title": "France fire crews face searing heat in battle to contain flames",
+        "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
         "bullets": [
-          "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be."
+          "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T13:48:10.000Z"
+        "publishedAt": "2026-07-29T16:49:41.000Z"
       },
       {
-        "id": "tech-431d7f4f",
-        "title": "What happens when you put AI to work deciphering lost languages?",
-        "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
+        "id": "tech-9686d4fa",
+        "title": "Google begins global rollout of age verification API in Google Play",
+        "summary": "Google's new API relies on parents to set age ranges in Family Link.",
         "bullets": [
-          "AI is fantastic at spotting patterns, but human insight is the key."
+          "Google's new API relies on parents to set age ranges in Family Link."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T13:23:31.000Z"
+        "publishedAt": "2026-07-29T18:08:22.000Z"
       },
       {
-        "id": "tech-35b4fc2f",
-        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-        "summary": "Deciding what's real on the Internet won't be easy in the future.",
+        "id": "tech-40207bf1",
+        "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+        "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
         "bullets": [
-          "Deciding what's real on the Internet won't be easy in the future."
+          "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T11:00:39.000Z"
+        "publishedAt": "2026-07-29T17:58:24.000Z"
       },
       {
-        "id": "tech-62e5b474",
-        "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
-        "summary": "Expect bumps with X Money rollout as major US financial markets are excluded.",
+        "id": "tech-b57ef1bb",
+        "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
+        "summary": "Companies are making sure we have a surplus of options for building qubits.",
         "bullets": [
-          "Expect bumps with X Money rollout as major US financial markets are excluded."
+          "Companies are making sure we have a surplus of options for building qubits."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+        "sourceUrl": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T10:00:51.000Z"
+        "publishedAt": "2026-07-29T17:37:47.000Z"
       },
       {
-        "id": "tech-85b258a9",
-        "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-        "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+        "id": "tech-8dc2cd5e",
+        "title": "Actually, Starliner might fly into space this year",
+        "summary": "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said.",
         "bullets": [
-          "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4."
+          "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+        "sourceUrl": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T01:00:36.000Z"
+        "publishedAt": "2026-07-29T17:24:41.000Z"
       },
       {
-        "id": "tech-fbde50fc",
-        "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-        "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
+        "id": "tech-e49b7108",
+        "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+        "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
         "bullets": [
-          "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\""
+          "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+        "sourceUrl": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T22:09:00.000Z"
+        "publishedAt": "2026-07-29T15:52:48.000Z"
+      },
+      {
+        "id": "ai-455fcbfa",
+        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+        "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+        "bullets": [
+          "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T18:45:27.000Z"
       },
       {
         "id": "ai-52917f05",
@@ -1786,24 +1799,24 @@
         "publishedAt": "2026-07-29T00:09:05.000Z"
       },
       {
-        "id": "ai-9c85ac1c",
-        "title": "Bot-detection startup Spur nabs $200M from Insight",
-        "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "id": "world-89610207",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
         "bullets": [
-          "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+          "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T21:29:34.000Z"
+        "publishedAt": "2026-07-29T18:41:31.000Z"
       },
       {
         "id": "world-541b9f01",
         "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-        "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages, in the latest summer wildfire in Southern Europe.",
+        "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
         "bullets": [
-          "Gale-force winds have whipped up the flames prompting the evacuation of several villages, in the latest summer wildfire in Southern Europe."
+          "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
@@ -1812,56 +1825,43 @@
         "publishedAt": "2026-07-29T16:23:41.000Z"
       },
       {
-        "id": "world-293d1916",
-        "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-        "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+        "id": "world-584e3aca",
+        "title": "Fifa opens disciplinary proceedings against Argentina",
+        "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
         "bullets": [
-          "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say"
+          "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T11:47:05.000Z"
+        "publishedAt": "2026-07-29T17:21:57.000Z"
       },
       {
-        "id": "world-cc79b9c6",
-        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-        "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+        "id": "world-e73c7d0d",
+        "title": "France fire crews face searing heat in battle to contain flames",
+        "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
         "bullets": [
-          "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
+          "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T13:48:41.000Z"
+        "publishedAt": "2026-07-29T16:49:41.000Z"
       },
       {
-        "id": "world-db4e95d6",
-        "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-        "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+        "id": "world-cc0cb6fe",
+        "title": "Four women accuse Jared Leto of criminal sexual conduct",
+        "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
         "bullets": [
-          "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
+          "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T15:40:24.000Z"
-      },
-      {
-        "id": "world-1c9c1785",
-        "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-        "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-        "bullets": [
-          "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T10:23:29.000Z"
+        "publishedAt": "2026-07-29T17:04:42.000Z"
       }
     ]
   }
