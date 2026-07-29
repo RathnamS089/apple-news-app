@@ -1600,8 +1600,34 @@
   },
   {
     "date": "2026-07-29",
-    "generatedAt": "2026-07-29T03:43:14.633Z",
+    "generatedAt": "2026-07-29T09:11:23.388Z",
     "articles": [
+      {
+        "id": "top-999bf07c",
+        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+        "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+        "bullets": [
+          "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T05:00:07.000Z"
+      },
+      {
+        "id": "top-cc79b9c6",
+        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+        "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+        "bullets": [
+          "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T08:43:46.000Z"
+      },
       {
         "id": "top-0b702714",
         "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
@@ -1616,21 +1642,8 @@
         "publishedAt": "2026-07-29T00:49:40.000Z"
       },
       {
-        "id": "top-a99f9a43",
-        "title": "Burnham invites Tories and Lib Dems to social care talks",
-        "summary": "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.",
-        "bullets": [
-          "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T01:59:59.000Z"
-      },
-      {
-        "id": "top-07a9c566",
-        "title": "The evidence that shows today's 20-somethings really do have it worse",
+        "id": "top-ec145699",
+        "title": "Today's 20-somethings really do have it worse - here's why",
         "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
         "bullets": [
           "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC."
@@ -1642,30 +1655,17 @@
         "publishedAt": "2026-07-28T23:52:23.000Z"
       },
       {
-        "id": "top-d055ccbf",
-        "title": "Iran and US trade strikes, shattering brief lull in fighting",
-        "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+        "id": "top-caa2bb4e",
+        "title": "OpenAI says its rogue AI tried to hack other companies",
+        "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
         "bullets": [
-          "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran."
+          "The out-of-control AI found four logins which allowed it to access multiple unnamed online services."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T02:47:28.000Z"
-      },
-      {
-        "id": "top-afdc2f2b",
-        "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-        "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
-        "bullets": [
-          "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T23:00:15.000Z"
+        "publishedAt": "2026-07-29T08:49:27.000Z"
       },
       {
         "id": "tech-85b258a9",
@@ -1799,30 +1799,30 @@
         "publishedAt": "2026-07-28T15:42:26.000Z"
       },
       {
-        "id": "world-8463ce3c",
-        "title": "Watch: The moment quake hit Japan",
-        "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+        "id": "world-8d4bfe88",
+        "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+        "summary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
         "bullets": [
-          "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July."
+          "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T15:32:37.000Z"
+        "publishedAt": "2026-07-29T06:10:19.000Z"
       },
       {
-        "id": "world-d055ccbf",
-        "title": "Iran and US trade strikes, shattering brief lull in fighting",
-        "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+        "id": "world-cc79b9c6",
+        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+        "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
         "bullets": [
-          "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran."
+          "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T02:47:28.000Z"
+        "publishedAt": "2026-07-29T08:43:46.000Z"
       },
       {
         "id": "world-483f42a5",
@@ -1838,6 +1838,19 @@
         "publishedAt": "2026-07-28T23:25:53.000Z"
       },
       {
+        "id": "world-cc0cb6fe",
+        "title": "Four women accuse Jared Leto of criminal sexual conduct",
+        "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+        "bullets": [
+          "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T05:00:07.000Z"
+      },
+      {
         "id": "world-4f3f849a",
         "title": "Trump administration bans new Chinese humanoid robots",
         "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
@@ -1849,19 +1862,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-29T02:30:50.000Z"
-      },
-      {
-        "id": "world-c121026e",
-        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-        "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-        "bullets": [
-          "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T16:14:03.000Z"
       }
     ]
   }
