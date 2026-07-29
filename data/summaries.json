@@ -1600,20 +1600,46 @@
   },
   {
     "date": "2026-07-29",
-    "generatedAt": "2026-07-29T11:35:17.198Z",
+    "generatedAt": "2026-07-29T14:33:37.756Z",
     "articles": [
       {
-        "id": "top-49b3267d",
-        "title": "Seven areas of England officially in drought, Environment Agency says",
-        "summary": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
+        "id": "top-c4e49d4f",
+        "title": "More than half of England officially in drought, Environment Agency says",
+        "summary": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
         "bullets": [
-          "Scorching temperatures and very low levels of rain have seen droughts declared across much of England."
+          "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T11:24:19.000Z"
+        "publishedAt": "2026-07-29T12:55:03.000Z"
+      },
+      {
+        "id": "top-aa116389",
+        "title": "Burnham doesn't rule out tax rises to fix social care",
+        "summary": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+        "bullets": [
+          "The prime minister holds cross-party talks as he speeds up review of social care in England."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T14:13:12.000Z"
+      },
+      {
+        "id": "top-82e6c66f",
+        "title": "Serial killer given whole life order for murders of two men as police investigate four more deaths",
+        "summary": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+        "bullets": [
+          "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T14:27:17.000Z"
       },
       {
         "id": "top-999bf07c",
@@ -1629,43 +1655,43 @@
         "publishedAt": "2026-07-29T05:00:07.000Z"
       },
       {
-        "id": "top-caa2bb4e",
-        "title": "OpenAI says its rogue AI tried to hack other companies",
-        "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+        "id": "top-66235e31",
+        "title": "Boy, 7, dies in hospital after beach tragedy",
+        "summary": "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.",
         "bullets": [
-          "The out-of-control AI found four logins which allowed it to access multiple unnamed online services."
+          "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T08:49:27.000Z"
+        "publishedAt": "2026-07-29T12:42:14.000Z"
       },
       {
-        "id": "top-633551df",
-        "title": "The evidence that shows today's 20-somethings really do have it worse than previous generations",
-        "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
+        "id": "tech-07774f15",
+        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+        "summary": "Deciding what's real on the Internet won't be easy in the future.",
         "bullets": [
-          "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC."
+          "Deciding what's real on the Internet won't be easy in the future."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T23:52:23.000Z"
+        "publishedAt": "2026-07-29T11:00:39.000Z"
       },
       {
-        "id": "top-a53c700c",
-        "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
-        "summary": "The blaze has destroyed about 25 sq km of moorland and forestry near Aviemore since Wednesday 15 July.",
+        "id": "tech-62e5b474",
+        "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
+        "summary": "Expect bumps with X Money rollout as major US financial markets are excluded.",
         "bullets": [
-          "The blaze has destroyed about 25 sq km of moorland and forestry near Aviemore since Wednesday 15 July."
+          "Expect bumps with X Money rollout as major US financial markets are excluded."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T11:01:32.000Z"
+        "publishedAt": "2026-07-29T10:00:51.000Z"
       },
       {
         "id": "tech-85b258a9",
@@ -1708,30 +1734,18 @@
         "publishedAt": "2026-07-28T21:49:52.000Z"
       },
       {
-        "id": "tech-8b477c39",
-        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-        "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+        "id": "ai-7e337971",
+        "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+        "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
         "bullets": [
-          "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch."
+          "Pangram has raised $9 million to scale its AI detection software.",
+          "The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-28T21:36:39.000Z"
-      },
-      {
-        "id": "tech-e8e8f273",
-        "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
-        "summary": "eBay sent bloody pig mask and other macabre deliveries to journalists' home.",
-        "bullets": [
-          "eBay sent bloody pig mask and other macabre deliveries to journalists' home."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T21:02:15.000Z"
+        "publishedAt": "2026-07-29T11:00:00.000Z"
       },
       {
         "id": "ai-b0b917d5",
@@ -1786,21 +1800,8 @@
         "publishedAt": "2026-07-28T20:17:08.000Z"
       },
       {
-        "id": "ai-4fc6e3df",
-        "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-        "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-        "bullets": [
-          "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-28T15:42:26.000Z"
-      },
-      {
-        "id": "world-03e5af2f",
-        "title": "More than 100 aftershocks hit Japan after deadly quake that killed 13",
+        "id": "world-293d1916",
+        "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
         "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
         "bullets": [
           "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say"
@@ -1809,20 +1810,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T11:10:54.000Z"
-      },
-      {
-        "id": "world-8d4bfe88",
-        "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-        "summary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
-        "bullets": [
-          "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T06:10:19.000Z"
+        "publishedAt": "2026-07-29T11:47:05.000Z"
       },
       {
         "id": "world-cc79b9c6",
@@ -1835,7 +1823,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T09:39:56.000Z"
+        "publishedAt": "2026-07-29T13:48:41.000Z"
+      },
+      {
+        "id": "world-b94937d8",
+        "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+        "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+        "bullets": [
+          "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T14:27:13.000Z"
+      },
+      {
+        "id": "world-db4e95d6",
+        "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+        "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+        "bullets": [
+          "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T14:29:34.000Z"
       },
       {
         "id": "world-1c9c1785",
@@ -1849,19 +1863,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-29T10:23:29.000Z"
-      },
-      {
-        "id": "world-cc0cb6fe",
-        "title": "Four women accuse Jared Leto of criminal sexual conduct",
-        "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-        "bullets": [
-          "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T05:00:07.000Z"
       }
     ]
   }
