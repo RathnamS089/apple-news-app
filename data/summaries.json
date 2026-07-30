@@ -1867,50 +1867,24 @@
   },
   {
     "date": "2026-07-30",
-    "generatedAt": "2026-07-30T03:32:10.094Z",
+    "generatedAt": "2026-07-30T09:04:56.839Z",
     "articles": [
       {
-        "id": "top-c57747c2",
-        "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
-        "summary": "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan.",
+        "id": "top-b5dbb206",
+        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+        "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
         "bullets": [
-          "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan."
+          "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T01:58:28.000Z"
+        "publishedAt": "2026-07-30T08:42:17.000Z"
       },
       {
-        "id": "top-89610207",
-        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-        "bullets": [
-          "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T18:41:31.000Z"
-      },
-      {
-        "id": "top-28c8b07b",
-        "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-        "summary": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
-        "bullets": [
-          "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T02:36:53.000Z"
-      },
-      {
-        "id": "top-9876a360",
-        "title": "Cooler conditions on way for parts of UK - but still no rain for drought-hit areas",
+        "id": "top-6cd08197",
+        "title": "Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas",
         "summary": "After another day of record-breaking temperatures for some parts of England, a cold front is moving in.",
         "bullets": [
           "After another day of record-breaking temperatures for some parts of England, a cold front is moving in."
@@ -1933,6 +1907,32 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-29T23:33:01.000Z"
+      },
+      {
+        "id": "top-2cbba4f8",
+        "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
+        "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+        "bullets": [
+          "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T08:22:19.000Z"
+      },
+      {
+        "id": "top-52665813",
+        "title": "Israel building new land barriers in Gaza and displacing families",
+        "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
+        "bullets": [
+          "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T05:05:24.000Z"
       },
       {
         "id": "tech-9595abae",
@@ -2065,17 +2065,17 @@
         "publishedAt": "2026-07-29T21:16:39.000Z"
       },
       {
-        "id": "world-c57747c2",
-        "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
-        "summary": "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan.",
+        "id": "world-b5dbb206",
+        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+        "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
         "bullets": [
-          "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan."
+          "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T01:58:28.000Z"
+        "publishedAt": "2026-07-30T08:42:17.000Z"
       },
       {
         "id": "world-89610207",
@@ -2117,17 +2117,17 @@
         "publishedAt": "2026-07-29T16:49:41.000Z"
       },
       {
-        "id": "world-0e891c62",
-        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-        "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+        "id": "world-c1393c7e",
+        "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+        "summary": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
         "bullets": [
-          "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
+          "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T20:21:46.000Z"
+        "publishedAt": "2026-07-30T07:12:19.000Z"
       }
     ]
   }
