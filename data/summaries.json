@@ -1867,50 +1867,11 @@
   },
   {
     "date": "2026-07-30",
-    "generatedAt": "2026-07-30T11:22:04.153Z",
+    "generatedAt": "2026-07-30T14:34:29.326Z",
     "articles": [
       {
-        "id": "top-b5dbb206",
-        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-        "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-        "bullets": [
-          "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T10:49:14.000Z"
-      },
-      {
-        "id": "top-3318513d",
-        "title": "Joe Root returns as England Test cricket captain with Stephen Fleming named head coach",
-        "summary": "Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.",
-        "bullets": [
-          "Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T11:13:50.000Z"
-      },
-      {
-        "id": "top-52665813",
-        "title": "Israel building new land barriers in Gaza and displacing families",
-        "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
-        "bullets": [
-          "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T05:05:24.000Z"
-      },
-      {
-        "id": "top-a39f1e82",
-        "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+        "id": "top-ff89c337",
+        "title": "Thousands evacuated in Crete as Europe battles wildfires",
         "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
         "bullets": [
           "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
@@ -1919,20 +1880,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T09:10:11.000Z"
+        "publishedAt": "2026-07-30T12:46:16.000Z"
       },
       {
-        "id": "top-eaffea02",
-        "title": "Olivia Dean nominated and Lily Allen snubbed in Mercury Prize list",
-        "summary": "This year's best album shortlist includes several returning nominees - but Lily Allen misses out.",
+        "id": "top-71a4c880",
+        "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+        "summary": "Wales is on course for its driest July on record in almost 190 years.",
         "bullets": [
-          "This year's best album shortlist includes several returning nominees - but Lily Allen misses out."
+          "Wales is on course for its driest July on record in almost 190 years."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T09:45:12.000Z"
+        "publishedAt": "2026-07-30T14:15:09.000Z"
+      },
+      {
+        "id": "top-41b32207",
+        "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
+        "summary": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
+        "bullets": [
+          "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T14:01:19.000Z"
+      },
+      {
+        "id": "top-5a1dcc97",
+        "title": "Watch: Giant iceberg turns over near Greenland's coast",
+        "summary": "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave.",
+        "bullets": [
+          "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T10:54:36.000Z"
+      },
+      {
+        "id": "top-bef4a6f0",
+        "title": "Large rise in offenders sent back to prison, figures reveal",
+        "summary": "There has been a large rise in the number of offenders being recalled to prisons in England and Wales.",
+        "bullets": [
+          "There has been a large rise in the number of offenders being recalled to prisons in England and Wales."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T12:13:51.000Z"
       },
       {
         "id": "tech-9595abae",
@@ -2000,6 +2000,32 @@
         "publishedAt": "2026-07-29T19:23:27.000Z"
       },
       {
+        "id": "ai-972d0320",
+        "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+        "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
+        "bullets": [
+          "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T14:00:00.000Z"
+      },
+      {
+        "id": "ai-8821ce13",
+        "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+        "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+        "bullets": [
+          "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T13:00:00.000Z"
+      },
+      {
         "id": "ai-499475f0",
         "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
         "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
@@ -2039,32 +2065,6 @@
         "publishedAt": "2026-07-29T22:46:03.000Z"
       },
       {
-        "id": "ai-0d20064a",
-        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-        "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-        "bullets": [
-          "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T22:23:12.000Z"
-      },
-      {
-        "id": "ai-eee6dba7",
-        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-        "bullets": [
-          "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T21:16:39.000Z"
-      },
-      {
         "id": "world-b5dbb206",
         "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
         "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
@@ -2093,19 +2093,19 @@
       {
         "id": "world-338702cb",
         "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-        "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+        "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
         "bullets": [
-          "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with..."
+          "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T09:56:06.000Z"
+        "publishedAt": "2026-07-30T13:38:50.000Z"
       },
       {
-        "id": "world-a39f1e82",
-        "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+        "id": "world-ff89c337",
+        "title": "Thousands evacuated in Crete as Europe battles wildfires",
         "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
         "bullets": [
           "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
@@ -2114,20 +2114,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T09:10:11.000Z"
+        "publishedAt": "2026-07-30T12:46:16.000Z"
       },
       {
-        "id": "world-b233a14a",
-        "title": "Nicaraguan leader proposes extending presidential term by another year",
-        "summary": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
+        "id": "world-2cbba4f8",
+        "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
+        "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
         "bullets": [
-          "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer."
+          "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T10:34:07.000Z"
+        "publishedAt": "2026-07-30T09:21:55.000Z"
       }
     ]
   }
