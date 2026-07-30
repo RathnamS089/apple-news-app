@@ -1864,5 +1864,271 @@
         "publishedAt": "2026-07-29T21:36:06.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-07-30",
+    "generatedAt": "2026-07-30T03:32:10.094Z",
+    "articles": [
+      {
+        "id": "top-c57747c2",
+        "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
+        "summary": "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan.",
+        "bullets": [
+          "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T01:58:28.000Z"
+      },
+      {
+        "id": "top-89610207",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+        "bullets": [
+          "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T18:41:31.000Z"
+      },
+      {
+        "id": "top-28c8b07b",
+        "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+        "summary": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+        "bullets": [
+          "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T02:36:53.000Z"
+      },
+      {
+        "id": "top-9876a360",
+        "title": "Cooler conditions on way for parts of UK - but still no rain for drought-hit areas",
+        "summary": "After another day of record-breaking temperatures for some parts of England, a cold front is moving in.",
+        "bullets": [
+          "After another day of record-breaking temperatures for some parts of England, a cold front is moving in."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T01:40:07.000Z"
+      },
+      {
+        "id": "top-21422eb3",
+        "title": "How the UK's extreme heat is shifting the conversation about air-con",
+        "summary": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?",
+        "bullets": [
+          "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T23:33:01.000Z"
+      },
+      {
+        "id": "tech-9595abae",
+        "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+        "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+        "bullets": [
+          "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T22:07:06.000Z"
+      },
+      {
+        "id": "tech-7f399603",
+        "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+        "summary": "Advertisers agreed to “reset” relationship with X.",
+        "bullets": [
+          "Advertisers agreed to “reset” relationship with X."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T20:57:35.000Z"
+      },
+      {
+        "id": "tech-76636362",
+        "title": "Who wins and who loses after US bans foreign robots?",
+        "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+        "bullets": [
+          "Government ban on foreign-made robots may hinder instead of help US robotics."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T20:03:42.000Z"
+      },
+      {
+        "id": "tech-3469fd60",
+        "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+        "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+        "bullets": [
+          "Comcast, accused of negligence, says lawsuit mischaracterized alleged events."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T19:33:55.000Z"
+      },
+      {
+        "id": "tech-d86f8fa6",
+        "title": "Customize Ars your way with an Ars Pro subscription",
+        "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+        "bullets": [
+          "Ars Pro subscribers get customizable layouts along with no ads and no trackers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T19:23:27.000Z"
+      },
+      {
+        "id": "ai-499475f0",
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "bullets": [
+          "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T00:21:06.000Z"
+      },
+      {
+        "id": "ai-ed1c9d2d",
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+        "bullets": [
+          "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T23:00:11.000Z"
+      },
+      {
+        "id": "ai-9b4bbbfa",
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+        "bullets": [
+          "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T22:46:03.000Z"
+      },
+      {
+        "id": "ai-0d20064a",
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+        "bullets": [
+          "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents,..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T22:23:12.000Z"
+      },
+      {
+        "id": "ai-eee6dba7",
+        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "bullets": [
+          "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T21:16:39.000Z"
+      },
+      {
+        "id": "world-c57747c2",
+        "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
+        "summary": "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan.",
+        "bullets": [
+          "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T01:58:28.000Z"
+      },
+      {
+        "id": "world-89610207",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+        "bullets": [
+          "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T18:41:31.000Z"
+      },
+      {
+        "id": "world-467a2571",
+        "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+        "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+        "bullets": [
+          "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T01:53:25.000Z"
+      },
+      {
+        "id": "world-dac51c7c",
+        "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+        "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
+        "bullets": [
+          "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T16:49:41.000Z"
+      },
+      {
+        "id": "world-0e891c62",
+        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+        "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+        "bullets": [
+          "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T20:21:46.000Z"
+      }
+    ]
   }
 ]
