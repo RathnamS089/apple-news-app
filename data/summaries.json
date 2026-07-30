@@ -1867,7 +1867,7 @@
   },
   {
     "date": "2026-07-30",
-    "generatedAt": "2026-07-30T19:54:16.277Z",
+    "generatedAt": "2026-07-30T22:28:46.777Z",
     "articles": [
       {
         "id": "top-f64bde7f",
@@ -1883,6 +1883,19 @@
         "publishedAt": "2026-07-30T16:47:40.000Z"
       },
       {
+        "id": "top-b60459e0",
+        "title": "Suffolk wildfire still growing and unpredictable, says fire service",
+        "summary": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
+        "bullets": [
+          "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T18:50:57.000Z"
+      },
+      {
         "id": "top-275966aa",
         "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
         "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
@@ -1896,6 +1909,19 @@
         "publishedAt": "2026-07-30T16:04:53.000Z"
       },
       {
+        "id": "top-029fff3f",
+        "title": "Andy Burnham to give regional mayors share of income tax",
+        "summary": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+        "bullets": [
+          "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T21:32:09.000Z"
+      },
+      {
         "id": "top-71a4c880",
         "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
         "summary": "Wales is on course for its driest July on record in almost 190 years.",
@@ -1907,32 +1933,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-30T14:15:09.000Z"
-      },
-      {
-        "id": "top-488d0c25",
-        "title": "MP Diane Abbott readmitted into Labour Party after suspension",
-        "summary": "Joani Reid, the MP for East Kilbride and Strathaven, will also be let back into Labour, a party spokesperson confirmed.",
-        "bullets": [
-          "Joani Reid, the MP for East Kilbride and Strathaven, will also be let back into Labour, a party spokesperson confirmed."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T19:48:37.000Z"
-      },
-      {
-        "id": "top-fc3a4a71",
-        "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-        "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
-        "bullets": [
-          "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T17:19:27.000Z"
       },
       {
         "id": "tech-fad0f9bf",
@@ -2000,6 +2000,19 @@
         "publishedAt": "2026-07-29T20:03:42.000Z"
       },
       {
+        "id": "ai-9487864f",
+        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+        "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+        "bullets": [
+          "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T20:26:38.000Z"
+      },
+      {
         "id": "ai-b2e6258b",
         "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
         "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
@@ -2053,17 +2066,17 @@
         "publishedAt": "2026-07-30T16:09:42.000Z"
       },
       {
-        "id": "ai-667089ba",
-        "title": "Meta says AI is making it easier to build new apps — and more are coming",
-        "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
+        "id": "world-8a13bc3c",
+        "title": "Uefa to boycott World Cups if Fifa plans approved",
+        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
         "bullets": [
-          "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more..."
+          "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T15:41:16.000Z"
+        "publishedAt": "2026-07-30T16:47:40.000Z"
       },
       {
         "id": "world-b5dbb206",
@@ -2102,7 +2115,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T17:19:27.000Z"
+        "publishedAt": "2026-07-30T21:24:31.000Z"
       },
       {
         "id": "world-338702cb",
@@ -2116,19 +2129,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-07-30T15:35:50.000Z"
-      },
-      {
-        "id": "world-c95cd52c",
-        "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-        "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-        "bullets": [
-          "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T15:20:19.000Z"
       }
     ]
   }
