@@ -1867,11 +1867,24 @@
   },
   {
     "date": "2026-07-30",
-    "generatedAt": "2026-07-30T14:34:29.326Z",
+    "generatedAt": "2026-07-30T16:51:15.141Z",
     "articles": [
       {
-        "id": "top-ff89c337",
-        "title": "Thousands evacuated in Crete as Europe battles wildfires",
+        "id": "top-f64bde7f",
+        "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+        "summary": "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.",
+        "bullets": [
+          "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T16:47:40.000Z"
+      },
+      {
+        "id": "top-275966aa",
+        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
         "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
         "bullets": [
           "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
@@ -1880,7 +1893,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T12:46:16.000Z"
+        "publishedAt": "2026-07-30T16:04:53.000Z"
       },
       {
         "id": "top-71a4c880",
@@ -1906,33 +1919,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T14:01:19.000Z"
+        "publishedAt": "2026-07-30T16:33:40.000Z"
       },
       {
-        "id": "top-5a1dcc97",
-        "title": "Watch: Giant iceberg turns over near Greenland's coast",
-        "summary": "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave.",
+        "id": "top-3f536cb4",
+        "title": "Palestine Action ban to be reviewed by Supreme Court",
+        "summary": "The UK's highest court gives Palestine Action permission to appeal the government's proscription of the group under anti-terrorism legislation.",
         "bullets": [
-          "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave."
+          "The UK's highest court gives Palestine Action permission to appeal the government's proscription of the group under anti-terrorism legislation."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T10:54:36.000Z"
+        "publishedAt": "2026-07-30T16:43:35.000Z"
       },
       {
-        "id": "top-bef4a6f0",
-        "title": "Large rise in offenders sent back to prison, figures reveal",
-        "summary": "There has been a large rise in the number of offenders being recalled to prisons in England and Wales.",
+        "id": "tech-fad0f9bf",
+        "title": "Quantum computers outperform classical ones, with results you can trust",
+        "summary": "Three approaches to the issue of quantum results that can't be verified classically.",
         "bullets": [
-          "There has been a large rise in the number of offenders being recalled to prisons in England and Wales."
+          "Three approaches to the issue of quantum results that can't be verified classically."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T12:13:51.000Z"
+        "publishedAt": "2026-07-30T15:59:37.000Z"
+      },
+      {
+        "id": "tech-44361562",
+        "title": "New MCP specification addresses the main barrier to enterprise adoption",
+        "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+        "bullets": [
+          "Plus, a new policy for the AI protocol ensures features aren't removed suddenly."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T14:53:07.000Z"
       },
       {
         "id": "tech-9595abae",
@@ -1974,95 +2000,70 @@
         "publishedAt": "2026-07-29T20:03:42.000Z"
       },
       {
-        "id": "tech-3469fd60",
-        "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-        "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+        "id": "ai-f0159dfc",
+        "title": "Okta buys AI security startup Permiso; source says for about $200M",
+        "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
         "bullets": [
-          "Comcast, accused of negligence, says lawsuit mischaracterized alleged events."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T19:33:55.000Z"
-      },
-      {
-        "id": "tech-d86f8fa6",
-        "title": "Customize Ars your way with an Ars Pro subscription",
-        "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
-        "bullets": [
-          "Ars Pro subscribers get customizable layouts along with no ads and no trackers."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T19:23:27.000Z"
-      },
-      {
-        "id": "ai-972d0320",
-        "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-        "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-        "bullets": [
-          "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade."
+          "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T14:00:00.000Z"
+        "publishedAt": "2026-07-30T16:09:42.000Z"
       },
       {
-        "id": "ai-8821ce13",
-        "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-        "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+        "id": "ai-667089ba",
+        "title": "Meta says AI is making it easier to build new apps — and more are coming",
+        "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups,...",
         "bullets": [
-          "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s..."
+          "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups,..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T13:00:00.000Z"
+        "publishedAt": "2026-07-30T15:41:16.000Z"
       },
       {
-        "id": "ai-499475f0",
-        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "id": "ai-20326536",
+        "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+        "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
         "bullets": [
-          "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued..."
+          "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T00:21:06.000Z"
+        "publishedAt": "2026-07-30T15:19:15.000Z"
       },
       {
-        "id": "ai-ed1c9d2d",
-        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-        "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+        "id": "ai-4499c0a2",
+        "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+        "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
         "bullets": [
-          "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price."
+          "A new study estimates only 2,000 U.S.",
+          "engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T23:00:11.000Z"
+        "publishedAt": "2026-07-30T15:00:00.000Z"
       },
       {
-        "id": "ai-9b4bbbfa",
-        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-        "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+        "id": "ai-16ad4a97",
+        "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+        "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
         "bullets": [
-          "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing."
+          "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-29T22:46:03.000Z"
+        "publishedAt": "2026-07-30T14:48:32.000Z"
       },
       {
         "id": "world-b5dbb206",
@@ -2101,11 +2102,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T13:38:50.000Z"
+        "publishedAt": "2026-07-30T15:35:50.000Z"
       },
       {
-        "id": "world-ff89c337",
-        "title": "Thousands evacuated in Crete as Europe battles wildfires",
+        "id": "world-275966aa",
+        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
         "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
         "bullets": [
           "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
@@ -2114,11 +2115,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T12:46:16.000Z"
+        "publishedAt": "2026-07-30T16:04:53.000Z"
       },
       {
-        "id": "world-2cbba4f8",
-        "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
+        "id": "world-c95cd52c",
+        "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
         "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
         "bullets": [
           "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
@@ -2127,7 +2128,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T09:21:55.000Z"
+        "publishedAt": "2026-07-30T15:20:19.000Z"
       }
     ]
   }
