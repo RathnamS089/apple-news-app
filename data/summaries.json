@@ -2134,20 +2134,59 @@
   },
   {
     "date": "2026-07-31",
-    "generatedAt": "2026-07-31T03:52:55.403Z",
+    "generatedAt": "2026-07-31T09:18:18.333Z",
     "articles": [
       {
-        "id": "top-fddb4e0f",
-        "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-        "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+        "id": "top-edc0268b",
+        "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+        "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
         "bullets": [
-          "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what..."
+          "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T21:40:21.000Z"
+        "publishedAt": "2026-07-31T08:50:12.000Z"
+      },
+      {
+        "id": "top-0989a1b6",
+        "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
+        "summary": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+        "bullets": [
+          "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T09:08:37.000Z"
+      },
+      {
+        "id": "top-ba8bf89d",
+        "title": "Anthropic's Claude AI escapes to hack into three organisations",
+        "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+        "bullets": [
+          "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T09:03:37.000Z"
+      },
+      {
+        "id": "top-d46b3ea9",
+        "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+        "summary": "BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming.",
+        "bullets": [
+          "BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T05:07:08.000Z"
       },
       {
         "id": "top-029fff3f",
@@ -2160,46 +2199,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T21:32:09.000Z"
-      },
-      {
-        "id": "top-9c1553c1",
-        "title": "Crews tackling Suffolk wildfire say they are in better position",
-        "summary": "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene.",
-        "bullets": [
-          "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T01:12:58.000Z"
-      },
-      {
-        "id": "top-853f35f3",
-        "title": "Watch: Thick smoke and flames as crews tackle Suffolk wildfire",
-        "summary": "Video shows thick plumes of smoke rising from the Suffolk coast, where a major incident is declared.",
-        "bullets": [
-          "Video shows thick plumes of smoke rising from the Suffolk coast, where a major incident is declared."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cd0xvkr8y17o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T11:42:48.000Z"
-      },
-      {
-        "id": "top-7f6ad05d",
-        "title": "British Airways flight called mayday on approach to Heathrow",
-        "summary": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
-        "bullets": [
-          "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T17:34:26.000Z"
+        "publishedAt": "2026-07-31T08:48:42.000Z"
       },
       {
         "id": "tech-fad0f9bf",
@@ -2344,59 +2344,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T03:24:14.000Z"
+        "publishedAt": "2026-07-31T07:03:29.000Z"
       },
       {
-        "id": "world-ec13601d",
-        "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-        "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+        "id": "world-ccb7ab31",
+        "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+        "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
         "bullets": [
-          "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
+          "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T02:41:09.000Z"
+        "publishedAt": "2026-07-31T04:25:49.000Z"
       },
       {
-        "id": "world-30d71449",
-        "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
-        "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+        "id": "world-edc0268b",
+        "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+        "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
         "bullets": [
-          "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan."
+          "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T00:52:54.000Z"
+        "publishedAt": "2026-07-31T08:50:12.000Z"
       },
       {
-        "id": "world-8a13bc3c",
-        "title": "Uefa to boycott World Cups if Fifa plans approved",
-        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+        "id": "world-345e10b4",
+        "title": "AC Milan and Italy great Baresi dies aged 66",
+        "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
         "bullets": [
-          "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
+          "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-30T16:47:40.000Z"
+        "publishedAt": "2026-07-31T08:47:33.000Z"
       },
       {
-        "id": "world-9047adee",
-        "title": "Anthropic says Claude AI hacked three firms during cyber tests",
-        "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+        "id": "world-4396a33a",
+        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+        "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
         "bullets": [
-          "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
+          "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T01:31:14.000Z"
+        "publishedAt": "2026-07-31T05:21:18.000Z"
       }
     ]
   }
