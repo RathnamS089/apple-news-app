@@ -2131,5 +2131,273 @@
         "publishedAt": "2026-07-30T15:35:50.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "generatedAt": "2026-07-31T03:52:55.403Z",
+    "articles": [
+      {
+        "id": "top-fddb4e0f",
+        "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+        "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+        "bullets": [
+          "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T21:40:21.000Z"
+      },
+      {
+        "id": "top-029fff3f",
+        "title": "Andy Burnham to give regional mayors share of income tax",
+        "summary": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+        "bullets": [
+          "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T21:32:09.000Z"
+      },
+      {
+        "id": "top-9c1553c1",
+        "title": "Crews tackling Suffolk wildfire say they are in better position",
+        "summary": "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene.",
+        "bullets": [
+          "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T01:12:58.000Z"
+      },
+      {
+        "id": "top-853f35f3",
+        "title": "Watch: Thick smoke and flames as crews tackle Suffolk wildfire",
+        "summary": "Video shows thick plumes of smoke rising from the Suffolk coast, where a major incident is declared.",
+        "bullets": [
+          "Video shows thick plumes of smoke rising from the Suffolk coast, where a major incident is declared."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cd0xvkr8y17o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T11:42:48.000Z"
+      },
+      {
+        "id": "top-7f6ad05d",
+        "title": "British Airways flight called mayday on approach to Heathrow",
+        "summary": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
+        "bullets": [
+          "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T17:34:26.000Z"
+      },
+      {
+        "id": "tech-fad0f9bf",
+        "title": "Quantum computers outperform classical ones, with results you can trust",
+        "summary": "Three approaches to the issue of quantum results that can't be verified classically.",
+        "bullets": [
+          "Three approaches to the issue of quantum results that can't be verified classically."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T15:59:37.000Z"
+      },
+      {
+        "id": "tech-44361562",
+        "title": "New MCP specification addresses the main barrier to enterprise adoption",
+        "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+        "bullets": [
+          "Plus, a new policy for the AI protocol ensures features aren't removed suddenly."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T14:53:07.000Z"
+      },
+      {
+        "id": "tech-9595abae",
+        "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+        "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+        "bullets": [
+          "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T22:07:06.000Z"
+      },
+      {
+        "id": "tech-7f399603",
+        "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+        "summary": "Advertisers agreed to “reset” relationship with X.",
+        "bullets": [
+          "Advertisers agreed to “reset” relationship with X."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T20:57:35.000Z"
+      },
+      {
+        "id": "tech-76636362",
+        "title": "Who wins and who loses after US bans foreign robots?",
+        "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+        "bullets": [
+          "Government ban on foreign-made robots may hinder instead of help US robotics."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-29T20:03:42.000Z"
+      },
+      {
+        "id": "ai-11f78cf1",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "bullets": [
+          "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T01:06:54.000Z"
+      },
+      {
+        "id": "ai-3008b34c",
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+        "bullets": [
+          "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted.",
+          "But he still has cards to play."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T23:25:58.000Z"
+      },
+      {
+        "id": "ai-4ed8f84d",
+        "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+        "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+        "bullets": [
+          "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T23:08:58.000Z"
+      },
+      {
+        "id": "ai-f59726af",
+        "title": "Investors love AI, as long as you’re a cloud host",
+        "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+        "bullets": [
+          "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T22:41:41.000Z"
+      },
+      {
+        "id": "ai-9487864f",
+        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+        "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+        "bullets": [
+          "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T20:26:38.000Z"
+      },
+      {
+        "id": "world-5d8a7d8f",
+        "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+        "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+        "bullets": [
+          "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan.",
+          "Israel has not commented."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T03:24:14.000Z"
+      },
+      {
+        "id": "world-ec13601d",
+        "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+        "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+        "bullets": [
+          "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T02:41:09.000Z"
+      },
+      {
+        "id": "world-30d71449",
+        "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+        "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+        "bullets": [
+          "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T00:52:54.000Z"
+      },
+      {
+        "id": "world-8a13bc3c",
+        "title": "Uefa to boycott World Cups if Fifa plans approved",
+        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+        "bullets": [
+          "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-30T16:47:40.000Z"
+      },
+      {
+        "id": "world-9047adee",
+        "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+        "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+        "bullets": [
+          "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T01:31:14.000Z"
+      }
+    ]
   }
 ]
