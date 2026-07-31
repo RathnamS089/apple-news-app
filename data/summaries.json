@@ -2134,7 +2134,7 @@
   },
   {
     "date": "2026-07-31",
-    "generatedAt": "2026-07-31T14:38:02.288Z",
+    "generatedAt": "2026-07-31T16:58:49.340Z",
     "articles": [
       {
         "id": "top-f367f02d",
@@ -2150,56 +2150,56 @@
         "publishedAt": "2026-07-31T14:20:18.000Z"
       },
       {
-        "id": "top-76ae0c4c",
-        "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
-        "summary": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan.",
+        "id": "top-96b310c2",
+        "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
+        "summary": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
         "bullets": [
-          "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan."
+          "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T12:14:43.000Z"
+        "publishedAt": "2026-07-31T15:48:34.000Z"
+      },
+      {
+        "id": "top-a1f9eb2a",
+        "title": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
+        "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
+        "bullets": [
+          "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T16:30:42.000Z"
+      },
+      {
+        "id": "top-636b09ad",
+        "title": "Disgraced funeral boss who failed to bury bodies jailed for 20 years",
+        "summary": "Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.",
+        "bullets": [
+          "Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T16:28:34.000Z"
       },
       {
         "id": "top-c1a8f89f",
         "title": "England and Wales on course for driest July on record",
-        "summary": "Met Office records indicate England and Wales are likely to have their driest July since records began 190 years ago.",
+        "summary": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago.",
         "bullets": [
-          "Met Office records indicate England and Wales are likely to have their driest July since records began 190 years ago."
+          "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T14:25:08.000Z"
-      },
-      {
-        "id": "top-282e9e4b",
-        "title": "Southport killer charged with prison attacks and possessing weapon",
-        "summary": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.",
-        "bullets": [
-          "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T11:03:17.000Z"
-      },
-      {
-        "id": "top-685c3245",
-        "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-        "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
-        "bullets": [
-          "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T12:19:20.000Z"
+        "publishedAt": "2026-07-31T15:37:17.000Z"
       },
       {
         "id": "tech-d1e80565",
@@ -2267,70 +2267,69 @@
         "publishedAt": "2026-07-30T22:05:35.000Z"
       },
       {
+        "id": "ai-f347a4a4",
+        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+        "summary": "Snapchat has adjusted it recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+        "bullets": [
+          "Snapchat has adjusted it recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T16:49:08.000Z"
+      },
+      {
+        "id": "ai-62cdf107",
+        "title": "Siri AI could come with a paywall for power users",
+        "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+        "bullets": [
+          "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T16:08:18.000Z"
+      },
+      {
+        "id": "ai-a02f904c",
+        "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+        "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+        "bullets": [
+          "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T15:16:17.000Z"
+      },
+      {
+        "id": "ai-de03c774",
+        "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+        "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+        "bullets": [
+          "The startup is building voice models designed to make AI phone calls pass the Turing test."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T14:47:11.000Z"
+      },
+      {
         "id": "ai-11f78cf1",
         "title": "Anthropic says its own AI models breached three companies during security tests",
-        "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
         "bullets": [
-          "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+          "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-07-31T01:06:54.000Z"
-      },
-      {
-        "id": "ai-3008b34c",
-        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-        "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-        "bullets": [
-          "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted.",
-          "But he still has cards to play."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T23:25:58.000Z"
-      },
-      {
-        "id": "ai-4ed8f84d",
-        "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-        "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-        "bullets": [
-          "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T23:08:58.000Z"
-      },
-      {
-        "id": "ai-f59726af",
-        "title": "Investors love AI, as long as you’re a cloud host",
-        "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-        "bullets": [
-          "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T22:41:41.000Z"
-      },
-      {
-        "id": "ai-9487864f",
-        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-        "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-        "bullets": [
-          "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T20:26:38.000Z"
       },
       {
         "id": "world-f367f02d",
@@ -2346,30 +2345,30 @@
         "publishedAt": "2026-07-31T14:20:18.000Z"
       },
       {
-        "id": "world-ccb7ab31",
-        "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-        "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+        "id": "world-815a311f",
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
         "bullets": [
-          "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
+          "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T04:25:49.000Z"
+        "publishedAt": "2026-07-31T15:18:31.000Z"
       },
       {
-        "id": "world-345e10b4",
-        "title": "AC Milan and Italy great Baresi dies aged 66",
-        "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+        "id": "world-ff3c0b5f",
+        "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+        "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
         "bullets": [
-          "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
+          "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T09:44:48.000Z"
+        "publishedAt": "2026-07-31T16:41:59.000Z"
       },
       {
         "id": "world-3458222d",
