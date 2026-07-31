@@ -2134,7 +2134,7 @@
   },
   {
     "date": "2026-07-31",
-    "generatedAt": "2026-07-31T19:55:20.560Z",
+    "generatedAt": "2026-07-31T22:16:53.700Z",
     "articles": [
       {
         "id": "top-dc82c964",
@@ -2163,8 +2163,8 @@
         "publishedAt": "2026-07-31T15:48:34.000Z"
       },
       {
-        "id": "top-a1f9eb2a",
-        "title": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
+        "id": "top-9b0958ca",
+        "title": "Fifa executive says staff 'deceived' by Infantino plans",
         "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
         "bullets": [
           "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors."
@@ -2173,7 +2173,7 @@
         "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T17:45:11.000Z"
+        "publishedAt": "2026-07-31T21:48:49.000Z"
       },
       {
         "id": "top-7b36adac",
@@ -2189,17 +2189,56 @@
         "publishedAt": "2026-07-31T16:40:45.000Z"
       },
       {
-        "id": "top-88e12044",
-        "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
-        "summary": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record.",
+        "id": "top-fd6f4643",
+        "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+        "summary": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal.",
         "bullets": [
-          "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record."
+          "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T16:52:16.000Z"
+        "publishedAt": "2026-07-31T20:58:27.000Z"
+      },
+      {
+        "id": "tech-640dad21",
+        "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+        "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+        "bullets": [
+          "Had the hacks used conventional methods, someone would likely go to prison."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T20:39:14.000Z"
+      },
+      {
+        "id": "tech-6eb6883e",
+        "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+        "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+        "bullets": [
+          "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T20:21:05.000Z"
+      },
+      {
+        "id": "tech-39957275",
+        "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+        "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
+        "bullets": [
+          "LemonLime’s CEO got “carried away” with tattoo gimmick."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T19:04:56.000Z"
       },
       {
         "id": "tech-54934932",
@@ -2228,43 +2267,17 @@
         "publishedAt": "2026-07-31T17:58:38.000Z"
       },
       {
-        "id": "tech-54edf275",
-        "title": "China could supply EV manufacturing boom with recycled EVs",
-        "summary": "Look at chemistry of batteries and motors shows big opportunity for recycling.",
+        "id": "ai-9174d6c9",
+        "title": "India is starting to pay for apps, not just download them",
+        "summary": "India's app market generated a record $345 million in Q2.",
         "bullets": [
-          "Look at chemistry of batteries and motors shows big opportunity for recycling."
+          "India's app market generated a record $345 million in Q2."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T17:29:21.000Z"
-      },
-      {
-        "id": "tech-45a073e7",
-        "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-        "summary": "Sony doesn't think the move will hurt it financially.",
-        "bullets": [
-          "Sony doesn't think the move will hurt it financially."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T17:07:42.000Z"
-      },
-      {
-        "id": "tech-ac397237",
-        "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
-        "summary": "Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie.",
-        "bullets": [
-          "Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T16:17:55.000Z"
+        "publishedAt": "2026-07-31T21:07:45.000Z"
       },
       {
         "id": "ai-bcbcd2e6",
@@ -2319,19 +2332,6 @@
         "publishedAt": "2026-07-31T16:08:18.000Z"
       },
       {
-        "id": "ai-a02f904c",
-        "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-        "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-        "bullets": [
-          "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T15:16:17.000Z"
-      },
-      {
         "id": "world-dc82c964",
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
@@ -2358,17 +2358,17 @@
         "publishedAt": "2026-07-31T15:18:31.000Z"
       },
       {
-        "id": "world-ff3c0b5f",
-        "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-        "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
+        "id": "world-d0cef06d",
+        "title": "Body of US climber the latest recovered after Pakistan avalanche",
+        "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
         "bullets": [
-          "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear."
+          "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T16:41:59.000Z"
+        "publishedAt": "2026-07-31T20:22:46.000Z"
       },
       {
         "id": "world-3458222d",
