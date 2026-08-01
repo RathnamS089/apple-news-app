@@ -2400,33 +2400,20 @@
   },
   {
     "date": "2026-08-01",
-    "generatedAt": "2026-08-01T03:52:57.850Z",
+    "generatedAt": "2026-08-01T08:35:13.412Z",
     "articles": [
       {
-        "id": "top-c5b3f61b",
-        "title": "Fifa scraps controversial World Cup investment plan",
-        "summary": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+        "id": "top-e838e9df",
+        "title": "Fifa scraps World Cup investment plan after outcry",
+        "summary": "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead.",
         "bullets": [
-          "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni..."
+          "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T00:12:06.000Z"
-      },
-      {
-        "id": "top-dc82c964",
-        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-        "bullets": [
-          "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T17:03:47.000Z"
+        "publishedAt": "2026-08-01T05:42:31.000Z"
       },
       {
         "id": "top-00a4bbf8",
@@ -2442,6 +2429,19 @@
         "publishedAt": "2026-07-31T22:53:54.000Z"
       },
       {
+        "id": "top-dc82c964",
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+        "bullets": [
+          "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T17:03:47.000Z"
+      },
+      {
         "id": "top-059c470f",
         "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
         "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
@@ -2455,17 +2455,17 @@
         "publishedAt": "2026-07-31T22:46:44.000Z"
       },
       {
-        "id": "top-88e12044",
-        "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
-        "summary": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record.",
+        "id": "top-1e107e79",
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
         "bullets": [
-          "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record."
+          "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T16:52:16.000Z"
+        "publishedAt": "2026-08-01T05:01:56.000Z"
       },
       {
         "id": "tech-f1ac2b8b",
@@ -2598,6 +2598,19 @@
         "publishedAt": "2026-07-31T16:49:08.000Z"
       },
       {
+        "id": "world-c5b3f61b",
+        "title": "Fifa scraps controversial World Cup investment plan",
+        "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+        "bullets": [
+          "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T05:42:31.000Z"
+      },
+      {
         "id": "world-dc82c964",
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
@@ -2611,56 +2624,43 @@
         "publishedAt": "2026-07-31T17:03:47.000Z"
       },
       {
-        "id": "world-815a311f",
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+        "id": "world-1e107e79",
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
         "bullets": [
-          "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
+          "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T15:18:31.000Z"
+        "publishedAt": "2026-08-01T05:01:56.000Z"
       },
       {
-        "id": "world-d0cef06d",
-        "title": "Body of US climber the latest recovered after Pakistan avalanche",
-        "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+        "id": "world-6bdbe79b",
+        "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+        "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
         "bullets": [
-          "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
+          "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T08:24:09.000Z"
+      },
+      {
+        "id": "world-7031587e",
+        "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+        "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
+        "bullets": [
+          "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T20:22:46.000Z"
-      },
-      {
-        "id": "world-5f7ebc0b",
-        "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-        "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-        "bullets": [
-          "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T02:21:29.000Z"
-      },
-      {
-        "id": "world-6d2507a5",
-        "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-        "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
-        "bullets": [
-          "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T14:26:07.000Z"
+        "publishedAt": "2026-08-01T07:22:30.000Z"
       }
     ]
   }
