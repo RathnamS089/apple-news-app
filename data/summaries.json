@@ -2400,21 +2400,8 @@
   },
   {
     "date": "2026-08-01",
-    "generatedAt": "2026-08-01T16:14:40.306Z",
+    "generatedAt": "2026-08-01T19:36:15.874Z",
     "articles": [
-      {
-        "id": "top-34a1d94d",
-        "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-        "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
-        "bullets": [
-          "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T09:51:05.000Z"
-      },
       {
         "id": "top-2a6fe5d6",
         "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
@@ -2427,6 +2414,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-01T15:46:08.000Z"
+      },
+      {
+        "id": "top-10874de3",
+        "title": "Call for 'full review' as pressure grows on Infantino",
+        "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+        "bullets": [
+          "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T17:07:46.000Z"
       },
       {
         "id": "top-2b9e8983",
@@ -2442,8 +2442,8 @@
         "publishedAt": "2026-08-01T15:25:30.000Z"
       },
       {
-        "id": "top-be5deab6",
-        "title": "William and Kate bring children to Commonwealth Games netball and cycling events",
+        "id": "top-cc8ff2e8",
+        "title": "William and Kate bring children to Commonwealth Games",
         "summary": "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England.",
         "bullets": [
           "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England."
@@ -2452,7 +2452,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T15:28:33.000Z"
+        "publishedAt": "2026-08-01T17:23:55.000Z"
       },
       {
         "id": "top-78311f97",
@@ -2466,6 +2466,32 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-01T09:13:00.000Z"
+      },
+      {
+        "id": "tech-c1943403",
+        "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+        "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+        "bullets": [
+          "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T18:20:11.000Z"
+      },
+      {
+        "id": "tech-681b9e14",
+        "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+        "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+        "bullets": [
+          "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T15:19:04.000Z"
       },
       {
         "id": "tech-4162966d",
@@ -2507,30 +2533,17 @@
         "publishedAt": "2026-08-01T10:05:21.000Z"
       },
       {
-        "id": "tech-8d69ec47",
-        "title": "How fruit flies chase invisible ribbons of smell to get to their source",
-        "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+        "id": "ai-bada20a1",
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
         "bullets": [
-          "Tracking smells in turbulent air takes a keen sense of direction and sharp memory."
+          "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T10:00:19.000Z"
-      },
-      {
-        "id": "tech-f1ac2b8b",
-        "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
-        "summary": "Some group with no modern descendants contributed a lot to our genomes.",
-        "bullets": [
-          "Some group with no modern descendants contributed a lot to our genomes."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T22:17:05.000Z"
+        "publishedAt": "2026-08-01T17:07:34.000Z"
       },
       {
         "id": "ai-65c702c7",
@@ -2585,19 +2598,6 @@
         "publishedAt": "2026-07-31T19:47:28.000Z"
       },
       {
-        "id": "ai-1bff46b4",
-        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-        "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a...",
-        "bullets": [
-          "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T17:26:32.000Z"
-      },
-      {
         "id": "world-2a6fe5d6",
         "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
         "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
@@ -2611,17 +2611,17 @@
         "publishedAt": "2026-08-01T15:46:08.000Z"
       },
       {
-        "id": "world-34a1d94d",
-        "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-        "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+        "id": "world-10874de3",
+        "title": "Call for 'full review' as pressure grows on Infantino",
+        "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
         "bullets": [
-          "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago."
+          "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T09:51:05.000Z"
+        "publishedAt": "2026-08-01T17:07:46.000Z"
       },
       {
         "id": "world-1e107e79",
@@ -2637,6 +2637,19 @@
         "publishedAt": "2026-08-01T05:01:56.000Z"
       },
       {
+        "id": "world-3b74756b",
+        "title": "Italy putting nearly all major cities on highest heat alert",
+        "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+        "bullets": [
+          "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T17:51:46.000Z"
+      },
+      {
         "id": "world-2b9e8983",
         "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
         "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
@@ -2648,19 +2661,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-01T15:25:30.000Z"
-      },
-      {
-        "id": "world-ff5d9616",
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-        "bullets": [
-          "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T13:35:39.000Z"
       }
     ]
   }
