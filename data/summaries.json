@@ -2400,20 +2400,46 @@
   },
   {
     "date": "2026-08-01",
-    "generatedAt": "2026-08-01T08:35:13.412Z",
+    "generatedAt": "2026-08-01T10:50:31.898Z",
     "articles": [
       {
-        "id": "top-e838e9df",
-        "title": "Fifa scraps World Cup investment plan after outcry",
-        "summary": "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead.",
+        "id": "top-84be72aa",
+        "title": "Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped",
+        "summary": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
         "bullets": [
-          "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead."
+          "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T05:42:31.000Z"
+        "publishedAt": "2026-08-01T09:51:05.000Z"
+      },
+      {
+        "id": "top-2a6fe5d6",
+        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+        "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+        "bullets": [
+          "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T10:11:39.000Z"
+      },
+      {
+        "id": "top-e63d8be8",
+        "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
+        "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform",
+        "bullets": [
+          "The governing party's poll ratings have improved but they're only just ahead of Reform"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T09:13:00.000Z"
       },
       {
         "id": "top-00a4bbf8",
@@ -2427,32 +2453,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-07-31T22:53:54.000Z"
-      },
-      {
-        "id": "top-dc82c964",
-        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-        "bullets": [
-          "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T17:03:47.000Z"
-      },
-      {
-        "id": "top-059c470f",
-        "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
-        "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
-        "bullets": [
-          "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T22:46:44.000Z"
       },
       {
         "id": "top-1e107e79",
@@ -2598,30 +2598,30 @@
         "publishedAt": "2026-07-31T16:49:08.000Z"
       },
       {
-        "id": "world-c5b3f61b",
-        "title": "Fifa scraps controversial World Cup investment plan",
-        "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+        "id": "world-2a6fe5d6",
+        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+        "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
         "bullets": [
-          "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni..."
+          "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T05:42:31.000Z"
+        "publishedAt": "2026-08-01T10:11:39.000Z"
       },
       {
-        "id": "world-dc82c964",
-        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+        "id": "world-028b3b4b",
+        "title": "Uefa has 'lost confidence' in Fifa leadership",
+        "summary": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
         "bullets": [
-          "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
+          "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T17:03:47.000Z"
+        "publishedAt": "2026-08-01T09:51:05.000Z"
       },
       {
         "id": "world-1e107e79",
