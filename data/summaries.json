@@ -2397,5 +2397,271 @@
         "publishedAt": "2026-07-31T14:26:07.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "generatedAt": "2026-08-01T03:52:57.850Z",
+    "articles": [
+      {
+        "id": "top-c5b3f61b",
+        "title": "Fifa scraps controversial World Cup investment plan",
+        "summary": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+        "bullets": [
+          "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T00:12:06.000Z"
+      },
+      {
+        "id": "top-dc82c964",
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+        "bullets": [
+          "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T17:03:47.000Z"
+      },
+      {
+        "id": "top-00a4bbf8",
+        "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
+        "summary": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.",
+        "bullets": [
+          "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T22:53:54.000Z"
+      },
+      {
+        "id": "top-059c470f",
+        "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+        "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
+        "bullets": [
+          "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T22:46:44.000Z"
+      },
+      {
+        "id": "top-88e12044",
+        "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
+        "summary": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record.",
+        "bullets": [
+          "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T16:52:16.000Z"
+      },
+      {
+        "id": "tech-f1ac2b8b",
+        "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+        "summary": "Some group with no modern descendants contributed a lot to our genomes.",
+        "bullets": [
+          "Some group with no modern descendants contributed a lot to our genomes."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T22:17:05.000Z"
+      },
+      {
+        "id": "tech-44a4458d",
+        "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+        "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
+        "bullets": [
+          "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T21:51:52.000Z"
+      },
+      {
+        "id": "tech-c2ebbf70",
+        "title": "Google plans to exempt sanctioned nations from Android developer verification",
+        "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
+        "bullets": [
+          "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T21:35:56.000Z"
+      },
+      {
+        "id": "tech-292ef65f",
+        "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+        "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
+        "bullets": [
+          "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T21:19:39.000Z"
+      },
+      {
+        "id": "tech-d24b976b",
+        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+        "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+        "bullets": [
+          "Had the hacks used conventional methods, someone would likely go to prison."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T20:39:14.000Z"
+      },
+      {
+        "id": "ai-f3dd5fa3",
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "bullets": [
+          "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T22:47:26.000Z"
+      },
+      {
+        "id": "ai-9174d6c9",
+        "title": "India is starting to pay for apps, not just download them",
+        "summary": "India's app market generated a record $345 million in Q2.",
+        "bullets": [
+          "India's app market generated a record $345 million in Q2."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T21:07:45.000Z"
+      },
+      {
+        "id": "ai-bcbcd2e6",
+        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+        "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+        "bullets": [
+          "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T19:47:28.000Z"
+      },
+      {
+        "id": "ai-1bff46b4",
+        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+        "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a...",
+        "bullets": [
+          "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T17:26:32.000Z"
+      },
+      {
+        "id": "ai-f347a4a4",
+        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+        "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+        "bullets": [
+          "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T16:49:08.000Z"
+      },
+      {
+        "id": "world-dc82c964",
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+        "bullets": [
+          "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T17:03:47.000Z"
+      },
+      {
+        "id": "world-815a311f",
+        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+        "bullets": [
+          "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T15:18:31.000Z"
+      },
+      {
+        "id": "world-d0cef06d",
+        "title": "Body of US climber the latest recovered after Pakistan avalanche",
+        "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+        "bullets": [
+          "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T20:22:46.000Z"
+      },
+      {
+        "id": "world-5f7ebc0b",
+        "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+        "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+        "bullets": [
+          "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T02:21:29.000Z"
+      },
+      {
+        "id": "world-6d2507a5",
+        "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+        "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+        "bullets": [
+          "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-07-31T14:26:07.000Z"
+      }
+    ]
   }
 ]
