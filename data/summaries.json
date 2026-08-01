@@ -2400,7 +2400,7 @@
   },
   {
     "date": "2026-08-01",
-    "generatedAt": "2026-08-01T13:57:33.417Z",
+    "generatedAt": "2026-08-01T16:14:40.306Z",
     "articles": [
       {
         "id": "top-34a1d94d",
@@ -2426,27 +2426,40 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T12:43:21.000Z"
+        "publishedAt": "2026-08-01T15:46:08.000Z"
       },
       {
         "id": "top-2b9e8983",
         "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-        "summary": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
         "bullets": [
-          "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
+          "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T13:02:04.000Z"
+        "publishedAt": "2026-08-01T15:25:30.000Z"
+      },
+      {
+        "id": "top-be5deab6",
+        "title": "William and Kate bring children to Commonwealth Games netball and cycling events",
+        "summary": "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England.",
+        "bullets": [
+          "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T15:28:33.000Z"
       },
       {
         "id": "top-78311f97",
         "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-        "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform",
+        "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform.",
         "bullets": [
-          "The governing party's poll ratings have improved but they're only just ahead of Reform"
+          "The governing party's poll ratings have improved but they're only just ahead of Reform."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
@@ -2455,17 +2468,17 @@
         "publishedAt": "2026-08-01T09:13:00.000Z"
       },
       {
-        "id": "top-ff5d9616",
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+        "id": "tech-4162966d",
+        "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+        "summary": "Reddit may still be considering ending its licensing deal with Google.",
         "bullets": [
-          "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
+          "Reddit may still be considering ending its licensing deal with Google."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T13:35:39.000Z"
+        "publishedAt": "2026-08-01T12:30:36.000Z"
       },
       {
         "id": "tech-1ece902d",
@@ -2520,17 +2533,17 @@
         "publishedAt": "2026-07-31T22:17:05.000Z"
       },
       {
-        "id": "tech-44a4458d",
-        "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-        "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
+        "id": "ai-65c702c7",
+        "title": "This $9 key physically locks your most addictive apps",
+        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
         "bullets": [
-          "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women."
+          "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-07-31T21:51:52.000Z"
+        "publishedAt": "2026-08-01T15:58:17.000Z"
       },
       {
         "id": "ai-f3dd5fa3",
@@ -2585,19 +2598,6 @@
         "publishedAt": "2026-07-31T17:26:32.000Z"
       },
       {
-        "id": "ai-f347a4a4",
-        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-        "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-        "bullets": [
-          "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T16:49:08.000Z"
-      },
-      {
         "id": "world-2a6fe5d6",
         "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
         "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
@@ -2608,7 +2608,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T12:43:21.000Z"
+        "publishedAt": "2026-08-01T15:46:08.000Z"
       },
       {
         "id": "world-34a1d94d",
@@ -2639,15 +2639,15 @@
       {
         "id": "world-2b9e8983",
         "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-        "summary": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
         "bullets": [
-          "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
+          "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T13:02:04.000Z"
+        "publishedAt": "2026-08-01T15:25:30.000Z"
       },
       {
         "id": "world-ff5d9616",
