@@ -2400,33 +2400,34 @@
   },
   {
     "date": "2026-08-01",
-    "generatedAt": "2026-08-01T19:36:15.874Z",
+    "generatedAt": "2026-08-01T22:12:48.635Z",
     "articles": [
       {
-        "id": "top-2a6fe5d6",
-        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-        "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+        "id": "top-eb073e94",
+        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+        "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
         "bullets": [
-          "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
+          "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T15:46:08.000Z"
+        "publishedAt": "2026-08-01T20:09:27.000Z"
       },
       {
-        "id": "top-10874de3",
-        "title": "Call for 'full review' as pressure grows on Infantino",
-        "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+        "id": "top-dadc2d3a",
+        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+        "summary": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
         "bullets": [
-          "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean."
+          "The pressure is building on Gianni Infantino.",
+          "Can he survive as Fifa president?"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T17:07:46.000Z"
+        "publishedAt": "2026-08-01T22:03:13.000Z"
       },
       {
         "id": "top-2b9e8983",
@@ -2442,30 +2443,30 @@
         "publishedAt": "2026-08-01T15:25:30.000Z"
       },
       {
-        "id": "top-cc8ff2e8",
-        "title": "William and Kate bring children to Commonwealth Games",
-        "summary": "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England.",
+        "id": "top-df314653",
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
         "bullets": [
-          "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England."
+          "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T17:23:55.000Z"
+        "publishedAt": "2026-08-01T21:13:17.000Z"
       },
       {
-        "id": "top-78311f97",
-        "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-        "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform.",
+        "id": "top-a8d3af49",
+        "title": "Cambridge professor at centre of plagiarism row defends his work",
+        "summary": "Prof Jason Arday admitted errors in his work but said he was not a liar after attracting criticism online.",
         "bullets": [
-          "The governing party's poll ratings have improved but they're only just ahead of Reform."
+          "Prof Jason Arday admitted errors in his work but said he was not a liar after attracting criticism online."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gmp7zylvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T09:13:00.000Z"
+        "publishedAt": "2026-08-01T20:32:25.000Z"
       },
       {
         "id": "tech-c1943403",
@@ -2533,6 +2534,33 @@
         "publishedAt": "2026-08-01T10:05:21.000Z"
       },
       {
+        "id": "ai-c029c3ed",
+        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+        "bullets": [
+          "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T20:26:04.000Z"
+      },
+      {
+        "id": "ai-c32d16dc",
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "bullets": [
+          "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ...",
+          "is not healthy for me or good for the world.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T19:45:45.000Z"
+      },
+      {
         "id": "ai-bada20a1",
         "title": "Sam Altman is still making the case for parenting via ChatGPT",
         "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
@@ -2572,43 +2600,17 @@
         "publishedAt": "2026-07-31T22:47:26.000Z"
       },
       {
-        "id": "ai-9174d6c9",
-        "title": "India is starting to pay for apps, not just download them",
-        "summary": "India's app market generated a record $345 million in Q2.",
+        "id": "world-eb073e94",
+        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+        "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
         "bullets": [
-          "India's app market generated a record $345 million in Q2."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T21:07:45.000Z"
-      },
-      {
-        "id": "ai-bcbcd2e6",
-        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-        "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-        "bullets": [
-          "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T19:47:28.000Z"
-      },
-      {
-        "id": "world-2a6fe5d6",
-        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-        "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
-        "bullets": [
-          "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
+          "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T15:46:08.000Z"
+        "publishedAt": "2026-08-01T20:09:27.000Z"
       },
       {
         "id": "world-10874de3",
@@ -2622,6 +2624,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-01T17:07:46.000Z"
+      },
+      {
+        "id": "world-10b97289",
+        "title": "Tourist plane crashes in Peru, killing 13",
+        "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+        "bullets": [
+          "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T20:51:09.000Z"
       },
       {
         "id": "world-1e107e79",
@@ -2648,19 +2663,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-01T17:51:46.000Z"
-      },
-      {
-        "id": "world-2b9e8983",
-        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-        "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-        "bullets": [
-          "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T15:25:30.000Z"
       }
     ]
   }
