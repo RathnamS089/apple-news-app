@@ -2668,8 +2668,21 @@
   },
   {
     "date": "2026-08-02",
-    "generatedAt": "2026-08-02T19:36:28.827Z",
+    "generatedAt": "2026-08-02T22:12:09.366Z",
     "articles": [
+      {
+        "id": "top-4d56d920",
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+        "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+        "bullets": [
+          "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T20:36:37.000Z"
+      },
       {
         "id": "top-818640f2",
         "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
@@ -2681,20 +2694,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T16:45:03.000Z"
+        "publishedAt": "2026-08-02T21:18:26.000Z"
       },
       {
-        "id": "top-96ee6e3e",
-        "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
-        "summary": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
+        "id": "top-e1736cc9",
+        "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+        "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour, her representative says.",
         "bullets": [
-          "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences."
+          "The US singer, 33, will \"step back from visibility\" at the end of her world tour, her representative says."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T17:53:09.000Z"
+        "publishedAt": "2026-08-02T21:02:29.000Z"
       },
       {
         "id": "top-c049f622",
@@ -2710,30 +2723,17 @@
         "publishedAt": "2026-08-02T14:15:07.000Z"
       },
       {
-        "id": "top-4f78be47",
-        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-        "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "id": "top-96ee6e3e",
+        "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+        "summary": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
         "bullets": [
-          "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight."
+          "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T15:48:00.000Z"
-      },
-      {
-        "id": "top-72e0e016",
-        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-        "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-        "bullets": [
-          "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-02T11:12:00.000Z"
+        "publishedAt": "2026-08-02T17:53:09.000Z"
       },
       {
         "id": "tech-c1943403",
@@ -2801,6 +2801,19 @@
         "publishedAt": "2026-08-01T10:05:21.000Z"
       },
       {
+        "id": "ai-7251e232",
+        "title": "Sam Altman and AI’s decel debate",
+        "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+        "bullets": [
+          "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T20:54:22.000Z"
+      },
+      {
         "id": "ai-c029c3ed",
         "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
         "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
@@ -2854,21 +2867,8 @@
         "publishedAt": "2026-08-01T15:58:17.000Z"
       },
       {
-        "id": "ai-f3dd5fa3",
-        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-        "bullets": [
-          "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T22:47:26.000Z"
-      },
-      {
-        "id": "world-ac17ffad",
-        "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+        "id": "world-4d56d920",
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
         "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
         "bullets": [
           "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
@@ -2877,7 +2877,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T19:15:57.000Z"
+        "publishedAt": "2026-08-02T20:36:37.000Z"
       },
       {
         "id": "world-72e0e016",
