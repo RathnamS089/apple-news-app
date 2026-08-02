@@ -2668,7 +2668,7 @@
   },
   {
     "date": "2026-08-02",
-    "generatedAt": "2026-08-02T10:51:57.006Z",
+    "generatedAt": "2026-08-02T13:58:29.956Z",
     "articles": [
       {
         "id": "top-72e0e016",
@@ -2681,7 +2681,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T09:10:51.000Z"
+        "publishedAt": "2026-08-02T11:12:00.000Z"
+      },
+      {
+        "id": "top-60424f2b",
+        "title": "Continued drought could cause shortage of some foods, farmers' union head says",
+        "summary": "NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.",
+        "bullets": [
+          "NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T12:41:28.000Z"
       },
       {
         "id": "top-0f1acedc",
@@ -2697,31 +2710,17 @@
         "publishedAt": "2026-08-01T23:03:35.000Z"
       },
       {
-        "id": "top-df314653",
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+        "id": "top-892b6b0a",
+        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+        "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
         "bullets": [
-          "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
+          "The vessel with at least 250 people on board caught fire off Madura island."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T05:40:42.000Z"
-      },
-      {
-        "id": "top-0ca07677",
-        "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
-        "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-        "bullets": [
-          "Pressure is building on Gianni Infantino.",
-          "Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T22:23:20.000Z"
+        "publishedAt": "2026-08-02T11:49:40.000Z"
       },
       {
         "id": "top-235eb326",
@@ -2878,7 +2877,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T09:10:51.000Z"
+        "publishedAt": "2026-08-02T11:12:00.000Z"
       },
       {
         "id": "world-92ca94c5",
@@ -2904,7 +2903,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T10:46:47.000Z"
+        "publishedAt": "2026-08-02T11:49:40.000Z"
       },
       {
         "id": "world-43d21748",
@@ -2920,17 +2919,18 @@
         "publishedAt": "2026-08-01T23:03:35.000Z"
       },
       {
-        "id": "world-88fffe1b",
-        "title": "The Sopranos star Vincent Pastore dies aged 80",
-        "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+        "id": "world-dadc2d3a",
+        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+        "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
         "bullets": [
-          "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
+          "Pressure is building on Gianni Infantino.",
+          "Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T22:57:55.000Z"
+        "publishedAt": "2026-08-01T22:23:20.000Z"
       }
     ]
   }
