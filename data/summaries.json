@@ -2668,11 +2668,11 @@
   },
   {
     "date": "2026-08-02",
-    "generatedAt": "2026-08-02T08:38:07.989Z",
+    "generatedAt": "2026-08-02T10:51:57.006Z",
     "articles": [
       {
-        "id": "top-caa54955",
-        "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+        "id": "top-72e0e016",
+        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
         "bullets": [
           "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been..."
@@ -2681,7 +2681,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T06:24:01.000Z"
+        "publishedAt": "2026-08-02T09:10:51.000Z"
+      },
+      {
+        "id": "top-0f1acedc",
+        "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
+        "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+        "bullets": [
+          "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-01T23:03:35.000Z"
       },
       {
         "id": "top-df314653",
@@ -2697,21 +2710,8 @@
         "publishedAt": "2026-08-02T05:40:42.000Z"
       },
       {
-        "id": "top-43d21748",
-        "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-        "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-        "bullets": [
-          "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T23:03:35.000Z"
-      },
-      {
-        "id": "top-dadc2d3a",
-        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+        "id": "top-0ca07677",
+        "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
         "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
         "bullets": [
           "Pressure is building on Gianni Infantino.",
@@ -2724,17 +2724,17 @@
         "publishedAt": "2026-08-01T22:23:20.000Z"
       },
       {
-        "id": "top-92ca94c5",
-        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-        "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+        "id": "top-235eb326",
+        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+        "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
         "bullets": [
-          "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
+          "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T00:55:16.000Z"
+        "publishedAt": "2026-08-02T10:11:26.000Z"
       },
       {
         "id": "tech-c1943403",
@@ -2868,8 +2868,8 @@
         "publishedAt": "2026-07-31T22:47:26.000Z"
       },
       {
-        "id": "world-caa54955",
-        "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+        "id": "world-72e0e016",
+        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
         "bullets": [
           "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been..."
@@ -2878,7 +2878,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T06:24:01.000Z"
+        "publishedAt": "2026-08-02T09:10:51.000Z"
       },
       {
         "id": "world-92ca94c5",
@@ -2891,20 +2891,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T00:55:16.000Z"
+        "publishedAt": "2026-08-02T10:32:28.000Z"
       },
       {
-        "id": "world-eb073e94",
-        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-        "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+        "id": "world-892b6b0a",
+        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+        "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
         "bullets": [
-          "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
+          "The vessel with at least 250 people on board caught fire off Madura island."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T20:09:27.000Z"
+        "publishedAt": "2026-08-02T10:46:47.000Z"
       },
       {
         "id": "world-43d21748",
