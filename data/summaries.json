@@ -2668,7 +2668,7 @@
   },
   {
     "date": "2026-08-02",
-    "generatedAt": "2026-08-02T16:14:24.466Z",
+    "generatedAt": "2026-08-02T19:36:28.827Z",
     "articles": [
       {
         "id": "top-818640f2",
@@ -2681,20 +2681,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T15:48:22.000Z"
+        "publishedAt": "2026-08-02T16:45:03.000Z"
       },
       {
-        "id": "top-e4a53624",
-        "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
-        "summary": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+        "id": "top-96ee6e3e",
+        "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+        "summary": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
         "bullets": [
-          "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences."
+          "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T14:28:15.000Z"
+        "publishedAt": "2026-08-02T17:53:09.000Z"
       },
       {
         "id": "top-c049f622",
@@ -2710,6 +2710,19 @@
         "publishedAt": "2026-08-02T14:15:07.000Z"
       },
       {
+        "id": "top-4f78be47",
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "bullets": [
+          "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T15:48:00.000Z"
+      },
+      {
         "id": "top-72e0e016",
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
@@ -2721,19 +2734,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-02T11:12:00.000Z"
-      },
-      {
-        "id": "top-cf4d7ee7",
-        "title": "Why I don't regret choosing a vasectomy in my 20s",
-        "summary": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip.",
-        "bullets": [
-          "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T23:35:28.000Z"
       },
       {
         "id": "tech-c1943403",
@@ -2867,17 +2867,17 @@
         "publishedAt": "2026-07-31T22:47:26.000Z"
       },
       {
-        "id": "world-f46b067b",
-        "title": "Helicopters fighting Greece wildfires collide in mid-air",
-        "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+        "id": "world-ac17ffad",
+        "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+        "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
         "bullets": [
-          "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames."
+          "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T15:21:56.000Z"
+        "publishedAt": "2026-08-02T19:15:57.000Z"
       },
       {
         "id": "world-72e0e016",
