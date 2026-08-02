@@ -2668,8 +2668,47 @@
   },
   {
     "date": "2026-08-02",
-    "generatedAt": "2026-08-02T13:58:29.956Z",
+    "generatedAt": "2026-08-02T16:14:24.466Z",
     "articles": [
+      {
+        "id": "top-818640f2",
+        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+        "summary": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+        "bullets": [
+          "The prime minister says enforcement is increased but there also need to be more safe routes into the UK."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T15:48:22.000Z"
+      },
+      {
+        "id": "top-e4a53624",
+        "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+        "summary": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+        "bullets": [
+          "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T14:28:15.000Z"
+      },
+      {
+        "id": "top-c049f622",
+        "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+        "summary": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+        "bullets": [
+          "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T14:15:07.000Z"
+      },
       {
         "id": "top-72e0e016",
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -2684,56 +2723,17 @@
         "publishedAt": "2026-08-02T11:12:00.000Z"
       },
       {
-        "id": "top-60424f2b",
-        "title": "Continued drought could cause shortage of some foods, farmers' union head says",
-        "summary": "NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.",
+        "id": "top-cf4d7ee7",
+        "title": "Why I don't regret choosing a vasectomy in my 20s",
+        "summary": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip.",
         "bullets": [
-          "NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply."
+          "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T12:41:28.000Z"
-      },
-      {
-        "id": "top-0f1acedc",
-        "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
-        "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-        "bullets": [
-          "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T23:03:35.000Z"
-      },
-      {
-        "id": "top-892b6b0a",
-        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-        "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
-        "bullets": [
-          "The vessel with at least 250 people on board caught fire off Madura island."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-02T11:49:40.000Z"
-      },
-      {
-        "id": "top-235eb326",
-        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-        "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-        "bullets": [
-          "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-02T10:11:26.000Z"
+        "publishedAt": "2026-08-01T23:35:28.000Z"
       },
       {
         "id": "tech-c1943403",
@@ -2867,6 +2867,19 @@
         "publishedAt": "2026-07-31T22:47:26.000Z"
       },
       {
+        "id": "world-f46b067b",
+        "title": "Helicopters fighting Greece wildfires collide in mid-air",
+        "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+        "bullets": [
+          "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T15:21:56.000Z"
+      },
+      {
         "id": "world-72e0e016",
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
@@ -2878,6 +2891,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-02T11:12:00.000Z"
+      },
+      {
+        "id": "world-1929272f",
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "bullets": [
+          "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-02T15:50:59.000Z"
       },
       {
         "id": "world-92ca94c5",
@@ -2893,44 +2919,17 @@
         "publishedAt": "2026-08-02T10:32:28.000Z"
       },
       {
-        "id": "world-892b6b0a",
-        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-        "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
+        "id": "world-4f78be47",
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
         "bullets": [
-          "The vessel with at least 250 people on board caught fire off Madura island."
+          "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T11:49:40.000Z"
-      },
-      {
-        "id": "world-43d21748",
-        "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-        "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-        "bullets": [
-          "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T23:03:35.000Z"
-      },
-      {
-        "id": "world-dadc2d3a",
-        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-        "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-        "bullets": [
-          "Pressure is building on Gianni Infantino.",
-          "Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T22:23:20.000Z"
+        "publishedAt": "2026-08-02T15:48:00.000Z"
       }
     ]
   }
