@@ -2935,8 +2935,60 @@
   },
   {
     "date": "2026-08-03",
-    "generatedAt": "2026-08-03T03:56:58.121Z",
+    "generatedAt": "2026-08-03T10:07:50.162Z",
     "articles": [
+      {
+        "id": "top-db4c4c31",
+        "title": "English FA set to withdraw support for Fifa president Infantino",
+        "summary": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+        "bullets": [
+          "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T07:49:33.000Z"
+      },
+      {
+        "id": "top-fd213fbe",
+        "title": "Teacher has ground-breaking surgery while pregnant to treat baby's intestinal defect",
+        "summary": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+        "bullets": [
+          "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T05:02:25.000Z"
+      },
+      {
+        "id": "top-728ac7f3",
+        "title": "Reform's Richard Tice investigated by parliamentary standards watchdog",
+        "summary": "Reform's deputy leader is being investigated about an allegation he failed to declare an interest.",
+        "bullets": [
+          "Reform's deputy leader is being investigated about an allegation he failed to declare an interest."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T10:00:05.000Z"
+      },
+      {
+        "id": "top-ac5d6b03",
+        "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+        "bullets": [
+          "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T03:32:21.000Z"
+      },
       {
         "id": "top-d996b010",
         "title": "Trump suggests new talks with Iran to begin on Monday",
@@ -2949,59 +3001,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T00:11:18.000Z"
-      },
-      {
-        "id": "top-ba8e84d2",
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-        "bullets": [
-          "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T03:32:21.000Z"
-      },
-      {
-        "id": "top-18a2f061",
-        "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-        "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
-        "bullets": [
-          "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-02T23:15:14.000Z"
-      },
-      {
-        "id": "top-d11cb953",
-        "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-        "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
-        "bullets": [
-          "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T01:04:23.000Z"
-      },
-      {
-        "id": "top-818640f2",
-        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-        "summary": "The PM says enforcement is being increased but there also need to be more safe routes into the UK.",
-        "bullets": [
-          "The PM says enforcement is being increased but there also need to be more safe routes into the UK."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-02T21:18:26.000Z"
+        "publishedAt": "2026-08-03T08:03:15.000Z"
       },
       {
         "id": "tech-c1943403",
@@ -3135,69 +3135,70 @@
         "publishedAt": "2026-08-01T15:58:17.000Z"
       },
       {
-        "id": "world-4d56d920",
-        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-        "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+        "id": "world-d996b010",
+        "title": "Trump suggests new talks with Iran to begin on Monday",
+        "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
         "bullets": [
-          "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
+          "Tehran has not responded to the suggestion that new talks are imminent.",
+          "Trump has previously said a negotiated end to the war is close, only for strikes to resume."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T01:03:31.000Z"
+        "publishedAt": "2026-08-03T08:03:15.000Z"
       },
       {
-        "id": "world-72e0e016",
-        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-        "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+        "id": "world-ba8e84d2",
+        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
         "bullets": [
-          "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been..."
+          "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T11:12:00.000Z"
+        "publishedAt": "2026-08-03T03:32:21.000Z"
       },
       {
-        "id": "world-1929272f",
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+        "id": "world-09ec632f",
+        "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+        "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
         "bullets": [
-          "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah."
+          "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T15:50:59.000Z"
+        "publishedAt": "2026-08-03T06:53:09.000Z"
       },
       {
-        "id": "world-92ca94c5",
-        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-        "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+        "id": "world-9a5bdff1",
+        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+        "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
         "bullets": [
-          "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
+          "The two women's employer has apologised for sending them back to Aeon Mall to secure cash."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T10:32:28.000Z"
+        "publishedAt": "2026-08-03T08:40:22.000Z"
       },
       {
-        "id": "world-4f78be47",
-        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-        "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+        "id": "world-b12c3471",
+        "title": "US and Japan take action to prop up yen in rare joint move",
+        "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
         "bullets": [
-          "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight."
+          "Both countries have said that they will not hesitate to conduct joint interventions in the future."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-02T15:48:00.000Z"
+        "publishedAt": "2026-08-03T07:30:52.000Z"
       }
     ]
   }
