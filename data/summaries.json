@@ -2935,11 +2935,24 @@
   },
   {
     "date": "2026-08-03",
-    "generatedAt": "2026-08-03T15:19:00.535Z",
+    "generatedAt": "2026-08-03T20:00:12.280Z",
     "articles": [
       {
-        "id": "top-db4c4c31",
-        "title": "English FA set to withdraw support for Fifa president Infantino",
+        "id": "top-20638cd2",
+        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+        "bullets": [
+          "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T18:04:30.000Z"
+      },
+      {
+        "id": "top-2cbf7526",
+        "title": "Infantino opponents threaten 'non co-operation' with Fifa",
         "summary": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
         "bullets": [
           "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president."
@@ -2953,54 +2966,68 @@
       {
         "id": "top-a53fef61",
         "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
+        "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
         "bullets": [
-          "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February."
+          "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T14:18:30.000Z"
+        "publishedAt": "2026-08-03T19:42:55.000Z"
       },
       {
-        "id": "top-ac5d6b03",
-        "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+        "id": "top-dfa1cea4",
+        "title": "France hits out at Reform UK plan to return migrants using Navy",
+        "summary": "It comes after the party said it would override French objections to return migrants to France.",
         "bullets": [
-          "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T03:32:21.000Z"
-      },
-      {
-        "id": "top-e3512a1d",
-        "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
-        "summary": "The columnist died in hospital in Middlsbrough on Sunday.",
-        "bullets": [
-          "The columnist died in hospital in Middlsbrough on Sunday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T13:35:45.000Z"
-      },
-      {
-        "id": "top-d6c9b3f7",
-        "title": "Reform UK insists using Navy to stop migrant boats would be legal",
-        "summary": "The party says under its plan it would override French objections to return migrants to France.",
-        "bullets": [
-          "The party says under its plan it would override French objections to return migrants to France."
+          "It comes after the party said it would override French objections to return migrants to France."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T14:57:19.000Z"
+        "publishedAt": "2026-08-03T16:48:58.000Z"
+      },
+      {
+        "id": "top-f9a3c175",
+        "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "summary": "The BBC is the first media organisation to gain access to the city and speak to people on the ground in Rawalakot.",
+        "bullets": [
+          "The BBC is the first media organisation to gain access to the city and speak to people on the ground in Rawalakot."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T15:29:13.000Z"
+      },
+      {
+        "id": "tech-fce8991a",
+        "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+        "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
+        "bullets": [
+          "At $25,305, you won't find many new cars for less.",
+          "But you get what you pay for."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T16:10:22.000Z"
+      },
+      {
+        "id": "tech-89bb0f12",
+        "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+        "summary": "A Louisiana launch site would offer several significant advantages.",
+        "bullets": [
+          "A Louisiana launch site would offer several significant advantages."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T14:41:46.000Z"
       },
       {
         "id": "tech-02c2ce34",
@@ -3042,30 +3069,58 @@
         "publishedAt": "2026-08-01T18:20:11.000Z"
       },
       {
-        "id": "tech-681b9e14",
-        "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-        "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+        "id": "ai-b1f95a31",
+        "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+        "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
         "bullets": [
-          "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth."
+          "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T15:19:04.000Z"
+        "publishedAt": "2026-08-03T19:28:57.000Z"
       },
       {
-        "id": "tech-4162966d",
-        "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-        "summary": "Reddit may still be considering ending its licensing deal with Google.",
+        "id": "ai-0a10db61",
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
         "bullets": [
-          "Reddit may still be considering ending its licensing deal with Google."
+          "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T12:30:36.000Z"
+        "publishedAt": "2026-08-03T19:09:56.000Z"
+      },
+      {
+        "id": "ai-abb51a9c",
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete...",
+        "bullets": [
+          "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be.",
+          "But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and...",
+          "Siri AI is genuinely useful, yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T18:43:43.000Z"
+      },
+      {
+        "id": "ai-af9ead7a",
+        "title": "Congress’ favorite AI tool? ChatGPT",
+        "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+        "bullets": [
+          "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T16:40:55.000Z"
       },
       {
         "id": "ai-c6168eb2",
@@ -3081,70 +3136,17 @@
         "publishedAt": "2026-08-03T10:00:00.000Z"
       },
       {
-        "id": "ai-7251e232",
-        "title": "Sam Altman and AI’s decel debate",
-        "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+        "id": "world-20638cd2",
+        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
         "bullets": [
-          "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-02T20:54:22.000Z"
-      },
-      {
-        "id": "ai-c029c3ed",
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-        "bullets": [
-          "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T20:26:04.000Z"
-      },
-      {
-        "id": "ai-c32d16dc",
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-        "bullets": [
-          "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ...",
-          "is not healthy for me or good for the world.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T19:45:45.000Z"
-      },
-      {
-        "id": "ai-bada20a1",
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "bullets": [
-          "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T17:07:34.000Z"
-      },
-      {
-        "id": "world-a53fef61",
-        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
-        "bullets": [
-          "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February."
+          "Three children were killed when the drone crashed at a popular resort on the Black Sea."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T14:18:30.000Z"
+        "publishedAt": "2026-08-03T18:04:30.000Z"
       },
       {
         "id": "world-a16f54af",
@@ -3157,7 +3159,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T14:38:48.000Z"
+        "publishedAt": "2026-08-03T16:27:43.000Z"
+      },
+      {
+        "id": "world-a53fef61",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+        "bullets": [
+          "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T19:42:55.000Z"
+      },
+      {
+        "id": "world-c8aad6b6",
+        "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+        "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+        "bullets": [
+          "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T15:57:27.000Z"
       },
       {
         "id": "world-ba8e84d2",
@@ -3171,32 +3199,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-03T03:32:21.000Z"
-      },
-      {
-        "id": "world-09ec632f",
-        "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-        "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-        "bullets": [
-          "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T14:20:56.000Z"
-      },
-      {
-        "id": "world-9a5bdff1",
-        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-        "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-        "bullets": [
-          "The two women's employer has apologised for sending them back to Aeon Mall to secure cash."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T08:40:22.000Z"
       }
     ]
   }
