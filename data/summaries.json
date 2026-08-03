@@ -2935,8 +2935,21 @@
   },
   {
     "date": "2026-08-03",
-    "generatedAt": "2026-08-03T20:00:12.280Z",
+    "generatedAt": "2026-08-03T22:19:21.758Z",
     "articles": [
+      {
+        "id": "top-57687cfe",
+        "title": "Rapists and child sex offenders to be barred from early release scheme",
+        "summary": "The widow of PC Andrew Harper says it is \"disgusting\" her husband's killers remain eligible for the scheme in England and Wales.",
+        "bullets": [
+          "The widow of PC Andrew Harper says it is \"disgusting\" her husband's killers remain eligible for the scheme in England and Wales."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T21:35:15.000Z"
+      },
       {
         "id": "top-20638cd2",
         "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
@@ -2990,17 +3003,43 @@
         "publishedAt": "2026-08-03T16:48:58.000Z"
       },
       {
-        "id": "top-f9a3c175",
-        "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "summary": "The BBC is the first media organisation to gain access to the city and speak to people on the ground in Rawalakot.",
+        "id": "tech-82e25b79",
+        "title": "Research roundup: 6 cool science stories we almost missed",
+        "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
         "bullets": [
-          "The BBC is the first media organisation to gain access to the city and speak to people on the ground in Rawalakot."
+          "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T15:29:13.000Z"
+        "publishedAt": "2026-08-03T20:13:37.000Z"
+      },
+      {
+        "id": "tech-b9513370",
+        "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+        "summary": "The orbiting observatory in minifigure scale.",
+        "bullets": [
+          "The orbiting observatory in minifigure scale."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T19:21:16.000Z"
+      },
+      {
+        "id": "tech-ce79bacf",
+        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+        "summary": "Top scores increased by 5x.",
+        "bullets": [
+          "Top scores increased by 5x."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T19:00:50.000Z"
       },
       {
         "id": "tech-fce8991a",
@@ -3030,50 +3069,25 @@
         "publishedAt": "2026-08-03T14:41:46.000Z"
       },
       {
-        "id": "tech-02c2ce34",
-        "title": "Trump wants the power to stop the public from suing polluters",
-        "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+        "id": "ai-14d12b7b",
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
         "bullets": [
-          "Trump's DOJ says citizens should no longer be able to enforce environmental laws."
+          "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers.",
+          "It's another step toward decoupling apps from models."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T13:33:56.000Z"
+        "publishedAt": "2026-08-03T20:00:00.000Z"
       },
       {
-        "id": "tech-54fff5fc",
-        "title": "How headlights got brighter, whiter, and more blinding after dark",
-        "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
+        "id": "ai-e8fa416b",
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
         "bullets": [
-          "Automotive lights are better than they've ever been, but there's a trade-off."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T11:00:11.000Z"
-      },
-      {
-        "id": "tech-c1943403",
-        "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-        "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-        "bullets": [
-          "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T18:20:11.000Z"
-      },
-      {
-        "id": "ai-b1f95a31",
-        "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
-        "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-        "bullets": [
-          "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+          "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
@@ -3097,11 +3111,10 @@
       {
         "id": "ai-abb51a9c",
         "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-        "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete...",
+        "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
         "bullets": [
           "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be.",
-          "But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and...",
-          "Siri AI is genuinely useful, yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
+          "Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
@@ -3123,19 +3136,6 @@
         "publishedAt": "2026-08-03T16:40:55.000Z"
       },
       {
-        "id": "ai-c6168eb2",
-        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-        "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-        "bullets": [
-          "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T10:00:00.000Z"
-      },
-      {
         "id": "world-20638cd2",
         "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
         "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
@@ -3147,19 +3147,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-03T18:04:30.000Z"
-      },
-      {
-        "id": "world-a16f54af",
-        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-        "bullets": [
-          "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T16:27:43.000Z"
       },
       {
         "id": "world-a53fef61",
@@ -3188,17 +3175,30 @@
         "publishedAt": "2026-08-03T15:57:27.000Z"
       },
       {
-        "id": "world-ba8e84d2",
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+        "id": "world-a16f54af",
+        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
         "bullets": [
-          "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir."
+          "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T03:32:21.000Z"
+        "publishedAt": "2026-08-03T16:27:43.000Z"
+      },
+      {
+        "id": "world-4665200d",
+        "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+        "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+        "bullets": [
+          "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T20:05:46.000Z"
       }
     ]
   }
