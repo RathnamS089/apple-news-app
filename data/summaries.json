@@ -2935,7 +2935,7 @@
   },
   {
     "date": "2026-08-03",
-    "generatedAt": "2026-08-03T10:07:50.162Z",
+    "generatedAt": "2026-08-03T15:19:00.535Z",
     "articles": [
       {
         "id": "top-db4c4c31",
@@ -2951,30 +2951,17 @@
         "publishedAt": "2026-08-03T07:49:33.000Z"
       },
       {
-        "id": "top-fd213fbe",
-        "title": "Teacher has ground-breaking surgery while pregnant to treat baby's intestinal defect",
-        "summary": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+        "id": "top-a53fef61",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
         "bullets": [
-          "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial."
+          "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T05:02:25.000Z"
-      },
-      {
-        "id": "top-728ac7f3",
-        "title": "Reform's Richard Tice investigated by parliamentary standards watchdog",
-        "summary": "Reform's deputy leader is being investigated about an allegation he failed to declare an interest.",
-        "bullets": [
-          "Reform's deputy leader is being investigated about an allegation he failed to declare an interest."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T10:00:05.000Z"
+        "publishedAt": "2026-08-03T14:18:30.000Z"
       },
       {
         "id": "top-ac5d6b03",
@@ -2990,18 +2977,56 @@
         "publishedAt": "2026-08-03T03:32:21.000Z"
       },
       {
-        "id": "top-d996b010",
-        "title": "Trump suggests new talks with Iran to begin on Monday",
-        "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+        "id": "top-e3512a1d",
+        "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
+        "summary": "The columnist died in hospital in Middlsbrough on Sunday.",
         "bullets": [
-          "Tehran has not responded to the suggestion that new talks are imminent.",
-          "Trump has previously said a negotiated end to the war is close, only for strikes to resume."
+          "The columnist died in hospital in Middlsbrough on Sunday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T08:03:15.000Z"
+        "publishedAt": "2026-08-03T13:35:45.000Z"
+      },
+      {
+        "id": "top-d6c9b3f7",
+        "title": "Reform UK insists using Navy to stop migrant boats would be legal",
+        "summary": "The party says under its plan it would override French objections to return migrants to France.",
+        "bullets": [
+          "The party says under its plan it would override French objections to return migrants to France."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T14:57:19.000Z"
+      },
+      {
+        "id": "tech-02c2ce34",
+        "title": "Trump wants the power to stop the public from suing polluters",
+        "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+        "bullets": [
+          "Trump's DOJ says citizens should no longer be able to enforce environmental laws."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T13:33:56.000Z"
+      },
+      {
+        "id": "tech-54fff5fc",
+        "title": "How headlights got brighter, whiter, and more blinding after dark",
+        "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
+        "bullets": [
+          "Automotive lights are better than they've ever been, but there's a trade-off."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T11:00:11.000Z"
       },
       {
         "id": "tech-c1943403",
@@ -3043,30 +3068,17 @@
         "publishedAt": "2026-08-01T12:30:36.000Z"
       },
       {
-        "id": "tech-1ece902d",
-        "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-        "summary": "Autonomous vehicle giant disturbs residents' sleep.",
+        "id": "ai-c6168eb2",
+        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+        "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
         "bullets": [
-          "Autonomous vehicle giant disturbs residents' sleep."
+          "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-01T11:30:54.000Z"
-      },
-      {
-        "id": "tech-381148d6",
-        "title": "Defcon's new badge is a security key you can see inside",
-        "summary": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
-        "bullets": [
-          "A removable chip lets hackers inspect their badge—and keep using it after Defcon."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T10:05:21.000Z"
+        "publishedAt": "2026-08-03T10:00:00.000Z"
       },
       {
         "id": "ai-7251e232",
@@ -3122,31 +3134,30 @@
         "publishedAt": "2026-08-01T17:07:34.000Z"
       },
       {
-        "id": "ai-65c702c7",
-        "title": "This $9 key physically locks your most addictive apps",
-        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+        "id": "world-a53fef61",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
         "bullets": [
-          "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T15:58:17.000Z"
-      },
-      {
-        "id": "world-d996b010",
-        "title": "Trump suggests new talks with Iran to begin on Monday",
-        "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-        "bullets": [
-          "Tehran has not responded to the suggestion that new talks are imminent.",
-          "Trump has previously said a negotiated end to the war is close, only for strikes to resume."
+          "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T08:03:15.000Z"
+        "publishedAt": "2026-08-03T14:18:30.000Z"
+      },
+      {
+        "id": "world-a16f54af",
+        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+        "bullets": [
+          "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T14:38:48.000Z"
       },
       {
         "id": "world-ba8e84d2",
@@ -3172,7 +3183,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T06:53:09.000Z"
+        "publishedAt": "2026-08-03T14:20:56.000Z"
       },
       {
         "id": "world-9a5bdff1",
@@ -3186,19 +3197,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-03T08:40:22.000Z"
-      },
-      {
-        "id": "world-b12c3471",
-        "title": "US and Japan take action to prop up yen in rare joint move",
-        "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-        "bullets": [
-          "Both countries have said that they will not hesitate to conduct joint interventions in the future."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T07:30:52.000Z"
       }
     ]
   }
