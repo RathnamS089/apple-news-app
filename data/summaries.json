@@ -3204,7 +3204,7 @@
   },
   {
     "date": "2026-08-04",
-    "generatedAt": "2026-08-04T11:34:23.475Z",
+    "generatedAt": "2026-08-04T14:41:20.327Z",
     "articles": [
       {
         "id": "top-dcacdc1f",
@@ -3217,11 +3217,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T11:19:08.000Z"
+        "publishedAt": "2026-08-04T14:37:42.000Z"
       },
       {
-        "id": "top-492f9005",
-        "title": "Boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "id": "top-567cba13",
+        "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
         "summary": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
         "bullets": [
           "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday."
@@ -3230,20 +3230,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T11:14:29.000Z"
-      },
-      {
-        "id": "top-13016b31",
-        "title": "Analysis: Trump challenged by cold reality from top allies",
-        "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
-        "bullets": [
-          "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T09:11:39.000Z"
+        "publishedAt": "2026-08-04T12:19:50.000Z"
       },
       {
         "id": "top-48d479db",
@@ -3259,17 +3246,30 @@
         "publishedAt": "2026-08-04T10:45:14.000Z"
       },
       {
-        "id": "top-fe251e10",
-        "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-        "summary": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
+        "id": "top-52a85903",
+        "title": "Prison early release scheme comes 'at expense of victims', families complain",
+        "summary": "Some offenders will be barred from the scheme, but those guilty of manslaughter may be eligible, leaving PC Harper's family \"devastated\".",
         "bullets": [
-          "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering."
+          "Some offenders will be barred from the scheme, but those guilty of manslaughter may be eligible, leaving PC Harper's family \"devastated\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T10:07:05.000Z"
+        "publishedAt": "2026-08-04T14:31:48.000Z"
+      },
+      {
+        "id": "top-59011d2f",
+        "title": "Scottish exam pass rates rise as students find out results",
+        "summary": "More than 148,000 learners across the country received their results as details of this year's pass rates were published.",
+        "bullets": [
+          "More than 148,000 learners across the country received their results as details of this year's pass rates were published."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8xn11nv12do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T13:51:26.000Z"
       },
       {
         "id": "tech-0340366c",
@@ -3338,6 +3338,46 @@
         "publishedAt": "2026-08-03T16:10:22.000Z"
       },
       {
+        "id": "ai-b7513f54",
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+        "bullets": [
+          "Apple says its trade secrets investigation into OpenAI has widened.",
+          "In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T14:03:01.000Z"
+      },
+      {
+        "id": "ai-85f7a7d1",
+        "title": "Is the future of data centers portable? Runware builds a pod to find out",
+        "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+        "bullets": [
+          "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T13:00:00.000Z"
+      },
+      {
+        "id": "ai-2c45ff8a",
+        "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+        "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+        "bullets": [
+          "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T12:00:00.000Z"
+      },
+      {
         "id": "ai-2e70af52",
         "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
         "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
@@ -3365,46 +3405,6 @@
         "publishedAt": "2026-08-03T20:00:00.000Z"
       },
       {
-        "id": "ai-e8fa416b",
-        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-        "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-        "bullets": [
-          "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T19:28:57.000Z"
-      },
-      {
-        "id": "ai-0a10db61",
-        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-        "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-        "bullets": [
-          "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T19:09:56.000Z"
-      },
-      {
-        "id": "ai-abb51a9c",
-        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-        "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-        "bullets": [
-          "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be.",
-          "Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T18:43:43.000Z"
-      },
-      {
         "id": "world-dcacdc1f",
         "title": "More than 150 migrants rescued after boat catches fire in Channel",
         "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
@@ -3415,11 +3415,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T11:19:08.000Z"
+        "publishedAt": "2026-08-04T14:37:42.000Z"
       },
       {
-        "id": "world-0a9c9986",
-        "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
+        "id": "world-45acb0b1",
+        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
         "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
         "bullets": [
           "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
@@ -3457,17 +3457,17 @@
         "publishedAt": "2026-08-04T09:13:37.000Z"
       },
       {
-        "id": "world-ecb0484d",
-        "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-        "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+        "id": "world-69098cf2",
+        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+        "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
         "bullets": [
-          "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts."
+          "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T10:34:45.000Z"
+        "publishedAt": "2026-08-04T13:59:24.000Z"
       }
     ]
   }
