@@ -3201,5 +3201,274 @@
         "publishedAt": "2026-08-03T20:05:46.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-04",
+    "generatedAt": "2026-08-04T03:40:20.112Z",
+    "articles": [
+      {
+        "id": "top-a2610ebd",
+        "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
+        "summary": "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.",
+        "bullets": [
+          "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T00:50:33.000Z"
+      },
+      {
+        "id": "top-94a812d2",
+        "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+        "summary": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+        "bullets": [
+          "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T01:08:13.000Z"
+      },
+      {
+        "id": "top-42cee541",
+        "title": "EU calls for stronger borders after Ceuta migrant crossings",
+        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+        "bullets": [
+          "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T21:43:10.000Z"
+      },
+      {
+        "id": "top-8fde5be7",
+        "title": "There's a reason child vaccination rates are falling - and it's not social media",
+        "summary": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
+        "bullets": [
+          "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T23:10:05.000Z"
+      },
+      {
+        "id": "top-13532e68",
+        "title": "US states sue to block Trump tariffs impacting dozens of countries",
+        "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+        "bullets": [
+          "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T02:53:00.000Z"
+      },
+      {
+        "id": "tech-0340366c",
+        "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+        "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+        "bullets": [
+          "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T22:11:39.000Z"
+      },
+      {
+        "id": "tech-82e25b79",
+        "title": "Research roundup: 6 cool science stories we almost missed",
+        "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+        "bullets": [
+          "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T20:13:37.000Z"
+      },
+      {
+        "id": "tech-b9513370",
+        "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+        "summary": "The orbiting observatory in minifigure scale.",
+        "bullets": [
+          "The orbiting observatory in minifigure scale."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T19:21:16.000Z"
+      },
+      {
+        "id": "tech-ce79bacf",
+        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+        "summary": "Top scores increased by 5x.",
+        "bullets": [
+          "Top scores increased by 5x."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T19:00:50.000Z"
+      },
+      {
+        "id": "tech-fce8991a",
+        "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+        "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
+        "bullets": [
+          "At $25,305, you won't find many new cars for less.",
+          "But you get what you pay for."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T16:10:22.000Z"
+      },
+      {
+        "id": "ai-2e70af52",
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "bullets": [
+          "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T23:19:50.000Z"
+      },
+      {
+        "id": "ai-14d12b7b",
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+        "bullets": [
+          "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers.",
+          "It's another step toward decoupling apps from models."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T20:00:00.000Z"
+      },
+      {
+        "id": "ai-e8fa416b",
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "bullets": [
+          "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T19:28:57.000Z"
+      },
+      {
+        "id": "ai-0a10db61",
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "bullets": [
+          "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T19:09:56.000Z"
+      },
+      {
+        "id": "ai-abb51a9c",
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+        "bullets": [
+          "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be.",
+          "Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T18:43:43.000Z"
+      },
+      {
+        "id": "world-20638cd2",
+        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+        "bullets": [
+          "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T03:37:14.000Z"
+      },
+      {
+        "id": "world-a53fef61",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+        "bullets": [
+          "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T19:42:55.000Z"
+      },
+      {
+        "id": "world-c8aad6b6",
+        "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+        "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+        "bullets": [
+          "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T15:57:27.000Z"
+      },
+      {
+        "id": "world-a16f54af",
+        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+        "bullets": [
+          "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T16:27:43.000Z"
+      },
+      {
+        "id": "world-4665200d",
+        "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+        "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+        "bullets": [
+          "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T20:05:46.000Z"
+      }
+    ]
   }
 ]
