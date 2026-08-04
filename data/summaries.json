@@ -3204,21 +3204,8 @@
   },
   {
     "date": "2026-08-04",
-    "generatedAt": "2026-08-04T03:40:20.112Z",
+    "generatedAt": "2026-08-04T09:10:57.785Z",
     "articles": [
-      {
-        "id": "top-a2610ebd",
-        "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
-        "summary": "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.",
-        "bullets": [
-          "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T00:50:33.000Z"
-      },
       {
         "id": "top-94a812d2",
         "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
@@ -3233,17 +3220,17 @@
         "publishedAt": "2026-08-04T01:08:13.000Z"
       },
       {
-        "id": "top-42cee541",
-        "title": "EU calls for stronger borders after Ceuta migrant crossings",
-        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+        "id": "top-13016b31",
+        "title": "Analysis: Trump challenged by cold reality from top allies",
+        "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
         "bullets": [
-          "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+          "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T21:43:10.000Z"
+        "publishedAt": "2026-08-04T00:02:40.000Z"
       },
       {
         "id": "top-8fde5be7",
@@ -3259,17 +3246,30 @@
         "publishedAt": "2026-08-03T23:10:05.000Z"
       },
       {
-        "id": "top-13532e68",
-        "title": "US states sue to block Trump tariffs impacting dozens of countries",
-        "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+        "id": "top-42cee541",
+        "title": "EU calls for stronger borders after Ceuta migrant crossings",
+        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
         "bullets": [
-          "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour."
+          "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T02:53:00.000Z"
+        "publishedAt": "2026-08-03T21:43:10.000Z"
+      },
+      {
+        "id": "top-995826c1",
+        "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
+        "summary": "More places in southern and eastern England are expected to reach heatwave criteria on Tuesday but cooler temperatures are on the horizon.",
+        "bullets": [
+          "More places in southern and eastern England are expected to reach heatwave criteria on Tuesday but cooler temperatures are on the horizon."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T23:28:34.000Z"
       },
       {
         "id": "tech-0340366c",
@@ -3405,6 +3405,32 @@
         "publishedAt": "2026-08-03T18:43:43.000Z"
       },
       {
+        "id": "world-42cee541",
+        "title": "EU calls for stronger borders after Ceuta migrant crossings",
+        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+        "bullets": [
+          "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-03T21:43:10.000Z"
+      },
+      {
+        "id": "world-13016b31",
+        "title": "Analysis: Trump challenged by cold reality from top allies",
+        "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+        "bullets": [
+          "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T00:02:40.000Z"
+      },
+      {
         "id": "world-20638cd2",
         "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
         "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
@@ -3418,6 +3444,19 @@
         "publishedAt": "2026-08-04T03:37:14.000Z"
       },
       {
+        "id": "world-2a979a17",
+        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+        "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+        "bullets": [
+          "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T09:04:49.000Z"
+      },
+      {
         "id": "world-a53fef61",
         "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
         "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
@@ -3429,45 +3468,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-03T19:42:55.000Z"
-      },
-      {
-        "id": "world-c8aad6b6",
-        "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-        "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-        "bullets": [
-          "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T15:57:27.000Z"
-      },
-      {
-        "id": "world-a16f54af",
-        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-        "bullets": [
-          "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T16:27:43.000Z"
-      },
-      {
-        "id": "world-4665200d",
-        "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-        "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
-        "bullets": [
-          "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T20:05:46.000Z"
       }
     ]
   }
