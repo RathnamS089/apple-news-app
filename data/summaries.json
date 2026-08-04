@@ -3204,7 +3204,7 @@
   },
   {
     "date": "2026-08-04",
-    "generatedAt": "2026-08-04T17:04:54.358Z",
+    "generatedAt": "2026-08-04T19:58:45.813Z",
     "articles": [
       {
         "id": "top-a5b8ae8f",
@@ -3217,7 +3217,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T16:33:39.000Z"
+        "publishedAt": "2026-08-04T17:26:06.000Z"
       },
       {
         "id": "top-47d103bb",
@@ -3230,7 +3230,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T16:21:43.000Z"
+        "publishedAt": "2026-08-04T19:45:58.000Z"
       },
       {
         "id": "top-567cba13",
@@ -3243,7 +3243,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T17:01:01.000Z"
+        "publishedAt": "2026-08-04T19:31:26.000Z"
       },
       {
         "id": "top-843f46ac",
@@ -3256,7 +3256,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T16:29:29.000Z"
+        "publishedAt": "2026-08-04T19:00:43.000Z"
       },
       {
         "id": "top-48d479db",
@@ -3269,7 +3269,59 @@
         "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T10:45:14.000Z"
+        "publishedAt": "2026-08-04T19:56:20.000Z"
+      },
+      {
+        "id": "tech-df8155e3",
+        "title": "China is Tesla's cash cow, but for how much longer?",
+        "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
+        "bullets": [
+          "Tesla's Shanghai factory is busier than ever but might be cut loose."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T17:34:48.000Z"
+      },
+      {
+        "id": "tech-c920ea0b",
+        "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
+        "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
+        "bullets": [
+          "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T16:11:05.000Z"
+      },
+      {
+        "id": "tech-48a01f45",
+        "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
+        "summary": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
+        "bullets": [
+          "Congress set ownership limit at 39%, but FCC claims authority to kill the rule."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T15:51:00.000Z"
+      },
+      {
+        "id": "tech-a8b0c137",
+        "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
+        "summary": "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said.",
+        "bullets": [
+          "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T15:06:07.000Z"
       },
       {
         "id": "tech-c12f04b1",
@@ -3285,56 +3337,30 @@
         "publishedAt": "2026-08-04T14:45:08.000Z"
       },
       {
-        "id": "tech-902bc815",
-        "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-        "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says.",
+        "id": "ai-bc673b6a",
+        "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+        "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
         "bullets": [
-          "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says."
+          "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T13:38:29.000Z"
+        "publishedAt": "2026-08-04T19:48:40.000Z"
       },
       {
-        "id": "tech-0340366c",
-        "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-        "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+        "id": "ai-1d0d6903",
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
         "bullets": [
-          "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities."
+          "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T22:11:39.000Z"
-      },
-      {
-        "id": "tech-82e25b79",
-        "title": "Research roundup: 6 cool science stories we almost missed",
-        "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
-        "bullets": [
-          "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T20:13:37.000Z"
-      },
-      {
-        "id": "tech-b9513370",
-        "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
-        "summary": "The orbiting observatory in minifigure scale.",
-        "bullets": [
-          "The orbiting observatory in minifigure scale."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T19:21:16.000Z"
+        "publishedAt": "2026-08-04T19:28:49.000Z"
       },
       {
         "id": "ai-32263b6f",
@@ -3379,33 +3405,6 @@
         "publishedAt": "2026-08-04T15:20:06.000Z"
       },
       {
-        "id": "ai-b7513f54",
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-        "bullets": [
-          "Apple says its trade secrets investigation into OpenAI has widened.",
-          "In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T14:03:01.000Z"
-      },
-      {
-        "id": "ai-85f7a7d1",
-        "title": "Is the future of data centers portable? Runware builds a pod to find out",
-        "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-        "bullets": [
-          "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T13:00:00.000Z"
-      },
-      {
         "id": "world-a5b8ae8f",
         "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
         "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
@@ -3416,7 +3415,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T16:33:39.000Z"
+        "publishedAt": "2026-08-04T17:26:06.000Z"
       },
       {
         "id": "world-843f46ac",
@@ -3429,7 +3428,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T16:29:29.000Z"
+        "publishedAt": "2026-08-04T19:00:43.000Z"
       },
       {
         "id": "world-3d38f14d",
@@ -3442,7 +3441,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T16:07:29.000Z"
+        "publishedAt": "2026-08-04T19:30:43.000Z"
       },
       {
         "id": "world-45acb0b1",
@@ -3458,17 +3457,17 @@
         "publishedAt": "2026-08-04T11:19:01.000Z"
       },
       {
-        "id": "world-47d103bb",
-        "title": "More than 170 migrants rescued after boat catches fire in Channel",
-        "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+        "id": "world-2533c32a",
+        "title": "Arrests in Egypt after people allegedly impersonate judges",
+        "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
         "bullets": [
-          "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
+          "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T16:21:43.000Z"
+        "publishedAt": "2026-08-04T19:25:00.000Z"
       }
     ]
   }
