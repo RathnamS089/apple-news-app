@@ -3204,7 +3204,7 @@
   },
   {
     "date": "2026-08-04",
-    "generatedAt": "2026-08-04T19:58:45.813Z",
+    "generatedAt": "2026-08-04T22:30:23.638Z",
     "articles": [
       {
         "id": "top-a5b8ae8f",
@@ -3259,17 +3259,56 @@
         "publishedAt": "2026-08-04T19:00:43.000Z"
       },
       {
-        "id": "top-48d479db",
-        "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
-        "summary": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\".",
+        "id": "top-7cb3a733",
+        "title": "Infantino calls executive meeting as criticism mounts",
+        "summary": "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations.",
         "bullets": [
-          "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was..."
+          "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T19:56:20.000Z"
+        "publishedAt": "2026-08-04T20:13:03.000Z"
+      },
+      {
+        "id": "tech-6b088b85",
+        "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+        "summary": "Fire experts warn such markets could incentivize arson.",
+        "bullets": [
+          "Fire experts warn such markets could incentivize arson."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T21:52:31.000Z"
+      },
+      {
+        "id": "tech-2c7085b6",
+        "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+        "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
+        "bullets": [
+          "$1.25 billion program restored, but judge ruled race provision unconstitutional."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T21:27:05.000Z"
+      },
+      {
+        "id": "tech-fb82ab5a",
+        "title": "Texas halts data center connections to power grid amid overwhelming demand",
+        "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+        "bullets": [
+          "Governor who touted Texas as AI “epicenter” pauses data center grid connections."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T20:34:28.000Z"
       },
       {
         "id": "tech-df8155e3",
@@ -3298,56 +3337,56 @@
         "publishedAt": "2026-08-04T16:11:05.000Z"
       },
       {
-        "id": "tech-48a01f45",
-        "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-        "summary": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
+        "id": "ai-e4ecdf2c",
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
         "bullets": [
-          "Congress set ownership limit at 39%, but FCC claims authority to kill the rule."
+          "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T15:51:00.000Z"
+        "publishedAt": "2026-08-04T21:07:26.000Z"
       },
       {
-        "id": "tech-a8b0c137",
-        "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
-        "summary": "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said.",
+        "id": "ai-05f7c765",
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
         "bullets": [
-          "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said."
+          "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T15:06:07.000Z"
+        "publishedAt": "2026-08-04T20:05:26.000Z"
       },
       {
-        "id": "tech-c12f04b1",
-        "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
-        "summary": "Chevy's 721-hp hybrid ups the ante with few compromises, but at a steep cost.",
+        "id": "ai-b7c7cfed",
+        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
         "bullets": [
-          "Chevy's 721-hp hybrid ups the ante with few compromises, but at a steep cost."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T14:45:08.000Z"
-      },
-      {
-        "id": "ai-bc673b6a",
-        "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
-        "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-        "bullets": [
-          "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
+          "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-08-04T19:48:40.000Z"
+      },
+      {
+        "id": "ai-10bdb96e",
+        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+        "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "bullets": [
+          "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T19:34:34.000Z"
       },
       {
         "id": "ai-1d0d6903",
@@ -3361,48 +3400,6 @@
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-08-04T19:28:49.000Z"
-      },
-      {
-        "id": "ai-32263b6f",
-        "title": "Spotify expands AI remix and covers project with Merlin partnership",
-        "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and...",
-        "bullets": [
-          "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming...",
-          "The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T15:50:06.000Z"
-      },
-      {
-        "id": "ai-57e2cf6c",
-        "title": "Texas halts new data centers as governor calls for audits",
-        "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-        "bullets": [
-          "Tech companies and developers have been scouring the U.S.",
-          "for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply.",
-          "But even Texas can be pushed to the brink."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T15:42:35.000Z"
-      },
-      {
-        "id": "ai-70036ed8",
-        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-        "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
-        "bullets": [
-          "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T15:20:06.000Z"
       },
       {
         "id": "world-a5b8ae8f",
@@ -3441,7 +3438,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T19:30:43.000Z"
+        "publishedAt": "2026-08-04T21:45:20.000Z"
       },
       {
         "id": "world-45acb0b1",
