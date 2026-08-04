@@ -3204,20 +3204,33 @@
   },
   {
     "date": "2026-08-04",
-    "generatedAt": "2026-08-04T09:10:57.785Z",
+    "generatedAt": "2026-08-04T11:34:23.475Z",
     "articles": [
       {
-        "id": "top-94a812d2",
-        "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
-        "summary": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+        "id": "top-dcacdc1f",
+        "title": "More than 150 migrants rescued after boat catches fire in Channel",
+        "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
         "bullets": [
-          "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn."
+          "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T01:08:13.000Z"
+        "publishedAt": "2026-08-04T11:19:08.000Z"
+      },
+      {
+        "id": "top-492f9005",
+        "title": "Boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "summary": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+        "bullets": [
+          "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T11:14:29.000Z"
       },
       {
         "id": "top-13016b31",
@@ -3230,46 +3243,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T00:02:40.000Z"
+        "publishedAt": "2026-08-04T09:11:39.000Z"
       },
       {
-        "id": "top-8fde5be7",
-        "title": "There's a reason child vaccination rates are falling - and it's not social media",
-        "summary": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
+        "id": "top-48d479db",
+        "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+        "summary": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\".",
         "bullets": [
-          "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations"
+          "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T23:10:05.000Z"
+        "publishedAt": "2026-08-04T10:45:14.000Z"
       },
       {
-        "id": "top-42cee541",
-        "title": "EU calls for stronger borders after Ceuta migrant crossings",
-        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+        "id": "top-fe251e10",
+        "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+        "summary": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
         "bullets": [
-          "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+          "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T21:43:10.000Z"
-      },
-      {
-        "id": "top-995826c1",
-        "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
-        "summary": "More places in southern and eastern England are expected to reach heatwave criteria on Tuesday but cooler temperatures are on the horizon.",
-        "bullets": [
-          "More places in southern and eastern England are expected to reach heatwave criteria on Tuesday but cooler temperatures are on the horizon."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T23:28:34.000Z"
+        "publishedAt": "2026-08-04T10:07:05.000Z"
       },
       {
         "id": "tech-0340366c",
@@ -3405,17 +3405,30 @@
         "publishedAt": "2026-08-03T18:43:43.000Z"
       },
       {
-        "id": "world-42cee541",
-        "title": "EU calls for stronger borders after Ceuta migrant crossings",
-        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+        "id": "world-dcacdc1f",
+        "title": "More than 150 migrants rescued after boat catches fire in Channel",
+        "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
         "bullets": [
-          "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+          "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T21:43:10.000Z"
+        "publishedAt": "2026-08-04T11:19:08.000Z"
+      },
+      {
+        "id": "world-0a9c9986",
+        "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
+        "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+        "bullets": [
+          "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T11:19:01.000Z"
       },
       {
         "id": "world-13016b31",
@@ -3428,46 +3441,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T00:02:40.000Z"
+        "publishedAt": "2026-08-04T09:11:39.000Z"
       },
       {
-        "id": "world-20638cd2",
-        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-        "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+        "id": "world-0b606641",
+        "title": "What will happen when a SpaceX rocket collides with the Moon?",
+        "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
         "bullets": [
-          "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+          "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T03:37:14.000Z"
+        "publishedAt": "2026-08-04T09:13:37.000Z"
       },
       {
-        "id": "world-2a979a17",
-        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-        "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+        "id": "world-ecb0484d",
+        "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+        "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
         "bullets": [
-          "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine."
+          "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T09:04:49.000Z"
-      },
-      {
-        "id": "world-a53fef61",
-        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-        "bullets": [
-          "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T19:42:55.000Z"
+        "publishedAt": "2026-08-04T10:34:45.000Z"
       }
     ]
   }
