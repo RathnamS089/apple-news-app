@@ -3204,20 +3204,33 @@
   },
   {
     "date": "2026-08-04",
-    "generatedAt": "2026-08-04T14:41:20.327Z",
+    "generatedAt": "2026-08-04T17:04:54.358Z",
     "articles": [
       {
-        "id": "top-dcacdc1f",
-        "title": "More than 150 migrants rescued after boat catches fire in Channel",
-        "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+        "id": "top-a5b8ae8f",
+        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
         "bullets": [
-          "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
+          "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T16:33:39.000Z"
+      },
+      {
+        "id": "top-47d103bb",
+        "title": "More than 170 migrants rescued after boat catches fire in Channel",
+        "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+        "bullets": [
+          "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T14:37:42.000Z"
+        "publishedAt": "2026-08-04T16:21:43.000Z"
       },
       {
         "id": "top-567cba13",
@@ -3230,7 +3243,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T12:19:50.000Z"
+        "publishedAt": "2026-08-04T17:01:01.000Z"
+      },
+      {
+        "id": "top-843f46ac",
+        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+        "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+        "bullets": [
+          "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T16:29:29.000Z"
       },
       {
         "id": "top-48d479db",
@@ -3246,30 +3272,30 @@
         "publishedAt": "2026-08-04T10:45:14.000Z"
       },
       {
-        "id": "top-52a85903",
-        "title": "Prison early release scheme comes 'at expense of victims', families complain",
-        "summary": "Some offenders will be barred from the scheme, but those guilty of manslaughter may be eligible, leaving PC Harper's family \"devastated\".",
+        "id": "tech-c12f04b1",
+        "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
+        "summary": "Chevy's 721-hp hybrid ups the ante with few compromises, but at a steep cost.",
         "bullets": [
-          "Some offenders will be barred from the scheme, but those guilty of manslaughter may be eligible, leaving PC Harper's family \"devastated\"."
+          "Chevy's 721-hp hybrid ups the ante with few compromises, but at a steep cost."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T14:31:48.000Z"
+        "publishedAt": "2026-08-04T14:45:08.000Z"
       },
       {
-        "id": "top-59011d2f",
-        "title": "Scottish exam pass rates rise as students find out results",
-        "summary": "More than 148,000 learners across the country received their results as details of this year's pass rates were published.",
+        "id": "tech-902bc815",
+        "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+        "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says.",
         "bullets": [
-          "More than 148,000 learners across the country received their results as details of this year's pass rates were published."
+          "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8xn11nv12do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T13:51:26.000Z"
+        "publishedAt": "2026-08-04T13:38:29.000Z"
       },
       {
         "id": "tech-0340366c",
@@ -3311,31 +3337,46 @@
         "publishedAt": "2026-08-03T19:21:16.000Z"
       },
       {
-        "id": "tech-ce79bacf",
-        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-        "summary": "Top scores increased by 5x.",
+        "id": "ai-32263b6f",
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and...",
         "bullets": [
-          "Top scores increased by 5x."
+          "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming...",
+          "The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T19:00:50.000Z"
+        "publishedAt": "2026-08-04T15:50:06.000Z"
       },
       {
-        "id": "tech-fce8991a",
-        "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
-        "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
+        "id": "ai-57e2cf6c",
+        "title": "Texas halts new data centers as governor calls for audits",
+        "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
         "bullets": [
-          "At $25,305, you won't find many new cars for less.",
-          "But you get what you pay for."
+          "Tech companies and developers have been scouring the U.S.",
+          "for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply.",
+          "But even Texas can be pushed to the brink."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-03T16:10:22.000Z"
+        "publishedAt": "2026-08-04T15:42:35.000Z"
+      },
+      {
+        "id": "ai-70036ed8",
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+        "bullets": [
+          "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T15:20:06.000Z"
       },
       {
         "id": "ai-b7513f54",
@@ -3365,57 +3406,43 @@
         "publishedAt": "2026-08-04T13:00:00.000Z"
       },
       {
-        "id": "ai-2c45ff8a",
-        "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-        "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+        "id": "world-a5b8ae8f",
+        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
         "bullets": [
-          "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T12:00:00.000Z"
-      },
-      {
-        "id": "ai-2e70af52",
-        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-        "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-        "bullets": [
-          "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T23:19:50.000Z"
-      },
-      {
-        "id": "ai-14d12b7b",
-        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-        "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-        "bullets": [
-          "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers.",
-          "It's another step toward decoupling apps from models."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-03T20:00:00.000Z"
-      },
-      {
-        "id": "world-dcacdc1f",
-        "title": "More than 150 migrants rescued after boat catches fire in Channel",
-        "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
-        "bullets": [
-          "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
+          "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T14:37:42.000Z"
+        "publishedAt": "2026-08-04T16:33:39.000Z"
+      },
+      {
+        "id": "world-843f46ac",
+        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+        "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+        "bullets": [
+          "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T16:29:29.000Z"
+      },
+      {
+        "id": "world-3d38f14d",
+        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+        "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+        "bullets": [
+          "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T16:07:29.000Z"
       },
       {
         "id": "world-45acb0b1",
@@ -3431,43 +3458,17 @@
         "publishedAt": "2026-08-04T11:19:01.000Z"
       },
       {
-        "id": "world-13016b31",
-        "title": "Analysis: Trump challenged by cold reality from top allies",
-        "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+        "id": "world-47d103bb",
+        "title": "More than 170 migrants rescued after boat catches fire in Channel",
+        "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
         "bullets": [
-          "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
+          "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T09:11:39.000Z"
-      },
-      {
-        "id": "world-0b606641",
-        "title": "What will happen when a SpaceX rocket collides with the Moon?",
-        "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
-        "bullets": [
-          "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T09:13:37.000Z"
-      },
-      {
-        "id": "world-69098cf2",
-        "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-        "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-        "bullets": [
-          "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T13:59:24.000Z"
+        "publishedAt": "2026-08-04T16:21:43.000Z"
       }
     ]
   }
