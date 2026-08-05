@@ -3470,24 +3470,63 @@
   },
   {
     "date": "2026-08-05",
-    "generatedAt": "2026-08-05T03:35:23.629Z",
+    "generatedAt": "2026-08-05T09:08:14.555Z",
     "articles": [
       {
-        "id": "top-3b7cc8a2",
-        "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
-        "summary": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM when she was re-appointed as minister.",
+        "id": "top-fa3893f8",
+        "title": "Police chief considers joining legal action over PC Harper killers' early release",
+        "summary": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
         "bullets": [
-          "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM when she was re-appointed as minister."
+          "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T02:19:30.000Z"
+        "publishedAt": "2026-08-05T09:02:25.000Z"
       },
       {
-        "id": "top-7809c02d",
-        "title": "Temperatures to drop briefly ahead of next UK heatwave",
+        "id": "top-2c3145fb",
+        "title": "Peer urges Tories to block candidate jailed for antisemitic abuse against her",
+        "summary": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+        "bullets": [
+          "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T08:56:55.000Z"
+      },
+      {
+        "id": "top-15f91473",
+        "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+        "summary": "A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+        "bullets": [
+          "A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T05:07:27.000Z"
+      },
+      {
+        "id": "top-8656d7cf",
+        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+        "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+        "bullets": [
+          "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T08:29:40.000Z"
+      },
+      {
+        "id": "top-39013975",
+        "title": "Temperatures to drop briefly ahead of potential new UK heatwave",
         "summary": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
         "bullets": [
           "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived."
@@ -3496,46 +3535,7 @@
         "sourceUrl": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T23:14:49.000Z"
-      },
-      {
-        "id": "top-15f91473",
-        "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
-        "summary": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
-        "bullets": [
-          "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T21:55:17.000Z"
-      },
-      {
-        "id": "top-bbe91eed",
-        "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-        "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
-        "bullets": [
-          "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T22:09:50.000Z"
-      },
-      {
-        "id": "top-27720927",
-        "title": "Closing down streets so children can play",
-        "summary": "In Leeds, streets are being temporarily closed to traffic so kids have more space to safely play - an initiative proving beneficial to both children and adults.",
-        "bullets": [
-          "In Leeds, streets are being temporarily closed to traffic so kids have more space to safely play - an initiative proving beneficial to both children..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnmzekx0ro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T23:43:00.000Z"
+        "publishedAt": "2026-08-05T08:56:14.000Z"
       },
       {
         "id": "tech-6b088b85",
@@ -3668,21 +3668,8 @@
         "publishedAt": "2026-08-04T19:28:49.000Z"
       },
       {
-        "id": "world-a5b8ae8f",
-        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-        "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-        "bullets": [
-          "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T17:26:06.000Z"
-      },
-      {
-        "id": "world-843f46ac",
-        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+        "id": "world-7dcc0466",
+        "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
         "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
         "bullets": [
           "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
@@ -3691,33 +3678,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T01:05:21.000Z"
+        "publishedAt": "2026-08-05T03:44:30.000Z"
       },
       {
-        "id": "world-06b02fec",
-        "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
-        "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+        "id": "world-084b690a",
+        "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+        "summary": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
         "bullets": [
-          "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings."
+          "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T08:29:30.000Z"
+      },
+      {
+        "id": "world-ac60fcd0",
+        "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+        "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
+        "bullets": [
+          "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T07:04:45.000Z"
+      },
+      {
+        "id": "world-8656d7cf",
+        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+        "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+        "bullets": [
+          "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T02:55:58.000Z"
-      },
-      {
-        "id": "world-3d38f14d",
-        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-        "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-        "bullets": [
-          "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T21:45:20.000Z"
+        "publishedAt": "2026-08-05T08:29:40.000Z"
       },
       {
         "id": "world-95eff70b",
