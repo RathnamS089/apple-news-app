@@ -3467,5 +3467,271 @@
         "publishedAt": "2026-08-04T19:25:00.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-05",
+    "generatedAt": "2026-08-05T03:35:23.629Z",
+    "articles": [
+      {
+        "id": "top-3b7cc8a2",
+        "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+        "summary": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM when she was re-appointed as minister.",
+        "bullets": [
+          "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM when she was re-appointed as minister."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T02:19:30.000Z"
+      },
+      {
+        "id": "top-7809c02d",
+        "title": "Temperatures to drop briefly ahead of next UK heatwave",
+        "summary": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+        "bullets": [
+          "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T23:14:49.000Z"
+      },
+      {
+        "id": "top-15f91473",
+        "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+        "summary": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+        "bullets": [
+          "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T21:55:17.000Z"
+      },
+      {
+        "id": "top-bbe91eed",
+        "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+        "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
+        "bullets": [
+          "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T22:09:50.000Z"
+      },
+      {
+        "id": "top-27720927",
+        "title": "Closing down streets so children can play",
+        "summary": "In Leeds, streets are being temporarily closed to traffic so kids have more space to safely play - an initiative proving beneficial to both children and adults.",
+        "bullets": [
+          "In Leeds, streets are being temporarily closed to traffic so kids have more space to safely play - an initiative proving beneficial to both children..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnmzekx0ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T23:43:00.000Z"
+      },
+      {
+        "id": "tech-6b088b85",
+        "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+        "summary": "Fire experts warn such markets could incentivize arson.",
+        "bullets": [
+          "Fire experts warn such markets could incentivize arson."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T21:52:31.000Z"
+      },
+      {
+        "id": "tech-2c7085b6",
+        "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+        "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
+        "bullets": [
+          "$1.25 billion program restored, but judge ruled race provision unconstitutional."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T21:27:05.000Z"
+      },
+      {
+        "id": "tech-fb82ab5a",
+        "title": "Texas halts data center connections to power grid amid overwhelming demand",
+        "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+        "bullets": [
+          "Governor who touted Texas as AI “epicenter” pauses data center grid connections."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T20:34:28.000Z"
+      },
+      {
+        "id": "tech-df8155e3",
+        "title": "China is Tesla's cash cow, but for how much longer?",
+        "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
+        "bullets": [
+          "Tesla's Shanghai factory is busier than ever but might be cut loose."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T17:34:48.000Z"
+      },
+      {
+        "id": "tech-c920ea0b",
+        "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
+        "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
+        "bullets": [
+          "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T16:11:05.000Z"
+      },
+      {
+        "id": "ai-e4ecdf2c",
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+        "bullets": [
+          "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T21:07:26.000Z"
+      },
+      {
+        "id": "ai-05f7c765",
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+        "bullets": [
+          "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T20:05:26.000Z"
+      },
+      {
+        "id": "ai-b7c7cfed",
+        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "bullets": [
+          "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T19:48:40.000Z"
+      },
+      {
+        "id": "ai-10bdb96e",
+        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+        "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "bullets": [
+          "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T19:34:34.000Z"
+      },
+      {
+        "id": "ai-1d0d6903",
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+        "bullets": [
+          "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T19:28:49.000Z"
+      },
+      {
+        "id": "world-a5b8ae8f",
+        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
+        "bullets": [
+          "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T17:26:06.000Z"
+      },
+      {
+        "id": "world-843f46ac",
+        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+        "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+        "bullets": [
+          "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T01:05:21.000Z"
+      },
+      {
+        "id": "world-06b02fec",
+        "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+        "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+        "bullets": [
+          "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T02:55:58.000Z"
+      },
+      {
+        "id": "world-3d38f14d",
+        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+        "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+        "bullets": [
+          "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-04T21:45:20.000Z"
+      },
+      {
+        "id": "world-95eff70b",
+        "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+        "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+        "bullets": [
+          "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T00:19:04.000Z"
+      }
+    ]
   }
 ]
