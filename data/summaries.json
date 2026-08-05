@@ -3470,7 +3470,7 @@
   },
   {
     "date": "2026-08-05",
-    "generatedAt": "2026-08-05T19:57:08.986Z",
+    "generatedAt": "2026-08-05T22:28:58.812Z",
     "articles": [
       {
         "id": "top-2b1a1ef2",
@@ -3483,7 +3483,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T19:01:34.000Z"
+        "publishedAt": "2026-08-05T20:12:17.000Z"
+      },
+      {
+        "id": "top-eb4ae5a2",
+        "title": "Fifa admits mistakes but Infantino remains president",
+        "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
+        "bullets": [
+          "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T21:37:08.000Z"
       },
       {
         "id": "top-0e4111b3",
@@ -3509,98 +3522,111 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T19:45:56.000Z"
+        "publishedAt": "2026-08-05T21:18:04.000Z"
       },
       {
-        "id": "top-dd18e149",
-        "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
-        "summary": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+        "id": "top-ae6de67d",
+        "title": "Walk-in mental health centres to open in banks and libraries across England",
+        "summary": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
         "bullets": [
-          "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday."
+          "Government plans network of nearly 200 specialist services to help those facing mental health crises."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T14:50:09.000Z"
+        "publishedAt": "2026-08-05T21:30:46.000Z"
       },
       {
-        "id": "top-39748009",
-        "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
-        "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+        "id": "tech-8de7fd7e",
+        "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+        "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
         "bullets": [
-          "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T09:24:18.000Z"
-      },
-      {
-        "id": "tech-3671d405",
-        "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-        "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
-        "bullets": [
-          "Disney is interested in \"price-sensitive\" streaming customers."
+          "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T17:12:39.000Z"
+        "publishedAt": "2026-08-05T21:03:18.000Z"
       },
       {
-        "id": "tech-715b2a9b",
-        "title": "EVgo starts building Tesla Superchargers under license",
-        "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+        "id": "tech-41720999",
+        "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+        "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
         "bullets": [
-          "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs."
+          "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T17:00:38.000Z"
+        "publishedAt": "2026-08-05T20:47:11.000Z"
       },
       {
-        "id": "tech-b4dab602",
-        "title": "D-Wave shows off its new entry in quantum computing race",
-        "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
+        "id": "tech-9132137c",
+        "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+        "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
         "bullets": [
-          "Company noted for building quantum annealers now also making gate-based hardware."
+          "Reddit says the beloved site is used for some \"bad behavior.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T16:37:07.000Z"
+        "publishedAt": "2026-08-05T20:01:32.000Z"
       },
       {
-        "id": "tech-23d12e0a",
-        "title": "Google plans to kill Assistant on your phone on September 4",
-        "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+        "id": "tech-b2fefa51",
+        "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+        "summary": "\"Slop\" isn't the only problem.",
         "bullets": [
-          "Assistant will disappear, leaving only Gemini for voice control in the coming weeks."
+          "\"Slop\" isn't the only problem."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T15:30:02.000Z"
+        "publishedAt": "2026-08-05T19:51:40.000Z"
       },
       {
-        "id": "tech-da719012",
-        "title": "SpaceX spooks investors with debut earnings report",
-        "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+        "id": "tech-d5e61c49",
+        "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+        "summary": "SpaceX won't build large cell towers but plans small base stations across US.",
         "bullets": [
-          "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled."
+          "SpaceX won't build large cell towers but plans small base stations across US."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T13:59:17.000Z"
+        "publishedAt": "2026-08-05T19:38:56.000Z"
+      },
+      {
+        "id": "ai-bdd23858",
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "bullets": [
+          "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T21:21:28.000Z"
+      },
+      {
+        "id": "ai-995793d9",
+        "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+        "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+        "bullets": [
+          "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T20:05:00.000Z"
       },
       {
         "id": "ai-0ccb9253",
@@ -3643,31 +3669,17 @@
         "publishedAt": "2026-08-05T15:46:27.000Z"
       },
       {
-        "id": "ai-8154dc24",
-        "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "id": "world-7e777a56",
+        "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+        "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
         "bullets": [
-          "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a..."
+          "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\"."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T15:05:00.000Z"
-      },
-      {
-        "id": "ai-574c4750",
-        "title": "Anthropic is hiring an AI chip design team",
-        "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-        "bullets": [
-          "Anthropic is building a team for designing its own custom AI chips.",
-          "The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T14:13:18.000Z"
+        "publishedAt": "2026-08-05T21:21:51.000Z"
       },
       {
         "id": "world-8f917f1f",
@@ -3683,19 +3695,6 @@
         "publishedAt": "2026-08-05T18:19:51.000Z"
       },
       {
-        "id": "world-29a2bdf9",
-        "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-        "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
-        "bullets": [
-          "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T16:20:14.000Z"
-      },
-      {
         "id": "world-8d6d1f7b",
         "title": "Drone carrying explosives found at German airport, police say",
         "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
@@ -3706,33 +3705,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T16:06:30.000Z"
+        "publishedAt": "2026-08-05T20:01:51.000Z"
       },
       {
-        "id": "world-259de3a6",
-        "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-        "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+        "id": "world-ec4ee074",
+        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+        "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
         "bullets": [
-          "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space..."
+          "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T11:19:24.000Z"
+        "publishedAt": "2026-08-05T20:03:36.000Z"
       },
       {
-        "id": "world-f1210a8c",
-        "title": "UN rights chief alarmed by rise in Iran executions since March",
-        "summary": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
+        "id": "world-eb4ae5a2",
+        "title": "Fifa admits mistakes but Infantino remains president",
+        "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
         "bullets": [
-          "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests."
+          "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T14:04:09.000Z"
+        "publishedAt": "2026-08-05T21:37:08.000Z"
       }
     ]
   }
