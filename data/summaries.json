@@ -3470,7 +3470,7 @@
   },
   {
     "date": "2026-08-05",
-    "generatedAt": "2026-08-05T09:08:14.555Z",
+    "generatedAt": "2026-08-05T11:31:16.257Z",
     "articles": [
       {
         "id": "top-fa3893f8",
@@ -3486,8 +3486,8 @@
         "publishedAt": "2026-08-05T09:02:25.000Z"
       },
       {
-        "id": "top-2c3145fb",
-        "title": "Peer urges Tories to block candidate jailed for antisemitic abuse against her",
+        "id": "top-1a790245",
+        "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
         "summary": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
         "bullets": [
           "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027."
@@ -3496,14 +3496,14 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T08:56:55.000Z"
+        "publishedAt": "2026-08-05T11:07:53.000Z"
       },
       {
         "id": "top-15f91473",
         "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
-        "summary": "A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+        "summary": "A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
         "bullets": [
-          "A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours."
+          "A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
@@ -3522,20 +3522,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T08:29:40.000Z"
+        "publishedAt": "2026-08-05T11:19:37.000Z"
       },
       {
-        "id": "top-39013975",
-        "title": "Temperatures to drop briefly ahead of potential new UK heatwave",
-        "summary": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+        "id": "top-173e92e3",
+        "title": "Couple woke to find shirtless intruder in Travelodge room",
+        "summary": "Kim Hutchison says she was \"petrified\" to see a man in just shorts at the end of her bed in a Dundee Travelodge.",
         "bullets": [
-          "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived."
+          "Kim Hutchison says she was \"petrified\" to see a man in just shorts at the end of her bed in a Dundee Travelodge."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czdm0l8l1pmo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T08:56:14.000Z"
+        "publishedAt": "2026-08-05T04:59:59.000Z"
       },
       {
         "id": "tech-6b088b85",
@@ -3603,6 +3603,19 @@
         "publishedAt": "2026-08-04T16:11:05.000Z"
       },
       {
+        "id": "ai-f3cde549",
+        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+        "bullets": [
+          "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T11:00:00.000Z"
+      },
+      {
         "id": "ai-e4ecdf2c",
         "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
         "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
@@ -3655,17 +3668,17 @@
         "publishedAt": "2026-08-04T19:34:34.000Z"
       },
       {
-        "id": "ai-1d0d6903",
-        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-        "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+        "id": "world-8656d7cf",
+        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+        "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
         "bullets": [
-          "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI..."
+          "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-04T19:28:49.000Z"
+        "publishedAt": "2026-08-05T11:19:37.000Z"
       },
       {
         "id": "world-7dcc0466",
@@ -3694,6 +3707,19 @@
         "publishedAt": "2026-08-05T08:29:30.000Z"
       },
       {
+        "id": "world-6663e1d2",
+        "title": "Mexican influencer shot dead during livestream",
+        "summary": "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike.",
+        "bullets": [
+          "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T11:00:47.000Z"
+      },
+      {
         "id": "world-ac60fcd0",
         "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
         "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
@@ -3705,32 +3731,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-05T07:04:45.000Z"
-      },
-      {
-        "id": "world-8656d7cf",
-        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-        "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-        "bullets": [
-          "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T08:29:40.000Z"
-      },
-      {
-        "id": "world-95eff70b",
-        "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-        "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-        "bullets": [
-          "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T00:19:04.000Z"
       }
     ]
   }
