@@ -3737,24 +3737,24 @@
   },
   {
     "date": "2026-08-06",
-    "generatedAt": "2026-08-06T03:41:44.780Z",
+    "generatedAt": "2026-08-06T09:08:18.720Z",
     "articles": [
       {
-        "id": "top-9a97138f",
-        "title": "Infantino sorry for errors but stays Fifa president",
-        "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+        "id": "top-2b1d225e",
+        "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+        "summary": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
         "bullets": [
-          "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his..."
+          "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T21:37:08.000Z"
+        "publishedAt": "2026-08-06T05:00:09.000Z"
       },
       {
-        "id": "top-077f0ccb",
-        "title": "University of Cambridge professor at centre of plagiarism row resigns",
+        "id": "top-708b9968",
+        "title": "Cambridge professor at centre of plagiarism row resigns",
         "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
         "bullets": [
           "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\"."
@@ -3763,11 +3763,24 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T00:36:23.000Z"
+        "publishedAt": "2026-08-06T06:28:03.000Z"
       },
       {
-        "id": "top-78536575",
-        "title": "Jailed funeral boss angers families with 'apology'",
+        "id": "top-db91e525",
+        "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+        "summary": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
+        "bullets": [
+          "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T05:00:13.000Z"
+      },
+      {
+        "id": "top-ed432f94",
+        "title": "Families' anger at jailed funeral boss's apology letter",
         "summary": "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal.",
         "bullets": [
           "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal."
@@ -3779,30 +3792,17 @@
         "publishedAt": "2026-08-05T23:02:10.000Z"
       },
       {
-        "id": "top-e5e74bf6",
-        "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
-        "summary": "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination.",
+        "id": "top-b5e1457a",
+        "title": "Meta becomes latest firm to say its AI hacked another company",
+        "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
         "bullets": [
-          "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination."
+          "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T23:14:22.000Z"
-      },
-      {
-        "id": "top-2b1a1ef2",
-        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-        "summary": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
-        "bullets": [
-          "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:12:17.000Z"
+        "publishedAt": "2026-08-06T05:53:58.000Z"
       },
       {
         "id": "tech-d33f2cb3",
@@ -3936,6 +3936,19 @@
         "publishedAt": "2026-08-05T15:46:27.000Z"
       },
       {
+        "id": "world-9376ce37",
+        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+        "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+        "bullets": [
+          "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T05:00:54.000Z"
+      },
+      {
         "id": "world-6360bdfc",
         "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
         "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
@@ -3949,56 +3962,43 @@
         "publishedAt": "2026-08-06T01:19:59.000Z"
       },
       {
-        "id": "world-9a97138f",
-        "title": "Infantino sorry for errors but stays Fifa president",
-        "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+        "id": "world-38a4c2a2",
+        "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
+        "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
         "bullets": [
-          "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his..."
+          "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T21:37:08.000Z"
+        "publishedAt": "2026-08-06T07:27:17.000Z"
       },
       {
-        "id": "world-8f917f1f",
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+        "id": "world-06ad6b64",
+        "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
+        "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
         "bullets": [
-          "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
+          "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T18:19:51.000Z"
+        "publishedAt": "2026-08-06T06:04:28.000Z"
       },
       {
-        "id": "world-d28f73bb",
-        "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-        "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
+        "id": "world-35b60d52",
+        "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+        "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
         "bullets": [
-          "Women in the team, which is recognised by Fifa, say football has given them freedom and independence."
+          "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T23:28:06.000Z"
-      },
-      {
-        "id": "world-8d6d1f7b",
-        "title": "Drone carrying explosives found at German airport, police say",
-        "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-        "bullets": [
-          "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:01:51.000Z"
+        "publishedAt": "2026-08-06T04:44:22.000Z"
       }
     ]
   }
