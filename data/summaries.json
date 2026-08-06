@@ -3737,33 +3737,33 @@
   },
   {
     "date": "2026-08-06",
-    "generatedAt": "2026-08-06T11:34:39.664Z",
+    "generatedAt": "2026-08-06T14:36:48.198Z",
     "articles": [
       {
-        "id": "top-2b1d225e",
-        "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
-        "summary": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+        "id": "top-13585195",
+        "title": "Burnham orders review of grooming gang early releases",
+        "summary": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
         "bullets": [
-          "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17."
+          "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T05:00:09.000Z"
+        "publishedAt": "2026-08-06T13:56:53.000Z"
       },
       {
-        "id": "top-708b9968",
-        "title": "Cambridge professor at centre of plagiarism row resigns",
-        "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+        "id": "top-d4c749a1",
+        "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
+        "summary": "Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.",
         "bullets": [
-          "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\"."
+          "Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T06:28:03.000Z"
+        "publishedAt": "2026-08-06T12:51:39.000Z"
       },
       {
         "id": "top-07695f29",
@@ -3779,30 +3779,43 @@
         "publishedAt": "2026-08-06T10:00:06.000Z"
       },
       {
-        "id": "top-80f2a5e8",
-        "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
-        "summary": "Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.",
+        "id": "top-708b9968",
+        "title": "Cambridge professor at centre of plagiarism row resigns",
+        "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
         "bullets": [
-          "Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh."
+          "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T10:19:39.000Z"
+        "publishedAt": "2026-08-06T06:28:03.000Z"
       },
       {
-        "id": "top-d72ba3f2",
-        "title": "Farmer jailed for lodger's 'body in barrel' murder",
-        "summary": "Richard Dyson's body was not found until nearly six years after he disappeared in rural Hoyland.",
+        "id": "top-3536146b",
+        "title": "Ukraine hits two oil refineries deep in Russian territory",
+        "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
         "bullets": [
-          "Richard Dyson's body was not found until nearly six years after he disappeared in rural Hoyland."
+          "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnwennnkdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T11:29:53.000Z"
+        "publishedAt": "2026-08-06T12:18:48.000Z"
+      },
+      {
+        "id": "tech-55581791",
+        "title": "AI isn’t enough to protect social media communities from AI",
+        "summary": "Why humans need to moderate humans.",
+        "bullets": [
+          "Why humans need to moderate humans."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T11:00:44.000Z"
       },
       {
         "id": "tech-d33f2cb3",
@@ -3857,96 +3870,96 @@
         "publishedAt": "2026-08-05T20:01:32.000Z"
       },
       {
-        "id": "tech-b2fefa51",
-        "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-        "summary": "\"Slop\" isn't the only problem.",
+        "id": "ai-e931cfda",
+        "title": "Amid legal battles, Suno says it will start watermarking songs",
+        "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
         "bullets": [
-          "\"Slop\" isn't the only problem."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T19:51:40.000Z"
-      },
-      {
-        "id": "ai-bdd23858",
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-        "bullets": [
-          "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+          "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T21:21:28.000Z"
+        "publishedAt": "2026-08-06T13:31:57.000Z"
       },
       {
-        "id": "ai-995793d9",
-        "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-        "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+        "id": "ai-7abe7d3a",
+        "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+        "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
         "bullets": [
-          "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+          "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T20:05:00.000Z"
+        "publishedAt": "2026-08-06T13:00:00.000Z"
       },
       {
-        "id": "ai-0ccb9253",
-        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-        "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+        "id": "ai-3d803a73",
+        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+        "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
         "bullets": [
-          "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific..."
+          "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T19:30:19.000Z"
+        "publishedAt": "2026-08-06T13:00:00.000Z"
       },
       {
-        "id": "ai-3efaf97b",
-        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-        "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+        "id": "ai-949905e4",
+        "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+        "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
         "bullets": [
-          "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers.",
-          "Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
+          "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T15:56:14.000Z"
+        "publishedAt": "2026-08-06T12:30:00.000Z"
       },
       {
-        "id": "ai-3ba8581c",
-        "title": "Hark previews its browser use agent for completing tasks",
-        "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+        "id": "ai-56a0c548",
+        "title": "Omilia raises $67M to scale its customer support platform",
+        "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
         "bullets": [
-          "Hark claims that its browser use agent is faster and cheaper than competition."
+          "The Series B is the company's second fundraise since it last raised capital in 2020.",
+          "In that time, it has increased its ARR by 10x to $60 million."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-05T15:46:27.000Z"
+        "publishedAt": "2026-08-06T12:00:00.000Z"
       },
       {
-        "id": "world-9376ce37",
-        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-        "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+        "id": "world-3536146b",
+        "title": "Ukraine hits two oil refineries deep in Russian territory",
+        "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
         "bullets": [
-          "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline."
+          "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T05:00:54.000Z"
+        "publishedAt": "2026-08-06T12:18:48.000Z"
+      },
+      {
+        "id": "world-6a5ee098",
+        "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+        "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.",
+        "bullets": [
+          "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T14:20:56.000Z"
       },
       {
         "id": "world-6360bdfc",
@@ -3962,43 +3975,30 @@
         "publishedAt": "2026-08-06T01:19:59.000Z"
       },
       {
-        "id": "world-bdd7ec42",
-        "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-        "summary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
+        "id": "world-48ce7993",
+        "title": "DR Congo river boat under quarantine for Ebola after five deaths",
+        "summary": "The health minister says all the passengers are being screened as a precautionary measure.",
         "bullets": [
-          "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court."
+          "The health minister says all the passengers are being screened as a precautionary measure."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T09:49:24.000Z"
+        "publishedAt": "2026-08-06T14:04:27.000Z"
       },
       {
-        "id": "world-e1b786c5",
-        "title": "Iranian footballers who defied Tehran become Australian citizens",
-        "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
+        "id": "world-3ed7a5fa",
+        "title": "EasyJet agrees to £5.7bn takeover by US firm",
+        "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
         "bullets": [
-          "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran."
+          "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T09:04:17.000Z"
-      },
-      {
-        "id": "world-35b60d52",
-        "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-        "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
-        "bullets": [
-          "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T04:44:22.000Z"
+        "publishedAt": "2026-08-06T14:33:29.000Z"
       }
     ]
   }
