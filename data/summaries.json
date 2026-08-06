@@ -3734,5 +3734,272 @@
         "publishedAt": "2026-08-05T21:37:08.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-06",
+    "generatedAt": "2026-08-06T03:41:44.780Z",
+    "articles": [
+      {
+        "id": "top-9a97138f",
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+        "bullets": [
+          "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T21:37:08.000Z"
+      },
+      {
+        "id": "top-077f0ccb",
+        "title": "University of Cambridge professor at centre of plagiarism row resigns",
+        "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+        "bullets": [
+          "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T00:36:23.000Z"
+      },
+      {
+        "id": "top-78536575",
+        "title": "Jailed funeral boss angers families with 'apology'",
+        "summary": "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal.",
+        "bullets": [
+          "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T23:02:10.000Z"
+      },
+      {
+        "id": "top-e5e74bf6",
+        "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
+        "summary": "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination.",
+        "bullets": [
+          "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T23:14:22.000Z"
+      },
+      {
+        "id": "top-2b1a1ef2",
+        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+        "summary": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+        "bullets": [
+          "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T20:12:17.000Z"
+      },
+      {
+        "id": "tech-d33f2cb3",
+        "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+        "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+        "bullets": [
+          "Baseboard management controllers from the world's biggest manufacturers are a security mess."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T22:35:20.000Z"
+      },
+      {
+        "id": "tech-8de7fd7e",
+        "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+        "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+        "bullets": [
+          "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T21:03:18.000Z"
+      },
+      {
+        "id": "tech-41720999",
+        "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+        "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+        "bullets": [
+          "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T20:47:11.000Z"
+      },
+      {
+        "id": "tech-9132137c",
+        "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+        "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
+        "bullets": [
+          "Reddit says the beloved site is used for some \"bad behavior.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T20:01:32.000Z"
+      },
+      {
+        "id": "tech-b2fefa51",
+        "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+        "summary": "\"Slop\" isn't the only problem.",
+        "bullets": [
+          "\"Slop\" isn't the only problem."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T19:51:40.000Z"
+      },
+      {
+        "id": "ai-bdd23858",
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "bullets": [
+          "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T21:21:28.000Z"
+      },
+      {
+        "id": "ai-995793d9",
+        "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+        "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+        "bullets": [
+          "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T20:05:00.000Z"
+      },
+      {
+        "id": "ai-0ccb9253",
+        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+        "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+        "bullets": [
+          "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T19:30:19.000Z"
+      },
+      {
+        "id": "ai-3efaf97b",
+        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+        "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+        "bullets": [
+          "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers.",
+          "Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T15:56:14.000Z"
+      },
+      {
+        "id": "ai-3ba8581c",
+        "title": "Hark previews its browser use agent for completing tasks",
+        "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+        "bullets": [
+          "Hark claims that its browser use agent is faster and cheaper than competition."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T15:46:27.000Z"
+      },
+      {
+        "id": "world-6360bdfc",
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "bullets": [
+          "Neither the US or Oman have commented on the proposed agreement on the vital waterway."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T01:19:59.000Z"
+      },
+      {
+        "id": "world-9a97138f",
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+        "bullets": [
+          "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T21:37:08.000Z"
+      },
+      {
+        "id": "world-8f917f1f",
+        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+        "bullets": [
+          "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T18:19:51.000Z"
+      },
+      {
+        "id": "world-d28f73bb",
+        "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+        "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
+        "bullets": [
+          "Women in the team, which is recognised by Fifa, say football has given them freedom and independence."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T23:28:06.000Z"
+      },
+      {
+        "id": "world-8d6d1f7b",
+        "title": "Drone carrying explosives found at German airport, police say",
+        "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+        "bullets": [
+          "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-05T20:01:51.000Z"
+      }
+    ]
   }
 ]
