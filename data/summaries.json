@@ -4004,11 +4004,37 @@
   },
   {
     "date": "2026-08-07",
-    "generatedAt": "2026-08-07T13:41:26.562Z",
+    "generatedAt": "2026-08-07T16:10:04.116Z",
     "articles": [
       {
-        "id": "top-c8c35c22",
-        "title": "Jason Arday's Cambridge appointment to be part of wider senior hiring review",
+        "id": "top-ed38446a",
+        "title": "How police let a registered sex offender murder and attack women",
+        "summary": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
+        "bullets": [
+          "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T14:03:39.000Z"
+      },
+      {
+        "id": "top-a701ead7",
+        "title": "Serial sex offender guilty of murdering two women and raping third",
+        "summary": "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.",
+        "bullets": [
+          "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T15:42:52.000Z"
+      },
+      {
+        "id": "top-ccc0e737",
+        "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
         "summary": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
         "bullets": [
           "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\"."
@@ -4017,59 +4043,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T13:33:22.000Z"
+        "publishedAt": "2026-08-07T14:48:00.000Z"
       },
       {
-        "id": "top-38e83592",
-        "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
-        "summary": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+        "id": "top-2b93b42e",
+        "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+        "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
         "bullets": [
-          "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time."
+          "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T13:12:46.000Z"
+        "publishedAt": "2026-08-07T16:08:53.000Z"
       },
       {
-        "id": "top-8239f9ba",
-        "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
-        "summary": "The 30-year-old former Brentford striker is due to appear in court next month.",
+        "id": "top-a342a3ca",
+        "title": "Streeting 'sickened' by sex abuse claims at Army college",
+        "summary": "The defence secretary promises to look into what went wrong at the college in North Yorkshire.",
         "bullets": [
-          "The 30-year-old former Brentford striker is due to appear in court next month."
+          "The defence secretary promises to look into what went wrong at the college in North Yorkshire."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T09:30:30.000Z"
+        "publishedAt": "2026-08-07T14:34:29.000Z"
       },
       {
-        "id": "top-25772972",
-        "title": "How a 90-second power outage sparked chaos for rail commuters",
-        "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+        "id": "tech-c0f77892",
+        "title": "Report: White House drafting executive order linking vaccines and autism",
+        "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
         "bullets": [
-          "The incident raised questions about how a disrupted power supply can have such a widespread impact."
+          "Trump determined to link life-saving shots to autism, despite science and political risk."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T12:30:07.000Z"
+        "publishedAt": "2026-08-07T14:41:34.000Z"
       },
       {
-        "id": "top-8b7695df",
-        "title": "Data breach investigation into Minnie Merriman's medical records",
-        "summary": "Minnie Merriman, from West Yorkshire, died after being found seriously injured at an industrial estate in Arbroath.",
+        "id": "tech-44d706cf",
+        "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+        "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
         "bullets": [
-          "Minnie Merriman, from West Yorkshire, died after being found seriously injured at an industrial estate in Arbroath."
+          "Clinicians and researchers say AI companies need to open up their safety data."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T09:59:23.000Z"
+        "publishedAt": "2026-08-07T13:49:37.000Z"
       },
       {
         "id": "tech-d171ef4f",
@@ -4111,37 +4137,24 @@
         "publishedAt": "2026-08-07T12:58:04.000Z"
       },
       {
-        "id": "tech-c7c83212",
-        "title": "Remembering the pre-Google web, when search was an experiment",
-        "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+        "id": "ai-082e374e",
+        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+        "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
         "bullets": [
-          "\"Most people have completely forgotten how chaotic it really was.\""
+          "Airbnb will debut a new AI-powered search experience with a toggle."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T11:00:06.000Z"
-      },
-      {
-        "id": "tech-dfe9af3d",
-        "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-        "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
-        "bullets": [
-          "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T22:20:50.000Z"
+        "publishedAt": "2026-08-07T14:22:49.000Z"
       },
       {
         "id": "ai-506b90da",
         "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-        "summary": "Meta's total fine has raked up to $942 million in this case",
+        "summary": "Meta's total fine has raked up to $942 million in this case.",
         "bullets": [
-          "Meta's total fine has raked up to $942 million in this case"
+          "Meta's total fine has raked up to $942 million in this case."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
@@ -4189,17 +4202,17 @@
         "publishedAt": "2026-08-06T17:00:37.000Z"
       },
       {
-        "id": "ai-786f7cdd",
-        "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-        "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+        "id": "world-6584bd96",
+        "title": "Seven killed after Thai student opens fire at home and school",
+        "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
         "bullets": [
-          "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker."
+          "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T15:53:03.000Z"
+        "publishedAt": "2026-08-07T15:51:16.000Z"
       },
       {
         "id": "world-f1578ad7",
@@ -4225,46 +4238,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T13:18:33.000Z"
+        "publishedAt": "2026-08-07T15:48:49.000Z"
       },
       {
-        "id": "world-caefa574",
-        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-        "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+        "id": "world-ca259153",
+        "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+        "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
         "bullets": [
-          "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
+          "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T00:34:14.000Z"
+        "publishedAt": "2026-08-07T15:59:01.000Z"
       },
       {
-        "id": "world-e003b08b",
-        "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-        "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+        "id": "world-a0712e92",
+        "title": "Mexico and Peru restore diplomatic relations after asylum row",
+        "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
         "bullets": [
-          "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
+          "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T05:44:29.000Z"
-      },
-      {
-        "id": "world-f91e4b7b",
-        "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-        "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-        "bullets": [
-          "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T13:32:41.000Z"
+        "publishedAt": "2026-08-07T15:38:28.000Z"
       }
     ]
   }
