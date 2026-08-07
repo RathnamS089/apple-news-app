@@ -4004,8 +4004,21 @@
   },
   {
     "date": "2026-08-07",
-    "generatedAt": "2026-08-07T07:43:49.371Z",
+    "generatedAt": "2026-08-07T10:12:23.132Z",
     "articles": [
+      {
+        "id": "top-406e2869",
+        "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
+        "summary": "The student says she had to climb over a school fence to flee the shooting which killed five teachers.",
+        "bullets": [
+          "The student says she had to climb over a school fence to flee the shooting which killed five teachers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T09:21:52.000Z"
+      },
       {
         "id": "top-38e83592",
         "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
@@ -4017,59 +4030,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T05:00:23.000Z"
+        "publishedAt": "2026-08-07T08:35:00.000Z"
+      },
+      {
+        "id": "top-8239f9ba",
+        "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+        "summary": "The 30-year-old former Brentford striker is due to appear in court next month.",
+        "bullets": [
+          "The 30-year-old former Brentford striker is due to appear in court next month."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T09:30:30.000Z"
       },
       {
         "id": "top-a3d10043",
         "title": "Arrests in Norfolk town as disorder continues for third night",
-        "summary": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
+        "summary": "The arrests follow disturbances linked to anti-immigration protests in the market town.",
         "bullets": [
-          "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town."
+          "The arrests follow disturbances linked to anti-immigration protests in the market town."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T07:39:00.000Z"
+        "publishedAt": "2026-08-07T10:10:38.000Z"
       },
       {
-        "id": "top-f1578ad7",
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+        "id": "top-86c685db",
+        "title": "How a diary entry solved the murder of a missing man",
+        "summary": "A detective shares how a six-year long investigation brought answers to a family in turmoil.",
         "bullets": [
-          "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
+          "A detective shares how a six-year long investigation brought answers to a family in turmoil."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T00:54:03.000Z"
-      },
-      {
-        "id": "top-caefa574",
-        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-        "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-        "bullets": [
-          "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T00:34:14.000Z"
-      },
-      {
-        "id": "top-c6badf59",
-        "title": "Artificial Intelligence used to design brand new viruses",
-        "summary": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
-        "bullets": [
-          "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T18:01:52.000Z"
+        "publishedAt": "2026-08-06T23:13:11.000Z"
       },
       {
         "id": "tech-dfe9af3d",
@@ -4212,7 +4212,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T00:54:03.000Z"
+        "publishedAt": "2026-08-07T09:22:03.000Z"
       },
       {
         "id": "world-caefa574",
