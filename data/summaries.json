@@ -4004,8 +4004,21 @@
   },
   {
     "date": "2026-08-07",
-    "generatedAt": "2026-08-07T00:17:11.902Z",
+    "generatedAt": "2026-08-07T03:21:07.825Z",
     "articles": [
+      {
+        "id": "top-f1578ad7",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "bullets": [
+          "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T00:54:03.000Z"
+      },
       {
         "id": "top-5a2909ac",
         "title": "Thousands of rail passengers hit by power failure disruption",
@@ -4020,30 +4033,17 @@
         "publishedAt": "2026-08-06T22:35:54.000Z"
       },
       {
-        "id": "top-01a89cbd",
-        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-        "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+        "id": "top-4d2a445c",
+        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+        "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
         "bullets": [
-          "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
+          "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T16:11:30.000Z"
-      },
-      {
-        "id": "top-f1578ad7",
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
-        "bullets": [
-          "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T00:06:17.000Z"
+        "publishedAt": "2026-08-06T18:53:51.000Z"
       },
       {
         "id": "top-a3d10043",
@@ -4059,17 +4059,30 @@
         "publishedAt": "2026-08-07T00:15:52.000Z"
       },
       {
-        "id": "top-4d2a445c",
-        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-        "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+        "id": "top-01a89cbd",
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+        "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
         "bullets": [
-          "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+          "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T18:53:51.000Z"
+        "publishedAt": "2026-08-07T01:57:02.000Z"
+      },
+      {
+        "id": "tech-dfe9af3d",
+        "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+        "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+        "bullets": [
+          "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T22:20:50.000Z"
       },
       {
         "id": "tech-420987be",
@@ -4122,19 +4135,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-06T20:03:44.000Z"
-      },
-      {
-        "id": "tech-cfa84506",
-        "title": "Large genome models used to design new viruses",
-        "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
-        "bullets": [
-          "The AI system makes genetically distant versions of a bacteria-killing virus."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T19:04:57.000Z"
       },
       {
         "id": "ai-f9914213",
@@ -4225,7 +4225,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T00:06:17.000Z"
+        "publishedAt": "2026-08-07T00:54:03.000Z"
       },
       {
         "id": "world-01a89cbd",
@@ -4238,7 +4238,20 @@
         "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T16:11:30.000Z"
+        "publishedAt": "2026-08-07T01:57:02.000Z"
+      },
+      {
+        "id": "world-e003b08b",
+        "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+        "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+        "bullets": [
+          "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T02:07:46.000Z"
       },
       {
         "id": "world-a68fd61f",
@@ -4252,19 +4265,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-06T17:38:51.000Z"
-      },
-      {
-        "id": "world-b35e9df1",
-        "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-        "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
-        "bullets": [
-          "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T17:36:07.000Z"
       }
     ]
   }
