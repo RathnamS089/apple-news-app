@@ -4004,20 +4004,20 @@
   },
   {
     "date": "2026-08-07",
-    "generatedAt": "2026-08-07T10:12:23.132Z",
+    "generatedAt": "2026-08-07T13:41:26.562Z",
     "articles": [
       {
-        "id": "top-406e2869",
-        "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
-        "summary": "The student says she had to climb over a school fence to flee the shooting which killed five teachers.",
+        "id": "top-c8c35c22",
+        "title": "Jason Arday's Cambridge appointment to be part of wider senior hiring review",
+        "summary": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
         "bullets": [
-          "The student says she had to climb over a school fence to flee the shooting which killed five teachers."
+          "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T09:21:52.000Z"
+        "publishedAt": "2026-08-07T13:33:22.000Z"
       },
       {
         "id": "top-38e83592",
@@ -4030,7 +4030,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T08:35:00.000Z"
+        "publishedAt": "2026-08-07T13:12:46.000Z"
       },
       {
         "id": "top-8239f9ba",
@@ -4046,30 +4046,82 @@
         "publishedAt": "2026-08-07T09:30:30.000Z"
       },
       {
-        "id": "top-a3d10043",
-        "title": "Arrests in Norfolk town as disorder continues for third night",
-        "summary": "The arrests follow disturbances linked to anti-immigration protests in the market town.",
+        "id": "top-25772972",
+        "title": "How a 90-second power outage sparked chaos for rail commuters",
+        "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
         "bullets": [
-          "The arrests follow disturbances linked to anti-immigration protests in the market town."
+          "The incident raised questions about how a disrupted power supply can have such a widespread impact."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T10:10:38.000Z"
+        "publishedAt": "2026-08-07T12:30:07.000Z"
       },
       {
-        "id": "top-86c685db",
-        "title": "How a diary entry solved the murder of a missing man",
-        "summary": "A detective shares how a six-year long investigation brought answers to a family in turmoil.",
+        "id": "top-8b7695df",
+        "title": "Data breach investigation into Minnie Merriman's medical records",
+        "summary": "Minnie Merriman, from West Yorkshire, died after being found seriously injured at an industrial estate in Arbroath.",
         "bullets": [
-          "A detective shares how a six-year long investigation brought answers to a family in turmoil."
+          "Minnie Merriman, from West Yorkshire, died after being found seriously injured at an industrial estate in Arbroath."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T23:13:11.000Z"
+        "publishedAt": "2026-08-07T09:59:23.000Z"
+      },
+      {
+        "id": "tech-d171ef4f",
+        "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+        "summary": "TikTok owner training a model with 10 trillion parameters.",
+        "bullets": [
+          "TikTok owner training a model with 10 trillion parameters."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T13:29:22.000Z"
+      },
+      {
+        "id": "tech-c12f2d96",
+        "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+        "summary": "We expected them to be there, but they had previously been too small to see.",
+        "bullets": [
+          "We expected them to be there, but they had previously been too small to see."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T13:20:46.000Z"
+      },
+      {
+        "id": "tech-32a554af",
+        "title": "Trump is losing his war on wind power",
+        "summary": "A court rules that a hold on all wind projects clearly violates the law.",
+        "bullets": [
+          "A court rules that a hold on all wind projects clearly violates the law."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T12:58:04.000Z"
+      },
+      {
+        "id": "tech-c7c83212",
+        "title": "Remembering the pre-Google web, when search was an experiment",
+        "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+        "bullets": [
+          "\"Most people have completely forgotten how chaotic it really was.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T11:00:06.000Z"
       },
       {
         "id": "tech-dfe9af3d",
@@ -4085,56 +4137,17 @@
         "publishedAt": "2026-08-06T22:20:50.000Z"
       },
       {
-        "id": "tech-420987be",
-        "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
-        "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+        "id": "ai-506b90da",
+        "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+        "summary": "Meta's total fine has raked up to $942 million in this case",
         "bullets": [
-          "Explosive drone targeted parked aircraft at Leipzig airport."
+          "Meta's total fine has raked up to $942 million in this case"
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T22:01:55.000Z"
-      },
-      {
-        "id": "tech-6a93a82b",
-        "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
-        "summary": "Musk continues appeal despite court loss and settlement with advertiser group.",
-        "bullets": [
-          "Musk continues appeal despite court loss and settlement with advertiser group."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T20:29:51.000Z"
-      },
-      {
-        "id": "tech-40f8765d",
-        "title": "Suno hopes to go legit with watermarks for AI-generated music",
-        "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
-        "bullets": [
-          "Suno plans watermarks and download limits to stop \"large-scale abuse.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T20:17:36.000Z"
-      },
-      {
-        "id": "tech-ce14a172",
-        "title": "Anthropic will design its own hardware to power Claude",
-        "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
-        "bullets": [
-          "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T20:03:44.000Z"
+        "publishedAt": "2026-08-07T11:40:37.000Z"
       },
       {
         "id": "ai-f9914213",
@@ -4189,19 +4202,6 @@
         "publishedAt": "2026-08-06T15:53:03.000Z"
       },
       {
-        "id": "ai-4bd19e93",
-        "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-        "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the...",
-        "bullets": [
-          "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T15:10:32.000Z"
-      },
-      {
         "id": "world-f1578ad7",
         "title": "Meta fined $567m in largest child safety ruling against social media giant",
         "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
@@ -4213,6 +4213,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-07T09:22:03.000Z"
+      },
+      {
+        "id": "world-48e15251",
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "bullets": [
+          "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T13:18:33.000Z"
       },
       {
         "id": "world-caefa574",
@@ -4228,19 +4241,6 @@
         "publishedAt": "2026-08-07T00:34:14.000Z"
       },
       {
-        "id": "world-01a89cbd",
-        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-        "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-        "bullets": [
-          "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T01:57:02.000Z"
-      },
-      {
         "id": "world-e003b08b",
         "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
         "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
@@ -4254,17 +4254,17 @@
         "publishedAt": "2026-08-07T05:44:29.000Z"
       },
       {
-        "id": "world-4d2a445c",
-        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-        "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+        "id": "world-f91e4b7b",
+        "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+        "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
         "bullets": [
-          "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+          "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-06T18:53:51.000Z"
+        "publishedAt": "2026-08-07T13:32:41.000Z"
       }
     ]
   }
