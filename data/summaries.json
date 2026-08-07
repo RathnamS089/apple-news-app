@@ -4001,5 +4001,271 @@
         "publishedAt": "2026-08-06T14:33:29.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-07",
+    "generatedAt": "2026-08-07T00:17:11.902Z",
+    "articles": [
+      {
+        "id": "top-5a2909ac",
+        "title": "Thousands of rail passengers hit by power failure disruption",
+        "summary": "An outage in Manchester caused delays and cancellations, with services expected to be affected throughout the evening.",
+        "bullets": [
+          "An outage in Manchester caused delays and cancellations, with services expected to be affected throughout the evening."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T22:35:54.000Z"
+      },
+      {
+        "id": "top-01a89cbd",
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+        "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+        "bullets": [
+          "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T16:11:30.000Z"
+      },
+      {
+        "id": "top-f1578ad7",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "bullets": [
+          "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T00:06:17.000Z"
+      },
+      {
+        "id": "top-a3d10043",
+        "title": "Arrests in Norfolk town as disorder continues for third night",
+        "summary": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
+        "bullets": [
+          "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T00:15:52.000Z"
+      },
+      {
+        "id": "top-4d2a445c",
+        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+        "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+        "bullets": [
+          "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T18:53:51.000Z"
+      },
+      {
+        "id": "tech-420987be",
+        "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+        "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+        "bullets": [
+          "Explosive drone targeted parked aircraft at Leipzig airport."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T22:01:55.000Z"
+      },
+      {
+        "id": "tech-6a93a82b",
+        "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+        "summary": "Musk continues appeal despite court loss and settlement with advertiser group.",
+        "bullets": [
+          "Musk continues appeal despite court loss and settlement with advertiser group."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T20:29:51.000Z"
+      },
+      {
+        "id": "tech-40f8765d",
+        "title": "Suno hopes to go legit with watermarks for AI-generated music",
+        "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
+        "bullets": [
+          "Suno plans watermarks and download limits to stop \"large-scale abuse.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T20:17:36.000Z"
+      },
+      {
+        "id": "tech-ce14a172",
+        "title": "Anthropic will design its own hardware to power Claude",
+        "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+        "bullets": [
+          "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T20:03:44.000Z"
+      },
+      {
+        "id": "tech-cfa84506",
+        "title": "Large genome models used to design new viruses",
+        "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+        "bullets": [
+          "The AI system makes genetically distant versions of a bacteria-killing virus."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T19:04:57.000Z"
+      },
+      {
+        "id": "ai-f9914213",
+        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "bullets": [
+          "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T22:43:53.000Z"
+      },
+      {
+        "id": "ai-2f47c10f",
+        "title": "ChatGPT brings unlimited text chats to free users",
+        "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+        "bullets": [
+          "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T17:34:42.000Z"
+      },
+      {
+        "id": "ai-bc12d90a",
+        "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+        "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+        "bullets": [
+          "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T17:00:37.000Z"
+      },
+      {
+        "id": "ai-786f7cdd",
+        "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+        "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+        "bullets": [
+          "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T15:53:03.000Z"
+      },
+      {
+        "id": "ai-4bd19e93",
+        "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+        "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the...",
+        "bullets": [
+          "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T15:10:32.000Z"
+      },
+      {
+        "id": "world-4d2a445c",
+        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+        "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+        "bullets": [
+          "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T18:53:51.000Z"
+      },
+      {
+        "id": "world-f1578ad7",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "bullets": [
+          "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T00:06:17.000Z"
+      },
+      {
+        "id": "world-01a89cbd",
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+        "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+        "bullets": [
+          "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T16:11:30.000Z"
+      },
+      {
+        "id": "world-a68fd61f",
+        "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+        "summary": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+        "bullets": [
+          "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T17:38:51.000Z"
+      },
+      {
+        "id": "world-b35e9df1",
+        "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+        "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
+        "bullets": [
+          "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-06T17:36:07.000Z"
+      }
+    ]
   }
 ]
