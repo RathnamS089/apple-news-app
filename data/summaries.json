@@ -4271,7 +4271,7 @@
   },
   {
     "date": "2026-08-08",
-    "generatedAt": "2026-08-08T19:00:16.873Z",
+    "generatedAt": "2026-08-08T21:47:22.089Z",
     "articles": [
       {
         "id": "top-ed7a6193",
@@ -4313,17 +4313,17 @@
         "publishedAt": "2026-08-07T23:23:12.000Z"
       },
       {
-        "id": "top-6ac51a56",
-        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-        "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+        "id": "top-281e3730",
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
         "bullets": [
-          "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
+          "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-08T15:56:39.000Z"
+        "publishedAt": "2026-08-08T19:18:57.000Z"
       },
       {
         "id": "top-48f034b6",
@@ -4404,6 +4404,32 @@
         "publishedAt": "2026-08-07T19:49:27.000Z"
       },
       {
+        "id": "ai-3bb5a141",
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "bullets": [
+          "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T21:24:02.000Z"
+      },
+      {
+        "id": "ai-46a486d3",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "summary": "NextSlide says its team members are now working on ChatGPT.",
+        "bullets": [
+          "NextSlide says its team members are now working on ChatGPT."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T19:41:13.000Z"
+      },
+      {
         "id": "ai-b2ca74bb",
         "title": "OpenAI says it slowed Astra model development over security concerns",
         "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
@@ -4444,30 +4470,17 @@
         "publishedAt": "2026-08-07T16:16:09.000Z"
       },
       {
-        "id": "ai-082e374e",
-        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-        "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+        "id": "world-281e3730",
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
         "bullets": [
-          "Airbnb will debut a new AI-powered search experience with a toggle."
+          "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T14:22:49.000Z"
-      },
-      {
-        "id": "ai-e002e307",
-        "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-        "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s...",
-        "bullets": [
-          "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T14:00:00.000Z"
+        "publishedAt": "2026-08-08T19:18:57.000Z"
       },
       {
         "id": "world-6ac51a56",
@@ -4507,19 +4520,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-08T15:51:11.000Z"
-      },
-      {
-        "id": "world-037a9dc4",
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "bullets": [
-          "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T14:25:19.000Z"
       },
       {
         "id": "world-a0688cff",
