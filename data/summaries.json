@@ -4271,7 +4271,7 @@
   },
   {
     "date": "2026-08-08",
-    "generatedAt": "2026-08-08T07:16:59.736Z",
+    "generatedAt": "2026-08-08T09:56:10.785Z",
     "articles": [
       {
         "id": "top-1c54fef1",
@@ -4300,8 +4300,8 @@
         "publishedAt": "2026-08-07T22:50:58.000Z"
       },
       {
-        "id": "top-8cc420de",
-        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "id": "top-05c4cc7b",
+        "title": "Finding ‘The Spider’: the months-long hunt for a wanted spy chief",
         "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
         "bullets": [
           "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
@@ -4483,6 +4483,19 @@
         "publishedAt": "2026-08-08T06:12:56.000Z"
       },
       {
+        "id": "world-8cc420de",
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "bullets": [
+          "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T23:23:12.000Z"
+      },
+      {
         "id": "world-037a9dc4",
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
@@ -4520,19 +4533,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-07T14:20:27.000Z"
-      },
-      {
-        "id": "world-f12e7a2f",
-        "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-        "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-        "bullets": [
-          "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T00:02:49.000Z"
       }
     ]
   }
