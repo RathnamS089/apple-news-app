@@ -4271,7 +4271,7 @@
   },
   {
     "date": "2026-08-08",
-    "generatedAt": "2026-08-08T09:56:10.785Z",
+    "generatedAt": "2026-08-08T13:14:08.426Z",
     "articles": [
       {
         "id": "top-1c54fef1",
@@ -4287,6 +4287,32 @@
         "publishedAt": "2026-08-08T06:16:44.000Z"
       },
       {
+        "id": "top-592f42c1",
+        "title": "Sex offender victims urged to come forward as police accused of 'litany of failures'",
+        "summary": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
+        "bullets": [
+          "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T11:55:30.000Z"
+      },
+      {
+        "id": "top-fccb0fca",
+        "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+        "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "bullets": [
+          "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T23:23:12.000Z"
+      },
+      {
         "id": "top-0126ab73",
         "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
         "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
@@ -4300,43 +4326,43 @@
         "publishedAt": "2026-08-07T22:50:58.000Z"
       },
       {
-        "id": "top-05c4cc7b",
-        "title": "Finding ‘The Spider’: the months-long hunt for a wanted spy chief",
-        "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "id": "top-d55ad576",
+        "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+        "summary": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
         "bullets": [
-          "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T23:23:12.000Z"
-      },
-      {
-        "id": "top-037a9dc4",
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "bullets": [
-          "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T22:13:55.000Z"
-      },
-      {
-        "id": "top-ebcce563",
-        "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-        "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
-        "bullets": [
-          "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread."
+          "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-07T22:07:00.000Z"
+      },
+      {
+        "id": "tech-2b2ac22d",
+        "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+        "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+        "bullets": [
+          "About 90 percent of the distance driven by Perseverance has been autonomous."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T11:30:48.000Z"
+      },
+      {
+        "id": "tech-38ac616d",
+        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+        "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+        "bullets": [
+          "Open source WeatherNext model can make accurate predictions with lower-resolution weather data."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T11:05:50.000Z"
       },
       {
         "id": "tech-4f859dda",
@@ -4376,32 +4402,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-07T19:49:27.000Z"
-      },
-      {
-        "id": "tech-7c59042f",
-        "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-        "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
-        "bullets": [
-          "Fitted with telescopes, the plane did our longest imaging of the Sun's corona."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T19:00:17.000Z"
-      },
-      {
-        "id": "tech-63fab6f6",
-        "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-        "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
-        "bullets": [
-          "19 new maps continue the story from MachineGames' other campaign additions."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T18:00:02.000Z"
       },
       {
         "id": "ai-b2ca74bb",
@@ -4483,6 +4483,19 @@
         "publishedAt": "2026-08-08T06:12:56.000Z"
       },
       {
+        "id": "world-af38b17d",
+        "title": "US Senate narrowly confirms Todd Blanche as attorney general",
+        "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official depite a rare pushback from some Republicans.",
+        "bullets": [
+          "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official depite a rare pushback from some Republicans."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T13:12:07.000Z"
+      },
+      {
         "id": "world-8cc420de",
         "title": "The phone book that led us to Assad's spy chief in hiding",
         "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
@@ -4509,30 +4522,17 @@
         "publishedAt": "2026-08-07T22:13:55.000Z"
       },
       {
-        "id": "world-955521ce",
-        "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-        "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+        "id": "world-5b90f8e7",
+        "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+        "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
         "bullets": [
-          "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
+          "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T21:19:27.000Z"
-      },
-      {
-        "id": "world-d5a9698e",
-        "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-        "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-        "bullets": [
-          "The student says she feared never seeing her mother again after the attack killed five teachers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T14:20:27.000Z"
+        "publishedAt": "2026-08-08T12:01:42.000Z"
       }
     ]
   }
