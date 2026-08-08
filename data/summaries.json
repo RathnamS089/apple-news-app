@@ -4271,37 +4271,24 @@
   },
   {
     "date": "2026-08-08",
-    "generatedAt": "2026-08-08T04:29:59.996Z",
+    "generatedAt": "2026-08-08T07:16:59.736Z",
     "articles": [
       {
-        "id": "top-5476d45d",
-        "title": "Police officers investigated over handling of sex offender who murdered two women",
-        "summary": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
+        "id": "top-1c54fef1",
+        "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+        "summary": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
         "bullets": [
-          "Simon Levy was a serial sex offender who was being monitored by police when he killed two women."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T23:56:11.000Z"
-      },
-      {
-        "id": "top-ddb580cb",
-        "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
-        "summary": "No arrests were made at the time and the investigation was closed.",
-        "bullets": [
-          "No arrests were made at the time and the investigation was closed."
+          "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T22:42:43.000Z"
+        "publishedAt": "2026-08-08T06:16:44.000Z"
       },
       {
-        "id": "top-a4eff4f7",
-        "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+        "id": "top-0126ab73",
+        "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
         "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
         "bullets": [
           "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily..."
@@ -4311,6 +4298,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-07T22:50:58.000Z"
+      },
+      {
+        "id": "top-8cc420de",
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "bullets": [
+          "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T23:23:12.000Z"
       },
       {
         "id": "top-037a9dc4",
@@ -4326,17 +4326,17 @@
         "publishedAt": "2026-08-07T22:13:55.000Z"
       },
       {
-        "id": "top-1f5357e5",
-        "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-        "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+        "id": "top-ebcce563",
+        "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+        "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
         "bullets": [
-          "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup."
+          "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T21:24:17.000Z"
+        "publishedAt": "2026-08-07T22:07:00.000Z"
       },
       {
         "id": "tech-4f859dda",
@@ -4470,6 +4470,19 @@
         "publishedAt": "2026-08-07T14:00:00.000Z"
       },
       {
+        "id": "world-0d625cf0",
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "bullets": [
+          "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T06:12:56.000Z"
+      },
+      {
         "id": "world-037a9dc4",
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
@@ -4509,30 +4522,17 @@
         "publishedAt": "2026-08-07T14:20:27.000Z"
       },
       {
-        "id": "world-48e15251",
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "id": "world-f12e7a2f",
+        "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+        "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
         "bullets": [
-          "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+          "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-07T17:42:54.000Z"
-      },
-      {
-        "id": "world-2db4151a",
-        "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-        "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-        "bullets": [
-          "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T16:13:45.000Z"
+        "publishedAt": "2026-08-08T00:02:49.000Z"
       }
     ]
   }
