@@ -4538,8 +4538,21 @@
   },
   {
     "date": "2026-08-09",
-    "generatedAt": "2026-08-09T07:18:28.309Z",
+    "generatedAt": "2026-08-09T09:58:51.576Z",
     "articles": [
+      {
+        "id": "top-08adc82e",
+        "title": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
+        "summary": "The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "bullets": [
+          "The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-09T08:50:14.000Z"
+      },
       {
         "id": "top-e75c3bed",
         "title": "Andy Burnham to embark on cost of living tour through the UK",
@@ -4554,21 +4567,8 @@
         "publishedAt": "2026-08-08T23:10:50.000Z"
       },
       {
-        "id": "top-3773db82",
-        "title": "Fifa criticises campaign to oust president Infantino",
-        "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
-        "bullets": [
-          "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T22:06:44.000Z"
-      },
-      {
-        "id": "top-7e6fea66",
-        "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+        "id": "top-e4869738",
+        "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
         "summary": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
         "bullets": [
           "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight."
@@ -4580,17 +4580,17 @@
         "publishedAt": "2026-08-08T23:13:35.000Z"
       },
       {
-        "id": "top-956f6703",
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "id": "top-a70e5e38",
+        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+        "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
         "bullets": [
-          "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
+          "The country is home to some of the world's most unique species - but it is losing them at an alarming rate."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-08T23:43:44.000Z"
+        "publishedAt": "2026-08-08T19:00:22.000Z"
       },
       {
         "id": "top-d6d87226",
