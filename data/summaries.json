@@ -4535,5 +4535,272 @@
         "publishedAt": "2026-08-08T17:23:31.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-09",
+    "generatedAt": "2026-08-09T02:30:53.599Z",
+    "articles": [
+      {
+        "id": "top-e75c3bed",
+        "title": "Andy Burnham to embark on cost of living tour through the UK",
+        "summary": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+        "bullets": [
+          "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T23:10:50.000Z"
+      },
+      {
+        "id": "top-3773db82",
+        "title": "Fifa criticises campaign to oust president Infantino",
+        "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+        "bullets": [
+          "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T22:06:44.000Z"
+      },
+      {
+        "id": "top-7e6fea66",
+        "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+        "summary": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
+        "bullets": [
+          "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T23:13:35.000Z"
+      },
+      {
+        "id": "top-956f6703",
+        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+        "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "bullets": [
+          "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T23:43:44.000Z"
+      },
+      {
+        "id": "top-281e3730",
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+        "bullets": [
+          "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T19:18:57.000Z"
+      },
+      {
+        "id": "tech-2b2ac22d",
+        "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+        "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+        "bullets": [
+          "About 90 percent of the distance driven by Perseverance has been autonomous."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T11:30:48.000Z"
+      },
+      {
+        "id": "tech-38ac616d",
+        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+        "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+        "bullets": [
+          "Open source WeatherNext model can make accurate predictions with lower-resolution weather data."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T11:05:50.000Z"
+      },
+      {
+        "id": "tech-4f859dda",
+        "title": "Europe's free satellite service just made it easier to track wildfires",
+        "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+        "bullets": [
+          "Copernicus Browser adds wildfire visualization amid record wildfire season."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T21:48:21.000Z"
+      },
+      {
+        "id": "tech-8099c931",
+        "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+        "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+        "bullets": [
+          "Six deaths reported among screwworm cases, one directly attributed to the flies."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T21:09:00.000Z"
+      },
+      {
+        "id": "tech-9d00d27b",
+        "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+        "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+        "bullets": [
+          "New Mexico judge orders $567M fund to help address youth mental health crisis."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T19:49:27.000Z"
+      },
+      {
+        "id": "ai-3bb5a141",
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "bullets": [
+          "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T21:24:02.000Z"
+      },
+      {
+        "id": "ai-46a486d3",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "summary": "NextSlide says its team members are now working on ChatGPT.",
+        "bullets": [
+          "NextSlide says its team members are now working on ChatGPT."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T19:41:13.000Z"
+      },
+      {
+        "id": "ai-b2ca74bb",
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+        "bullets": [
+          "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T22:48:24.000Z"
+      },
+      {
+        "id": "ai-cd1b4667",
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+        "bullets": [
+          "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T21:30:11.000Z"
+      },
+      {
+        "id": "ai-57202996",
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+        "bullets": [
+          "Kitesurf is a cloud-hosted browser designed for AI agents instead of people.",
+          "It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-07T16:16:09.000Z"
+      },
+      {
+        "id": "world-281e3730",
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+        "bullets": [
+          "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T19:18:57.000Z"
+      },
+      {
+        "id": "world-6ac51a56",
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+        "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+        "bullets": [
+          "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T15:56:39.000Z"
+      },
+      {
+        "id": "world-17023490",
+        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+        "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+        "bullets": [
+          "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T17:58:42.000Z"
+      },
+      {
+        "id": "world-e8b0c917",
+        "title": "Messi's father Jorge dies aged 68 after illness",
+        "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+        "bullets": [
+          "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T15:51:11.000Z"
+      },
+      {
+        "id": "world-a0688cff",
+        "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+        "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+        "bullets": [
+          "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-08T17:23:31.000Z"
+      }
+    ]
   }
 ]
