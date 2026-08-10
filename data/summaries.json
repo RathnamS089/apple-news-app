@@ -4804,20 +4804,20 @@
   },
   {
     "date": "2026-08-10",
-    "generatedAt": "2026-08-10T04:56:18.779Z",
+    "generatedAt": "2026-08-10T08:06:06.670Z",
     "articles": [
       {
-        "id": "top-807f0801",
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "id": "top-513ef4bb",
+        "title": "Travelodge staff gave domestic abuser key to his victim's room",
+        "summary": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
         "bullets": [
-          "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+          "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-09T20:58:18.000Z"
+        "publishedAt": "2026-08-10T05:00:07.000Z"
       },
       {
         "id": "top-66d9fbf0",
@@ -4830,7 +4830,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-09T23:01:39.000Z"
+        "publishedAt": "2026-08-10T07:16:12.000Z"
+      },
+      {
+        "id": "top-807f0801",
+        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "bullets": [
+          "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-09T20:58:18.000Z"
       },
       {
         "id": "top-9e00af72",
@@ -4856,20 +4869,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T03:15:21.000Z"
-      },
-      {
-        "id": "top-bf994192",
-        "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
-        "summary": "While Monday won't be quite as hot as the weekend, temperatures will ramp up ahead of the fifth widespread heatwave of the year.",
-        "bullets": [
-          "While Monday won't be quite as hot as the weekend, temperatures will ramp up ahead of the fifth widespread heatwave of the year."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cvgx1k415v2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T01:36:10.000Z"
+        "publishedAt": "2026-08-10T07:23:54.000Z"
       },
       {
         "id": "tech-b3b5fa1e",
