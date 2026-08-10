@@ -4804,7 +4804,7 @@
   },
   {
     "date": "2026-08-10",
-    "generatedAt": "2026-08-10T19:18:51.794Z",
+    "generatedAt": "2026-08-10T21:59:59.347Z",
     "articles": [
       {
         "id": "top-25696b71",
@@ -4820,17 +4820,30 @@
         "publishedAt": "2026-08-10T17:41:39.000Z"
       },
       {
-        "id": "top-81d52ae4",
-        "title": "30 years later, a former rival will stand trial for Tupac's murder",
-        "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+        "id": "top-20b391c0",
+        "title": "New Forest firefighting to continue overnight as cars abandoned",
+        "summary": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
         "bullets": [
-          "It’s been three decades since Tupac was killed, and since then, his reputation has only grown."
+          "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T16:52:47.000Z"
+        "publishedAt": "2026-08-10T20:24:05.000Z"
+      },
+      {
+        "id": "top-dad3feed",
+        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+        "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+        "bullets": [
+          "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T21:33:51.000Z"
       },
       {
         "id": "top-02cfc101",
@@ -4846,30 +4859,17 @@
         "publishedAt": "2026-08-10T14:51:06.000Z"
       },
       {
-        "id": "top-078f8a63",
-        "title": "New weight loss pill approved for use in UK",
-        "summary": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab.",
+        "id": "top-f6da88e0",
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
         "bullets": [
-          "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab."
+          "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T15:25:07.000Z"
-      },
-      {
-        "id": "top-3d2d866e",
-        "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
-        "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
-        "bullets": [
-          "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T13:16:51.000Z"
+        "publishedAt": "2026-08-10T21:33:25.000Z"
       },
       {
         "id": "tech-87942678",
@@ -4937,6 +4937,33 @@
         "publishedAt": "2026-08-10T15:05:00.000Z"
       },
       {
+        "id": "ai-d5a2b881",
+        "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+        "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+        "bullets": [
+          "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\"..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T20:53:02.000Z"
+      },
+      {
+        "id": "ai-527a464d",
+        "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+        "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+        "bullets": [
+          "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist.",
+          "And the tech industry took notice."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T20:04:24.000Z"
+      },
+      {
         "id": "ai-3bc6c6ea",
         "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
         "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
@@ -4976,32 +5003,6 @@
         "publishedAt": "2026-08-09T20:35:17.000Z"
       },
       {
-        "id": "ai-9183eb34",
-        "title": "Anthropic is turning Claude Code’s auto mode on by default",
-        "summary": "Programming with Claude Code will soon require even less human oversight.",
-        "bullets": [
-          "Programming with Claude Code will soon require even less human oversight."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T19:20:32.000Z"
-      },
-      {
-        "id": "ai-15d5d645",
-        "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-        "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-        "bullets": [
-          "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T15:00:00.000Z"
-      },
-      {
         "id": "world-5fe18b2e",
         "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
         "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
@@ -5013,19 +5014,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-10T14:34:25.000Z"
-      },
-      {
-        "id": "world-800ebd8e",
-        "title": "World's oceans hit record-high July temperatures",
-        "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
-        "bullets": [
-          "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T10:24:46.000Z"
       },
       {
         "id": "world-94ac3aea",
@@ -5054,17 +5042,30 @@
         "publishedAt": "2026-08-10T19:17:11.000Z"
       },
       {
-        "id": "world-d9c53fde",
-        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-        "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+        "id": "world-0c66b559",
+        "title": "Canada flight cancelled after child refuses to wear seat belt",
+        "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
         "bullets": [
-          "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease."
+          "The incident has sparked a debate over child safety and discipline on commercial planes."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T17:50:29.000Z"
+        "publishedAt": "2026-08-10T21:06:27.000Z"
+      },
+      {
+        "id": "world-12ca2821",
+        "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+        "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+        "bullets": [
+          "It’s been three decades since Tupac was killed, and since then, his reputation has only grown."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T16:52:47.000Z"
       }
     ]
   }
