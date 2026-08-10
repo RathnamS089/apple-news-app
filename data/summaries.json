@@ -4804,8 +4804,34 @@
   },
   {
     "date": "2026-08-10",
-    "generatedAt": "2026-08-10T16:10:43.228Z",
+    "generatedAt": "2026-08-10T19:18:51.794Z",
     "articles": [
+      {
+        "id": "top-25696b71",
+        "title": "More than two-thirds of England now in drought",
+        "summary": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.",
+        "bullets": [
+          "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T17:41:39.000Z"
+      },
+      {
+        "id": "top-81d52ae4",
+        "title": "30 years later, a former rival will stand trial for Tupac's murder",
+        "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+        "bullets": [
+          "It’s been three decades since Tupac was killed, and since then, his reputation has only grown."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T16:52:47.000Z"
+      },
       {
         "id": "top-02cfc101",
         "title": "Record 230 people cross Channel in one small boat",
@@ -4820,17 +4846,17 @@
         "publishedAt": "2026-08-10T14:51:06.000Z"
       },
       {
-        "id": "top-513ef4bb",
-        "title": "Travelodge staff gave domestic abuser key to his victim's room",
-        "summary": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+        "id": "top-078f8a63",
+        "title": "New weight loss pill approved for use in UK",
+        "summary": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab.",
         "bullets": [
-          "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key."
+          "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T05:00:07.000Z"
+        "publishedAt": "2026-08-10T15:25:07.000Z"
       },
       {
         "id": "top-3d2d866e",
@@ -4846,30 +4872,56 @@
         "publishedAt": "2026-08-10T13:16:51.000Z"
       },
       {
-        "id": "top-416bc6df",
-        "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-        "summary": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
+        "id": "tech-87942678",
+        "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
+        "summary": "Ford dealers were told about the new Escape-sized model; one of them spilled the beans.",
         "bullets": [
-          "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings."
+          "Ford dealers were told about the new Escape-sized model; one of them spilled the beans."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T14:58:24.000Z"
+        "publishedAt": "2026-08-10T17:07:47.000Z"
       },
       {
-        "id": "top-5fe18b2e",
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+        "id": "tech-a7307014",
+        "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
+        "summary": "Recall of jalapeño products spans 26 states, major retailers, a variety of foods.",
         "bullets": [
-          "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
+          "Recall of jalapeño products spans 26 states, major retailers, a variety of foods."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T14:34:25.000Z"
+        "publishedAt": "2026-08-10T16:37:08.000Z"
+      },
+      {
+        "id": "tech-4ed4814c",
+        "title": "Valve slowly expands SteamOS support on non-Valve hardware",
+        "summary": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.",
+        "bullets": [
+          "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T16:01:04.000Z"
+      },
+      {
+        "id": "tech-4546d829",
+        "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
+        "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
+        "bullets": [
+          "Aptoide has become the first app store distributed inside Google Play under a judge's order."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T15:44:45.000Z"
       },
       {
         "id": "tech-0a55428b",
@@ -4885,56 +4937,17 @@
         "publishedAt": "2026-08-10T15:05:00.000Z"
       },
       {
-        "id": "tech-2f0dff2e",
-        "title": "Dogs can tell if you're scared or sad",
-        "summary": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
+        "id": "ai-3bc6c6ea",
+        "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+        "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
         "bullets": [
-          "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains."
+          "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T15:00:53.000Z"
-      },
-      {
-        "id": "tech-b809b759",
-        "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
-        "summary": "The newest Outback sticks to the script; that's no bad thing if you like Outbacks.",
-        "bullets": [
-          "The newest Outback sticks to the script; that's no bad thing if you like Outbacks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T14:49:21.000Z"
-      },
-      {
-        "id": "tech-8ef395e9",
-        "title": "A researcher bought noreply.net. Companies started sending him secrets.",
-        "summary": "Companies treat some email domains as digital trash cans, despite the risks.",
-        "bullets": [
-          "Companies treat some email domains as digital trash cans, despite the risks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T14:25:50.000Z"
-      },
-      {
-        "id": "tech-c450a006",
-        "title": "Peer review is overwhelmed—can it survive in the AI era?",
-        "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
-        "bullets": [
-          "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T11:00:47.000Z"
+        "publishedAt": "2026-08-10T16:20:13.000Z"
       },
       {
         "id": "ai-bedb3ae3",
@@ -4989,19 +5002,6 @@
         "publishedAt": "2026-08-09T15:00:00.000Z"
       },
       {
-        "id": "ai-f749e711",
-        "title": "The AI safety test is becoming a safety risk",
-        "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-        "bullets": [
-          "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T14:30:00.000Z"
-      },
-      {
         "id": "world-5fe18b2e",
         "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
         "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
@@ -5041,30 +5041,30 @@
         "publishedAt": "2026-08-10T14:43:08.000Z"
       },
       {
-        "id": "world-9e00af72",
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+        "id": "world-a6ac835a",
+        "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+        "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
         "bullets": [
-          "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
+          "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-09T23:05:29.000Z"
+        "publishedAt": "2026-08-10T19:17:11.000Z"
       },
       {
-        "id": "world-b2a4f623",
-        "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-        "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+        "id": "world-d9c53fde",
+        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+        "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
         "bullets": [
-          "Chalong Riewrang called a YouTube livestream to say he had shot a government official."
+          "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T15:21:27.000Z"
+        "publishedAt": "2026-08-10T17:50:29.000Z"
       }
     ]
   }
