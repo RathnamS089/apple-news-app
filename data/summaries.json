@@ -4804,7 +4804,7 @@
   },
   {
     "date": "2026-08-10",
-    "generatedAt": "2026-08-10T13:46:51.138Z",
+    "generatedAt": "2026-08-10T16:10:43.228Z",
     "articles": [
       {
         "id": "top-02cfc101",
@@ -4817,20 +4817,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T13:27:38.000Z"
-      },
-      {
-        "id": "top-093ee46b",
-        "title": "'Dust devil' spins through London park",
-        "summary": "Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people.",
-        "bullets": [
-          "Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T11:14:50.000Z"
+        "publishedAt": "2026-08-10T14:51:06.000Z"
       },
       {
         "id": "top-513ef4bb",
@@ -4846,6 +4833,19 @@
         "publishedAt": "2026-08-10T05:00:07.000Z"
       },
       {
+        "id": "top-3d2d866e",
+        "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
+        "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
+        "bullets": [
+          "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T13:16:51.000Z"
+      },
+      {
         "id": "top-416bc6df",
         "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
         "summary": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
@@ -4856,20 +4856,72 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T11:14:51.000Z"
+        "publishedAt": "2026-08-10T14:58:24.000Z"
       },
       {
-        "id": "top-0cb6fdb4",
-        "title": "Thames Water gave finance boss a £1m signing-on fee",
-        "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+        "id": "top-5fe18b2e",
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
         "bullets": [
-          "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company."
+          "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T11:48:54.000Z"
+        "publishedAt": "2026-08-10T14:34:25.000Z"
+      },
+      {
+        "id": "tech-0a55428b",
+        "title": "One of China's workhorse rockets just exploded in flight",
+        "summary": "If the failure involved the YF-100 engine, there are broader concerns for China's space program.",
+        "bullets": [
+          "If the failure involved the YF-100 engine, there are broader concerns for China's space program."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T15:05:00.000Z"
+      },
+      {
+        "id": "tech-2f0dff2e",
+        "title": "Dogs can tell if you're scared or sad",
+        "summary": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
+        "bullets": [
+          "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T15:00:53.000Z"
+      },
+      {
+        "id": "tech-b809b759",
+        "title": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
+        "summary": "The newest Outback sticks to the script; that's no bad thing if you like Outbacks.",
+        "bullets": [
+          "The newest Outback sticks to the script; that's no bad thing if you like Outbacks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T14:49:21.000Z"
+      },
+      {
+        "id": "tech-8ef395e9",
+        "title": "A researcher bought noreply.net. Companies started sending him secrets.",
+        "summary": "Companies treat some email domains as digital trash cans, despite the risks.",
+        "bullets": [
+          "Companies treat some email domains as digital trash cans, despite the risks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T14:25:50.000Z"
       },
       {
         "id": "tech-c450a006",
@@ -4883,58 +4935,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-10T11:00:47.000Z"
-      },
-      {
-        "id": "tech-b3b5fa1e",
-        "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-        "summary": "The massive Toba eruption seems to have had little climate impact.",
-        "bullets": [
-          "The massive Toba eruption seems to have had little climate impact."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T11:00:14.000Z"
-      },
-      {
-        "id": "tech-2b2ac22d",
-        "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-        "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
-        "bullets": [
-          "About 90 percent of the distance driven by Perseverance has been autonomous."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T11:30:48.000Z"
-      },
-      {
-        "id": "tech-38ac616d",
-        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-        "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-        "bullets": [
-          "Open source WeatherNext model can make accurate predictions with lower-resolution weather data."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T11:05:50.000Z"
-      },
-      {
-        "id": "tech-4f859dda",
-        "title": "Europe's free satellite service just made it easier to track wildfires",
-        "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
-        "bullets": [
-          "Copernicus Browser adds wildfire visualization amid record wildfire season."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T21:48:21.000Z"
       },
       {
         "id": "ai-bedb3ae3",
@@ -5004,15 +5004,41 @@
       {
         "id": "world-5fe18b2e",
         "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+        "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
         "bullets": [
-          "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia..."
+          "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T12:54:13.000Z"
+        "publishedAt": "2026-08-10T14:34:25.000Z"
+      },
+      {
+        "id": "world-800ebd8e",
+        "title": "World's oceans hit record-high July temperatures",
+        "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+        "bullets": [
+          "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T10:24:46.000Z"
+      },
+      {
+        "id": "world-94ac3aea",
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+        "bullets": [
+          "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T14:43:08.000Z"
       },
       {
         "id": "world-9e00af72",
@@ -5028,19 +5054,6 @@
         "publishedAt": "2026-08-09T23:05:29.000Z"
       },
       {
-        "id": "world-15525ec6",
-        "title": "China evacuates one million from homes as massive storm arrives",
-        "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-        "bullets": [
-          "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T07:23:54.000Z"
-      },
-      {
         "id": "world-b2a4f623",
         "title": "Former Thai MP allegedly kills official and confesses on YouTube",
         "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
@@ -5051,20 +5064,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T09:51:07.000Z"
-      },
-      {
-        "id": "world-5ab80ff0",
-        "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-        "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-        "bullets": [
-          "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T12:23:21.000Z"
+        "publishedAt": "2026-08-10T15:21:27.000Z"
       }
     ]
   }
