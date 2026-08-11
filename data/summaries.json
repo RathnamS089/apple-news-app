@@ -5071,7 +5071,7 @@
   },
   {
     "date": "2026-08-11",
-    "generatedAt": "2026-08-11T16:12:07.893Z",
+    "generatedAt": "2026-08-11T19:27:11.995Z",
     "articles": [
       {
         "id": "top-03f43aca",
@@ -5087,17 +5087,17 @@
         "publishedAt": "2026-08-11T14:23:52.000Z"
       },
       {
-        "id": "top-290e477a",
-        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-        "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+        "id": "top-002f405b",
+        "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
+        "summary": "The PM says the justice secretary will present a plan in September to prevent more early releases.",
         "bullets": [
-          "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey."
+          "The PM says the justice secretary will present a plan in September to prevent more early releases."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T14:47:28.000Z"
+        "publishedAt": "2026-08-11T16:19:38.000Z"
       },
       {
         "id": "top-8713aa39",
@@ -5110,33 +5110,72 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T14:10:49.000Z"
+        "publishedAt": "2026-08-11T16:31:43.000Z"
       },
       {
-        "id": "top-7d796ef5",
-        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "id": "top-6c1d258d",
+        "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
+        "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
         "bullets": [
-          "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally."
+          "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T09:39:58.000Z"
+        "publishedAt": "2026-08-11T15:53:53.000Z"
       },
       {
-        "id": "top-34b7c0a2",
-        "title": "Watch: Family narrowly escapes home during Colombia earthquake",
-        "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
+        "id": "top-1c3be4bd",
+        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
         "bullets": [
-          "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years."
+          "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T10:12:21.000Z"
+        "publishedAt": "2026-08-11T19:09:52.000Z"
+      },
+      {
+        "id": "tech-8bbb4cac",
+        "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
+        "summary": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
+        "bullets": [
+          "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T18:00:14.000Z"
+      },
+      {
+        "id": "tech-c32ff00c",
+        "title": "Tracking extreme heat by the hour makes climate change seem even worse",
+        "summary": "Hot hours of summer could triple in the coming decades.",
+        "bullets": [
+          "Hot hours of summer could triple in the coming decades."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T16:26:38.000Z"
+      },
+      {
+        "id": "tech-69e3743e",
+        "title": "A Google insider spills the tea on how the company forsook its founding ideals",
+        "summary": "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident.",
+        "bullets": [
+          "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T16:07:34.000Z"
       },
       {
         "id": "tech-bc3a0b69",
@@ -5165,109 +5204,83 @@
         "publishedAt": "2026-08-11T13:15:24.000Z"
       },
       {
-        "id": "tech-b1c20406",
-        "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-        "summary": "Why passkey apps treat Windows differently than other operating systems.",
+        "id": "ai-81460dd8",
+        "title": "OpenAI launches ChatGPT desktop app for Linux",
+        "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
         "bullets": [
-          "Why passkey apps treat Windows differently than other operating systems."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T11:30:08.000Z"
-      },
-      {
-        "id": "tech-774ce64d",
-        "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-        "summary": "Our discussion takes place live on August 11 at 2:30 pm ET.",
-        "bullets": [
-          "Our discussion takes place live on August 11 at 2:30 pm ET."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T22:23:43.000Z"
-      },
-      {
-        "id": "tech-75d09ad3",
-        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-        "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
-        "bullets": [
-          "Meta has been trailing competitors.",
-          "Zuckerberg thinks he's found a way forward."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T22:13:03.000Z"
-      },
-      {
-        "id": "ai-8e550e75",
-        "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-        "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-        "bullets": [
-          "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default."
+          "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T13:00:00.000Z"
+        "publishedAt": "2026-08-11T19:15:35.000Z"
       },
       {
-        "id": "ai-352adc34",
-        "title": "Anthropic says it will watermark text generated by its AI models",
-        "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+        "id": "ai-e02e74e8",
+        "title": "Google’s Gemini app surges to one billion users",
+        "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
         "bullets": [
-          "Anthropic will extend support for watermarking AI generations for older models as well."
+          "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T12:13:47.000Z"
+        "publishedAt": "2026-08-11T18:49:12.000Z"
       },
       {
-        "id": "ai-cee4c8ba",
-        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-        "summary": "San Francisco's housing market is in trouble again.",
+        "id": "ai-2ea20712",
+        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+        "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
         "bullets": [
-          "San Francisco's housing market is in trouble again."
+          "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T00:03:18.000Z"
+        "publishedAt": "2026-08-11T17:41:34.000Z"
       },
       {
-        "id": "ai-5654cedb",
-        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-        "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+        "id": "ai-5c2357fc",
+        "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+        "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
         "bullets": [
-          "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
+          "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T23:56:15.000Z"
+        "publishedAt": "2026-08-11T17:41:22.000Z"
       },
       {
-        "id": "ai-d5a2b881",
-        "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-        "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+        "id": "ai-7ea695e2",
+        "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+        "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
         "bullets": [
-          "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\"..."
+          "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics.",
+          "Anthropic hasn't solved it — but the company's models made more progress than you might expect."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T20:53:02.000Z"
+        "publishedAt": "2026-08-11T16:25:20.000Z"
+      },
+      {
+        "id": "world-1c3be4bd",
+        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+        "bullets": [
+          "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T19:09:52.000Z"
       },
       {
         "id": "world-290e477a",
@@ -5285,54 +5298,41 @@
       {
         "id": "world-7d796ef5",
         "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
         "bullets": [
-          "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally."
+          "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T09:39:58.000Z"
-      },
-      {
-        "id": "world-020441ac",
-        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-        "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-        "bullets": [
-          "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T14:50:10.000Z"
+        "publishedAt": "2026-08-11T16:19:44.000Z"
       },
       {
         "id": "world-a20fc420",
         "title": "Russia releases former US Marine reported in poor health",
-        "summary": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state.",
+        "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
         "bullets": [
-          "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state."
+          "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T15:47:53.000Z"
+        "publishedAt": "2026-08-11T17:02:22.000Z"
       },
       {
-        "id": "world-cd3cea6d",
-        "title": "Watch: Family escapes home during Colombia earthquake",
-        "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
+        "id": "world-bc3bc6d8",
+        "title": "Lebanon parliament votes to abolish death penalty",
+        "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
         "bullets": [
-          "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years."
+          "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T10:12:21.000Z"
+        "publishedAt": "2026-08-11T15:24:07.000Z"
       }
     ]
   }
