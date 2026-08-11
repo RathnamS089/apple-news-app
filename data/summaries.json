@@ -5071,8 +5071,21 @@
   },
   {
     "date": "2026-08-11",
-    "generatedAt": "2026-08-11T13:45:01.725Z",
+    "generatedAt": "2026-08-11T16:12:07.893Z",
     "articles": [
+      {
+        "id": "top-03f43aca",
+        "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+        "summary": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
+        "bullets": [
+          "Only average conditions are needed for the remainder of August to break the record, which was set just last year."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T14:23:52.000Z"
+      },
       {
         "id": "top-290e477a",
         "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
@@ -5084,20 +5097,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T09:58:45.000Z"
-      },
-      {
-        "id": "top-c064f436",
-        "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
-        "summary": "An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak.",
-        "bullets": [
-          "An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T12:21:43.000Z"
+        "publishedAt": "2026-08-11T14:47:28.000Z"
       },
       {
         "id": "top-8713aa39",
@@ -5110,7 +5110,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T13:35:51.000Z"
+        "publishedAt": "2026-08-11T14:10:49.000Z"
       },
       {
         "id": "top-7d796ef5",
@@ -5139,6 +5139,32 @@
         "publishedAt": "2026-08-11T10:12:21.000Z"
       },
       {
+        "id": "tech-bc3a0b69",
+        "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
+        "summary": "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win.",
+        "bullets": [
+          "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T15:28:43.000Z"
+      },
+      {
+        "id": "tech-c6210453",
+        "title": "New surveillance tech links your phone to your license plate",
+        "summary": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
+        "bullets": [
+          "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T13:15:24.000Z"
+      },
+      {
         "id": "tech-b1c20406",
         "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
         "summary": "Why passkey apps treat Windows differently than other operating systems.",
@@ -5154,9 +5180,9 @@
       {
         "id": "tech-774ce64d",
         "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-        "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+        "summary": "Our discussion takes place live on August 11 at 2:30 pm ET.",
         "bullets": [
-          "Our discussion takes place live on August 11 at 3 pm ET."
+          "Our discussion takes place live on August 11 at 2:30 pm ET."
         ],
         "source": "Ars Technica - All content",
         "sourceUrl": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
@@ -5177,32 +5203,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-10T22:13:03.000Z"
-      },
-      {
-        "id": "tech-ee5a7fc3",
-        "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-        "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
-        "bullets": [
-          "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T21:42:56.000Z"
-      },
-      {
-        "id": "tech-ff8610b3",
-        "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
-        "summary": "A reminder of the perils of digital ownership.",
-        "bullets": [
-          "A reminder of the perils of digital ownership."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T21:26:38.000Z"
       },
       {
         "id": "ai-8e550e75",
@@ -5280,7 +5280,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T09:58:45.000Z"
+        "publishedAt": "2026-08-11T14:47:28.000Z"
       },
       {
         "id": "world-7d796ef5",
@@ -5306,33 +5306,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T10:43:07.000Z"
+        "publishedAt": "2026-08-11T14:50:10.000Z"
       },
       {
-        "id": "world-ec1b11bb",
-        "title": "At least 169 killed in Colombia's largest earthquake in years",
-        "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+        "id": "world-a20fc420",
+        "title": "Russia releases former US Marine reported in poor health",
+        "summary": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state.",
         "bullets": [
-          "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings."
+          "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T13:21:32.000Z"
+        "publishedAt": "2026-08-11T15:47:53.000Z"
       },
       {
-        "id": "world-53c1bc84",
-        "title": "Libyan authorities battle big blaze at major oil refinery",
-        "summary": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
+        "id": "world-cd3cea6d",
+        "title": "Watch: Family escapes home during Colombia earthquake",
+        "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
         "bullets": [
-          "Monday's drone strike on the Zawiya refinery was the third such incident in two days."
+          "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T08:28:24.000Z"
+        "publishedAt": "2026-08-11T10:12:21.000Z"
       }
     ]
   }
