@@ -5071,8 +5071,21 @@
   },
   {
     "date": "2026-08-11",
-    "generatedAt": "2026-08-11T19:27:11.995Z",
+    "generatedAt": "2026-08-11T22:06:43.764Z",
     "articles": [
+      {
+        "id": "top-7d74ccd5",
+        "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+        "summary": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+        "bullets": [
+          "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T21:00:46.000Z"
+      },
       {
         "id": "top-03f43aca",
         "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
@@ -5087,17 +5100,17 @@
         "publishedAt": "2026-08-11T14:23:52.000Z"
       },
       {
-        "id": "top-002f405b",
-        "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
-        "summary": "The PM says the justice secretary will present a plan in September to prevent more early releases.",
+        "id": "top-4c05d79c",
+        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+        "summary": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
         "bullets": [
-          "The PM says the justice secretary will present a plan in September to prevent more early releases."
+          "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T16:19:38.000Z"
+        "publishedAt": "2026-08-11T21:21:44.000Z"
       },
       {
         "id": "top-8713aa39",
@@ -5126,24 +5139,50 @@
         "publishedAt": "2026-08-11T15:53:53.000Z"
       },
       {
-        "id": "top-1c3be4bd",
-        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+        "id": "tech-59bbe17e",
+        "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+        "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
         "bullets": [
-          "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
+          "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T19:09:52.000Z"
+        "publishedAt": "2026-08-11T20:27:16.000Z"
+      },
+      {
+        "id": "tech-a4d7c040",
+        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+        "summary": "But will Gemini's surge survive slowing model releases?",
+        "bullets": [
+          "But will Gemini's surge survive slowing model releases?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T19:48:12.000Z"
+      },
+      {
+        "id": "tech-a6b746ad",
+        "title": "Used EV buying guide: The $30,000 edition",
+        "summary": "Depending on the model, you might have hundreds to choose from—or just one.",
+        "bullets": [
+          "Depending on the model, you might have hundreds to choose from—or just one."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T18:31:53.000Z"
       },
       {
         "id": "tech-8bbb4cac",
         "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
-        "summary": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
+        "summary": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
         "bullets": [
-          "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions."
+          "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions."
         ],
         "source": "Ars Technica - All content",
         "sourceUrl": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
@@ -5165,43 +5204,17 @@
         "publishedAt": "2026-08-11T16:26:38.000Z"
       },
       {
-        "id": "tech-69e3743e",
-        "title": "A Google insider spills the tea on how the company forsook its founding ideals",
-        "summary": "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident.",
+        "id": "ai-d3a622fd",
+        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
         "bullets": [
-          "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident."
+          "VC firm still has more than 55% of its previous $650 million India fund available for deployment."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T16:07:34.000Z"
-      },
-      {
-        "id": "tech-bc3a0b69",
-        "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
-        "summary": "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win.",
-        "bullets": [
-          "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T15:28:43.000Z"
-      },
-      {
-        "id": "tech-c6210453",
-        "title": "New surveillance tech links your phone to your license plate",
-        "summary": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
-        "bullets": [
-          "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T13:15:24.000Z"
+        "publishedAt": "2026-08-11T21:39:11.000Z"
       },
       {
         "id": "ai-81460dd8",
@@ -5217,11 +5230,12 @@
         "publishedAt": "2026-08-11T19:15:35.000Z"
       },
       {
-        "id": "ai-e02e74e8",
-        "title": "Google’s Gemini app surges to one billion users",
-        "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+        "id": "ai-7b117a1b",
+        "title": "Google’s Gemini app surges to 1 billion users",
+        "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
         "bullets": [
-          "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June."
+          "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice...",
+          "Plus, Gemini now generates more than 150 million images every day, according to Google."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
@@ -5256,20 +5270,6 @@
         "publishedAt": "2026-08-11T17:41:22.000Z"
       },
       {
-        "id": "ai-7ea695e2",
-        "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-        "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-        "bullets": [
-          "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics.",
-          "Anthropic hasn't solved it — but the company's models made more progress than you might expect."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T16:25:20.000Z"
-      },
-      {
         "id": "world-1c3be4bd",
         "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
         "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
@@ -5283,17 +5283,30 @@
         "publishedAt": "2026-08-11T19:09:52.000Z"
       },
       {
-        "id": "world-290e477a",
-        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-        "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+        "id": "world-82a8bbb5",
+        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+        "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
         "bullets": [
-          "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey."
+          "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T14:47:28.000Z"
+        "publishedAt": "2026-08-11T21:14:56.000Z"
+      },
+      {
+        "id": "world-2e6fc1d0",
+        "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+        "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+        "bullets": [
+          "Elaborate deception operations and decoys are often used to deceive potential threats to the US president."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T20:39:42.000Z"
       },
       {
         "id": "world-7d796ef5",
@@ -5320,19 +5333,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-11T17:02:22.000Z"
-      },
-      {
-        "id": "world-bc3bc6d8",
-        "title": "Lebanon parliament votes to abolish death penalty",
-        "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-        "bullets": [
-          "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T15:24:07.000Z"
       }
     ]
   }
