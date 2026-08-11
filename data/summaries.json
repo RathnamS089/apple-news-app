@@ -5071,8 +5071,21 @@
   },
   {
     "date": "2026-08-11",
-    "generatedAt": "2026-08-11T02:29:42.453Z",
+    "generatedAt": "2026-08-11T04:41:34.066Z",
     "articles": [
+      {
+        "id": "top-7b43305c",
+        "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+        "summary": "Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands.",
+        "bullets": [
+          "Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T04:25:55.000Z"
+      },
       {
         "id": "top-fb1cec80",
         "title": "Amber heat health alerts for almost all of England as next heatwave begins",
@@ -5100,30 +5113,17 @@
         "publishedAt": "2026-08-10T21:33:51.000Z"
       },
       {
-        "id": "top-20b391c0",
-        "title": "New Forest firefighting to continue overnight as cars abandoned",
-        "summary": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
-        "bullets": [
-          "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T02:25:31.000Z"
-      },
-      {
         "id": "top-06c2b97c",
         "title": "At least 132 killed in Colombia's largest earthquake in years",
-        "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
+        "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
         "bullets": [
-          "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away."
+          "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T01:59:40.000Z"
+        "publishedAt": "2026-08-11T04:06:07.000Z"
       },
       {
         "id": "top-018760cc",
@@ -5273,15 +5273,15 @@
       {
         "id": "world-06c2b97c",
         "title": "At least 132 killed in Colombia's largest earthquake in years",
-        "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
+        "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
         "bullets": [
-          "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away."
+          "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T01:59:40.000Z"
+        "publishedAt": "2026-08-11T04:06:07.000Z"
       },
       {
         "id": "world-0c66b559",
@@ -5295,6 +5295,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-10T21:06:27.000Z"
+      },
+      {
+        "id": "world-398151e3",
+        "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+        "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+        "bullets": [
+          "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-10T20:45:29.000Z"
       },
       {
         "id": "world-5fe18b2e",
@@ -5321,19 +5334,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-10T14:43:08.000Z"
-      },
-      {
-        "id": "world-a6ac835a",
-        "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-        "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-        "bullets": [
-          "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T19:17:11.000Z"
       }
     ]
   }
