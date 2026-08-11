@@ -5071,20 +5071,33 @@
   },
   {
     "date": "2026-08-11",
-    "generatedAt": "2026-08-11T07:39:29.944Z",
+    "generatedAt": "2026-08-11T10:13:17.197Z",
     "articles": [
       {
-        "id": "top-fb1cec80",
-        "title": "Amber heat health alerts for almost all of England as next heatwave begins",
-        "summary": "The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+        "id": "top-290e477a",
+        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
         "bullets": [
-          "The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week."
+          "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T09:58:45.000Z"
+      },
+      {
+        "id": "top-c064f436",
+        "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
+        "summary": "An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak.",
+        "bullets": [
+          "An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T01:38:14.000Z"
+        "publishedAt": "2026-08-11T10:09:21.000Z"
       },
       {
         "id": "top-dad3feed",
@@ -5097,46 +5110,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T21:33:51.000Z"
+        "publishedAt": "2026-08-11T09:23:58.000Z"
       },
       {
-        "id": "top-06c2b97c",
-        "title": "At least 132 killed in Colombia's largest earthquake in years",
-        "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+        "id": "top-7d796ef5",
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
         "bullets": [
-          "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings."
+          "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T04:06:07.000Z"
+        "publishedAt": "2026-08-11T09:39:58.000Z"
       },
       {
-        "id": "top-26a32d32",
-        "title": "Trump says it would be 'terrible mistake' to remove Infantino",
-        "summary": "US President Donald Trump says it would be a \"terrible mistake\" if under pressure Fifa president Gianni Infantino was ousted.",
+        "id": "top-5d57d775",
+        "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+        "summary": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
         "bullets": [
-          "US President Donald Trump says it would be a \"terrible mistake\" if under pressure Fifa president Gianni Infantino was ousted."
+          "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T05:30:03.000Z"
-      },
-      {
-        "id": "top-882e8fae",
-        "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
-        "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
-        "bullets": [
-          "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T01:59:24.000Z"
+        "publishedAt": "2026-08-10T23:32:10.000Z"
       },
       {
         "id": "tech-774ce64d",
@@ -5271,6 +5271,45 @@
         "publishedAt": "2026-08-10T16:20:13.000Z"
       },
       {
+        "id": "world-290e477a",
+        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+        "bullets": [
+          "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T09:58:45.000Z"
+      },
+      {
+        "id": "world-7d796ef5",
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "bullets": [
+          "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T09:39:58.000Z"
+      },
+      {
+        "id": "world-020441ac",
+        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+        "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+        "bullets": [
+          "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T09:42:48.000Z"
+      },
+      {
         "id": "world-06c2b97c",
         "title": "At least 132 killed in Colombia's largest earthquake in years",
         "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
@@ -5284,56 +5323,17 @@
         "publishedAt": "2026-08-11T04:06:07.000Z"
       },
       {
-        "id": "world-0c66b559",
-        "title": "Canada flight cancelled after child refuses to wear seat belt",
-        "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+        "id": "world-53c1bc84",
+        "title": "Libyan authorities battle big blaze at major oil refinery",
+        "summary": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
         "bullets": [
-          "The incident has sparked a debate over child safety and discipline on commercial planes."
+          "Monday's drone strike on the Zawiya refinery was the third such incident in two days."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-10T21:06:27.000Z"
-      },
-      {
-        "id": "world-398151e3",
-        "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-        "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
-        "bullets": [
-          "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T20:45:29.000Z"
-      },
-      {
-        "id": "world-5fe18b2e",
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-        "bullets": [
-          "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T14:34:25.000Z"
-      },
-      {
-        "id": "world-94ac3aea",
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-        "bullets": [
-          "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-10T14:43:08.000Z"
+        "publishedAt": "2026-08-11T08:28:24.000Z"
       }
     ]
   }
