@@ -5338,7 +5338,7 @@
   },
   {
     "date": "2026-08-12",
-    "generatedAt": "2026-08-12T13:50:25.985Z",
+    "generatedAt": "2026-08-12T16:11:01.214Z",
     "articles": [
       {
         "id": "top-697a0743",
@@ -5352,6 +5352,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-11T16:29:28.000Z"
+      },
+      {
+        "id": "top-8e72eca7",
+        "title": "Double killer and rapist given whole life sentence",
+        "summary": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
+        "bullets": [
+          "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T14:25:00.000Z"
       },
       {
         "id": "top-52be8819",
@@ -5380,30 +5393,69 @@
         "publishedAt": "2026-08-12T12:32:24.000Z"
       },
       {
-        "id": "top-a26bcb80",
-        "title": "Cambridge review into Jason Arday post will be independent, university says",
-        "summary": "Vice-chancellor Deborah Prentice in a letter to staff says she shares concerns raised about Jason Arday's appointment as professor.",
+        "id": "top-7d390866",
+        "title": "Messi unsure he will play 'much longer' after father's death",
+        "summary": "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
         "bullets": [
-          "Vice-chancellor Deborah Prentice in a letter to staff says she shares concerns raised about Jason Arday's appointment as professor."
+          "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T12:14:24.000Z"
+        "publishedAt": "2026-08-12T13:48:23.000Z"
       },
       {
-        "id": "top-ede53580",
-        "title": "Burnham warned of Iran war impact on UK growth next year",
-        "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+        "id": "tech-d7808a9b",
+        "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+        "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
         "bullets": [
-          "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains."
+          "AI firms quietly bulk buying rare books face resistance from booksellers."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T13:33:58.000Z"
+        "publishedAt": "2026-08-12T15:19:17.000Z"
+      },
+      {
+        "id": "tech-8ed233fc",
+        "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+        "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
+        "bullets": [
+          "Google focuses more on AI and curated experiences than spec upgrades in 2026."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T14:00:51.000Z"
+      },
+      {
+        "id": "tech-75901046",
+        "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+        "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
+        "bullets": [
+          "A public AI tool found the dangerous Zoom flaw in under 20 prompts."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T13:37:12.000Z"
+      },
+      {
+        "id": "tech-be71e8bf",
+        "title": "Formula E finds a new home on Disney+, ESPN+",
+        "summary": "The deal starts with the arrival of the GEN4 car and 2026/2027 season this December.",
+        "bullets": [
+          "The deal starts with the arrival of the GEN4 car and 2026/2027 season this December."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T13:35:30.000Z"
       },
       {
         "id": "tech-509d4b6c",
@@ -5419,56 +5471,56 @@
         "publishedAt": "2026-08-12T12:34:38.000Z"
       },
       {
-        "id": "tech-2a997b37",
-        "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-        "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+        "id": "ai-935fb790",
+        "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+        "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
         "bullets": [
-          "FBI Atlanta confirms it's looking into the incident, no arrests made."
+          "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T00:08:40.000Z"
+        "publishedAt": "2026-08-12T16:04:27.000Z"
       },
       {
-        "id": "tech-2adde472",
-        "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
-        "summary": "It took just hours for the leading pharma group to reject the recommendations.",
+        "id": "ai-95da85ac",
+        "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+        "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
         "bullets": [
-          "It took just hours for the leading pharma group to reject the recommendations."
+          "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T22:31:45.000Z"
+        "publishedAt": "2026-08-12T15:44:56.000Z"
       },
       {
-        "id": "tech-9a0c90da",
-        "title": "Russian drones found near vital European offshore gas site, get blown up",
-        "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+        "id": "ai-d3123203",
+        "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+        "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
         "bullets": [
-          "This follows many drone incursions into Romania and a failed attack in Germany."
+          "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T21:20:11.000Z"
+        "publishedAt": "2026-08-12T14:20:33.000Z"
       },
       {
-        "id": "tech-08016dec",
-        "title": "Chrome adopts what may be the best protection yet against account takeovers",
-        "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+        "id": "ai-025b34a1",
+        "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+        "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
         "bullets": [
-          "Device-bound session credentials thwart an increasingly common form of account takeover."
+          "Blacksmith says revenue has grown more than tenfold over the past year."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T20:59:52.000Z"
+        "publishedAt": "2026-08-12T11:00:00.000Z"
       },
       {
         "id": "ai-d3a622fd",
@@ -5484,83 +5536,17 @@
         "publishedAt": "2026-08-11T21:39:11.000Z"
       },
       {
-        "id": "ai-81460dd8",
-        "title": "OpenAI launches ChatGPT desktop app for Linux",
-        "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+        "id": "world-dd0416c5",
+        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+        "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
         "bullets": [
-          "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T19:15:35.000Z"
-      },
-      {
-        "id": "ai-7b117a1b",
-        "title": "Google’s Gemini app surges to 1 billion users",
-        "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-        "bullets": [
-          "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice...",
-          "Plus, Gemini now generates more than 150 million images every day, according to Google."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T18:49:12.000Z"
-      },
-      {
-        "id": "ai-2ea20712",
-        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-        "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-        "bullets": [
-          "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T17:41:34.000Z"
-      },
-      {
-        "id": "ai-5c2357fc",
-        "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-        "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-        "bullets": [
-          "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T17:41:22.000Z"
-      },
-      {
-        "id": "world-3f1c18ec",
-        "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-        "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-        "bullets": [
-          "Journalists and White House staff who were on board the jet were unaware the president had left."
+          "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T03:44:55.000Z"
-      },
-      {
-        "id": "world-27176191",
-        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-        "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-        "bullets": [
-          "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T00:14:42.000Z"
+        "publishedAt": "2026-08-12T15:57:18.000Z"
       },
       {
         "id": "world-4771ebe6",
@@ -5586,11 +5572,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T12:16:22.000Z"
+        "publishedAt": "2026-08-12T14:03:48.000Z"
       },
       {
-        "id": "world-02a35723",
-        "title": "US inflation eases as food costs cool",
+        "id": "world-770e85ea",
+        "title": "US inflation eases as food and fuel costs cool",
         "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
         "bullets": [
           "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
@@ -5599,7 +5585,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T13:40:51.000Z"
+        "publishedAt": "2026-08-12T14:09:48.000Z"
+      },
+      {
+        "id": "world-4ba23e80",
+        "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+        "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+        "bullets": [
+          "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T11:28:05.000Z"
       }
     ]
   }
