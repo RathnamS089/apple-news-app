@@ -5338,7 +5338,7 @@
   },
   {
     "date": "2026-08-12",
-    "generatedAt": "2026-08-12T10:28:07.303Z",
+    "generatedAt": "2026-08-12T13:50:25.985Z",
     "articles": [
       {
         "id": "top-697a0743",
@@ -5354,56 +5354,69 @@
         "publishedAt": "2026-08-11T16:29:28.000Z"
       },
       {
-        "id": "top-0aa4b925",
-        "title": "Woman attacked by Simon Levy feels betrayed he was allowed to attack more women",
-        "summary": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+        "id": "top-52be8819",
+        "title": "Burnham considers disposable BBQ ban over wildfire risks",
+        "summary": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
         "bullets": [
-          "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the..."
+          "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T21:00:46.000Z"
+        "publishedAt": "2026-08-12T13:31:51.000Z"
       },
       {
-        "id": "top-f9eb0adb",
-        "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
-        "summary": "The Government will meet to discuss this summer's record-breaking heat as the tally for days above 30C in the UK is broken.",
+        "id": "top-62000162",
+        "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
+        "summary": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
         "bullets": [
-          "The Government will meet to discuss this summer's record-breaking heat as the tally for days above 30C in the UK is broken."
+          "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T08:08:43.000Z"
+        "publishedAt": "2026-08-12T12:32:24.000Z"
       },
       {
-        "id": "top-3f1c18ec",
-        "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-        "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+        "id": "top-a26bcb80",
+        "title": "Cambridge review into Jason Arday post will be independent, university says",
+        "summary": "Vice-chancellor Deborah Prentice in a letter to staff says she shares concerns raised about Jason Arday's appointment as professor.",
         "bullets": [
-          "Journalists and White House staff who were on board the jet were unaware the president had left."
+          "Vice-chancellor Deborah Prentice in a letter to staff says she shares concerns raised about Jason Arday's appointment as professor."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T03:44:55.000Z"
+        "publishedAt": "2026-08-12T12:14:24.000Z"
       },
       {
-        "id": "top-da504783",
-        "title": "Early release scheme risks more serious crimes, probation chief warns",
-        "summary": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
+        "id": "top-ede53580",
+        "title": "Burnham warned of Iran war impact on UK growth next year",
+        "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
         "bullets": [
-          "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\"."
+          "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T08:57:44.000Z"
+        "publishedAt": "2026-08-12T13:33:58.000Z"
+      },
+      {
+        "id": "tech-509d4b6c",
+        "title": "Did poop enable the evolution of complex animals?",
+        "summary": "In a recent study, evolution gets even messier than usual.",
+        "bullets": [
+          "In a recent study, evolution gets even messier than usual."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T12:34:38.000Z"
       },
       {
         "id": "tech-2a997b37",
@@ -5456,19 +5469,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-11T20:59:52.000Z"
-      },
-      {
-        "id": "tech-59bbe17e",
-        "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-        "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
-        "bullets": [
-          "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T20:27:16.000Z"
       },
       {
         "id": "ai-d3a622fd",
@@ -5537,19 +5537,6 @@
         "publishedAt": "2026-08-11T17:41:22.000Z"
       },
       {
-        "id": "world-1c3be4bd",
-        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-        "bullets": [
-          "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T19:09:52.000Z"
-      },
-      {
         "id": "world-3f1c18ec",
         "title": "Trump confirms he switched planes after Nato summit because of possible threat",
         "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
@@ -5576,30 +5563,43 @@
         "publishedAt": "2026-08-12T00:14:42.000Z"
       },
       {
-        "id": "world-3970c8ae",
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-        "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+        "id": "world-4771ebe6",
+        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+        "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
         "bullets": [
-          "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries."
+          "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T07:44:44.000Z"
+        "publishedAt": "2026-08-12T11:28:02.000Z"
       },
       {
-        "id": "world-a29cfd14",
-        "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
-        "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
+        "id": "world-300a8f31",
+        "title": "Israeli settlers besieging Palestinian families in West Bank village",
+        "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
         "bullets": [
-          "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend."
+          "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T09:55:40.000Z"
+        "publishedAt": "2026-08-12T12:16:22.000Z"
+      },
+      {
+        "id": "world-02a35723",
+        "title": "US inflation eases as food costs cool",
+        "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+        "bullets": [
+          "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T13:40:51.000Z"
       }
     ]
   }
