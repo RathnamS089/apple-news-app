@@ -5335,5 +5335,272 @@
         "publishedAt": "2026-08-11T17:02:22.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "generatedAt": "2026-08-12T02:47:00.206Z",
+    "articles": [
+      {
+        "id": "top-7d74ccd5",
+        "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+        "summary": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+        "bullets": [
+          "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T21:00:46.000Z"
+      },
+      {
+        "id": "top-47de7fb0",
+        "title": "More weather records as UK heat set to spike again",
+        "summary": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
+        "bullets": [
+          "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T23:37:43.000Z"
+      },
+      {
+        "id": "top-4c05d79c",
+        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+        "summary": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
+        "bullets": [
+          "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T21:21:44.000Z"
+      },
+      {
+        "id": "top-be8373af",
+        "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
+        "summary": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
+        "bullets": [
+          "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T23:17:15.000Z"
+      },
+      {
+        "id": "top-6c1d258d",
+        "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
+        "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
+        "bullets": [
+          "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T15:53:53.000Z"
+      },
+      {
+        "id": "tech-2a997b37",
+        "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+        "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+        "bullets": [
+          "FBI Atlanta confirms it's looking into the incident, no arrests made."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T00:08:40.000Z"
+      },
+      {
+        "id": "tech-2adde472",
+        "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+        "summary": "It took just hours for the leading pharma group to reject the recommendations.",
+        "bullets": [
+          "It took just hours for the leading pharma group to reject the recommendations."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T22:31:45.000Z"
+      },
+      {
+        "id": "tech-9a0c90da",
+        "title": "Russian drones found near vital European offshore gas site, get blown up",
+        "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+        "bullets": [
+          "This follows many drone incursions into Romania and a failed attack in Germany."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T21:20:11.000Z"
+      },
+      {
+        "id": "tech-08016dec",
+        "title": "Chrome adopts what may be the best protection yet against account takeovers",
+        "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+        "bullets": [
+          "Device-bound session credentials thwart an increasingly common form of account takeover."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T20:59:52.000Z"
+      },
+      {
+        "id": "tech-59bbe17e",
+        "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+        "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
+        "bullets": [
+          "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T20:27:16.000Z"
+      },
+      {
+        "id": "ai-d3a622fd",
+        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+        "bullets": [
+          "VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T21:39:11.000Z"
+      },
+      {
+        "id": "ai-81460dd8",
+        "title": "OpenAI launches ChatGPT desktop app for Linux",
+        "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+        "bullets": [
+          "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T19:15:35.000Z"
+      },
+      {
+        "id": "ai-7b117a1b",
+        "title": "Google’s Gemini app surges to 1 billion users",
+        "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+        "bullets": [
+          "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice...",
+          "Plus, Gemini now generates more than 150 million images every day, according to Google."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T18:49:12.000Z"
+      },
+      {
+        "id": "ai-2ea20712",
+        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+        "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+        "bullets": [
+          "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T17:41:34.000Z"
+      },
+      {
+        "id": "ai-5c2357fc",
+        "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+        "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+        "bullets": [
+          "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T17:41:22.000Z"
+      },
+      {
+        "id": "world-1c3be4bd",
+        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+        "bullets": [
+          "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T19:09:52.000Z"
+      },
+      {
+        "id": "world-27176191",
+        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+        "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+        "bullets": [
+          "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T00:14:42.000Z"
+      },
+      {
+        "id": "world-a2ed38ca",
+        "title": "Trump says he switched planes after Nato summit because of possible threat",
+        "summary": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
+        "bullets": [
+          "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T02:45:01.000Z"
+      },
+      {
+        "id": "world-82a8bbb5",
+        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+        "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+        "bullets": [
+          "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T21:14:56.000Z"
+      },
+      {
+        "id": "world-921a053c",
+        "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+        "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
+        "bullets": [
+          "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T23:31:18.000Z"
+      }
+    ]
   }
 ]
