@@ -5338,47 +5338,8 @@
   },
   {
     "date": "2026-08-12",
-    "generatedAt": "2026-08-12T07:54:30.199Z",
+    "generatedAt": "2026-08-12T10:28:07.303Z",
     "articles": [
-      {
-        "id": "top-da504783",
-        "title": "Early release scheme risks more serious crimes, probation chief warns",
-        "summary": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
-        "bullets": [
-          "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T06:52:15.000Z"
-      },
-      {
-        "id": "top-7d74ccd5",
-        "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
-        "summary": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
-        "bullets": [
-          "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T21:00:46.000Z"
-      },
-      {
-        "id": "top-be8373af",
-        "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
-        "summary": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
-        "bullets": [
-          "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T23:17:15.000Z"
-      },
       {
         "id": "top-697a0743",
         "title": "Three ways to watch the solar eclipse safely without glasses",
@@ -5393,6 +5354,19 @@
         "publishedAt": "2026-08-11T16:29:28.000Z"
       },
       {
+        "id": "top-0aa4b925",
+        "title": "Woman attacked by Simon Levy feels betrayed he was allowed to attack more women",
+        "summary": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+        "bullets": [
+          "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-11T21:00:46.000Z"
+      },
+      {
         "id": "top-f9eb0adb",
         "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
         "summary": "The Government will meet to discuss this summer's record-breaking heat as the tally for days above 30C in the UK is broken.",
@@ -5403,7 +5377,33 @@
         "sourceUrl": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T07:10:24.000Z"
+        "publishedAt": "2026-08-12T08:08:43.000Z"
+      },
+      {
+        "id": "top-3f1c18ec",
+        "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+        "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+        "bullets": [
+          "Journalists and White House staff who were on board the jet were unaware the president had left."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T03:44:55.000Z"
+      },
+      {
+        "id": "top-da504783",
+        "title": "Early release scheme risks more serious crimes, probation chief warns",
+        "summary": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
+        "bullets": [
+          "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T08:57:44.000Z"
       },
       {
         "id": "tech-2a997b37",
@@ -5576,30 +5576,30 @@
         "publishedAt": "2026-08-12T00:14:42.000Z"
       },
       {
-        "id": "world-82a8bbb5",
-        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-        "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+        "id": "world-3970c8ae",
+        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+        "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
         "bullets": [
-          "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
+          "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T21:14:56.000Z"
+        "publishedAt": "2026-08-12T07:44:44.000Z"
       },
       {
-        "id": "world-4a428a07",
-        "title": "Baby Shark boy set to make K-pop debut",
-        "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
+        "id": "world-a29cfd14",
+        "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
+        "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
         "bullets": [
-          "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
+          "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T03:26:32.000Z"
+        "publishedAt": "2026-08-12T09:55:40.000Z"
       }
     ]
   }
