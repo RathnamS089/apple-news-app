@@ -5338,7 +5338,7 @@
   },
   {
     "date": "2026-08-12",
-    "generatedAt": "2026-08-12T02:47:00.206Z",
+    "generatedAt": "2026-08-12T05:04:44.455Z",
     "articles": [
       {
         "id": "top-7d74ccd5",
@@ -5354,8 +5354,8 @@
         "publishedAt": "2026-08-11T21:00:46.000Z"
       },
       {
-        "id": "top-47de7fb0",
-        "title": "More weather records as UK heat set to spike again",
+        "id": "top-2c7d4ab7",
+        "title": "More weather records broken as UK heat set to spike again",
         "summary": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
         "bullets": [
           "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken."
@@ -5393,17 +5393,17 @@
         "publishedAt": "2026-08-11T23:17:15.000Z"
       },
       {
-        "id": "top-6c1d258d",
-        "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-        "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
+        "id": "top-a2ed38ca",
+        "title": "Trump says he switched planes after Nato summit because of possible threat",
+        "summary": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
         "bullets": [
-          "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran."
+          "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T15:53:53.000Z"
+        "publishedAt": "2026-08-12T03:44:55.000Z"
       },
       {
         "id": "tech-2a997b37",
@@ -5565,15 +5565,15 @@
       {
         "id": "world-a2ed38ca",
         "title": "Trump says he switched planes after Nato summit because of possible threat",
-        "summary": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
+        "summary": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
         "bullets": [
-          "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey."
+          "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T02:45:01.000Z"
+        "publishedAt": "2026-08-12T03:44:55.000Z"
       },
       {
         "id": "world-82a8bbb5",
@@ -5589,17 +5589,17 @@
         "publishedAt": "2026-08-11T21:14:56.000Z"
       },
       {
-        "id": "world-921a053c",
-        "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-        "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
+        "id": "world-9b38f4c8",
+        "title": "Baby Shark Boy set to make K-pop debut",
+        "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
         "bullets": [
-          "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations."
+          "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-11T23:31:18.000Z"
+        "publishedAt": "2026-08-12T03:26:32.000Z"
       }
     ]
   }
