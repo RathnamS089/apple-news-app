@@ -5602,5 +5602,273 @@
         "publishedAt": "2026-08-12T20:56:11.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-13",
+    "generatedAt": "2026-08-13T02:49:01.846Z",
+    "articles": [
+      {
+        "id": "top-029ff3cd",
+        "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+        "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+        "bullets": [
+          "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T21:53:45.000Z"
+      },
+      {
+        "id": "top-f5a5ad93",
+        "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+        "summary": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
+        "bullets": [
+          "Heat will spike again on Thursday with a rare warning in place and more records set to tumble."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T02:31:39.000Z"
+      },
+      {
+        "id": "top-ac15f695",
+        "title": "Students wait for A-level, T-level and BTec results",
+        "summary": "Another record number of students are expected to secure a place at their first choice of university.",
+        "bullets": [
+          "Another record number of students are expected to secure a place at their first choice of university."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T19:26:55.000Z"
+      },
+      {
+        "id": "top-a92335ff",
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+        "bullets": [
+          "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T17:47:01.000Z"
+      },
+      {
+        "id": "top-405a32da",
+        "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+        "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+        "bullets": [
+          "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T01:19:23.000Z"
+      },
+      {
+        "id": "tech-1fcb368d",
+        "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+        "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+        "bullets": [
+          "Boy's unusual symptoms could help identify the next case sooner."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T22:31:19.000Z"
+      },
+      {
+        "id": "tech-134f50ad",
+        "title": "The web’s newest weapon against AI scrapers is a font",
+        "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+        "bullets": [
+          "“ShieldFont” aims to poison AI training data without making pages unreadable for people."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T22:02:25.000Z"
+      },
+      {
+        "id": "tech-7af49c97",
+        "title": "Terabytes of credentials leaked in massive supply-chain attack",
+        "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+        "bullets": [
+          "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T21:43:21.000Z"
+      },
+      {
+        "id": "tech-60af482d",
+        "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+        "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+        "bullets": [
+          "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T21:13:39.000Z"
+      },
+      {
+        "id": "tech-3626fd41",
+        "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+        "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+        "bullets": [
+          "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T21:00:30.000Z"
+      },
+      {
+        "id": "ai-95a5e2af",
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+        "bullets": [
+          "Is Anthropic's new watermarking system a travesty?",
+          "Some have taken to social media to complain that it is."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T22:26:37.000Z"
+      },
+      {
+        "id": "ai-5cc38968",
+        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+        "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+        "bullets": [
+          "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback.",
+          "\"That's honestly the answer.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T20:10:40.000Z"
+      },
+      {
+        "id": "ai-b9497817",
+        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+        "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+        "bullets": [
+          "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T18:19:12.000Z"
+      },
+      {
+        "id": "ai-7b56ba3d",
+        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+        "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+        "bullets": [
+          "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T17:51:00.000Z"
+      },
+      {
+        "id": "ai-22f780bf",
+        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+        "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+        "bullets": [
+          "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T17:41:29.000Z"
+      },
+      {
+        "id": "world-a92335ff",
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+        "bullets": [
+          "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T17:47:01.000Z"
+      },
+      {
+        "id": "world-300a8f31",
+        "title": "Israeli settlers besieging Palestinian families in West Bank village",
+        "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+        "bullets": [
+          "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T16:14:08.000Z"
+      },
+      {
+        "id": "world-45fd563f",
+        "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+        "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+        "bullets": [
+          "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T01:31:21.000Z"
+      },
+      {
+        "id": "world-3372eff7",
+        "title": "Three men will be executed on the same day as death penalties rise in US",
+        "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+        "bullets": [
+          "Despite growing opposition to the death penalty, one state is behind the rising numbers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T20:52:20.000Z"
+      },
+      {
+        "id": "world-ba810e01",
+        "title": "Why are 'human fridges' being sold in Japan?",
+        "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
+        "bullets": [
+          "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T22:07:47.000Z"
+      }
+    ]
   }
 ]
