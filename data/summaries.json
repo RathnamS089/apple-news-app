@@ -5605,8 +5605,21 @@
   },
   {
     "date": "2026-08-13",
-    "generatedAt": "2026-08-13T02:49:01.846Z",
+    "generatedAt": "2026-08-13T05:08:16.244Z",
     "articles": [
+      {
+        "id": "top-9b8e44f3",
+        "title": "Results day dawns for A-level, T-level and BTec students",
+        "summary": "Another record number of students are expected to secure a place at their first choice of university.",
+        "bullets": [
+          "Another record number of students are expected to secure a place at their first choice of university."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-12T19:26:55.000Z"
+      },
       {
         "id": "top-029ff3cd",
         "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
@@ -5634,30 +5647,17 @@
         "publishedAt": "2026-08-13T02:31:39.000Z"
       },
       {
-        "id": "top-ac15f695",
-        "title": "Students wait for A-level, T-level and BTec results",
-        "summary": "Another record number of students are expected to secure a place at their first choice of university.",
+        "id": "top-e516d2a2",
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+        "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the war now in its fifth year.",
         "bullets": [
-          "Another record number of students are expected to secure a place at their first choice of university."
+          "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T19:26:55.000Z"
-      },
-      {
-        "id": "top-a92335ff",
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-        "bullets": [
-          "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T17:47:01.000Z"
+        "publishedAt": "2026-08-13T04:55:58.000Z"
       },
       {
         "id": "top-405a32da",
@@ -5805,17 +5805,17 @@
         "publishedAt": "2026-08-12T17:41:29.000Z"
       },
       {
-        "id": "world-a92335ff",
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+        "id": "world-e516d2a2",
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+        "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the war now in its fifth year.",
         "bullets": [
-          "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
+          "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T17:47:01.000Z"
+        "publishedAt": "2026-08-13T04:55:58.000Z"
       },
       {
         "id": "world-300a8f31",
