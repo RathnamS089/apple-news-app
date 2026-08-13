@@ -5605,7 +5605,7 @@
   },
   {
     "date": "2026-08-13",
-    "generatedAt": "2026-08-13T13:50:13.386Z",
+    "generatedAt": "2026-08-13T16:11:15.960Z",
     "articles": [
       {
         "id": "top-872ad33b",
@@ -5621,8 +5621,8 @@
         "publishedAt": "2026-08-13T13:38:30.000Z"
       },
       {
-        "id": "top-9639b802",
-        "title": "Man, 102, dies after alleged pub assault",
+        "id": "top-02ae1ba6",
+        "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
         "summary": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
         "bullets": [
           "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed."
@@ -5631,7 +5631,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T12:27:41.000Z"
+        "publishedAt": "2026-08-13T14:58:14.000Z"
       },
       {
         "id": "top-b51195dc",
@@ -5647,34 +5647,73 @@
         "publishedAt": "2026-08-13T11:57:28.000Z"
       },
       {
-        "id": "top-045c011b",
-        "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
-        "summary": "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27.",
+        "id": "top-74719a88",
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
         "bullets": [
-          "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27."
+          "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T22:56:32.000Z"
+        "publishedAt": "2026-08-13T15:40:31.000Z"
       },
       {
-        "id": "top-25db0976",
-        "title": "Harvey Nichols bought by owner of Sports Direct",
-        "summary": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
+        "id": "top-f0096c1e",
+        "title": "Honeytrap thieves jailed for killing men they had drugged",
+        "summary": "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious.",
         "bullets": [
-          "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading."
+          "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T13:32:40.000Z"
+        "publishedAt": "2026-08-13T16:00:13.000Z"
       },
       {
-        "id": "tech-a43a2fec",
-        "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+        "id": "tech-fbb27f9e",
+        "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
+        "summary": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
+        "bullets": [
+          "Pricing hasn't changed, and now you can get captain's chairs for the R1S."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T14:00:57.000Z"
+      },
+      {
+        "id": "tech-ef85f883",
+        "title": "Anthropic could be worth $2 trillion when it goes public",
+        "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+        "bullets": [
+          "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T13:58:56.000Z"
+      },
+      {
+        "id": "tech-d087c6ac",
+        "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+        "summary": "Let's shield the astronauts instead of the spacecraft.",
+        "bullets": [
+          "Let's shield the astronauts instead of the spacecraft."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T13:48:55.000Z"
+      },
+      {
+        "id": "tech-31554359",
+        "title": "Claude's new Scarlet Letter watermark is invisible—for now",
         "summary": "The mark flags anything Claude processed, even human writing it only edited.",
         "bullets": [
           "The mark flags anything Claude processed, even human writing it only edited."
@@ -5699,43 +5738,44 @@
         "publishedAt": "2026-08-12T22:31:19.000Z"
       },
       {
-        "id": "tech-134f50ad",
-        "title": "The web’s newest weapon against AI scrapers is a font",
-        "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+        "id": "ai-ebf96f0b",
+        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+        "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
         "bullets": [
-          "“ShieldFont” aims to poison AI training data without making pages unreadable for people."
+          "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T22:02:25.000Z"
+        "publishedAt": "2026-08-13T15:30:52.000Z"
       },
       {
-        "id": "tech-7af49c97",
-        "title": "Terabytes of credentials leaked in massive supply-chain attack",
-        "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+        "id": "ai-bb7119fa",
+        "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+        "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
         "bullets": [
-          "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
+          "Nvidia has a plan to make sure its GPUs won't lose value.",
+          "It wants to convince a new crop of financiers to keep lending for AI buildouts."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T21:43:21.000Z"
+        "publishedAt": "2026-08-13T15:08:00.000Z"
       },
       {
-        "id": "tech-60af482d",
-        "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-        "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+        "id": "ai-95ee1dd3",
+        "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+        "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
         "bullets": [
-          "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”"
+          "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T21:13:39.000Z"
+        "publishedAt": "2026-08-13T14:34:43.000Z"
       },
       {
         "id": "ai-95a5e2af",
@@ -5766,43 +5806,30 @@
         "publishedAt": "2026-08-12T20:10:40.000Z"
       },
       {
-        "id": "ai-b9497817",
-        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-        "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+        "id": "world-74719a88",
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
         "bullets": [
-          "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
+          "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T18:19:12.000Z"
+        "publishedAt": "2026-08-13T15:40:31.000Z"
       },
       {
-        "id": "ai-7b56ba3d",
-        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-        "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+        "id": "world-e8e020d8",
+        "title": "UK defends seizing shadow fleet tanker after Putin threat",
+        "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
         "bullets": [
-          "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how..."
+          "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T17:51:00.000Z"
-      },
-      {
-        "id": "ai-22f780bf",
-        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-        "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-        "bullets": [
-          "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T17:41:29.000Z"
+        "publishedAt": "2026-08-13T15:05:12.000Z"
       },
       {
         "id": "world-e516d2a2",
@@ -5818,32 +5845,6 @@
         "publishedAt": "2026-08-13T04:55:58.000Z"
       },
       {
-        "id": "world-e8e020d8",
-        "title": "UK defends seizing shadow fleet tanker after Putin threat",
-        "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-        "bullets": [
-          "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T11:05:03.000Z"
-      },
-      {
-        "id": "world-c90c2da1",
-        "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-        "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
-        "bullets": [
-          "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T08:12:53.000Z"
-      },
-      {
         "id": "world-45fd563f",
         "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
         "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
@@ -5857,17 +5858,17 @@
         "publishedAt": "2026-08-13T01:31:21.000Z"
       },
       {
-        "id": "world-beaf4cb9",
-        "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-        "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+        "id": "world-94c1de00",
+        "title": "Person fined after using foghorn to wake sleeping polar bear",
+        "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
         "bullets": [
-          "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+          "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T01:19:23.000Z"
+        "publishedAt": "2026-08-13T15:30:57.000Z"
       }
     ]
   }
