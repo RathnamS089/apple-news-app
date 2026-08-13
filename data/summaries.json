@@ -5605,72 +5605,85 @@
   },
   {
     "date": "2026-08-13",
-    "generatedAt": "2026-08-13T10:29:35.972Z",
+    "generatedAt": "2026-08-13T13:50:13.386Z",
     "articles": [
       {
-        "id": "top-69fbbe49",
-        "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
-        "summary": "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.",
+        "id": "top-872ad33b",
+        "title": "Water bills set to rise for many after firms permitted extra funding",
+        "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
         "bullets": [
-          "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy."
+          "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T10:19:08.000Z"
+        "publishedAt": "2026-08-13T13:38:30.000Z"
       },
       {
-        "id": "top-029ff3cd",
-        "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-        "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+        "id": "top-9639b802",
+        "title": "Man, 102, dies after alleged pub assault",
+        "summary": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
         "bullets": [
-          "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
+          "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T21:53:45.000Z"
+        "publishedAt": "2026-08-13T12:27:41.000Z"
       },
       {
-        "id": "top-8a60a02a",
-        "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
-        "summary": "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.",
+        "id": "top-b51195dc",
+        "title": "The key signs you may have damaged your eyes by looking at the eclipse",
+        "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
         "bullets": [
-          "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland."
+          "Symptoms after looking at the sun without eclipse glasses can include blurred vision"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T22:45:52.000Z"
+        "publishedAt": "2026-08-13T11:57:28.000Z"
       },
       {
-        "id": "top-e8e020d8",
-        "title": "UK defends seizing shadow fleet tanker after Putin threat",
-        "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+        "id": "top-045c011b",
+        "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
+        "summary": "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27.",
         "bullets": [
-          "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
+          "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T09:52:30.000Z"
+        "publishedAt": "2026-08-12T22:56:32.000Z"
       },
       {
-        "id": "top-beaf4cb9",
-        "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-        "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+        "id": "top-25db0976",
+        "title": "Harvey Nichols bought by owner of Sports Direct",
+        "summary": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
         "bullets": [
-          "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+          "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T01:19:23.000Z"
+        "publishedAt": "2026-08-13T13:32:40.000Z"
+      },
+      {
+        "id": "tech-a43a2fec",
+        "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+        "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+        "bullets": [
+          "The mark flags anything Claude processed, even human writing it only edited."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T11:10:18.000Z"
       },
       {
         "id": "tech-1fcb368d",
@@ -5723,19 +5736,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-12T21:13:39.000Z"
-      },
-      {
-        "id": "tech-3626fd41",
-        "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-        "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-        "bullets": [
-          "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T21:00:30.000Z"
       },
       {
         "id": "ai-95a5e2af",
@@ -5828,7 +5828,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T09:52:30.000Z"
+        "publishedAt": "2026-08-13T11:05:03.000Z"
       },
       {
         "id": "world-c90c2da1",
@@ -5857,17 +5857,17 @@
         "publishedAt": "2026-08-13T01:31:21.000Z"
       },
       {
-        "id": "world-d8dee038",
-        "title": "Indian actor's video with endangered gibbon sparks investigation",
-        "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
+        "id": "world-beaf4cb9",
+        "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+        "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
         "bullets": [
-          "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
+          "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T07:05:35.000Z"
+        "publishedAt": "2026-08-13T01:19:23.000Z"
       }
     ]
   }
