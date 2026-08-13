@@ -5605,21 +5605,8 @@
   },
   {
     "date": "2026-08-13",
-    "generatedAt": "2026-08-13T05:08:16.244Z",
+    "generatedAt": "2026-08-13T07:55:27.076Z",
     "articles": [
-      {
-        "id": "top-9b8e44f3",
-        "title": "Results day dawns for A-level, T-level and BTec students",
-        "summary": "Another record number of students are expected to secure a place at their first choice of university.",
-        "bullets": [
-          "Another record number of students are expected to secure a place at their first choice of university."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T19:26:55.000Z"
-      },
       {
         "id": "top-029ff3cd",
         "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
@@ -5634,24 +5621,24 @@
         "publishedAt": "2026-08-12T21:53:45.000Z"
       },
       {
-        "id": "top-f5a5ad93",
-        "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
-        "summary": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
+        "id": "top-8a60a02a",
+        "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
+        "summary": "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.",
         "bullets": [
-          "Heat will spike again on Thursday with a rare warning in place and more records set to tumble."
+          "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T02:31:39.000Z"
+        "publishedAt": "2026-08-12T22:45:52.000Z"
       },
       {
         "id": "top-e516d2a2",
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the war now in its fifth year.",
+        "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
         "bullets": [
-          "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the..."
+          "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
@@ -5671,6 +5658,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-13T01:19:23.000Z"
+      },
+      {
+        "id": "top-254f48c1",
+        "title": "Polls open in Clacton by-election",
+        "summary": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
+        "bullets": [
+          "Voters will choose between 34 candidates - the most to stand in any British parliamentary election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T06:28:40.000Z"
       },
       {
         "id": "tech-1fcb368d",
@@ -5807,9 +5807,9 @@
       {
         "id": "world-e516d2a2",
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the war now in its fifth year.",
+        "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
         "bullets": [
-          "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only “destroy Ukraine, not conquer it,” with the..."
+          "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
@@ -5844,19 +5844,6 @@
         "publishedAt": "2026-08-13T01:31:21.000Z"
       },
       {
-        "id": "world-3372eff7",
-        "title": "Three men will be executed on the same day as death penalties rise in US",
-        "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
-        "bullets": [
-          "Despite growing opposition to the death penalty, one state is behind the rising numbers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T20:52:20.000Z"
-      },
-      {
         "id": "world-ba810e01",
         "title": "Why are 'human fridges' being sold in Japan?",
         "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
@@ -5868,6 +5855,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-12T22:07:47.000Z"
+      },
+      {
+        "id": "world-d8dee038",
+        "title": "Indian actor's video with endangered gibbon sparks investigation",
+        "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
+        "bullets": [
+          "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T07:05:35.000Z"
       }
     ]
   }
