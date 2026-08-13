@@ -5605,20 +5605,34 @@
   },
   {
     "date": "2026-08-13",
-    "generatedAt": "2026-08-13T19:27:43.010Z",
+    "generatedAt": "2026-08-13T22:04:55.886Z",
     "articles": [
       {
-        "id": "top-ce34485f",
-        "title": "Aerial footage shows derailed train",
-        "summary": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
+        "id": "top-de936763",
+        "title": "Two seriously hurt as passenger train derails in East Sussex",
+        "summary": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
         "bullets": [
-          "A train has derailed near Lewes in East Sussex, British Transport Police say."
+          "\"It was pandemonium...",
+          "I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T17:09:23.000Z"
+        "publishedAt": "2026-08-13T21:36:39.000Z"
+      },
+      {
+        "id": "top-62f7e82b",
+        "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
+        "summary": "Multiple fires burned across the West Midlands and destroyed homes.",
+        "bullets": [
+          "Multiple fires burned across the West Midlands and destroyed homes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T20:26:25.000Z"
       },
       {
         "id": "top-185fc068",
@@ -5660,86 +5674,101 @@
         "publishedAt": "2026-08-13T18:28:17.000Z"
       },
       {
-        "id": "top-b51195dc",
-        "title": "The key signs you may have damaged your eyes by looking at the eclipse",
-        "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+        "id": "tech-046bc746",
+        "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+        "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
         "bullets": [
-          "Symptoms after looking at the sun without eclipse glasses can include blurred vision"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T11:57:28.000Z"
-      },
-      {
-        "id": "tech-fbb27f9e",
-        "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
-        "summary": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
-        "bullets": [
-          "Pricing hasn't changed, and now you can get captain's chairs for the R1S."
+          "Trump memo is first time gov't has authorized private sector to perform cyberattacks."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T14:00:57.000Z"
+        "publishedAt": "2026-08-13T19:38:58.000Z"
       },
       {
-        "id": "tech-ef85f883",
-        "title": "Anthropic could be worth $2 trillion when it goes public",
-        "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+        "id": "tech-57d1406f",
+        "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+        "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
         "bullets": [
-          "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history"
+          "Will it be the VSS...",
+          "Horizon, Explorer, Ascend or Apeiron?"
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T13:58:56.000Z"
+        "publishedAt": "2026-08-13T19:12:15.000Z"
       },
       {
-        "id": "tech-d087c6ac",
-        "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-        "summary": "Let's shield the astronauts instead of the spacecraft.",
+        "id": "tech-58496e81",
+        "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+        "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
         "bullets": [
-          "Let's shield the astronauts instead of the spacecraft."
+          "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T13:48:55.000Z"
+        "publishedAt": "2026-08-13T18:31:56.000Z"
       },
       {
-        "id": "tech-31554359",
-        "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-        "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+        "id": "tech-749f7b85",
+        "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+        "summary": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
         "bullets": [
-          "The mark flags anything Claude processed, even human writing it only edited."
+          "Flock to lock out cops who stalk exes, but agencies can still hide abuse."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T11:10:18.000Z"
+        "publishedAt": "2026-08-13T18:10:14.000Z"
       },
       {
-        "id": "tech-1fcb368d",
-        "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-        "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+        "id": "tech-75e3e3e4",
+        "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+        "summary": "\"I've lost trust ...\"",
         "bullets": [
-          "Boy's unusual symptoms could help identify the next case sooner."
+          "\"I've lost trust ...\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T22:31:19.000Z"
+        "publishedAt": "2026-08-13T17:53:53.000Z"
       },
       {
-        "id": "ai-ed228177",
-        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+        "id": "ai-fbab2822",
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "bullets": [
+          "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T21:13:24.000Z"
+      },
+      {
+        "id": "ai-12e3a72e",
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+        "bullets": [
+          "AI is expensive, Ali Ghodsi tells TechCrunch.",
+          "With so many investors wanting into his latest round, he said yes to more than planned."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T20:14:39.000Z"
+      },
+      {
+        "id": "ai-26bbccd2",
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
         "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
         "bullets": [
           "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
@@ -5753,9 +5782,9 @@
       {
         "id": "ai-fcd2396f",
         "title": "IBM partners with OpenAI to bolster enterprise AI push",
-        "summary": "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal.",
+        "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
         "bullets": [
-          "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal."
+          "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
@@ -5777,32 +5806,6 @@
         "publishedAt": "2026-08-13T18:28:14.000Z"
       },
       {
-        "id": "ai-9bb1b7f3",
-        "title": "OpenAI hires new CRO as executive shake-up continues",
-        "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
-        "bullets": [
-          "Dali Rajic will take over as OpenAI's top salesperson."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T17:07:13.000Z"
-      },
-      {
-        "id": "ai-ebf96f0b",
-        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-        "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-        "bullets": [
-          "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T15:30:52.000Z"
-      },
-      {
         "id": "world-74719a88",
         "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
         "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
@@ -5813,7 +5816,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T16:20:41.000Z"
+        "publishedAt": "2026-08-13T20:12:17.000Z"
       },
       {
         "id": "world-b6a6668b",
@@ -5826,7 +5829,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T19:20:58.000Z"
+        "publishedAt": "2026-08-13T19:46:27.000Z"
       },
       {
         "id": "world-e516d2a2",
@@ -5842,6 +5845,19 @@
         "publishedAt": "2026-08-13T04:55:58.000Z"
       },
       {
+        "id": "world-c44b4434",
+        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+        "bullets": [
+          "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T21:43:47.000Z"
+      },
+      {
         "id": "world-d6fe75f2",
         "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
         "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
@@ -5852,20 +5868,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T19:07:55.000Z"
-      },
-      {
-        "id": "world-94c1de00",
-        "title": "Person fined after using foghorn to wake sleeping polar bear",
-        "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
-        "bullets": [
-          "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T15:30:57.000Z"
+        "publishedAt": "2026-08-13T22:02:54.000Z"
       }
     ]
   }
