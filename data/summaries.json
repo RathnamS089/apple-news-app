@@ -5605,8 +5605,21 @@
   },
   {
     "date": "2026-08-13",
-    "generatedAt": "2026-08-13T07:55:27.076Z",
+    "generatedAt": "2026-08-13T10:29:35.972Z",
     "articles": [
+      {
+        "id": "top-69fbbe49",
+        "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
+        "summary": "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.",
+        "bullets": [
+          "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T10:19:08.000Z"
+      },
       {
         "id": "top-029ff3cd",
         "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
@@ -5634,21 +5647,21 @@
         "publishedAt": "2026-08-12T22:45:52.000Z"
       },
       {
-        "id": "top-e516d2a2",
-        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+        "id": "top-e8e020d8",
+        "title": "UK defends seizing shadow fleet tanker after Putin threat",
+        "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
         "bullets": [
-          "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the..."
+          "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T04:55:58.000Z"
+        "publishedAt": "2026-08-13T09:52:30.000Z"
       },
       {
-        "id": "top-405a32da",
-        "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+        "id": "top-beaf4cb9",
+        "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
         "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
         "bullets": [
           "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
@@ -5658,19 +5671,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-13T01:19:23.000Z"
-      },
-      {
-        "id": "top-254f48c1",
-        "title": "Polls open in Clacton by-election",
-        "summary": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
-        "bullets": [
-          "Voters will choose between 34 candidates - the most to stand in any British parliamentary election."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T06:28:40.000Z"
       },
       {
         "id": "tech-1fcb368d",
@@ -5818,17 +5818,30 @@
         "publishedAt": "2026-08-13T04:55:58.000Z"
       },
       {
-        "id": "world-300a8f31",
-        "title": "Israeli settlers besieging Palestinian families in West Bank village",
-        "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+        "id": "world-e8e020d8",
+        "title": "UK defends seizing shadow fleet tanker after Putin threat",
+        "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
         "bullets": [
-          "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged..."
+          "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-12T16:14:08.000Z"
+        "publishedAt": "2026-08-13T09:52:30.000Z"
+      },
+      {
+        "id": "world-c90c2da1",
+        "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+        "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+        "bullets": [
+          "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-13T08:12:53.000Z"
       },
       {
         "id": "world-45fd563f",
@@ -5842,19 +5855,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-13T01:31:21.000Z"
-      },
-      {
-        "id": "world-ba810e01",
-        "title": "Why are 'human fridges' being sold in Japan?",
-        "summary": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
-        "bullets": [
-          "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T22:07:47.000Z"
       },
       {
         "id": "world-d8dee038",
