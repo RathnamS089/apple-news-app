@@ -5874,7 +5874,7 @@
   },
   {
     "date": "2026-08-14",
-    "generatedAt": "2026-08-14T16:07:17.963Z",
+    "generatedAt": "2026-08-14T19:15:58.052Z",
     "articles": [
       {
         "id": "top-d6f00323",
@@ -5887,7 +5887,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T15:36:45.000Z"
+        "publishedAt": "2026-08-14T17:42:00.000Z"
       },
       {
         "id": "top-a46c4466",
@@ -5903,108 +5903,121 @@
         "publishedAt": "2026-08-14T14:50:02.000Z"
       },
       {
-        "id": "top-5f8fdc40",
-        "title": "Watch: Moment €9m worth of art stolen from Italy museum",
-        "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
+        "id": "top-915c3a64",
+        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+        "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
         "bullets": [
-          "Police released the CCTV footage after the art, which was stolen in March, was recovered."
+          "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T14:56:04.000Z"
+        "publishedAt": "2026-08-14T18:25:38.000Z"
       },
       {
-        "id": "top-c38ff2f3",
-        "title": "Trump asks Supreme Court to allow ballroom work to continue",
-        "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+        "id": "top-1b49e70a",
+        "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+        "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
         "bullets": [
-          "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
+          "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T15:10:41.000Z"
+        "publishedAt": "2026-08-14T18:40:14.000Z"
       },
       {
-        "id": "top-2de7dff5",
-        "title": "Prisoners charged over attack on Sara Sharif's father",
-        "summary": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
+        "id": "top-6a54964d",
+        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+        "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
         "bullets": [
-          "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident."
+          "Two families have been trapped in their homes in the occupied West Bank for several days."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T13:21:56.000Z"
+        "publishedAt": "2026-08-14T17:03:17.000Z"
       },
       {
-        "id": "tech-8151fa12",
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "id": "tech-e26b816c",
+        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
         "bullets": [
-          "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
+          "Screen-sharing bug lets remote hackers log in without a password."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T14:27:14.000Z"
+        "publishedAt": "2026-08-14T18:32:14.000Z"
       },
       {
-        "id": "tech-8faab1b9",
-        "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-        "summary": "\"We’ve never seen launch capacity so constrained.\"",
+        "id": "tech-54104f2e",
+        "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+        "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
         "bullets": [
-          "\"We’ve never seen launch capacity so constrained.\""
+          "Airline-backed venture aims to develop a hybrid-electric commercial aircraft."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T11:00:49.000Z"
+        "publishedAt": "2026-08-14T18:00:23.000Z"
       },
       {
-        "id": "tech-cf7c892b",
-        "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-        "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
+        "id": "tech-fee4f410",
+        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
         "bullets": [
-          "Samsung didn't have to change much this year because its hardware is just that good."
+          "Judge warns pro se litigants are using chatbots wrong and getting desperate."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T11:00:05.000Z"
+        "publishedAt": "2026-08-14T17:26:53.000Z"
       },
       {
-        "id": "tech-a20e7dcb",
-        "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
-        "summary": "Czinger used topological design and additive manufacturing to make the brakes.",
+        "id": "tech-45d6b5b2",
+        "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+        "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
         "bullets": [
-          "Czinger used topological design and additive manufacturing to make the brakes."
+          "Kalshi ordered to stop offering bets in Washington, must implement geofencing."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T07:01:15.000Z"
+        "publishedAt": "2026-08-14T17:13:14.000Z"
       },
       {
-        "id": "tech-19416912",
-        "title": "US wait times for cancer surgeries are getting longer and longer",
-        "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
+        "id": "tech-c1156ced",
+        "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+        "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
         "bullets": [
-          "Study finds wait times for cancer surgeries hit 10-year high."
+          "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-13T22:17:29.000Z"
+        "publishedAt": "2026-08-14T17:03:54.000Z"
+      },
+      {
+        "id": "ai-e575016e",
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "bullets": [
+          "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T16:13:40.000Z"
       },
       {
         "id": "ai-ce261956",
@@ -6059,32 +6072,6 @@
         "publishedAt": "2026-08-14T14:00:00.000Z"
       },
       {
-        "id": "ai-fbab2822",
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-        "bullets": [
-          "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T21:13:24.000Z"
-      },
-      {
-        "id": "world-201b833d",
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-        "bullets": [
-          "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T10:36:14.000Z"
-      },
-      {
         "id": "world-d95cdf3b",
         "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
         "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
@@ -6098,17 +6085,30 @@
         "publishedAt": "2026-08-14T12:19:21.000Z"
       },
       {
-        "id": "world-8ac595c0",
-        "title": "US says dozens of countries helped China dodge Trump's tariffs",
-        "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+        "id": "world-6a54964d",
+        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+        "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
         "bullets": [
-          "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
+          "Two families have been trapped in their homes in the occupied West Bank for several days."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T08:39:46.000Z"
+        "publishedAt": "2026-08-14T17:03:17.000Z"
+      },
+      {
+        "id": "world-201b833d",
+        "title": "'Unprecedented' rain in Japan kills eight people",
+        "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+        "bullets": [
+          "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T10:36:14.000Z"
       },
       {
         "id": "world-e17a51a6",
