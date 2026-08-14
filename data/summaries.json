@@ -5874,8 +5874,34 @@
   },
   {
     "date": "2026-08-14",
-    "generatedAt": "2026-08-14T19:15:58.052Z",
+    "generatedAt": "2026-08-14T21:42:42.833Z",
     "articles": [
+      {
+        "id": "top-06f708a7",
+        "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+        "summary": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+        "bullets": [
+          "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T21:41:04.000Z"
+      },
+      {
+        "id": "top-98e3e5f4",
+        "title": "Fires prompt national alert as 19 homes destroyed",
+        "summary": "The prime minister said 37 fires were currently burning across England and Wales",
+        "bullets": [
+          "The prime minister said 37 fires were currently burning across England and Wales"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T20:56:53.000Z"
+      },
       {
         "id": "top-d6f00323",
         "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -5887,59 +5913,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T17:42:00.000Z"
+        "publishedAt": "2026-08-14T19:17:16.000Z"
       },
       {
-        "id": "top-a46c4466",
-        "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
-        "summary": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
+        "id": "top-7bd81bb7",
+        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+        "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
         "bullets": [
-          "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result."
+          "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T14:50:02.000Z"
+        "publishedAt": "2026-08-14T19:20:43.000Z"
       },
       {
-        "id": "top-915c3a64",
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+        "id": "top-3b44cb92",
+        "title": "Derailed Essex to London train leads to travel chaos",
+        "summary": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene.",
         "bullets": [
-          "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
+          "More than 60 patients were checked over by ambulance crews but all were discharged at the scene."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T18:25:38.000Z"
-      },
-      {
-        "id": "top-1b49e70a",
-        "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
-        "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
-        "bullets": [
-          "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T18:40:14.000Z"
-      },
-      {
-        "id": "top-6a54964d",
-        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-        "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-        "bullets": [
-          "Two families have been trapped in their homes in the occupied West Bank for several days."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T17:03:17.000Z"
+        "publishedAt": "2026-08-14T19:57:50.000Z"
       },
       {
         "id": "tech-e26b816c",
@@ -6072,6 +6072,19 @@
         "publishedAt": "2026-08-14T14:00:00.000Z"
       },
       {
+        "id": "world-915c3a64",
+        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+        "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+        "bullets": [
+          "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T18:25:38.000Z"
+      },
+      {
         "id": "world-d95cdf3b",
         "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
         "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
@@ -6122,19 +6135,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-14T13:18:08.000Z"
-      },
-      {
-        "id": "world-ae16407f",
-        "title": "Stolen Matisse artworks recovered by police in Brazil",
-        "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-        "bullets": [
-          "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T10:55:39.000Z"
       }
     ]
   }
