@@ -6140,33 +6140,20 @@
   },
   {
     "date": "2026-08-15",
-    "generatedAt": "2026-08-15T06:59:31.349Z",
+    "generatedAt": "2026-08-15T09:43:03.673Z",
     "articles": [
       {
-        "id": "top-06f708a7",
-        "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-        "summary": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+        "id": "top-4ffc3b74",
+        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+        "summary": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
         "bullets": [
-          "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on..."
+          "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T01:41:24.000Z"
-      },
-      {
-        "id": "top-98e3e5f4",
-        "title": "Fires prompt national alert as 19 homes destroyed",
-        "summary": "The prime minister said 37 fires were currently burning across England and Wales",
-        "bullets": [
-          "The prime minister said 37 fires were currently burning across England and Wales"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T02:54:04.000Z"
+        "publishedAt": "2026-08-15T07:53:48.000Z"
       },
       {
         "id": "top-7d0f97fd",
@@ -6195,17 +6182,30 @@
         "publishedAt": "2026-08-14T17:00:14.000Z"
       },
       {
-        "id": "top-9bfd2c77",
-        "title": "Heathrow Airport warns of disruption following floods",
-        "summary": "Water in the central terminal area means passengers cannot use roads to the airport",
+        "id": "top-dd7641cf",
+        "title": "Heathrow Airport pipe leak causes flood disruption",
+        "summary": "Water in the central terminal area means passengers cannot use roads to the airport.",
         "bullets": [
-          "Water in the central terminal area means passengers cannot use roads to the airport"
+          "Water in the central terminal area means passengers cannot use roads to the airport."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T06:06:02.000Z"
+        "publishedAt": "2026-08-15T08:52:13.000Z"
+      },
+      {
+        "id": "top-8457bf8a",
+        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+        "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+        "bullets": [
+          "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T00:01:53.000Z"
       },
       {
         "id": "tech-e26b816c",
@@ -6338,17 +6338,30 @@
         "publishedAt": "2026-08-14T14:00:00.000Z"
       },
       {
-        "id": "world-7bd81bb7",
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-        "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+        "id": "world-e5b8c437",
+        "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+        "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
         "bullets": [
-          "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+          "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T19:20:43.000Z"
+        "publishedAt": "2026-08-15T08:52:55.000Z"
+      },
+      {
+        "id": "world-d4559fa1",
+        "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+        "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+        "bullets": [
+          "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T18:54:58.000Z"
       },
       {
         "id": "world-8457bf8a",
@@ -6364,32 +6377,6 @@
         "publishedAt": "2026-08-15T00:01:53.000Z"
       },
       {
-        "id": "world-e8f63ec7",
-        "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-        "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
-        "bullets": [
-          "The earthquake struck off Flores island in the country's east early on Saturday morning."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T06:21:31.000Z"
-      },
-      {
-        "id": "world-915c3a64",
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-        "bullets": [
-          "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T18:25:38.000Z"
-      },
-      {
         "id": "world-77c977b8",
         "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
         "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
@@ -6401,6 +6388,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-14T17:36:27.000Z"
+      },
+      {
+        "id": "world-277b2b79",
+        "title": "South Korea proposes talks to officially end war with North",
+        "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+        "bullets": [
+          "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T09:35:23.000Z"
       }
     ]
   }
