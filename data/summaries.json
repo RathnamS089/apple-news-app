@@ -6140,7 +6140,7 @@
   },
   {
     "date": "2026-08-15",
-    "generatedAt": "2026-08-15T01:51:34.132Z",
+    "generatedAt": "2026-08-15T03:56:27.343Z",
     "articles": [
       {
         "id": "top-06f708a7",
@@ -6166,7 +6166,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T20:56:53.000Z"
+        "publishedAt": "2026-08-15T02:54:04.000Z"
       },
       {
         "id": "top-d6f00323",
@@ -6195,17 +6195,17 @@
         "publishedAt": "2026-08-14T17:00:14.000Z"
       },
       {
-        "id": "top-7bd81bb7",
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-        "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+        "id": "top-8457bf8a",
+        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+        "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
         "bullets": [
-          "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+          "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T19:20:43.000Z"
+        "publishedAt": "2026-08-15T00:01:53.000Z"
       },
       {
         "id": "tech-e26b816c",
