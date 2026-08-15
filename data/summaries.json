@@ -6140,7 +6140,7 @@
   },
   {
     "date": "2026-08-15",
-    "generatedAt": "2026-08-15T03:56:27.343Z",
+    "generatedAt": "2026-08-15T06:59:31.349Z",
     "articles": [
       {
         "id": "top-06f708a7",
@@ -6169,8 +6169,8 @@
         "publishedAt": "2026-08-15T02:54:04.000Z"
       },
       {
-        "id": "top-d6f00323",
-        "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+        "id": "top-7d0f97fd",
+        "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
         "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
         "bullets": [
           "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns."
@@ -6179,7 +6179,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T19:17:16.000Z"
+        "publishedAt": "2026-08-15T03:58:31.000Z"
       },
       {
         "id": "top-e97f07b7",
@@ -6195,17 +6195,17 @@
         "publishedAt": "2026-08-14T17:00:14.000Z"
       },
       {
-        "id": "top-8457bf8a",
-        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-        "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+        "id": "top-9bfd2c77",
+        "title": "Heathrow Airport warns of disruption following floods",
+        "summary": "Water in the central terminal area means passengers cannot use roads to the airport",
         "bullets": [
-          "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January..."
+          "Water in the central terminal area means passengers cannot use roads to the airport"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T00:01:53.000Z"
+        "publishedAt": "2026-08-15T06:06:02.000Z"
       },
       {
         "id": "tech-e26b816c",
@@ -6351,6 +6351,32 @@
         "publishedAt": "2026-08-14T19:20:43.000Z"
       },
       {
+        "id": "world-8457bf8a",
+        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+        "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+        "bullets": [
+          "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T00:01:53.000Z"
+      },
+      {
+        "id": "world-e8f63ec7",
+        "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+        "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+        "bullets": [
+          "The earthquake struck off Flores island in the country's east early on Saturday morning."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T06:21:31.000Z"
+      },
+      {
         "id": "world-915c3a64",
         "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
         "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
@@ -6364,8 +6390,8 @@
         "publishedAt": "2026-08-14T18:25:38.000Z"
       },
       {
-        "id": "world-7fbf4952",
-        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+        "id": "world-77c977b8",
+        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
         "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
         "bullets": [
           "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
@@ -6375,32 +6401,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-14T17:36:27.000Z"
-      },
-      {
-        "id": "world-d95cdf3b",
-        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-        "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-        "bullets": [
-          "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T12:19:21.000Z"
-      },
-      {
-        "id": "world-6a54964d",
-        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-        "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-        "bullets": [
-          "Two families have been trapped in their homes in the occupied West Bank for several days."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T17:03:17.000Z"
       }
     ]
   }
