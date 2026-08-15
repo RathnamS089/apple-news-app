@@ -6140,37 +6140,37 @@
   },
   {
     "date": "2026-08-15",
-    "generatedAt": "2026-08-15T13:00:28.787Z",
+    "generatedAt": "2026-08-15T15:36:45.424Z",
     "articles": [
       {
         "id": "top-e8946d43",
         "title": "Jason Arday death 'tragedy on so many levels' says PM",
-        "summary": "Andy Burnham said the former Cambridge professor's death was a \"really sad, sad and sorry state of affairs\".",
+        "summary": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
         "bullets": [
-          "Andy Burnham said the former Cambridge professor's death was a \"really sad, sad and sorry state of affairs\"."
+          "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\"."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T11:06:39.000Z"
+        "publishedAt": "2026-08-15T13:56:30.000Z"
       },
       {
         "id": "top-b59e1e2c",
         "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-        "summary": "The academic's Cambridge appointment in 2023 drew worldwide attention",
+        "summary": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
         "bullets": [
-          "The academic's Cambridge appointment in 2023 drew worldwide attention"
+          "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T11:21:10.000Z"
+        "publishedAt": "2026-08-15T13:48:38.000Z"
       },
       {
-        "id": "top-17620259",
-        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+        "id": "top-0814e319",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
         "bullets": [
           "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
@@ -6179,33 +6179,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T12:31:55.000Z"
+        "publishedAt": "2026-08-15T13:35:57.000Z"
+      },
+      {
+        "id": "top-4d63c675",
+        "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+        "summary": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
+        "bullets": [
+          "The Total Eclipse of the Heart singer died last month in a hospital in Portugal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T15:26:30.000Z"
       },
       {
         "id": "top-63fb7882",
         "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-        "summary": "Scotland Yard copied in all those who had signed up to receive a monthly update",
+        "summary": "Scotland Yard copied in all those who had signed up to receive a monthly update.",
         "bullets": [
-          "Scotland Yard copied in all those who had signed up to receive a monthly update"
+          "Scotland Yard copied in all those who had signed up to receive a monthly update."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-15T11:53:19.000Z"
-      },
-      {
-        "id": "top-e97f07b7",
-        "title": "Five years after the Taliban swept to power, does the West have any influence?",
-        "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
-        "bullets": [
-          "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T17:00:14.000Z"
       },
       {
         "id": "tech-d1518bd2",
@@ -6339,8 +6339,8 @@
         "publishedAt": "2026-08-14T14:00:00.000Z"
       },
       {
-        "id": "world-17620259",
-        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+        "id": "world-0814e319",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
         "bullets": [
           "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
@@ -6349,7 +6349,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T12:31:55.000Z"
+        "publishedAt": "2026-08-15T13:35:57.000Z"
+      },
+      {
+        "id": "world-e170327f",
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+        "bullets": [
+          "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T13:38:53.000Z"
       },
       {
         "id": "world-8457bf8a",
@@ -6378,19 +6391,6 @@
         "publishedAt": "2026-08-14T17:36:27.000Z"
       },
       {
-        "id": "world-e170327f",
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
-        "bullets": [
-          "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T12:25:11.000Z"
-      },
-      {
         "id": "world-277b2b79",
         "title": "South Korea proposes talks to officially end war with North",
         "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
@@ -6401,7 +6401,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T09:35:23.000Z"
+        "publishedAt": "2026-08-15T14:40:15.000Z"
       }
     ]
   }
