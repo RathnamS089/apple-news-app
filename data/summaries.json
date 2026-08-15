@@ -6140,7 +6140,7 @@
   },
   {
     "date": "2026-08-15",
-    "generatedAt": "2026-08-15T15:36:45.424Z",
+    "generatedAt": "2026-08-15T18:49:13.955Z",
     "articles": [
       {
         "id": "top-e8946d43",
@@ -6153,7 +6153,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T13:56:30.000Z"
+        "publishedAt": "2026-08-15T17:43:04.000Z"
       },
       {
         "id": "top-b59e1e2c",
@@ -6169,6 +6169,19 @@
         "publishedAt": "2026-08-15T13:48:38.000Z"
       },
       {
+        "id": "top-3f9fd5fc",
+        "title": "Fire services stretched as residents still not home",
+        "summary": "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.",
+        "bullets": [
+          "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T17:41:54.000Z"
+      },
+      {
         "id": "top-0814e319",
         "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
@@ -6182,19 +6195,6 @@
         "publishedAt": "2026-08-15T13:35:57.000Z"
       },
       {
-        "id": "top-4d63c675",
-        "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-        "summary": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
-        "bullets": [
-          "The Total Eclipse of the Heart singer died last month in a hospital in Portugal."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T15:26:30.000Z"
-      },
-      {
         "id": "top-63fb7882",
         "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
         "summary": "Scotland Yard copied in all those who had signed up to receive a monthly update.",
@@ -6206,6 +6206,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-15T11:53:19.000Z"
+      },
+      {
+        "id": "tech-caf33546",
+        "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+        "summary": "\"Flamingo missiles were used. A good achievement.\"",
+        "bullets": [
+          "\"Flamingo missiles were used."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T15:46:05.000Z"
       },
       {
         "id": "tech-d1518bd2",
@@ -6261,17 +6274,17 @@
         "publishedAt": "2026-08-14T17:26:53.000Z"
       },
       {
-        "id": "tech-45d6b5b2",
-        "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-        "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+        "id": "ai-3eedc612",
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
         "bullets": [
-          "Kalshi ordered to stop offering bets in Washington, must implement geofencing."
+          "AI coding startup Cursor is now officially a part of SpaceX."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T17:13:14.000Z"
+        "publishedAt": "2026-08-15T16:30:00.000Z"
       },
       {
         "id": "ai-e575016e",
@@ -6326,19 +6339,6 @@
         "publishedAt": "2026-08-14T14:05:00.000Z"
       },
       {
-        "id": "ai-8f7c58e6",
-        "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter...",
-        "bullets": [
-          "The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T14:00:00.000Z"
-      },
-      {
         "id": "world-0814e319",
         "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
@@ -6354,15 +6354,15 @@
       {
         "id": "world-e170327f",
         "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
         "bullets": [
-          "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers."
+          "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T13:38:53.000Z"
+        "publishedAt": "2026-08-15T16:02:49.000Z"
       },
       {
         "id": "world-8457bf8a",
