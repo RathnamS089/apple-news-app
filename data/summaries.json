@@ -6140,8 +6140,21 @@
   },
   {
     "date": "2026-08-15",
-    "generatedAt": "2026-08-15T18:49:13.955Z",
+    "generatedAt": "2026-08-15T21:37:01.117Z",
     "articles": [
+      {
+        "id": "top-853a34ad",
+        "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+        "summary": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+        "bullets": [
+          "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:28:54.000Z"
+      },
       {
         "id": "top-e8946d43",
         "title": "Jason Arday death 'tragedy on so many levels' says PM",
@@ -6156,32 +6169,6 @@
         "publishedAt": "2026-08-15T17:43:04.000Z"
       },
       {
-        "id": "top-b59e1e2c",
-        "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-        "summary": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
-        "bullets": [
-          "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T13:48:38.000Z"
-      },
-      {
-        "id": "top-3f9fd5fc",
-        "title": "Fire services stretched as residents still not home",
-        "summary": "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.",
-        "bullets": [
-          "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T17:41:54.000Z"
-      },
-      {
         "id": "top-0814e319",
         "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
@@ -6192,7 +6179,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T13:35:57.000Z"
+        "publishedAt": "2026-08-15T20:00:15.000Z"
       },
       {
         "id": "top-63fb7882",
@@ -6206,6 +6193,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-15T11:53:19.000Z"
+      },
+      {
+        "id": "top-f05ffb42",
+        "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+        "summary": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
+        "bullets": [
+          "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:19:28.000Z"
       },
       {
         "id": "tech-caf33546",
@@ -6274,6 +6274,34 @@
         "publishedAt": "2026-08-14T17:26:53.000Z"
       },
       {
+        "id": "ai-fe659f61",
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "bullets": [
+          "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:29:19.000Z"
+      },
+      {
+        "id": "ai-b82d175a",
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "bullets": [
+          "How will the watermarking actually work?",
+          "Can it be hidden with editing?",
+          "And how does this affect code?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T18:58:39.000Z"
+      },
+      {
         "id": "ai-3eedc612",
         "title": "SpaceX officially closes its Cursor acquisition",
         "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
@@ -6313,32 +6341,6 @@
         "publishedAt": "2026-08-14T15:43:28.000Z"
       },
       {
-        "id": "ai-56a2276c",
-        "title": "Kog is going deeper to squeeze more inference out of GPUs",
-        "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-        "bullets": [
-          "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T14:50:11.000Z"
-      },
-      {
-        "id": "ai-19a0bafc",
-        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-        "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-        "bullets": [
-          "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T14:05:00.000Z"
-      },
-      {
         "id": "world-0814e319",
         "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
@@ -6349,7 +6351,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T13:35:57.000Z"
+        "publishedAt": "2026-08-15T20:00:15.000Z"
+      },
+      {
+        "id": "world-f6384bb5",
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+        "bullets": [
+          "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T20:58:31.000Z"
       },
       {
         "id": "world-e170327f",
@@ -6362,46 +6377,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T16:02:49.000Z"
+        "publishedAt": "2026-08-15T20:21:14.000Z"
       },
       {
-        "id": "world-8457bf8a",
-        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-        "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+        "id": "world-6cd1105f",
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
         "bullets": [
-          "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January..."
+          "The declaration was made on the national day of the central European country, which has a population of just 44,000."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T00:01:53.000Z"
+        "publishedAt": "2026-08-15T19:41:57.000Z"
       },
       {
-        "id": "world-77c977b8",
-        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-        "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+        "id": "world-19334b9c",
+        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
         "bullets": [
-          "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+          "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T17:36:27.000Z"
-      },
-      {
-        "id": "world-277b2b79",
-        "title": "South Korea proposes talks to officially end war with North",
-        "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-        "bullets": [
-          "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T14:40:15.000Z"
+        "publishedAt": "2026-08-15T21:03:57.000Z"
       }
     ]
   }
