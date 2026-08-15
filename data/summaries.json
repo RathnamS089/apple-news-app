@@ -6140,33 +6140,59 @@
   },
   {
     "date": "2026-08-15",
-    "generatedAt": "2026-08-15T09:43:03.673Z",
+    "generatedAt": "2026-08-15T13:00:28.787Z",
     "articles": [
       {
-        "id": "top-4ffc3b74",
-        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
-        "summary": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+        "id": "top-e8946d43",
+        "title": "Jason Arday death 'tragedy on so many levels' says PM",
+        "summary": "Andy Burnham said the former Cambridge professor's death was a \"really sad, sad and sorry state of affairs\".",
         "bullets": [
-          "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much."
+          "Andy Burnham said the former Cambridge professor's death was a \"really sad, sad and sorry state of affairs\"."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T07:53:48.000Z"
+        "publishedAt": "2026-08-15T11:06:39.000Z"
       },
       {
-        "id": "top-7d0f97fd",
-        "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-        "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+        "id": "top-b59e1e2c",
+        "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+        "summary": "The academic's Cambridge appointment in 2023 drew worldwide attention",
         "bullets": [
-          "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns."
+          "The academic's Cambridge appointment in 2023 drew worldwide attention"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T03:58:31.000Z"
+        "publishedAt": "2026-08-15T11:21:10.000Z"
+      },
+      {
+        "id": "top-17620259",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+        "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+        "bullets": [
+          "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T12:31:55.000Z"
+      },
+      {
+        "id": "top-63fb7882",
+        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+        "summary": "Scotland Yard copied in all those who had signed up to receive a monthly update",
+        "bullets": [
+          "Scotland Yard copied in all those who had signed up to receive a monthly update"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T11:53:19.000Z"
       },
       {
         "id": "top-e97f07b7",
@@ -6182,30 +6208,18 @@
         "publishedAt": "2026-08-14T17:00:14.000Z"
       },
       {
-        "id": "top-dd7641cf",
-        "title": "Heathrow Airport pipe leak causes flood disruption",
-        "summary": "Water in the central terminal area means passengers cannot use roads to the airport.",
+        "id": "tech-d1518bd2",
+        "title": "So much solar: Digging into the list of every US power plant that went online this year",
+        "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
         "bullets": [
-          "Water in the central terminal area means passengers cannot use roads to the airport."
+          "Utility-scale solar leads by a mile, followed by batteries.",
+          "Fossil fuels, not so much."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T08:52:13.000Z"
-      },
-      {
-        "id": "top-8457bf8a",
-        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-        "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
-        "bullets": [
-          "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T00:01:53.000Z"
+        "publishedAt": "2026-08-15T11:09:57.000Z"
       },
       {
         "id": "tech-e26b816c",
@@ -6258,19 +6272,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-14T17:13:14.000Z"
-      },
-      {
-        "id": "tech-c1156ced",
-        "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-        "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-        "bullets": [
-          "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T17:03:54.000Z"
       },
       {
         "id": "ai-e575016e",
@@ -6338,8 +6339,8 @@
         "publishedAt": "2026-08-14T14:00:00.000Z"
       },
       {
-        "id": "world-e5b8c437",
-        "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+        "id": "world-17620259",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
         "bullets": [
           "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
@@ -6348,20 +6349,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T08:52:55.000Z"
-      },
-      {
-        "id": "world-d4559fa1",
-        "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-        "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
-        "bullets": [
-          "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T18:54:58.000Z"
+        "publishedAt": "2026-08-15T12:31:55.000Z"
       },
       {
         "id": "world-8457bf8a",
@@ -6388,6 +6376,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-14T17:36:27.000Z"
+      },
+      {
+        "id": "world-e170327f",
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+        "bullets": [
+          "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T12:25:11.000Z"
       },
       {
         "id": "world-277b2b79",
