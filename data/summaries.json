@@ -6409,8 +6409,21 @@
   },
   {
     "date": "2026-08-16",
-    "generatedAt": "2026-08-16T18:48:11.820Z",
+    "generatedAt": "2026-08-16T21:35:47.864Z",
     "articles": [
+      {
+        "id": "top-73e63109",
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "bullets": [
+          "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T19:58:14.000Z"
+      },
       {
         "id": "top-5e72f831",
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -6422,20 +6435,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T18:04:25.000Z"
+        "publishedAt": "2026-08-16T19:03:04.000Z"
       },
       {
-        "id": "top-6e7a8278",
-        "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
-        "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+        "id": "top-691200a2",
+        "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+        "summary": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
         "bullets": [
-          "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools."
+          "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T12:18:09.000Z"
+        "publishedAt": "2026-08-16T20:07:40.000Z"
       },
       {
         "id": "top-695205fd",
@@ -6462,19 +6475,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-16T12:36:11.000Z"
-      },
-      {
-        "id": "top-13ea1ca6",
-        "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
-        "summary": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
-        "bullets": [
-          "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T15:33:02.000Z"
       },
       {
         "id": "tech-769feae7",
@@ -6543,6 +6543,32 @@
         "publishedAt": "2026-08-14T18:32:14.000Z"
       },
       {
+        "id": "ai-0309d107",
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "bullets": [
+          "OpenRouter's CEO recently described the startup as Stripe for AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T20:57:04.000Z"
+      },
+      {
+        "id": "ai-469d2235",
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "bullets": [
+          "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T20:32:01.000Z"
+      },
+      {
         "id": "ai-3e137ed8",
         "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
         "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
@@ -6584,30 +6610,30 @@
         "publishedAt": "2026-08-15T18:58:39.000Z"
       },
       {
-        "id": "ai-3eedc612",
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "id": "world-2ab7c3b4",
+        "title": "Trump says US will scale back military drills with South Korea",
+        "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
         "bullets": [
-          "AI coding startup Cursor is now officially a part of SpaceX."
+          "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T16:30:00.000Z"
+        "publishedAt": "2026-08-16T21:27:42.000Z"
       },
       {
-        "id": "ai-e575016e",
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "id": "world-73e63109",
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
         "bullets": [
-          "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+          "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-14T16:13:40.000Z"
+        "publishedAt": "2026-08-16T19:58:14.000Z"
       },
       {
         "id": "world-5e72f831",
@@ -6620,59 +6646,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T18:04:25.000Z"
+        "publishedAt": "2026-08-16T19:03:04.000Z"
       },
       {
-        "id": "world-a6a13f17",
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+        "id": "world-b7762a1a",
+        "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+        "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
         "bullets": [
-          "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T12:37:21.000Z"
-      },
-      {
-        "id": "world-84b31f99",
-        "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-        "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-        "bullets": [
-          "A search-and-rescue operation is under way after properties were uprooted from their foundations."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T18:46:12.000Z"
-      },
-      {
-        "id": "world-d367d1b3",
-        "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-        "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-        "bullets": [
-          "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T10:53:50.000Z"
-      },
-      {
-        "id": "world-915eebc7",
-        "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-        "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
-        "bullets": [
-          "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
+          "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T17:44:23.000Z"
+        "publishedAt": "2026-08-16T19:50:36.000Z"
+      },
+      {
+        "id": "world-0349b979",
+        "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+        "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
+        "bullets": [
+          "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T19:00:23.000Z"
       }
     ]
   }
