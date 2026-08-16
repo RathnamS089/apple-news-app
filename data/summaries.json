@@ -6409,8 +6409,21 @@
   },
   {
     "date": "2026-08-16",
-    "generatedAt": "2026-08-16T13:02:40.046Z",
+    "generatedAt": "2026-08-16T15:38:39.350Z",
     "articles": [
+      {
+        "id": "top-5e72f831",
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+        "bullets": [
+          "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T15:14:01.000Z"
+      },
       {
         "id": "top-6e7a8278",
         "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
@@ -6435,20 +6448,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T12:14:44.000Z"
-      },
-      {
-        "id": "top-6a26a485",
-        "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-        "summary": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
-        "bullets": [
-          "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T00:39:22.000Z"
+        "publishedAt": "2026-08-16T15:22:53.000Z"
       },
       {
         "id": "top-0d7f789a",
@@ -6464,17 +6464,17 @@
         "publishedAt": "2026-08-16T12:36:11.000Z"
       },
       {
-        "id": "top-e2fd0291",
-        "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-        "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
+        "id": "top-13ea1ca6",
+        "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+        "summary": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
         "bullets": [
-          "The star plays the first of 10 dates in London, after which she will \"step back\" from public life."
+          "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T02:01:42.000Z"
+        "publishedAt": "2026-08-16T15:33:02.000Z"
       },
       {
         "id": "tech-769feae7",
@@ -6610,17 +6610,17 @@
         "publishedAt": "2026-08-14T15:43:28.000Z"
       },
       {
-        "id": "world-67924864",
-        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-        "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+        "id": "world-5e72f831",
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
         "bullets": [
-          "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
+          "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T10:52:08.000Z"
+        "publishedAt": "2026-08-16T15:14:01.000Z"
       },
       {
         "id": "world-a6a13f17",
