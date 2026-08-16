@@ -6406,5 +6406,274 @@
         "publishedAt": "2026-08-15T21:03:57.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-16",
+    "generatedAt": "2026-08-16T01:58:50.873Z",
+    "articles": [
+      {
+        "id": "top-853a34ad",
+        "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+        "summary": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+        "bullets": [
+          "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:28:54.000Z"
+      },
+      {
+        "id": "top-63fb7882",
+        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+        "summary": "Scotland Yard copied in all those who had signed up to receive a monthly update.",
+        "bullets": [
+          "Scotland Yard copied in all those who had signed up to receive a monthly update."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T00:51:29.000Z"
+      },
+      {
+        "id": "top-f05ffb42",
+        "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+        "summary": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
+        "bullets": [
+          "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T00:39:22.000Z"
+      },
+      {
+        "id": "top-0814e319",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+        "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+        "bullets": [
+          "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T20:00:15.000Z"
+      },
+      {
+        "id": "top-e8946d43",
+        "title": "Jason Arday death 'tragedy on so many levels' says PM",
+        "summary": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+        "bullets": [
+          "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T17:43:04.000Z"
+      },
+      {
+        "id": "tech-a2c59186",
+        "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+        "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+        "bullets": [
+          "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:21:27.000Z"
+      },
+      {
+        "id": "tech-caf33546",
+        "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+        "summary": "\"Flamingo missiles were used. A good achievement.\"",
+        "bullets": [
+          "\"Flamingo missiles were used."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T15:46:05.000Z"
+      },
+      {
+        "id": "tech-d1518bd2",
+        "title": "So much solar: Digging into the list of every US power plant that went online this year",
+        "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+        "bullets": [
+          "Utility-scale solar leads by a mile, followed by batteries.",
+          "Fossil fuels, not so much."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T11:09:57.000Z"
+      },
+      {
+        "id": "tech-e26b816c",
+        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+        "bullets": [
+          "Screen-sharing bug lets remote hackers log in without a password."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T18:32:14.000Z"
+      },
+      {
+        "id": "tech-54104f2e",
+        "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+        "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+        "bullets": [
+          "Airline-backed venture aims to develop a hybrid-electric commercial aircraft."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T18:00:23.000Z"
+      },
+      {
+        "id": "ai-fe659f61",
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "bullets": [
+          "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:29:19.000Z"
+      },
+      {
+        "id": "ai-b82d175a",
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "bullets": [
+          "How will the watermarking actually work?",
+          "Can it be hidden with editing?",
+          "And how does this affect code?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T18:58:39.000Z"
+      },
+      {
+        "id": "ai-3eedc612",
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "bullets": [
+          "AI coding startup Cursor is now officially a part of SpaceX."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T16:30:00.000Z"
+      },
+      {
+        "id": "ai-e575016e",
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "bullets": [
+          "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T16:13:40.000Z"
+      },
+      {
+        "id": "ai-ce261956",
+        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter...",
+        "bullets": [
+          "The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs,..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T15:43:28.000Z"
+      },
+      {
+        "id": "world-7f58b412",
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "bullets": [
+          "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:49:12.000Z"
+      },
+      {
+        "id": "world-f6384bb5",
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+        "bullets": [
+          "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T20:58:31.000Z"
+      },
+      {
+        "id": "world-e170327f",
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "bullets": [
+          "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T20:21:14.000Z"
+      },
+      {
+        "id": "world-6cd1105f",
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+        "bullets": [
+          "The declaration was made on the national day of the central European country, which has a population of just 44,000."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T19:41:57.000Z"
+      },
+      {
+        "id": "world-19334b9c",
+        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+        "bullets": [
+          "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:03:57.000Z"
+      }
+    ]
   }
 ]
