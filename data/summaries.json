@@ -6409,8 +6409,21 @@
   },
   {
     "date": "2026-08-16",
-    "generatedAt": "2026-08-16T09:44:04.065Z",
+    "generatedAt": "2026-08-16T13:02:40.046Z",
     "articles": [
+      {
+        "id": "top-6e7a8278",
+        "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+        "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+        "bullets": [
+          "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T12:18:09.000Z"
+      },
       {
         "id": "top-986c6550",
         "title": "People who fled Stourbridge fires start to return home",
@@ -6422,7 +6435,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T09:35:01.000Z"
+        "publishedAt": "2026-08-16T12:14:44.000Z"
       },
       {
         "id": "top-6a26a485",
@@ -6438,17 +6451,17 @@
         "publishedAt": "2026-08-16T00:39:22.000Z"
       },
       {
-        "id": "top-a6a13f17",
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+        "id": "top-0d7f789a",
+        "title": "Murder inquiry after man bitten by dog dies",
+        "summary": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
         "bullets": [
-          "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
+          "Police appeal for two people who stopped to help the victim in Wakefield to come forward."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T08:23:38.000Z"
+        "publishedAt": "2026-08-16T12:36:11.000Z"
       },
       {
         "id": "top-e2fd0291",
@@ -6464,17 +6477,17 @@
         "publishedAt": "2026-08-16T02:01:42.000Z"
       },
       {
-        "id": "top-0efa8ec8",
-        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-        "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+        "id": "tech-769feae7",
+        "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+        "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
         "bullets": [
-          "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+          "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T08:49:32.000Z"
+        "publishedAt": "2026-08-16T10:00:59.000Z"
       },
       {
         "id": "tech-a2c59186",
@@ -6528,19 +6541,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-14T18:32:14.000Z"
-      },
-      {
-        "id": "tech-54104f2e",
-        "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-        "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
-        "bullets": [
-          "Airline-backed venture aims to develop a hybrid-electric commercial aircraft."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T18:00:23.000Z"
       },
       {
         "id": "ai-fe659f61",
@@ -6620,33 +6620,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T09:04:14.000Z"
+        "publishedAt": "2026-08-16T10:52:08.000Z"
       },
       {
         "id": "world-a6a13f17",
         "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
         "bullets": [
-          "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
+          "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T08:23:38.000Z"
+        "publishedAt": "2026-08-16T12:37:21.000Z"
       },
       {
-        "id": "world-0efa8ec8",
-        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-        "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+        "id": "world-b9c87bad",
+        "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+        "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
         "bullets": [
-          "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+          "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T08:49:32.000Z"
+        "publishedAt": "2026-08-16T12:53:43.000Z"
       },
       {
         "id": "world-d367d1b3",
@@ -6659,20 +6659,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T07:04:17.000Z"
+        "publishedAt": "2026-08-16T10:53:50.000Z"
       },
       {
-        "id": "world-f6384bb5",
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-        "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+        "id": "world-2b743a47",
+        "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+        "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
         "bullets": [
-          "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+          "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T20:58:31.000Z"
+        "publishedAt": "2026-08-16T11:35:25.000Z"
       }
     ]
   }
