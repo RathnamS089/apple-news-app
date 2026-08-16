@@ -6409,14 +6409,27 @@
   },
   {
     "date": "2026-08-16",
-    "generatedAt": "2026-08-16T04:01:09.273Z",
+    "generatedAt": "2026-08-16T07:01:05.400Z",
     "articles": [
       {
-        "id": "top-f05ffb42",
-        "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
-        "summary": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
+        "id": "top-7f58b412",
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
         "bullets": [
-          "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power."
+          "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T04:13:32.000Z"
+      },
+      {
+        "id": "top-c41528f2",
+        "title": "Reform UK plans to overhaul welfare system to save £50bn",
+        "summary": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+        "bullets": [
+          "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
@@ -6438,19 +6451,6 @@
         "publishedAt": "2026-08-15T21:28:54.000Z"
       },
       {
-        "id": "top-f6384bb5",
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-        "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-        "bullets": [
-          "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T20:58:31.000Z"
-      },
-      {
         "id": "top-e2fd0291",
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
         "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
@@ -6464,17 +6464,17 @@
         "publishedAt": "2026-08-16T02:01:42.000Z"
       },
       {
-        "id": "top-e8946d43",
-        "title": "Jason Arday death 'tragedy on so many levels' says PM",
-        "summary": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+        "id": "top-68769f45",
+        "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+        "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
         "bullets": [
-          "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\"."
+          "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T17:43:04.000Z"
+        "publishedAt": "2026-08-16T06:53:22.000Z"
       },
       {
         "id": "tech-a2c59186",
@@ -6620,7 +6620,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T21:49:12.000Z"
+        "publishedAt": "2026-08-16T04:13:32.000Z"
       },
       {
         "id": "world-f6384bb5",
