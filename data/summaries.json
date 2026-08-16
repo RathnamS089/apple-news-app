@@ -6409,24 +6409,24 @@
   },
   {
     "date": "2026-08-16",
-    "generatedAt": "2026-08-16T07:01:05.400Z",
+    "generatedAt": "2026-08-16T09:44:04.065Z",
     "articles": [
       {
-        "id": "top-7f58b412",
-        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-        "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "id": "top-986c6550",
+        "title": "People who fled Stourbridge fires start to return home",
+        "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
         "bullets": [
-          "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+          "Many families are only just discovering the extent of damage to their homes for the first time."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T04:13:32.000Z"
+        "publishedAt": "2026-08-16T09:35:01.000Z"
       },
       {
-        "id": "top-c41528f2",
-        "title": "Reform UK plans to overhaul welfare system to save £50bn",
+        "id": "top-6a26a485",
+        "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
         "summary": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
         "bullets": [
           "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip."
@@ -6438,17 +6438,17 @@
         "publishedAt": "2026-08-16T00:39:22.000Z"
       },
       {
-        "id": "top-853a34ad",
-        "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
-        "summary": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+        "id": "top-a6a13f17",
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
         "bullets": [
-          "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore."
+          "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T21:28:54.000Z"
+        "publishedAt": "2026-08-16T08:23:38.000Z"
       },
       {
         "id": "top-e2fd0291",
@@ -6464,8 +6464,8 @@
         "publishedAt": "2026-08-16T02:01:42.000Z"
       },
       {
-        "id": "top-68769f45",
-        "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+        "id": "top-0efa8ec8",
+        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
         "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
         "bullets": [
           "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
@@ -6474,7 +6474,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T06:53:22.000Z"
+        "publishedAt": "2026-08-16T08:49:32.000Z"
       },
       {
         "id": "tech-a2c59186",
@@ -6610,17 +6610,56 @@
         "publishedAt": "2026-08-14T15:43:28.000Z"
       },
       {
-        "id": "world-7f58b412",
-        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-        "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "id": "world-67924864",
+        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+        "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
         "bullets": [
-          "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+          "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T09:04:14.000Z"
+      },
+      {
+        "id": "world-a6a13f17",
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+        "bullets": [
+          "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T04:13:32.000Z"
+        "publishedAt": "2026-08-16T08:23:38.000Z"
+      },
+      {
+        "id": "world-0efa8ec8",
+        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+        "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+        "bullets": [
+          "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T08:49:32.000Z"
+      },
+      {
+        "id": "world-d367d1b3",
+        "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+        "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+        "bullets": [
+          "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T07:04:17.000Z"
       },
       {
         "id": "world-f6384bb5",
@@ -6634,45 +6673,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-15T20:58:31.000Z"
-      },
-      {
-        "id": "world-e170327f",
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "bullets": [
-          "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T20:21:14.000Z"
-      },
-      {
-        "id": "world-6cd1105f",
-        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-        "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-        "bullets": [
-          "The declaration was made on the national day of the central European country, which has a population of just 44,000."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T19:41:57.000Z"
-      },
-      {
-        "id": "world-19334b9c",
-        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-        "bullets": [
-          "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T21:03:57.000Z"
       }
     ]
   }
