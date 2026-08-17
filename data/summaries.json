@@ -6678,20 +6678,33 @@
   },
   {
     "date": "2026-08-17",
-    "generatedAt": "2026-08-17T04:04:33.020Z",
+    "generatedAt": "2026-08-17T07:17:33.769Z",
     "articles": [
       {
-        "id": "top-73e63109",
-        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "id": "top-a4611f60",
+        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+        "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
         "bullets": [
-          "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+          "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T19:58:14.000Z"
+        "publishedAt": "2026-08-17T04:50:56.000Z"
+      },
+      {
+        "id": "top-c7a2dc9c",
+        "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+        "summary": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+        "bullets": [
+          "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T05:03:31.000Z"
       },
       {
         "id": "top-bf9cb5c5",
@@ -6707,21 +6720,21 @@
         "publishedAt": "2026-08-17T02:08:56.000Z"
       },
       {
-        "id": "top-691200a2",
-        "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
-        "summary": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+        "id": "top-f78b6cab",
+        "title": "Post-mortems to take place after five boys killed in crash on wrong side of motorway",
+        "summary": "Three women and a child who were in a second car are being treated in hospital for serious injuries.",
         "bullets": [
-          "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare."
+          "Three women and a child who were in a second car are being treated in hospital for serious injuries."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T20:07:40.000Z"
+        "publishedAt": "2026-08-17T06:48:29.000Z"
       },
       {
-        "id": "top-c9ecf2a8",
-        "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+        "id": "top-215a4e4a",
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "bullets": [
           "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
@@ -6730,20 +6743,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T02:51:27.000Z"
-      },
-      {
-        "id": "top-5e72f831",
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-        "bullets": [
-          "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T19:03:04.000Z"
+        "publishedAt": "2026-08-17T06:24:31.000Z"
       },
       {
         "id": "tech-769feae7",
@@ -6879,8 +6879,34 @@
         "publishedAt": "2026-08-15T18:58:39.000Z"
       },
       {
-        "id": "world-c9ecf2a8",
-        "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+        "id": "world-a4611f60",
+        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+        "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+        "bullets": [
+          "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T04:50:56.000Z"
+      },
+      {
+        "id": "world-db409285",
+        "title": "Ukrainian strikes kill six in Russia, acting governor says",
+        "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+        "bullets": [
+          "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T06:57:23.000Z"
+      },
+      {
+        "id": "world-215a4e4a",
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "bullets": [
           "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
@@ -6889,59 +6915,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T02:51:27.000Z"
+        "publishedAt": "2026-08-17T06:24:31.000Z"
       },
       {
-        "id": "world-73e63109",
-        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "id": "world-ed52ff4a",
+        "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+        "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
         "bullets": [
-          "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+          "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T19:58:14.000Z"
+        "publishedAt": "2026-08-17T04:41:31.000Z"
       },
       {
-        "id": "world-5e72f831",
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+        "id": "world-951dd8a1",
+        "title": "Record rains drench South Korean city as landslide kills one",
+        "summary": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
         "bullets": [
-          "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+          "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T19:03:04.000Z"
-      },
-      {
-        "id": "world-b7762a1a",
-        "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-        "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-        "bullets": [
-          "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T19:50:36.000Z"
-      },
-      {
-        "id": "world-916e213f",
-        "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-        "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-        "bullets": [
-          "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T13:34:38.000Z"
+        "publishedAt": "2026-08-17T04:34:09.000Z"
       }
     ]
   }
