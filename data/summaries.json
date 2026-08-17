@@ -6678,20 +6678,20 @@
   },
   {
     "date": "2026-08-17",
-    "generatedAt": "2026-08-17T13:07:51.868Z",
+    "generatedAt": "2026-08-17T15:42:57.281Z",
     "articles": [
       {
-        "id": "top-c7a2dc9c",
-        "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-        "summary": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+        "id": "top-be99d6f8",
+        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+        "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
         "bullets": [
-          "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands."
+          "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T05:03:31.000Z"
+        "publishedAt": "2026-08-17T14:59:02.000Z"
       },
       {
         "id": "top-d6e9028b",
@@ -6704,14 +6704,40 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T11:20:23.000Z"
+        "publishedAt": "2026-08-17T14:24:58.000Z"
+      },
+      {
+        "id": "top-c7a2dc9c",
+        "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+        "summary": "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+        "bullets": [
+          "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T05:03:31.000Z"
+      },
+      {
+        "id": "top-9786f01d",
+        "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
+        "summary": "Fans, friends and family travel to Swansea to pay tribute to Total Eclipse of the Heart singer.",
+        "bullets": [
+          "Fans, friends and family travel to Swansea to pay tribute to Total Eclipse of the Heart singer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T14:29:58.000Z"
       },
       {
         "id": "top-a8c8dbf3",
         "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-        "summary": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+        "summary": "After an exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
         "bullets": [
-          "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains"
+          "After an exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains"
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
@@ -6720,30 +6746,17 @@
         "publishedAt": "2026-08-17T02:08:56.000Z"
       },
       {
-        "id": "top-201298ce",
-        "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
-        "summary": "Great Britain win the first mixed 4x100m relay ever staged in the European Athletics Championships as Amy Hunt takes her fourth gold in the competition.",
+        "id": "tech-cbed114b",
+        "title": "Meet the only known trebuchet casualty in history",
+        "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
         "bullets": [
-          "Great Britain win the first mixed 4x100m relay ever staged in the European Athletics Championships as Amy Hunt takes her fourth gold in the..."
+          "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T19:58:15.000Z"
-      },
-      {
-        "id": "top-b2291fbd",
-        "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-        "summary": "Three women and a child who were in a second car are being treated in hospital for serious injuries.",
-        "bullets": [
-          "Three women and a child who were in a second car are being treated in hospital for serious injuries."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T13:02:21.000Z"
+        "publishedAt": "2026-08-17T13:41:35.000Z"
       },
       {
         "id": "tech-b3504e37",
@@ -6798,18 +6811,30 @@
         "publishedAt": "2026-08-15T15:46:05.000Z"
       },
       {
-        "id": "tech-d1518bd2",
-        "title": "So much solar: Digging into the list of every US power plant that went online this year",
-        "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+        "id": "ai-24c83806",
+        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+        "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
         "bullets": [
-          "Utility-scale solar leads by a mile, followed by batteries.",
-          "Fossil fuels, not so much."
+          "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T11:09:57.000Z"
+        "publishedAt": "2026-08-17T15:16:24.000Z"
+      },
+      {
+        "id": "ai-c160c2c2",
+        "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+        "summary": "Wispr’s total funding is now over $361 million.",
+        "bullets": [
+          "Wispr’s total funding is now over $361 million."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T13:10:05.000Z"
       },
       {
         "id": "ai-0309d107",
@@ -6851,32 +6876,17 @@
         "publishedAt": "2026-08-16T16:53:51.000Z"
       },
       {
-        "id": "ai-fe659f61",
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "id": "world-be99d6f8",
+        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+        "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
         "bullets": [
-          "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+          "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T21:29:19.000Z"
-      },
-      {
-        "id": "ai-b82d175a",
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-        "bullets": [
-          "How will the watermarking actually work?",
-          "Can it be hidden with editing?",
-          "And how does this affect code?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T18:58:39.000Z"
+        "publishedAt": "2026-08-17T14:59:02.000Z"
       },
       {
         "id": "world-215a4e4a",
@@ -6892,30 +6902,17 @@
         "publishedAt": "2026-08-17T06:24:31.000Z"
       },
       {
-        "id": "world-3a47ee45",
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "id": "world-6d9b9b02",
+        "title": "Russia and Ukraine trade more deadly strikes",
+        "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
         "bullets": [
-          "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T12:27:11.000Z"
-      },
-      {
-        "id": "world-db409285",
-        "title": "Ukrainian strikes kill six in Russia, acting governor says",
-        "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-        "bullets": [
-          "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
+          "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T11:14:39.000Z"
+        "publishedAt": "2026-08-17T13:16:50.000Z"
       },
       {
         "id": "world-96ac4da6",
@@ -6931,17 +6928,17 @@
         "publishedAt": "2026-08-17T10:39:24.000Z"
       },
       {
-        "id": "world-ed52ff4a",
-        "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-        "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+        "id": "world-725ce56c",
+        "title": "US hiker dies after being struck by lightning on Mount Etna",
+        "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
         "bullets": [
-          "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+          "The 30-year-old was on the active volcano when a thunderstorm developed, local media report."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T04:41:31.000Z"
+        "publishedAt": "2026-08-17T12:23:26.000Z"
       }
     ]
   }
