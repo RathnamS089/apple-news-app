@@ -6678,7 +6678,7 @@
   },
   {
     "date": "2026-08-17",
-    "generatedAt": "2026-08-17T09:59:20.641Z",
+    "generatedAt": "2026-08-17T13:07:51.868Z",
     "articles": [
       {
         "id": "top-c7a2dc9c",
@@ -6694,17 +6694,17 @@
         "publishedAt": "2026-08-17T05:03:31.000Z"
       },
       {
-        "id": "top-a4611f60",
-        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-        "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+        "id": "top-d6e9028b",
+        "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+        "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
         "bullets": [
-          "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+          "Downing Street has declined to comment on the security breach, first reported by Politico."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T08:43:12.000Z"
+        "publishedAt": "2026-08-17T11:20:23.000Z"
       },
       {
         "id": "top-a8c8dbf3",
@@ -6720,17 +6720,17 @@
         "publishedAt": "2026-08-17T02:08:56.000Z"
       },
       {
-        "id": "top-d6e9028b",
-        "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-        "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+        "id": "top-201298ce",
+        "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
+        "summary": "Great Britain win the first mixed 4x100m relay ever staged in the European Athletics Championships as Amy Hunt takes her fourth gold in the competition.",
         "bullets": [
-          "Downing Street has declined to comment on the security breach, first reported by Politico."
+          "Great Britain win the first mixed 4x100m relay ever staged in the European Athletics Championships as Amy Hunt takes her fourth gold in the..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T08:38:10.000Z"
+        "publishedAt": "2026-08-16T19:58:15.000Z"
       },
       {
         "id": "top-b2291fbd",
@@ -6743,7 +6743,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T06:48:29.000Z"
+        "publishedAt": "2026-08-17T13:02:21.000Z"
+      },
+      {
+        "id": "tech-b3504e37",
+        "title": "Satellite operators are in panic mode due to a worsening launch crisis",
+        "summary": "What happens if the Falcon rockets stop flying?",
+        "bullets": [
+          "What happens if the Falcon rockets stop flying?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T11:00:26.000Z"
       },
       {
         "id": "tech-769feae7",
@@ -6761,9 +6774,9 @@
       {
         "id": "tech-a2c59186",
         "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-        "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+        "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter.",
         "bullets": [
-          "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter"
+          "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter."
         ],
         "source": "Ars Technica - All content",
         "sourceUrl": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
@@ -6797,19 +6810,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-15T11:09:57.000Z"
-      },
-      {
-        "id": "tech-e26b816c",
-        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
-        "bullets": [
-          "Screen-sharing bug lets remote hackers log in without a password."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T18:32:14.000Z"
       },
       {
         "id": "ai-0309d107",
@@ -6892,17 +6892,17 @@
         "publishedAt": "2026-08-17T06:24:31.000Z"
       },
       {
-        "id": "world-a4611f60",
-        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-        "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+        "id": "world-3a47ee45",
+        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
         "bullets": [
-          "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+          "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T08:43:12.000Z"
+        "publishedAt": "2026-08-17T12:27:11.000Z"
       },
       {
         "id": "world-db409285",
@@ -6915,7 +6915,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T08:47:19.000Z"
+        "publishedAt": "2026-08-17T11:14:39.000Z"
       },
       {
         "id": "world-96ac4da6",
@@ -6928,7 +6928,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T08:38:41.000Z"
+        "publishedAt": "2026-08-17T10:39:24.000Z"
       },
       {
         "id": "world-ed52ff4a",
