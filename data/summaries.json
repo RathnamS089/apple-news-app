@@ -6678,20 +6678,33 @@
   },
   {
     "date": "2026-08-17",
-    "generatedAt": "2026-08-17T15:42:57.281Z",
+    "generatedAt": "2026-08-17T18:59:31.035Z",
     "articles": [
       {
-        "id": "top-be99d6f8",
-        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-        "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+        "id": "top-7e9830d9",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
         "bullets": [
-          "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
+          "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T14:59:02.000Z"
+        "publishedAt": "2026-08-17T16:26:34.000Z"
+      },
+      {
+        "id": "top-6830eb6c",
+        "title": "Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36",
+        "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+        "bullets": [
+          "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T17:31:36.000Z"
       },
       {
         "id": "top-d6e9028b",
@@ -6704,7 +6717,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T14:24:58.000Z"
+        "publishedAt": "2026-08-17T18:51:22.000Z"
       },
       {
         "id": "top-c7a2dc9c",
@@ -6733,17 +6746,44 @@
         "publishedAt": "2026-08-17T14:29:58.000Z"
       },
       {
-        "id": "top-a8c8dbf3",
-        "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-        "summary": "After an exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+        "id": "tech-12fc6cc8",
+        "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+        "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
         "bullets": [
-          "After an exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains"
+          "Amazon’s team uses a T.",
+          "rex preparing to devour a book as its logo."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T02:08:56.000Z"
+        "publishedAt": "2026-08-17T18:13:47.000Z"
+      },
+      {
+        "id": "tech-423b7d39",
+        "title": "This sub-$7,000 sportscar might be just what the future needs",
+        "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
+        "bullets": [
+          "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T15:01:25.000Z"
+      },
+      {
+        "id": "tech-4db0aa7d",
+        "title": "Nvidia discloses $21B stake in SpaceX",
+        "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+        "bullets": [
+          "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T14:22:54.000Z"
       },
       {
         "id": "tech-cbed114b",
@@ -6772,43 +6812,30 @@
         "publishedAt": "2026-08-17T11:00:26.000Z"
       },
       {
-        "id": "tech-769feae7",
-        "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-        "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+        "id": "ai-2b46e739",
+        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+        "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
         "bullets": [
-          "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains."
+          "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-16T10:00:59.000Z"
+        "publishedAt": "2026-08-17T16:38:44.000Z"
       },
       {
-        "id": "tech-a2c59186",
-        "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-        "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter.",
+        "id": "ai-ece7b30d",
+        "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+        "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
         "bullets": [
-          "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter."
+          "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-15T21:21:27.000Z"
-      },
-      {
-        "id": "tech-caf33546",
-        "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-        "summary": "\"Flamingo missiles were used. A good achievement.\"",
-        "bullets": [
-          "\"Flamingo missiles were used."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-15T15:46:05.000Z"
+        "publishedAt": "2026-08-17T16:15:12.000Z"
       },
       {
         "id": "ai-24c83806",
@@ -6850,56 +6877,17 @@
         "publishedAt": "2026-08-16T20:57:04.000Z"
       },
       {
-        "id": "ai-469d2235",
-        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "id": "world-7e9830d9",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
         "bullets": [
-          "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T20:32:01.000Z"
-      },
-      {
-        "id": "ai-3e137ed8",
-        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-        "bullets": [
-          "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-16T16:53:51.000Z"
-      },
-      {
-        "id": "world-be99d6f8",
-        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-        "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
-        "bullets": [
-          "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
+          "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T14:59:02.000Z"
-      },
-      {
-        "id": "world-215a4e4a",
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "bullets": [
-          "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T06:24:31.000Z"
+        "publishedAt": "2026-08-17T16:26:34.000Z"
       },
       {
         "id": "world-6d9b9b02",
@@ -6915,30 +6903,43 @@
         "publishedAt": "2026-08-17T13:16:50.000Z"
       },
       {
-        "id": "world-96ac4da6",
-        "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-        "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+        "id": "world-36b06b17",
+        "title": "Russia's prominent anti-war politician jailed for 11 years",
+        "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
         "bullets": [
-          "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
+          "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T10:39:24.000Z"
+        "publishedAt": "2026-08-17T16:17:34.000Z"
       },
       {
-        "id": "world-725ce56c",
-        "title": "US hiker dies after being struck by lightning on Mount Etna",
-        "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+        "id": "world-e0afbc39",
+        "title": "French PM heckled over wildfire response as blazes continue across Europe",
+        "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
         "bullets": [
-          "The 30-year-old was on the active volcano when a thunderstorm developed, local media report."
+          "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T12:23:26.000Z"
+        "publishedAt": "2026-08-17T18:00:55.000Z"
+      },
+      {
+        "id": "world-84dc4346",
+        "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+        "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
+        "bullets": [
+          "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T18:03:23.000Z"
       }
     ]
   }
