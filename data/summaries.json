@@ -6675,5 +6675,274 @@
         "publishedAt": "2026-08-16T19:00:23.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-17",
+    "generatedAt": "2026-08-17T01:56:29.802Z",
+    "articles": [
+      {
+        "id": "top-73e63109",
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "bullets": [
+          "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T19:58:14.000Z"
+      },
+      {
+        "id": "top-5e72f831",
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+        "bullets": [
+          "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T19:03:04.000Z"
+      },
+      {
+        "id": "top-691200a2",
+        "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+        "summary": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+        "bullets": [
+          "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T20:07:40.000Z"
+      },
+      {
+        "id": "top-72fd6d14",
+        "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "bullets": [
+          "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T00:06:05.000Z"
+      },
+      {
+        "id": "top-695205fd",
+        "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
+        "summary": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.",
+        "bullets": [
+          "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T15:53:21.000Z"
+      },
+      {
+        "id": "tech-769feae7",
+        "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+        "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+        "bullets": [
+          "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T10:00:59.000Z"
+      },
+      {
+        "id": "tech-a2c59186",
+        "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+        "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+        "bullets": [
+          "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:21:27.000Z"
+      },
+      {
+        "id": "tech-caf33546",
+        "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+        "summary": "\"Flamingo missiles were used. A good achievement.\"",
+        "bullets": [
+          "\"Flamingo missiles were used."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T15:46:05.000Z"
+      },
+      {
+        "id": "tech-d1518bd2",
+        "title": "So much solar: Digging into the list of every US power plant that went online this year",
+        "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+        "bullets": [
+          "Utility-scale solar leads by a mile, followed by batteries.",
+          "Fossil fuels, not so much."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T11:09:57.000Z"
+      },
+      {
+        "id": "tech-e26b816c",
+        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+        "bullets": [
+          "Screen-sharing bug lets remote hackers log in without a password."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-14T18:32:14.000Z"
+      },
+      {
+        "id": "ai-0309d107",
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "bullets": [
+          "OpenRouter's CEO recently described the startup as Stripe for AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T20:57:04.000Z"
+      },
+      {
+        "id": "ai-469d2235",
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "bullets": [
+          "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T20:32:01.000Z"
+      },
+      {
+        "id": "ai-3e137ed8",
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "bullets": [
+          "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T16:53:51.000Z"
+      },
+      {
+        "id": "ai-fe659f61",
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "bullets": [
+          "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T21:29:19.000Z"
+      },
+      {
+        "id": "ai-b82d175a",
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "bullets": [
+          "How will the watermarking actually work?",
+          "Can it be hidden with editing?",
+          "And how does this affect code?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-15T18:58:39.000Z"
+      },
+      {
+        "id": "world-72fd6d14",
+        "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "bullets": [
+          "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T00:06:05.000Z"
+      },
+      {
+        "id": "world-73e63109",
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "bullets": [
+          "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T19:58:14.000Z"
+      },
+      {
+        "id": "world-5e72f831",
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+        "bullets": [
+          "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T19:03:04.000Z"
+      },
+      {
+        "id": "world-b7762a1a",
+        "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+        "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+        "bullets": [
+          "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T19:50:36.000Z"
+      },
+      {
+        "id": "world-916e213f",
+        "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+        "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+        "bullets": [
+          "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-16T13:34:38.000Z"
+      }
+    ]
   }
 ]
