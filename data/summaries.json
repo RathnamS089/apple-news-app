@@ -6947,20 +6947,33 @@
   },
   {
     "date": "2026-08-18",
-    "generatedAt": "2026-08-18T09:50:06.866Z",
+    "generatedAt": "2026-08-18T13:10:07.977Z",
     "articles": [
       {
-        "id": "top-472b1802",
-        "title": "Russia warns UK will pay for supplying drones to Ukraine",
-        "summary": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used in strikes, but the MoD says it stands against Russian aggression.",
+        "id": "top-3143c37d",
+        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+        "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
         "bullets": [
-          "Russia accuses the UK of escalating the Ukraine war after British-made drones were used in strikes, but the MoD says it stands against Russian..."
+          "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\"."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T09:33:49.000Z"
+        "publishedAt": "2026-08-18T12:36:11.000Z"
+      },
+      {
+        "id": "top-015163eb",
+        "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+        "summary": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+        "bullets": [
+          "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T12:43:09.000Z"
       },
       {
         "id": "top-c90fb207",
@@ -6976,19 +6989,6 @@
         "publishedAt": "2026-08-18T08:07:37.000Z"
       },
       {
-        "id": "top-015163eb",
-        "title": "British couple on honeymoon killed in helicopter crash on Greek island",
-        "summary": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
-        "bullets": [
-          "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T09:23:57.000Z"
-      },
-      {
         "id": "top-c8e2d508",
         "title": "Inside secret police warehouse as Germany targets small boats gangs",
         "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
@@ -7002,18 +7002,31 @@
         "publishedAt": "2026-08-18T05:02:58.000Z"
       },
       {
-        "id": "top-e46d2625",
-        "title": "Heavy showers and thunderstorms bring risk of flash flooding to UK",
-        "summary": "Heavy showers are expected over the next few days, bringing a risk of flash flooding. But there are early indications heatwave conditions could return in September.",
+        "id": "top-3c8a8c1b",
+        "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
+        "summary": "Increasingly, young adults are taking anxiety medication to feel \"drunk\" at parties. But it's not a free lunch, experts warn.",
         "bullets": [
-          "Heavy showers are expected over the next few days, bringing a risk of flash flooding.",
-          "But there are early indications heatwave conditions could return in September."
+          "Increasingly, young adults are taking anxiety medication to feel \"drunk\" at parties.",
+          "But it's not a free lunch, experts warn."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cx2mzgv4vgjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T00:12:25.000Z"
+        "publishedAt": "2026-08-18T00:00:02.000Z"
+      },
+      {
+        "id": "tech-38bd392b",
+        "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
+        "summary": "Research shows heat amplifies the dangers of pesticides.",
+        "bullets": [
+          "Research shows heat amplifies the dangers of pesticides."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T11:07:49.000Z"
       },
       {
         "id": "tech-2240b304",
@@ -7066,19 +7079,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-17T20:23:09.000Z"
-      },
-      {
-        "id": "tech-2deadb1b",
-        "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-        "summary": "\"Network effect\" can run in reverse.",
-        "bullets": [
-          "\"Network effect\" can run in reverse."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T20:14:23.000Z"
       },
       {
         "id": "ai-3538ec02",
@@ -7146,6 +7146,19 @@
         "publishedAt": "2026-08-17T15:16:24.000Z"
       },
       {
+        "id": "world-3143c37d",
+        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+        "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+        "bullets": [
+          "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T12:36:11.000Z"
+      },
+      {
         "id": "world-c90fb207",
         "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
         "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
@@ -7157,19 +7170,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-18T08:07:37.000Z"
-      },
-      {
-        "id": "world-472b1802",
-        "title": "Russia warns UK will pay for supplying drones to Ukraine",
-        "summary": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.",
-        "bullets": [
-          "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T09:33:49.000Z"
       },
       {
         "id": "world-42abaf71",
@@ -7198,17 +7198,17 @@
         "publishedAt": "2026-08-18T05:02:58.000Z"
       },
       {
-        "id": "world-b3455ccc",
-        "title": "China censors public mourning as it holds former premier's funeral",
-        "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+        "id": "world-602d69bb",
+        "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+        "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
         "bullets": [
-          "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule."
+          "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T07:17:07.000Z"
+        "publishedAt": "2026-08-18T08:44:10.000Z"
       }
     ]
   }
