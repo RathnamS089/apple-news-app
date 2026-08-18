@@ -6944,5 +6944,271 @@
         "publishedAt": "2026-08-17T18:03:23.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-18",
+    "generatedAt": "2026-08-18T01:52:29.958Z",
+    "articles": [
+      {
+        "id": "top-7e9830d9",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "bullets": [
+          "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T19:25:05.000Z"
+      },
+      {
+        "id": "top-07c50fb9",
+        "title": "Russia warns UK over supplying drones to Ukraine",
+        "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+        "bullets": [
+          "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T01:16:41.000Z"
+      },
+      {
+        "id": "top-94f1b58f",
+        "title": "Fifa official sacked after Infantino plan criticism",
+        "summary": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+        "bullets": [
+          "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T20:46:08.000Z"
+      },
+      {
+        "id": "top-332a9056",
+        "title": "BBC breaks down Trump's latest shift on North and South Korea",
+        "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+        "bullets": [
+          "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T23:42:38.000Z"
+      },
+      {
+        "id": "top-34e3f52c",
+        "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+        "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+        "bullets": [
+          "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T23:28:54.000Z"
+      },
+      {
+        "id": "tech-1a7c491d",
+        "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+        "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
+        "bullets": [
+          "Again, the CDC did not publish a full report and instead simply put the data online."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T22:08:47.000Z"
+      },
+      {
+        "id": "tech-1559081f",
+        "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+        "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+        "bullets": [
+          "“We're not necessarily building in a dogmatic fashion towards full autonomy.”"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T21:18:49.000Z"
+      },
+      {
+        "id": "tech-b01d96c7",
+        "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+        "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
+        "bullets": [
+          "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T20:23:09.000Z"
+      },
+      {
+        "id": "tech-2deadb1b",
+        "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+        "summary": "\"Network effect\" can run in reverse.",
+        "bullets": [
+          "\"Network effect\" can run in reverse."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T20:14:23.000Z"
+      },
+      {
+        "id": "tech-b0e7d7db",
+        "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+        "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
+        "bullets": [
+          "Despite loss, carriers still claim selling device-location data isn't illegal."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T20:00:20.000Z"
+      },
+      {
+        "id": "ai-3538ec02",
+        "title": "Anthropic’s annualized revenue surges to $65B",
+        "summary": "The model maker added $18 billion in annualized revenue in two months.",
+        "bullets": [
+          "The model maker added $18 billion in annualized revenue in two months."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T23:56:26.000Z"
+      },
+      {
+        "id": "ai-7b03cb24",
+        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+        "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+        "bullets": [
+          "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T21:27:05.000Z"
+      },
+      {
+        "id": "ai-2b46e739",
+        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+        "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+        "bullets": [
+          "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T16:38:44.000Z"
+      },
+      {
+        "id": "ai-ece7b30d",
+        "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+        "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+        "bullets": [
+          "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T16:15:12.000Z"
+      },
+      {
+        "id": "ai-24c83806",
+        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+        "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+        "bullets": [
+          "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T15:16:24.000Z"
+      },
+      {
+        "id": "world-7e9830d9",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "bullets": [
+          "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T19:25:05.000Z"
+      },
+      {
+        "id": "world-07c50fb9",
+        "title": "Russia warns UK over supplying drones to Ukraine",
+        "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+        "bullets": [
+          "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T01:16:41.000Z"
+      },
+      {
+        "id": "world-332a9056",
+        "title": "BBC breaks down Trump's latest shift on North and South Korea",
+        "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+        "bullets": [
+          "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T23:42:38.000Z"
+      },
+      {
+        "id": "world-233aa612",
+        "title": "Norway's king admitted to hospital and put on sick leave",
+        "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+        "bullets": [
+          "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T21:34:26.000Z"
+      },
+      {
+        "id": "world-36b06b17",
+        "title": "Russia's prominent anti-war politician jailed for 11 years",
+        "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+        "bullets": [
+          "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-17T16:17:34.000Z"
+      }
+    ]
   }
 ]
