@@ -6947,7 +6947,7 @@
   },
   {
     "date": "2026-08-18",
-    "generatedAt": "2026-08-18T15:47:51.625Z",
+    "generatedAt": "2026-08-18T18:58:07.586Z",
     "articles": [
       {
         "id": "top-3143c37d",
@@ -6976,19 +6976,6 @@
         "publishedAt": "2026-08-18T15:30:13.000Z"
       },
       {
-        "id": "top-c33d9335",
-        "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
-        "summary": "The 62-year-old man is charged with misconduct in public office and appears before magistrates.",
-        "bullets": [
-          "The 62-year-old man is charged with misconduct in public office and appears before magistrates."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T11:10:45.000Z"
-      },
-      {
         "id": "top-3fb1ed2e",
         "title": "PM says he's not embarrassed about hoax message exchange",
         "summary": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
@@ -7015,6 +7002,71 @@
         "publishedAt": "2026-08-18T12:26:05.000Z"
       },
       {
+        "id": "top-09800283",
+        "title": "Premier League chief says Fifa self-destructed over World Cup plan",
+        "summary": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\".",
+        "bullets": [
+          "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T16:18:37.000Z"
+      },
+      {
+        "id": "tech-6929ab1e",
+        "title": "Peacock raises prices by 18 percent after becoming profitable",
+        "summary": "Peacock's quarterly profitability isn't guaranteed.",
+        "bullets": [
+          "Peacock's quarterly profitability isn't guaranteed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T16:42:30.000Z"
+      },
+      {
+        "id": "tech-d9bea286",
+        "title": "The United States is about to wake up to the threat from China's space program",
+        "summary": "One big question: Will China assert territorial rights where its rover explores?",
+        "bullets": [
+          "One big question: Will China assert territorial rights where its rover explores?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T16:30:07.000Z"
+      },
+      {
+        "id": "tech-75ab2c4a",
+        "title": "Fairphone's latest repairable phone is finally available in the US for $650",
+        "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
+        "bullets": [
+          "Fairphone sells components like the USB port and screen, all swappable with a single torx driver."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T16:05:00.000Z"
+      },
+      {
+        "id": "tech-7491c9df",
+        "title": "Ford hopes this Hypercar will be its next Le Mans winner",
+        "summary": "The American automaker returns to the top category of endurance racing next year.",
+        "bullets": [
+          "The American automaker returns to the top category of endurance racing next year."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T15:52:50.000Z"
+      },
+      {
         "id": "tech-eff114d7",
         "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
         "summary": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
@@ -7028,56 +7080,43 @@
         "publishedAt": "2026-08-18T15:36:47.000Z"
       },
       {
-        "id": "tech-6283a2e3",
-        "title": "X-rays add new twist to narwhal's spiral tusk",
-        "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
+        "id": "ai-b0fa1ad1",
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
         "bullets": [
-          "New study finds that the tusks have not one but two spirals, twisting in opposite directions."
+          "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T15:00:51.000Z"
+        "publishedAt": "2026-08-18T18:00:00.000Z"
       },
       {
-        "id": "tech-55b619de",
-        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-        "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+        "id": "ai-f60dd684",
+        "title": "Etched’s valuation doubles to $21B in a month",
+        "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
         "bullets": [
-          "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+          "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T13:00:04.000Z"
+        "publishedAt": "2026-08-18T17:21:58.000Z"
       },
       {
-        "id": "tech-38bd392b",
-        "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-        "summary": "Research shows heat amplifies the dangers of pesticides.",
+        "id": "ai-cf49e507",
+        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+        "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
         "bullets": [
-          "Research shows heat amplifies the dangers of pesticides."
+          "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T11:07:49.000Z"
-      },
-      {
-        "id": "tech-2240b304",
-        "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-        "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
-        "bullets": [
-          "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T04:00:40.000Z"
+        "publishedAt": "2026-08-18T16:19:10.000Z"
       },
       {
         "id": "ai-94b92514",
@@ -7106,45 +7145,6 @@
         "publishedAt": "2026-08-18T13:50:30.000Z"
       },
       {
-        "id": "ai-3cd58c24",
-        "title": "Perplexity’s free AI offer left it with millions more users in India",
-        "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-        "bullets": [
-          "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T13:45:40.000Z"
-      },
-      {
-        "id": "ai-3538ec02",
-        "title": "Anthropic’s annualized revenue surges to $65B",
-        "summary": "The model maker added $18 billion in annualized revenue in two months.",
-        "bullets": [
-          "The model maker added $18 billion in annualized revenue in two months."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T23:56:26.000Z"
-      },
-      {
-        "id": "ai-7b03cb24",
-        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-        "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-        "bullets": [
-          "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T21:27:05.000Z"
-      },
-      {
         "id": "world-3143c37d",
         "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
         "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
@@ -7158,17 +7158,17 @@
         "publishedAt": "2026-08-18T12:36:11.000Z"
       },
       {
-        "id": "world-c8e2d508",
-        "title": "Inside secret police warehouse as Germany targets small boats gangs",
-        "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+        "id": "world-91d3044b",
+        "title": "Earthquake rocks Spain's historic Granada, injuring three",
+        "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
         "bullets": [
-          "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
+          "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T05:02:58.000Z"
+        "publishedAt": "2026-08-18T17:15:39.000Z"
       },
       {
         "id": "world-098a4e16",
@@ -7184,30 +7184,30 @@
         "publishedAt": "2026-08-18T13:13:54.000Z"
       },
       {
-        "id": "world-c90fb207",
-        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-        "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+        "id": "world-b0f16ef3",
+        "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+        "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
         "bullets": [
-          "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
+          "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T08:07:37.000Z"
+        "publishedAt": "2026-08-18T17:54:46.000Z"
       },
       {
-        "id": "world-602d69bb",
-        "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-        "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+        "id": "world-7b7ac470",
+        "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+        "summary": "Recovery efforts continue in what is the country's deadliest transport disaster.",
         "bullets": [
-          "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
+          "Recovery efforts continue in what is the country's deadliest transport disaster."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T08:44:10.000Z"
+        "publishedAt": "2026-08-18T12:04:11.000Z"
       }
     ]
   }
