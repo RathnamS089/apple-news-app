@@ -6947,24 +6947,24 @@
   },
   {
     "date": "2026-08-18",
-    "generatedAt": "2026-08-18T03:59:51.259Z",
+    "generatedAt": "2026-08-18T07:06:13.285Z",
     "articles": [
       {
-        "id": "top-7e9830d9",
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-        "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "id": "top-c90fb207",
+        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+        "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
         "bullets": [
-          "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace..."
+          "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T19:25:05.000Z"
+        "publishedAt": "2026-08-18T05:00:04.000Z"
       },
       {
-        "id": "top-07c50fb9",
-        "title": "Russia warns UK over supplying drones to Ukraine",
+        "id": "top-6ded8bdf",
+        "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
         "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
         "bullets": [
           "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
@@ -6973,7 +6973,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T01:16:41.000Z"
+        "publishedAt": "2026-08-18T06:40:00.000Z"
       },
       {
         "id": "top-94f1b58f",
@@ -6989,30 +6989,43 @@
         "publishedAt": "2026-08-17T20:46:08.000Z"
       },
       {
-        "id": "top-34e3f52c",
-        "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-        "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+        "id": "top-c8e2d508",
+        "title": "Inside secret police warehouse as Germany targets small boats gangs",
+        "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
         "bullets": [
-          "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville."
+          "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T23:28:54.000Z"
+        "publishedAt": "2026-08-18T05:02:58.000Z"
       },
       {
-        "id": "top-332a9056",
-        "title": "BBC breaks down Trump's latest shift on North and South Korea",
-        "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+        "id": "top-b2409866",
+        "title": "Jason Arday's family 'still coming to terms' with his death as vigil held",
+        "summary": "Jason Arday's family spoke of the \"public cruelty\" the academic faced before his death last week.",
         "bullets": [
-          "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un."
+          "Jason Arday's family spoke of the \"public cruelty\" the academic faced before his death last week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqe87lelvgo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T23:42:38.000Z"
+        "publishedAt": "2026-08-17T21:24:11.000Z"
+      },
+      {
+        "id": "tech-2240b304",
+        "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+        "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
+        "bullets": [
+          "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T04:00:40.000Z"
       },
       {
         "id": "tech-1a7c491d",
@@ -7065,19 +7078,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-17T20:14:23.000Z"
-      },
-      {
-        "id": "tech-b0e7d7db",
-        "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-        "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-        "bullets": [
-          "Despite loss, carriers still claim selling device-location data isn't illegal."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T20:00:20.000Z"
       },
       {
         "id": "ai-3538ec02",
@@ -7145,34 +7145,21 @@
         "publishedAt": "2026-08-17T15:16:24.000Z"
       },
       {
-        "id": "world-7e9830d9",
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-        "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "id": "world-c90fb207",
+        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+        "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
         "bullets": [
-          "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace..."
+          "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T19:25:05.000Z"
+        "publishedAt": "2026-08-18T05:00:04.000Z"
       },
       {
-        "id": "world-42abaf71",
-        "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-        "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
-        "bullets": [
-          "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T02:06:04.000Z"
-      },
-      {
-        "id": "world-07c50fb9",
-        "title": "Russia warns UK over supplying drones to Ukraine",
+        "id": "world-6ded8bdf",
+        "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
         "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
         "bullets": [
           "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
@@ -7181,11 +7168,37 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T01:16:41.000Z"
+        "publishedAt": "2026-08-18T06:40:00.000Z"
       },
       {
-        "id": "world-332a9056",
-        "title": "BBC breaks down Trump's latest shift on North and South Korea",
+        "id": "world-42abaf71",
+        "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+        "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+        "bullets": [
+          "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T05:24:15.000Z"
+      },
+      {
+        "id": "world-c8e2d508",
+        "title": "Inside secret police warehouse as Germany targets small boats gangs",
+        "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+        "bullets": [
+          "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T05:02:58.000Z"
+      },
+      {
+        "id": "world-cabd60c9",
+        "title": "Watch: Why has Trump shifted on North Korea?",
         "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
         "bullets": [
           "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un."
@@ -7195,19 +7208,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-17T23:42:38.000Z"
-      },
-      {
-        "id": "world-233aa612",
-        "title": "Norway's king admitted to hospital and put on sick leave",
-        "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
-        "bullets": [
-          "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T21:34:26.000Z"
       }
     ]
   }
