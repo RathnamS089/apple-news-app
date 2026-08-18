@@ -6947,8 +6947,21 @@
   },
   {
     "date": "2026-08-18",
-    "generatedAt": "2026-08-18T18:58:07.586Z",
+    "generatedAt": "2026-08-18T21:40:48.229Z",
     "articles": [
+      {
+        "id": "top-9fa16016",
+        "title": "Three dead after family get into difficulty in sea",
+        "summary": "A man, a woman and a teenage girl have died and a younger girl is in critical condition after getting into difficulty off the Sussex coast.",
+        "bullets": [
+          "A man, a woman and a teenage girl have died and a younger girl is in critical condition after getting into difficulty off the Sussex coast."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T21:30:56.000Z"
+      },
       {
         "id": "top-3143c37d",
         "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -7002,17 +7015,30 @@
         "publishedAt": "2026-08-18T12:26:05.000Z"
       },
       {
-        "id": "top-09800283",
-        "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-        "summary": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\".",
+        "id": "tech-59ba44ea",
+        "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+        "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
         "bullets": [
-          "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\"."
+          "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\""
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T16:18:37.000Z"
+        "publishedAt": "2026-08-18T19:01:09.000Z"
+      },
+      {
+        "id": "tech-139917d0",
+        "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+        "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+        "bullets": [
+          "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T18:11:26.000Z"
       },
       {
         "id": "tech-6929ab1e",
@@ -7052,32 +7078,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-18T16:05:00.000Z"
-      },
-      {
-        "id": "tech-7491c9df",
-        "title": "Ford hopes this Hypercar will be its next Le Mans winner",
-        "summary": "The American automaker returns to the top category of endurance racing next year.",
-        "bullets": [
-          "The American automaker returns to the top category of endurance racing next year."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T15:52:50.000Z"
-      },
-      {
-        "id": "tech-eff114d7",
-        "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
-        "summary": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
-        "bullets": [
-          "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T15:36:47.000Z"
       },
       {
         "id": "ai-b0fa1ad1",
