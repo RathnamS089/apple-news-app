@@ -6947,7 +6947,7 @@
   },
   {
     "date": "2026-08-18",
-    "generatedAt": "2026-08-18T13:10:07.977Z",
+    "generatedAt": "2026-08-18T15:47:51.625Z",
     "articles": [
       {
         "id": "top-3143c37d",
@@ -6973,47 +6973,85 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T12:43:09.000Z"
+        "publishedAt": "2026-08-18T15:30:13.000Z"
       },
       {
-        "id": "top-c90fb207",
-        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-        "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+        "id": "top-c33d9335",
+        "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
+        "summary": "The 62-year-old man is charged with misconduct in public office and appears before magistrates.",
         "bullets": [
-          "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
+          "The 62-year-old man is charged with misconduct in public office and appears before magistrates."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T08:07:37.000Z"
+        "publishedAt": "2026-08-18T11:10:45.000Z"
       },
       {
-        "id": "top-c8e2d508",
-        "title": "Inside secret police warehouse as Germany targets small boats gangs",
-        "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+        "id": "top-3fb1ed2e",
+        "title": "PM says he's not embarrassed about hoax message exchange",
+        "summary": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
         "bullets": [
-          "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
+          "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T05:02:58.000Z"
+        "publishedAt": "2026-08-18T12:22:58.000Z"
       },
       {
-        "id": "top-3c8a8c1b",
-        "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
-        "summary": "Increasingly, young adults are taking anxiety medication to feel \"drunk\" at parties. But it's not a free lunch, experts warn.",
+        "id": "top-72ebc180",
+        "title": "How soon will the drought be over?",
+        "summary": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?",
         "bullets": [
-          "Increasingly, young adults are taking anxiety medication to feel \"drunk\" at parties.",
-          "But it's not a free lunch, experts warn."
+          "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T00:00:02.000Z"
+        "publishedAt": "2026-08-18T12:26:05.000Z"
+      },
+      {
+        "id": "tech-eff114d7",
+        "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
+        "summary": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
+        "bullets": [
+          "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T15:36:47.000Z"
+      },
+      {
+        "id": "tech-6283a2e3",
+        "title": "X-rays add new twist to narwhal's spiral tusk",
+        "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
+        "bullets": [
+          "New study finds that the tusks have not one but two spirals, twisting in opposite directions."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T15:00:51.000Z"
+      },
+      {
+        "id": "tech-55b619de",
+        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+        "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+        "bullets": [
+          "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T13:00:04.000Z"
       },
       {
         "id": "tech-38bd392b",
@@ -7042,43 +7080,43 @@
         "publishedAt": "2026-08-18T04:00:40.000Z"
       },
       {
-        "id": "tech-1a7c491d",
-        "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-        "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
+        "id": "ai-94b92514",
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
         "bullets": [
-          "Again, the CDC did not publish a full report and instead simply put the data online."
+          "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T22:08:47.000Z"
+        "publishedAt": "2026-08-18T14:00:00.000Z"
       },
       {
-        "id": "tech-1559081f",
-        "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-        "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+        "id": "ai-1f90b3f4",
+        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
         "bullets": [
-          "“We're not necessarily building in a dogmatic fashion towards full autonomy.”"
+          "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T21:18:49.000Z"
+        "publishedAt": "2026-08-18T13:50:30.000Z"
       },
       {
-        "id": "tech-b01d96c7",
-        "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-        "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
+        "id": "ai-3cd58c24",
+        "title": "Perplexity’s free AI offer left it with millions more users in India",
+        "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
         "bullets": [
-          "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid."
+          "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-17T20:23:09.000Z"
+        "publishedAt": "2026-08-18T13:45:40.000Z"
       },
       {
         "id": "ai-3538ec02",
@@ -7107,45 +7145,6 @@
         "publishedAt": "2026-08-17T21:27:05.000Z"
       },
       {
-        "id": "ai-2b46e739",
-        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-        "bullets": [
-          "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T16:38:44.000Z"
-      },
-      {
-        "id": "ai-ece7b30d",
-        "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-        "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-        "bullets": [
-          "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T16:15:12.000Z"
-      },
-      {
-        "id": "ai-24c83806",
-        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-        "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-        "bullets": [
-          "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-17T15:16:24.000Z"
-      },
-      {
         "id": "world-3143c37d",
         "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
         "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
@@ -7159,32 +7158,6 @@
         "publishedAt": "2026-08-18T12:36:11.000Z"
       },
       {
-        "id": "world-c90fb207",
-        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-        "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
-        "bullets": [
-          "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T08:07:37.000Z"
-      },
-      {
-        "id": "world-42abaf71",
-        "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-        "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
-        "bullets": [
-          "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T05:24:15.000Z"
-      },
-      {
         "id": "world-c8e2d508",
         "title": "Inside secret police warehouse as Germany targets small boats gangs",
         "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
@@ -7196,6 +7169,32 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-18T05:02:58.000Z"
+      },
+      {
+        "id": "world-098a4e16",
+        "title": "Brazil's President Lula hails oil discovery near Amazon river",
+        "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+        "bullets": [
+          "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T13:13:54.000Z"
+      },
+      {
+        "id": "world-c90fb207",
+        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+        "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+        "bullets": [
+          "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T08:07:37.000Z"
       },
       {
         "id": "world-602d69bb",
