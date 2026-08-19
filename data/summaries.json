@@ -7213,8 +7213,21 @@
   },
   {
     "date": "2026-08-19",
-    "generatedAt": "2026-08-19T07:07:28.305Z",
+    "generatedAt": "2026-08-19T09:50:34.820Z",
     "articles": [
+      {
+        "id": "top-31edd3ec",
+        "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+        "summary": "The 2.9% rise in inflation in July had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+        "bullets": [
+          "The 2.9% rise in inflation in July had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T09:02:03.000Z"
+      },
       {
         "id": "top-607818f2",
         "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
@@ -7226,7 +7239,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T03:42:16.000Z"
+        "publishedAt": "2026-08-19T09:26:05.000Z"
+      },
+      {
+        "id": "top-7343d80e",
+        "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
+        "summary": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
+        "bullets": [
+          "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T08:38:37.000Z"
       },
       {
         "id": "top-547358c6",
@@ -7239,20 +7265,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T04:44:41.000Z"
-      },
-      {
-        "id": "top-b70e5daa",
-        "title": "Demand for degree apprenticeships in England quadruples in three years",
-        "summary": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
-        "bullets": [
-          "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T05:00:12.000Z"
+        "publishedAt": "2026-08-19T09:02:08.000Z"
       },
       {
         "id": "top-01cebc85",
@@ -7266,19 +7279,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-19T05:00:39.000Z"
-      },
-      {
-        "id": "top-92534e85",
-        "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-        "summary": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.",
-        "bullets": [
-          "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T23:53:24.000Z"
       },
       {
         "id": "tech-809c3ba0",
@@ -7422,11 +7422,24 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T04:44:41.000Z"
+        "publishedAt": "2026-08-19T09:02:08.000Z"
       },
       {
-        "id": "world-fb2d400f",
-        "title": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal",
+        "id": "world-8cf65d90",
+        "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+        "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+        "bullets": [
+          "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T08:25:03.000Z"
+      },
+      {
+        "id": "world-88793f72",
+        "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
         "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
         "bullets": [
           "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
@@ -7462,19 +7475,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-19T05:53:53.000Z"
-      },
-      {
-        "id": "world-01cebc85",
-        "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-        "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-        "bullets": [
-          "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T05:00:39.000Z"
       }
     ]
   }
