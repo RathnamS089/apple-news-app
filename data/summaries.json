@@ -7213,7 +7213,7 @@
   },
   {
     "date": "2026-08-19",
-    "generatedAt": "2026-08-19T01:54:51.236Z",
+    "generatedAt": "2026-08-19T04:00:56.352Z",
     "articles": [
       {
         "id": "top-9fa16016",
@@ -7252,7 +7252,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T21:31:11.000Z"
+        "publishedAt": "2026-08-19T03:42:16.000Z"
       },
       {
         "id": "top-92534e85",
@@ -7412,19 +7412,6 @@
         "publishedAt": "2026-08-18T14:00:00.000Z"
       },
       {
-        "id": "world-732a6c6b",
-        "title": "Meta hooked children on Facebook and Instagram, court hears",
-        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-        "bullets": [
-          "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T22:11:07.000Z"
-      },
-      {
         "id": "world-547358c6",
         "title": "Sacked Ukrainian defence minister calls for presidential election",
         "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
@@ -7438,43 +7425,56 @@
         "publishedAt": "2026-08-19T01:31:15.000Z"
       },
       {
-        "id": "world-91d3044b",
-        "title": "Earthquake rocks Spain's historic Granada, injuring three",
-        "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+        "id": "world-32c03af7",
+        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
         "bullets": [
-          "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
+          "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T17:15:39.000Z"
+        "publishedAt": "2026-08-19T03:56:35.000Z"
       },
       {
-        "id": "world-098a4e16",
-        "title": "Brazil's President Lula hails oil discovery near Amazon river",
-        "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+        "id": "world-4b123b6b",
+        "title": "Meta hooked children on Facebook and Instagram, US court hears",
+        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
         "bullets": [
-          "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
+          "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T13:13:54.000Z"
+        "publishedAt": "2026-08-18T22:11:07.000Z"
       },
       {
-        "id": "world-b0f16ef3",
-        "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-        "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+        "id": "world-50c96277",
+        "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+        "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
         "bullets": [
-          "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
+          "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T17:54:46.000Z"
+        "publishedAt": "2026-08-19T03:00:35.000Z"
+      },
+      {
+        "id": "world-831d4bcc",
+        "title": "Husband and mother-in-law charged over Indian bride's death",
+        "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
+        "bullets": [
+          "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T03:04:07.000Z"
       }
     ]
   }
