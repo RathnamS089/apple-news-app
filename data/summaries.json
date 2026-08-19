@@ -7213,8 +7213,21 @@
   },
   {
     "date": "2026-08-19",
-    "generatedAt": "2026-08-19T13:11:05.337Z",
+    "generatedAt": "2026-08-19T15:48:06.663Z",
     "articles": [
+      {
+        "id": "top-6af0c4a7",
+        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+        "summary": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+        "bullets": [
+          "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T14:06:42.000Z"
+      },
       {
         "id": "top-2a035791",
         "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
@@ -7229,17 +7242,17 @@
         "publishedAt": "2026-08-19T12:09:47.000Z"
       },
       {
-        "id": "top-5ba01119",
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+        "id": "top-9f5ebd67",
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+        "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
         "bullets": [
-          "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024."
+          "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T12:41:46.000Z"
+        "publishedAt": "2026-08-19T15:33:32.000Z"
       },
       {
         "id": "top-31edd3ec",
@@ -7252,33 +7265,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T09:02:03.000Z"
+        "publishedAt": "2026-08-19T15:19:55.000Z"
       },
       {
-        "id": "top-da01822e",
-        "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-        "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+        "id": "top-96ffc8cb",
+        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+        "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
         "bullets": [
-          "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic."
+          "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T11:45:33.000Z"
-      },
-      {
-        "id": "top-7343d80e",
-        "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
-        "summary": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
-        "bullets": [
-          "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T08:38:37.000Z"
+        "publishedAt": "2026-08-19T12:47:53.000Z"
       },
       {
         "id": "tech-809c3ba0",
@@ -7347,6 +7347,45 @@
         "publishedAt": "2026-08-18T16:42:30.000Z"
       },
       {
+        "id": "ai-9dc19099",
+        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+        "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+        "bullets": [
+          "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T15:44:53.000Z"
+      },
+      {
+        "id": "ai-8d03d1f4",
+        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+        "bullets": [
+          "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T15:00:00.000Z"
+      },
+      {
+        "id": "ai-b31893bb",
+        "title": "Calendly throws its hat into meeting note-taker circus",
+        "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+        "bullets": [
+          "Calendly is also releasing a meeting scheduling assistant called Callie."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T14:09:39.000Z"
+      },
+      {
         "id": "ai-84e59da3",
         "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
         "summary": "It's the data, stupid.",
@@ -7373,56 +7412,17 @@
         "publishedAt": "2026-08-19T10:00:00.000Z"
       },
       {
-        "id": "ai-e357012b",
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+        "id": "world-9f5ebd67",
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+        "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
         "bullets": [
-          "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T22:14:25.000Z"
-      },
-      {
-        "id": "ai-b0fa1ad1",
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-        "bullets": [
-          "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T18:00:00.000Z"
-      },
-      {
-        "id": "ai-f60dd684",
-        "title": "Etched’s valuation doubles to $21B in a month",
-        "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-        "bullets": [
-          "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T17:21:58.000Z"
-      },
-      {
-        "id": "world-5ba01119",
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-        "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
-        "bullets": [
-          "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024."
+          "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T12:41:46.000Z"
+        "publishedAt": "2026-08-19T15:33:32.000Z"
       },
       {
         "id": "world-547358c6",
@@ -7438,19 +7438,6 @@
         "publishedAt": "2026-08-19T11:00:21.000Z"
       },
       {
-        "id": "world-8cf65d90",
-        "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-        "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-        "bullets": [
-          "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T08:25:03.000Z"
-      },
-      {
         "id": "world-88793f72",
         "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
         "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
@@ -7461,7 +7448,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T03:56:35.000Z"
+        "publishedAt": "2026-08-19T15:47:31.000Z"
       },
       {
         "id": "world-2ee45a4c",
@@ -7474,7 +7461,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T05:53:53.000Z"
+        "publishedAt": "2026-08-19T14:16:27.000Z"
+      },
+      {
+        "id": "world-96ffc8cb",
+        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+        "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+        "bullets": [
+          "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T12:47:53.000Z"
       }
     ]
   }
