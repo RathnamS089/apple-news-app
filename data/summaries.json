@@ -7210,5 +7210,272 @@
         "publishedAt": "2026-08-18T12:04:11.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "generatedAt": "2026-08-19T01:54:51.236Z",
+    "articles": [
+      {
+        "id": "top-9fa16016",
+        "title": "Three dead after family get into difficulty in sea",
+        "summary": "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.",
+        "bullets": [
+          "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T21:30:56.000Z"
+      },
+      {
+        "id": "top-547358c6",
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "bullets": [
+          "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T01:31:15.000Z"
+      },
+      {
+        "id": "top-59b98f8d",
+        "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+        "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+        "bullets": [
+          "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T21:31:11.000Z"
+      },
+      {
+        "id": "top-92534e85",
+        "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+        "summary": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.",
+        "bullets": [
+          "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T23:53:24.000Z"
+      },
+      {
+        "id": "top-ef1f21f0",
+        "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
+        "summary": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis.",
+        "bullets": [
+          "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T23:37:18.000Z"
+      },
+      {
+        "id": "tech-809c3ba0",
+        "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+        "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
+        "bullets": [
+          "US healthcare is broken.",
+          "Under RFK Jr., the research agency working to fix it is, too."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T22:32:46.000Z"
+      },
+      {
+        "id": "tech-245ce5a8",
+        "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+        "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
+        "bullets": [
+          "Tanks with defensive tech for shooting down drones are still proving vulnerable."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T22:18:13.000Z"
+      },
+      {
+        "id": "tech-59ba44ea",
+        "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+        "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+        "bullets": [
+          "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T19:01:09.000Z"
+      },
+      {
+        "id": "tech-139917d0",
+        "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+        "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+        "bullets": [
+          "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T18:11:26.000Z"
+      },
+      {
+        "id": "tech-6929ab1e",
+        "title": "Peacock raises prices by 18 percent after becoming profitable",
+        "summary": "Peacock's quarterly profitability isn't guaranteed.",
+        "bullets": [
+          "Peacock's quarterly profitability isn't guaranteed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T16:42:30.000Z"
+      },
+      {
+        "id": "ai-e357012b",
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+        "bullets": [
+          "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T22:14:25.000Z"
+      },
+      {
+        "id": "ai-b0fa1ad1",
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+        "bullets": [
+          "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T18:00:00.000Z"
+      },
+      {
+        "id": "ai-f60dd684",
+        "title": "Etched’s valuation doubles to $21B in a month",
+        "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+        "bullets": [
+          "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T17:21:58.000Z"
+      },
+      {
+        "id": "ai-cf49e507",
+        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+        "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+        "bullets": [
+          "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T16:19:10.000Z"
+      },
+      {
+        "id": "ai-94b92514",
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+        "bullets": [
+          "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T14:00:00.000Z"
+      },
+      {
+        "id": "world-732a6c6b",
+        "title": "Meta hooked children on Facebook and Instagram, court hears",
+        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+        "bullets": [
+          "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T22:11:07.000Z"
+      },
+      {
+        "id": "world-547358c6",
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "bullets": [
+          "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T01:31:15.000Z"
+      },
+      {
+        "id": "world-91d3044b",
+        "title": "Earthquake rocks Spain's historic Granada, injuring three",
+        "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+        "bullets": [
+          "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T17:15:39.000Z"
+      },
+      {
+        "id": "world-098a4e16",
+        "title": "Brazil's President Lula hails oil discovery near Amazon river",
+        "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+        "bullets": [
+          "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T13:13:54.000Z"
+      },
+      {
+        "id": "world-b0f16ef3",
+        "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+        "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+        "bullets": [
+          "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-18T17:54:46.000Z"
+      }
+    ]
   }
 ]
