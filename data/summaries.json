@@ -7213,14 +7213,40 @@
   },
   {
     "date": "2026-08-19",
-    "generatedAt": "2026-08-19T09:50:34.820Z",
+    "generatedAt": "2026-08-19T13:11:05.337Z",
     "articles": [
+      {
+        "id": "top-2a035791",
+        "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+        "summary": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+        "bullets": [
+          "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T12:09:47.000Z"
+      },
+      {
+        "id": "top-5ba01119",
+        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+        "bullets": [
+          "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T12:41:46.000Z"
+      },
       {
         "id": "top-31edd3ec",
         "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-        "summary": "The 2.9% rise in inflation in July had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+        "summary": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
         "bullets": [
-          "The 2.9% rise in inflation in July had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact..."
+          "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
@@ -7229,8 +7255,8 @@
         "publishedAt": "2026-08-19T09:02:03.000Z"
       },
       {
-        "id": "top-607818f2",
-        "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
+        "id": "top-da01822e",
+        "title": "PM unveils plan to get rough sleepers off streets for Christmas",
         "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
         "bullets": [
           "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic."
@@ -7239,7 +7265,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T09:26:05.000Z"
+        "publishedAt": "2026-08-19T11:45:33.000Z"
       },
       {
         "id": "top-7343d80e",
@@ -7253,32 +7279,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-19T08:38:37.000Z"
-      },
-      {
-        "id": "top-547358c6",
-        "title": "Sacked Ukrainian defence minister calls for presidential election",
-        "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-        "bullets": [
-          "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T09:02:08.000Z"
-      },
-      {
-        "id": "top-01cebc85",
-        "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-        "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-        "bullets": [
-          "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T05:00:39.000Z"
       },
       {
         "id": "tech-809c3ba0",
@@ -7347,6 +7347,32 @@
         "publishedAt": "2026-08-18T16:42:30.000Z"
       },
       {
+        "id": "ai-84e59da3",
+        "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+        "summary": "It's the data, stupid.",
+        "bullets": [
+          "It's the data, stupid."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T12:00:00.000Z"
+      },
+      {
+        "id": "ai-d5ba3b2b",
+        "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+        "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+        "bullets": [
+          "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-19T10:00:00.000Z"
+      },
+      {
         "id": "ai-e357012b",
         "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
         "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
@@ -7386,30 +7412,17 @@
         "publishedAt": "2026-08-18T17:21:58.000Z"
       },
       {
-        "id": "ai-cf49e507",
-        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-        "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+        "id": "world-5ba01119",
+        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
         "bullets": [
-          "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+          "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-18T16:19:10.000Z"
-      },
-      {
-        "id": "ai-94b92514",
-        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-        "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-        "bullets": [
-          "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T14:00:00.000Z"
+        "publishedAt": "2026-08-19T12:41:46.000Z"
       },
       {
         "id": "world-547358c6",
@@ -7422,7 +7435,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T09:02:08.000Z"
+        "publishedAt": "2026-08-19T11:00:21.000Z"
       },
       {
         "id": "world-8cf65d90",
@@ -7449,19 +7462,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-19T03:56:35.000Z"
-      },
-      {
-        "id": "world-4b123b6b",
-        "title": "Meta hooked children on Facebook and Instagram, US court hears",
-        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-        "bullets": [
-          "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T22:11:07.000Z"
       },
       {
         "id": "world-2ee45a4c",
