@@ -7480,7 +7480,7 @@
   },
   {
     "date": "2026-08-20",
-    "generatedAt": "2026-08-20T19:01:34.749Z",
+    "generatedAt": "2026-08-20T21:45:17.636Z",
     "articles": [
       {
         "id": "top-30fcc6f8",
@@ -7522,17 +7522,17 @@
         "publishedAt": "2026-08-20T14:28:32.000Z"
       },
       {
-        "id": "top-87902877",
-        "title": "Man charged over Manchester synagogue attack",
-        "summary": "Police say the man is accused of failing to disclose information regarding terrorist activity.",
+        "id": "top-0be5dd22",
+        "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+        "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
         "bullets": [
-          "Police say the man is accused of failing to disclose information regarding terrorist activity."
+          "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T16:17:27.000Z"
+        "publishedAt": "2026-08-20T19:52:48.000Z"
       },
       {
         "id": "top-62bc0de4",
@@ -7546,6 +7546,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-20T17:48:07.000Z"
+      },
+      {
+        "id": "tech-1e1ad43f",
+        "title": "Roblox must make changes after failing to block adults creeping on kids",
+        "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+        "bullets": [
+          "Roblox is first platform to submit to independent audits under the Online Safety Act."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T17:14:08.000Z"
       },
       {
         "id": "tech-c68c4c68",
@@ -7600,17 +7613,44 @@
         "publishedAt": "2026-08-20T13:00:35.000Z"
       },
       {
-        "id": "tech-563e476b",
-        "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-        "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
+        "id": "ai-cdb9f706",
+        "title": "Ok, can we actually cool data centers with our pee?",
+        "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
         "bullets": [
-          "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year."
+          "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T00:18:48.000Z"
+        "publishedAt": "2026-08-20T20:53:13.000Z"
+      },
+      {
+        "id": "ai-1e20d1fc",
+        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+        "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+        "bullets": [
+          "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T19:18:21.000Z"
+      },
+      {
+        "id": "ai-8a208a4f",
+        "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+        "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+        "bullets": [
+          "Runlayer and Rippling have dropped their lawsuits.",
+          "Rippling celebrated by releasing a competing product."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T19:15:05.000Z"
       },
       {
         "id": "ai-c2c2802d",
@@ -7639,44 +7679,17 @@
         "publishedAt": "2026-08-20T17:32:16.000Z"
       },
       {
-        "id": "ai-272bec80",
-        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-        "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+        "id": "world-0be5dd22",
+        "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+        "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
         "bullets": [
-          "ChatGPT and other AI models are now authoring and editing much of the new web."
+          "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\"."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T17:18:58.000Z"
-      },
-      {
-        "id": "ai-732c6258",
-        "title": "Ramp launches its own AI model router, called Router",
-        "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-        "bullets": [
-          "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T16:46:00.000Z"
-      },
-      {
-        "id": "ai-cc75c980",
-        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-        "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-        "bullets": [
-          "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S.",
-          "after quietly testing it in Brazil."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T16:07:26.000Z"
+        "publishedAt": "2026-08-20T19:52:48.000Z"
       },
       {
         "id": "world-5efa59fe",
@@ -7705,43 +7718,30 @@
         "publishedAt": "2026-08-20T17:14:55.000Z"
       },
       {
-        "id": "world-8ccabf99",
-        "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
-        "summary": "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\".",
+        "id": "world-988e1c05",
+        "title": "Dozens dead after boat capsizes in north-western Nigeria",
+        "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
         "bullets": [
-          "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\"."
+          "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T18:40:46.000Z"
+        "publishedAt": "2026-08-20T20:27:36.000Z"
       },
       {
-        "id": "world-9d16ce6e",
-        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-        "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+        "id": "world-d4ff001e",
+        "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+        "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
         "bullets": [
-          "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T06:08:02.000Z"
-      },
-      {
-        "id": "world-8e612bdc",
-        "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
-        "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
-        "bullets": [
-          "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month."
+          "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T16:53:20.000Z"
+        "publishedAt": "2026-08-20T20:08:29.000Z"
       }
     ]
   }
