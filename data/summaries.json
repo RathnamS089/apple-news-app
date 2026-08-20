@@ -7480,33 +7480,33 @@
   },
   {
     "date": "2026-08-20",
-    "generatedAt": "2026-08-20T15:50:07.269Z",
+    "generatedAt": "2026-08-20T19:01:34.749Z",
     "articles": [
       {
-        "id": "top-66fd9b96",
-        "title": "Harry and Meghan's security arrangements a private matter, PM says",
-        "summary": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+        "id": "top-30fcc6f8",
+        "title": "Harry and Meghan's return to UK reignites questions over security",
+        "summary": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
         "bullets": [
-          "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month."
+          "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T13:53:40.000Z"
+        "publishedAt": "2026-08-20T18:12:59.000Z"
       },
       {
-        "id": "top-a1953223",
-        "title": "Why are Harry and Meghan returning to the UK?",
-        "summary": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
+        "id": "top-6ff25acb",
+        "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+        "summary": "The brothers have had a fractured relationship for a number of years.",
         "bullets": [
-          "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles..."
+          "The brothers have had a fractured relationship for a number of years."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T10:16:31.000Z"
+        "publishedAt": "2026-08-20T16:54:51.000Z"
       },
       {
         "id": "top-001339c8",
@@ -7532,20 +7532,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T15:45:42.000Z"
+        "publishedAt": "2026-08-20T16:17:27.000Z"
       },
       {
-        "id": "top-1856b1a1",
-        "title": "John Swinney defends £45,000 business-class flights to World Cup",
-        "summary": "The Scottish government spent almost £100,000 on official visits to the United States in June.",
+        "id": "top-62bc0de4",
+        "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+        "summary": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor.",
         "bullets": [
-          "The Scottish government spent almost £100,000 on official visits to the United States in June."
+          "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T12:33:09.000Z"
+        "publishedAt": "2026-08-20T17:48:07.000Z"
       },
       {
         "id": "tech-c68c4c68",
@@ -7613,97 +7613,109 @@
         "publishedAt": "2026-08-20T00:18:48.000Z"
       },
       {
-        "id": "ai-6baa11bd",
-        "title": "Meta AI’s new Mac app wants you to talk to your apps",
-        "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+        "id": "ai-c2c2802d",
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
         "bullets": [
-          "Meta said its Muse Spark model is powering the dictation feature."
+          "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T12:11:57.000Z"
+        "publishedAt": "2026-08-20T18:20:35.000Z"
       },
       {
-        "id": "ai-1a3191c4",
-        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+        "id": "ai-32969eee",
+        "title": "Grok keeps sending gibberish responses to users",
+        "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
         "bullets": [
-          "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor."
+          "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T09:30:00.000Z"
+        "publishedAt": "2026-08-20T17:32:16.000Z"
       },
       {
-        "id": "ai-ec3a72a8",
-        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "id": "ai-272bec80",
+        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+        "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
         "bullets": [
-          "What does a payments giant want with a startup that routes prompts between different AI models?",
-          "Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+          "ChatGPT and other AI models are now authoring and editing much of the new web."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T23:32:00.000Z"
+        "publishedAt": "2026-08-20T17:18:58.000Z"
       },
       {
-        "id": "ai-7ccdd69e",
-        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "id": "ai-732c6258",
+        "title": "Ramp launches its own AI model router, called Router",
+        "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
         "bullets": [
-          "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+          "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T22:10:46.000Z"
+        "publishedAt": "2026-08-20T16:46:00.000Z"
       },
       {
-        "id": "ai-ca1ba049",
-        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "id": "ai-cc75c980",
+        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+        "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
         "bullets": [
-          "SpaceX was reportedly in talks to buy AI coding startup Cognition.",
-          "SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+          "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S.",
+          "after quietly testing it in Brazil."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-19T21:51:23.000Z"
+        "publishedAt": "2026-08-20T16:07:26.000Z"
       },
       {
-        "id": "world-1c1c5f6d",
-        "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-        "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+        "id": "world-5efa59fe",
+        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+        "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
         "bullets": [
-          "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say."
+          "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T18:55:14.000Z"
+      },
+      {
+        "id": "world-ea44e2c0",
+        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+        "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+        "bullets": [
+          "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T13:56:25.000Z"
+        "publishedAt": "2026-08-20T17:14:55.000Z"
       },
       {
-        "id": "world-06b567a4",
-        "title": "Trump vows tougher economic measures on Iran and supporting countries",
-        "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+        "id": "world-8ccabf99",
+        "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
+        "summary": "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\".",
         "bullets": [
-          "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
+          "The US Treasury secretary says allies will need to decide whether they \"are with us or against us\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T09:13:18.000Z"
+        "publishedAt": "2026-08-20T18:40:46.000Z"
       },
       {
         "id": "world-9d16ce6e",
@@ -7719,30 +7731,17 @@
         "publishedAt": "2026-08-20T06:08:02.000Z"
       },
       {
-        "id": "world-caef9826",
-        "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-        "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+        "id": "world-8e612bdc",
+        "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+        "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
         "bullets": [
-          "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
+          "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T10:14:47.000Z"
-      },
-      {
-        "id": "world-f3f9e1da",
-        "title": "Assad officer extradited to Syria on war crimes charges for first time",
-        "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-        "bullets": [
-          "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T12:38:35.000Z"
+        "publishedAt": "2026-08-20T16:53:20.000Z"
       }
     ]
   }
