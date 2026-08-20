@@ -7480,7 +7480,7 @@
   },
   {
     "date": "2026-08-20",
-    "generatedAt": "2026-08-20T13:12:47.309Z",
+    "generatedAt": "2026-08-20T15:50:07.269Z",
     "articles": [
       {
         "id": "top-66fd9b96",
@@ -7493,59 +7493,111 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T13:08:14.000Z"
+        "publishedAt": "2026-08-20T13:53:40.000Z"
       },
       {
-        "id": "top-9320364c",
-        "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-        "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+        "id": "top-a1953223",
+        "title": "Why are Harry and Meghan returning to the UK?",
+        "summary": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
         "bullets": [
-          "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
+          "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T02:00:51.000Z"
+        "publishedAt": "2026-08-20T10:16:31.000Z"
       },
       {
-        "id": "top-6572bf94",
-        "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-        "summary": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+        "id": "top-001339c8",
+        "title": "Five key takeaways from GCSE results day 2026",
+        "summary": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
         "bullets": [
-          "Jo Boydell had been criticised for the company's handling of issues with its safety and security."
+          "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T10:05:24.000Z"
+        "publishedAt": "2026-08-20T14:28:32.000Z"
       },
       {
-        "id": "top-2c63f52c",
-        "title": "School 'deeply saddened' by death of family in sea off Shoreham",
-        "summary": "Ellen Wilkinson School for Girls in Ealing pays tribute to Sara El-Khawas, 14, and her family who died.",
+        "id": "top-87902877",
+        "title": "Man charged over Manchester synagogue attack",
+        "summary": "Police say the man is accused of failing to disclose information regarding terrorist activity.",
         "bullets": [
-          "Ellen Wilkinson School for Girls in Ealing pays tribute to Sara El-Khawas, 14, and her family who died."
+          "Police say the man is accused of failing to disclose information regarding terrorist activity."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T09:53:52.000Z"
+        "publishedAt": "2026-08-20T15:45:42.000Z"
       },
       {
-        "id": "top-730996d2",
-        "title": "Train derailment carriages moved amid track probe",
-        "summary": "Work begins on removing carriages from a train that derailed near Lewes, as investigations continue.",
+        "id": "top-1856b1a1",
+        "title": "John Swinney defends £45,000 business-class flights to World Cup",
+        "summary": "The Scottish government spent almost £100,000 on official visits to the United States in June.",
         "bullets": [
-          "Work begins on removing carriages from a train that derailed near Lewes, as investigations continue."
+          "The Scottish government spent almost £100,000 on official visits to the United States in June."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c79gpp4dvwxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T12:09:40.000Z"
+        "publishedAt": "2026-08-20T12:33:09.000Z"
+      },
+      {
+        "id": "tech-c68c4c68",
+        "title": "Genesis joins the giant electric SUV club with new GV90",
+        "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
+        "bullets": [
+          "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T14:35:58.000Z"
+      },
+      {
+        "id": "tech-e143ff02",
+        "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+        "summary": "The yeetcycling math resembles asteroid mining in reverse.",
+        "bullets": [
+          "The yeetcycling math resembles asteroid mining in reverse."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T13:59:50.000Z"
+      },
+      {
+        "id": "tech-f384be07",
+        "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+        "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+        "bullets": [
+          "People-search tool ClarityCheck left database containing more than 9M image files exposed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T13:29:54.000Z"
+      },
+      {
+        "id": "tech-cd4af814",
+        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+        "bullets": [
+          "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T13:00:35.000Z"
       },
       {
         "id": "tech-563e476b",
@@ -7559,58 +7611,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-20T00:18:48.000Z"
-      },
-      {
-        "id": "tech-c89922ed",
-        "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-        "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
-        "bullets": [
-          "US residents face trade-offs as delivery drone services such as Prime Air expand."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T22:02:38.000Z"
-      },
-      {
-        "id": "tech-9452727c",
-        "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-        "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-        "bullets": [
-          "Framework says it's replacing some out-of-warranty AMD mainboards."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T20:21:59.000Z"
-      },
-      {
-        "id": "tech-dfee8d29",
-        "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-        "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-        "bullets": [
-          "Bankrupt Spirit accused of selling out workers in massive data sale to Google."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T20:04:41.000Z"
-      },
-      {
-        "id": "tech-6664da13",
-        "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
-        "summary": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
-        "bullets": [
-          "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T19:45:19.000Z"
       },
       {
         "id": "ai-6baa11bd",
@@ -7690,20 +7690,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T11:06:54.000Z"
-      },
-      {
-        "id": "world-9d16ce6e",
-        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-        "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-        "bullets": [
-          "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T06:08:02.000Z"
+        "publishedAt": "2026-08-20T13:56:25.000Z"
       },
       {
         "id": "world-06b567a4",
@@ -7719,6 +7706,19 @@
         "publishedAt": "2026-08-20T09:13:18.000Z"
       },
       {
+        "id": "world-9d16ce6e",
+        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+        "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+        "bullets": [
+          "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T06:08:02.000Z"
+      },
+      {
         "id": "world-caef9826",
         "title": "Belgian car salesman becomes prince after royal parentage confirmed",
         "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
@@ -7732,17 +7732,17 @@
         "publishedAt": "2026-08-20T10:14:47.000Z"
       },
       {
-        "id": "world-d4d78daa",
-        "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-        "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+        "id": "world-f3f9e1da",
+        "title": "Assad officer extradited to Syria on war crimes charges for first time",
+        "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
         "bullets": [
-          "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole."
+          "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T07:08:35.000Z"
+        "publishedAt": "2026-08-20T12:38:35.000Z"
       }
     ]
   }
