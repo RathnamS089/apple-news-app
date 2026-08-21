@@ -7747,11 +7747,11 @@
   },
   {
     "date": "2026-08-21",
-    "generatedAt": "2026-08-21T04:03:19.908Z",
+    "generatedAt": "2026-08-21T07:09:26.874Z",
     "articles": [
       {
-        "id": "top-9789e1b7",
-        "title": "El Niño weather system set to be 'strongest in living memory', warns Met Office",
+        "id": "top-3fb20ea9",
+        "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
         "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
         "bullets": [
           "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
@@ -7761,6 +7761,20 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-21T00:33:21.000Z"
+      },
+      {
+        "id": "top-6aa9382b",
+        "title": "Will Harry's return heal deep-rooted rift with William?",
+        "summary": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
+        "bullets": [
+          "The Prince of Wales remains in no mood to forgive and forget.",
+          "The hurt he feels lingers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T04:07:22.000Z"
       },
       {
         "id": "top-86531fd1",
@@ -7776,17 +7790,17 @@
         "publishedAt": "2026-08-21T02:52:29.000Z"
       },
       {
-        "id": "top-04c25dad",
-        "title": "What happened to Harry and Meghan's American dream?",
-        "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+        "id": "top-b25e7437",
+        "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
+        "summary": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
         "bullets": [
-          "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived."
+          "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T02:57:34.000Z"
+        "publishedAt": "2026-08-21T00:11:18.000Z"
       },
       {
         "id": "top-4d930f9a",
@@ -7800,19 +7814,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-20T22:23:24.000Z"
-      },
-      {
-        "id": "top-b25e7437",
-        "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
-        "summary": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
-        "bullets": [
-          "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T00:11:18.000Z"
       },
       {
         "id": "tech-5697e3a9",
@@ -7985,6 +7986,19 @@
         "publishedAt": "2026-08-21T00:33:21.000Z"
       },
       {
+        "id": "world-22dfef85",
+        "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+        "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+        "bullets": [
+          "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T05:30:18.000Z"
+      },
+      {
         "id": "world-f22ba537",
         "title": "Why the US economy is ringing alarm bells",
         "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
@@ -7996,19 +8010,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-20T23:15:15.000Z"
-      },
-      {
-        "id": "world-1bb2e21e",
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-        "bullets": [
-          "Three activists were accused of inciting others to subvert state power under the China-introduced law."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T02:59:46.000Z"
       }
     ]
   }
