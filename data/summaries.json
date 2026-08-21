@@ -7747,7 +7747,7 @@
   },
   {
     "date": "2026-08-21",
-    "generatedAt": "2026-08-21T18:58:39.789Z",
+    "generatedAt": "2026-08-21T21:41:32.282Z",
     "articles": [
       {
         "id": "top-cde65522",
@@ -7761,6 +7761,32 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-21T17:18:41.000Z"
+      },
+      {
+        "id": "top-26aa1fb6",
+        "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+        "summary": "She is the fourth person to die after her family got into difficulty in water in Shoreham.",
+        "bullets": [
+          "She is the fourth person to die after her family got into difficulty in water in Shoreham."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T21:38:53.000Z"
+      },
+      {
+        "id": "top-865249a8",
+        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+        "bullets": [
+          "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T19:49:56.000Z"
       },
       {
         "id": "top-806601fa",
@@ -7789,30 +7815,30 @@
         "publishedAt": "2026-08-21T15:33:28.000Z"
       },
       {
-        "id": "top-291a3887",
-        "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
-        "summary": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
+        "id": "tech-e34acb84",
+        "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+        "summary": "The private Android-based OS will expand beyond Pixels next year.",
         "bullets": [
-          "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak."
+          "The private Android-based OS will expand beyond Pixels next year."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T12:01:52.000Z"
+        "publishedAt": "2026-08-21T19:32:29.000Z"
       },
       {
-        "id": "top-865249a8",
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-        "summary": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+        "id": "tech-b65b1919",
+        "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+        "summary": "Logitech increased prices by up to 25 percent last year.",
         "bullets": [
-          "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head."
+          "Logitech increased prices by up to 25 percent last year."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T18:51:43.000Z"
+        "publishedAt": "2026-08-21T19:04:41.000Z"
       },
       {
         "id": "tech-be27cd76",
@@ -7854,43 +7880,17 @@
         "publishedAt": "2026-08-21T16:38:25.000Z"
       },
       {
-        "id": "tech-28fc8f75",
-        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-        "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+        "id": "ai-eb34c5eb",
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
         "bullets": [
-          "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T13:11:35.000Z"
-      },
-      {
-        "id": "tech-cd328f2b",
-        "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-        "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-        "bullets": [
-          "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T11:00:53.000Z"
-      },
-      {
-        "id": "ai-eac2d276",
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "summary": "There's about to be a big fight to secure access to space.",
-        "bullets": [
-          "There's about to be a big fight to secure access to space."
+          "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T14:00:00.000Z"
+        "publishedAt": "2026-08-21T19:43:39.000Z"
       },
       {
         "id": "ai-eacc9f74",
@@ -7901,6 +7901,19 @@
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "id": "ai-eac2d276",
+        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "summary": "There's about to be a big fight to secure access to space.",
+        "bullets": [
+          "There's about to be a big fight to secure access to space."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-08-21T14:00:00.000Z"
@@ -7932,20 +7945,6 @@
         "publishedAt": "2026-08-20T22:36:37.000Z"
       },
       {
-        "id": "ai-84136b50",
-        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-        "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-        "bullets": [
-          "Ever wanted someone else to do your texting for you?",
-          "ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T22:09:51.000Z"
-      },
-      {
         "id": "world-63f25b94",
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -7961,15 +7960,28 @@
       {
         "id": "world-865249a8",
         "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-        "summary": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
         "bullets": [
-          "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head."
+          "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T18:51:43.000Z"
+        "publishedAt": "2026-08-21T19:49:56.000Z"
+      },
+      {
+        "id": "world-399ca126",
+        "title": "One killed in sword attack at Swedish school",
+        "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+        "bullets": [
+          "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T21:03:24.000Z"
       },
       {
         "id": "world-1bb2e21e",
@@ -7996,19 +8008,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-21T15:58:57.000Z"
-      },
-      {
-        "id": "world-ea9a9a75",
-        "title": "Two injured in stabbing attack at Canada Sikh temple",
-        "summary": "One suspect is in custody, but police have not disclosed a possible motive.",
-        "bullets": [
-          "One suspect is in custody, but police have not disclosed a possible motive."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T18:27:15.000Z"
       }
     ]
   }
