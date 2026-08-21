@@ -7747,7 +7747,7 @@
   },
   {
     "date": "2026-08-21",
-    "generatedAt": "2026-08-21T15:50:10.455Z",
+    "generatedAt": "2026-08-21T18:58:39.789Z",
     "articles": [
       {
         "id": "top-cde65522",
@@ -7760,11 +7760,24 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T15:19:15.000Z"
+        "publishedAt": "2026-08-21T17:18:41.000Z"
       },
       {
-        "id": "top-04b56758",
-        "title": "Watch: How 'strongest' El Niño could affect world weather",
+        "id": "top-806601fa",
+        "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+        "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+        "bullets": [
+          "This would be Meghan's first significant acting role since her marriage to Prince Harry."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T18:29:31.000Z"
+      },
+      {
+        "id": "top-3883001f",
+        "title": "Watch: How 'strongest' El Niño could affect weather around the world",
         "summary": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.",
         "bullets": [
           "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office..."
@@ -7789,30 +7802,56 @@
         "publishedAt": "2026-08-21T12:01:52.000Z"
       },
       {
-        "id": "top-898a95c9",
-        "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-        "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+        "id": "top-865249a8",
+        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "summary": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
         "bullets": [
-          "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
+          "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T13:07:00.000Z"
+        "publishedAt": "2026-08-21T18:51:43.000Z"
       },
       {
-        "id": "top-b60ddd88",
-        "title": "Argentina's Paredes banned for 10 games after World Cup final clashes",
-        "summary": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
+        "id": "tech-be27cd76",
+        "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+        "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
         "bullets": [
-          "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final."
+          "Chinese safety regulators have cracked down on doors that don't open in a crash."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T15:26:05.000Z"
+        "publishedAt": "2026-08-21T18:07:15.000Z"
+      },
+      {
+        "id": "tech-32681cc6",
+        "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+        "summary": "Romania blew up drone boat to protect lives of several hundred rig workers.",
+        "bullets": [
+          "Romania blew up drone boat to protect lives of several hundred rig workers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T16:48:59.000Z"
+      },
+      {
+        "id": "tech-43eb09df",
+        "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
+        "summary": "Some Americans fear the FTC may be thinking about personalized pricing all wrong.",
+        "bullets": [
+          "Some Americans fear the FTC may be thinking about personalized pricing all wrong."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T16:38:25.000Z"
       },
       {
         "id": "tech-28fc8f75",
@@ -7841,45 +7880,6 @@
         "publishedAt": "2026-08-21T11:00:53.000Z"
       },
       {
-        "id": "tech-9494f585",
-        "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-        "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
-        "bullets": [
-          "Taiwan's effort to develop its own satellite launcher hit a setback this week."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T11:00:36.000Z"
-      },
-      {
-        "id": "tech-5697e3a9",
-        "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-        "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
-        "bullets": [
-          "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T22:00:11.000Z"
-      },
-      {
-        "id": "tech-632fd8ff",
-        "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-        "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
-        "bullets": [
-          "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T21:40:52.000Z"
-      },
-      {
         "id": "ai-eac2d276",
         "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
         "summary": "There's about to be a big fight to secure access to space.",
@@ -7888,6 +7888,19 @@
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "id": "ai-eacc9f74",
+        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+        "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has...",
+        "bullets": [
+          "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-08-21T14:00:00.000Z"
@@ -7933,19 +7946,6 @@
         "publishedAt": "2026-08-20T22:09:51.000Z"
       },
       {
-        "id": "ai-16826914",
-        "title": "OK, can we actually cool data centers with our pee?",
-        "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-        "bullets": [
-          "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T20:53:13.000Z"
-      },
-      {
         "id": "world-63f25b94",
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -7959,17 +7959,17 @@
         "publishedAt": "2026-08-21T05:00:57.000Z"
       },
       {
-        "id": "world-ea7bb0e6",
-        "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-        "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+        "id": "world-865249a8",
+        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "summary": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
         "bullets": [
-          "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
+          "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T13:07:00.000Z"
+        "publishedAt": "2026-08-21T18:51:43.000Z"
       },
       {
         "id": "world-1bb2e21e",
@@ -7985,30 +7985,30 @@
         "publishedAt": "2026-08-21T05:47:32.000Z"
       },
       {
-        "id": "world-69c1a1f9",
-        "title": "Several injured after sword attack at Swedish school",
-        "summary": "Police say one man has been arrested, while several other local schools have been locked down.",
+        "id": "world-40537e14",
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
         "bullets": [
-          "Police say one man has been arrested, while several other local schools have been locked down."
+          "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T15:42:47.000Z"
+        "publishedAt": "2026-08-21T15:58:57.000Z"
       },
       {
-        "id": "world-64b03924",
-        "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-        "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+        "id": "world-ea9a9a75",
+        "title": "Two injured in stabbing attack at Canada Sikh temple",
+        "summary": "One suspect is in custody, but police have not disclosed a possible motive.",
         "bullets": [
-          "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+          "One suspect is in custody, but police have not disclosed a possible motive."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T13:44:43.000Z"
+        "publishedAt": "2026-08-21T18:27:15.000Z"
       }
     ]
   }
