@@ -7747,46 +7747,33 @@
   },
   {
     "date": "2026-08-21",
-    "generatedAt": "2026-08-21T13:12:55.768Z",
+    "generatedAt": "2026-08-21T15:50:10.455Z",
     "articles": [
       {
-        "id": "top-b730293d",
-        "title": "Prince Harry and six others ordered to pay Daily Mail publisher £9.5m",
-        "summary": "The group of high-profile figures lost their High Court privacy case against the Daily Mail's publishers.",
+        "id": "top-cde65522",
+        "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+        "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
         "bullets": [
-          "The group of high-profile figures lost their High Court privacy case against the Daily Mail's publishers."
+          "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T13:10:01.000Z"
+        "publishedAt": "2026-08-21T15:19:15.000Z"
       },
       {
-        "id": "top-3fb20ea9",
-        "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
-        "summary": "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.",
+        "id": "top-04b56758",
+        "title": "Watch: How 'strongest' El Niño could affect world weather",
+        "summary": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.",
         "bullets": [
-          "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn."
+          "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T10:37:15.000Z"
-      },
-      {
-        "id": "top-86531fd1",
-        "title": "Meghan could return to acting once back in UK",
-        "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
-        "bullets": [
-          "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T10:17:01.000Z"
+        "publishedAt": "2026-08-21T15:33:28.000Z"
       },
       {
         "id": "top-291a3887",
@@ -7813,6 +7800,32 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-21T13:07:00.000Z"
+      },
+      {
+        "id": "top-b60ddd88",
+        "title": "Argentina's Paredes banned for 10 games after World Cup final clashes",
+        "summary": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
+        "bullets": [
+          "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T15:26:05.000Z"
+      },
+      {
+        "id": "tech-28fc8f75",
+        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+        "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+        "bullets": [
+          "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T13:11:35.000Z"
       },
       {
         "id": "tech-cd328f2b",
@@ -7867,17 +7880,17 @@
         "publishedAt": "2026-08-20T21:40:52.000Z"
       },
       {
-        "id": "tech-a32a692f",
-        "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-        "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
+        "id": "ai-eac2d276",
+        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "summary": "There's about to be a big fight to secure access to space.",
         "bullets": [
-          "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited."
+          "There's about to be a big fight to secure access to space."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T21:25:25.000Z"
+        "publishedAt": "2026-08-21T14:00:00.000Z"
       },
       {
         "id": "ai-43ebb463",
@@ -7933,19 +7946,6 @@
         "publishedAt": "2026-08-20T20:53:13.000Z"
       },
       {
-        "id": "ai-1e20d1fc",
-        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-        "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-        "bullets": [
-          "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T19:18:21.000Z"
-      },
-      {
         "id": "world-63f25b94",
         "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -7985,30 +7985,30 @@
         "publishedAt": "2026-08-21T05:47:32.000Z"
       },
       {
-        "id": "world-95fa919b",
-        "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-        "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+        "id": "world-69c1a1f9",
+        "title": "Several injured after sword attack at Swedish school",
+        "summary": "Police say one man has been arrested, while several other local schools have been locked down.",
         "bullets": [
-          "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast."
+          "Police say one man has been arrested, while several other local schools have been locked down."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T09:53:47.000Z"
+        "publishedAt": "2026-08-21T15:42:47.000Z"
       },
       {
-        "id": "world-99438fcf",
-        "title": "Panama Canal to cut number of ships passing through due to El Niño",
-        "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+        "id": "world-64b03924",
+        "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+        "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
         "bullets": [
-          "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+          "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T06:46:08.000Z"
+        "publishedAt": "2026-08-21T13:44:43.000Z"
       }
     ]
   }
