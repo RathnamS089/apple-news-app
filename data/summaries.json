@@ -7747,8 +7747,21 @@
   },
   {
     "date": "2026-08-21",
-    "generatedAt": "2026-08-21T09:53:37.695Z",
+    "generatedAt": "2026-08-21T13:12:55.768Z",
     "articles": [
+      {
+        "id": "top-b730293d",
+        "title": "Prince Harry and six others ordered to pay Daily Mail publisher £9.5m",
+        "summary": "The group of high-profile figures lost their High Court privacy case against the Daily Mail's publishers.",
+        "bullets": [
+          "The group of high-profile figures lost their High Court privacy case against the Daily Mail's publishers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T13:10:01.000Z"
+      },
       {
         "id": "top-3fb20ea9",
         "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
@@ -7760,7 +7773,7 @@
         "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T07:43:30.000Z"
+        "publishedAt": "2026-08-21T10:37:15.000Z"
       },
       {
         "id": "top-86531fd1",
@@ -7773,47 +7786,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T09:48:00.000Z"
+        "publishedAt": "2026-08-21T10:17:01.000Z"
       },
       {
-        "id": "top-6aa9382b",
-        "title": "Will Harry's return heal deep-rooted rift with William?",
-        "summary": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
+        "id": "top-291a3887",
+        "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+        "summary": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
         "bullets": [
-          "The Prince of Wales remains in no mood to forgive and forget.",
-          "The hurt he feels lingers."
+          "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T09:48:08.000Z"
+        "publishedAt": "2026-08-21T12:01:52.000Z"
       },
       {
-        "id": "top-661dc26e",
-        "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
-        "summary": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
+        "id": "top-898a95c9",
+        "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+        "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
         "bullets": [
-          "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many."
+          "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T00:11:18.000Z"
+        "publishedAt": "2026-08-21T13:07:00.000Z"
       },
       {
-        "id": "top-4d930f9a",
-        "title": "French becoming more effective in stopping small boat crossings, UK says",
-        "summary": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
+        "id": "tech-cd328f2b",
+        "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+        "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
         "bullets": [
-          "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics."
+          "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T08:26:01.000Z"
+        "publishedAt": "2026-08-21T11:00:53.000Z"
+      },
+      {
+        "id": "tech-9494f585",
+        "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
+        "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
+        "bullets": [
+          "Taiwan's effort to develop its own satellite launcher hit a setback this week."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T11:00:36.000Z"
       },
       {
         "id": "tech-5697e3a9",
@@ -7853,32 +7878,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-20T21:25:25.000Z"
-      },
-      {
-        "id": "tech-1e1ad43f",
-        "title": "Roblox must make changes after failing to block adults creeping on kids",
-        "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
-        "bullets": [
-          "Roblox is first platform to submit to independent audits under the Online Safety Act."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T17:14:08.000Z"
-      },
-      {
-        "id": "tech-c68c4c68",
-        "title": "Genesis joins the giant electric SUV club with new GV90",
-        "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
-        "bullets": [
-          "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T14:35:58.000Z"
       },
       {
         "id": "ai-43ebb463",
@@ -7960,17 +7959,17 @@
         "publishedAt": "2026-08-21T05:00:57.000Z"
       },
       {
-        "id": "world-a9932bd2",
-        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-        "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "id": "world-ea7bb0e6",
+        "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+        "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
         "bullets": [
-          "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+          "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T23:16:45.000Z"
+        "publishedAt": "2026-08-21T13:07:00.000Z"
       },
       {
         "id": "world-1bb2e21e",
@@ -7986,30 +7985,30 @@
         "publishedAt": "2026-08-21T05:47:32.000Z"
       },
       {
-        "id": "world-27b026fc",
-        "title": "Five missing after fire in Swiss Alpine town",
-        "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+        "id": "world-95fa919b",
+        "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+        "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
         "bullets": [
-          "Eight others were injured, local police say, with the cause of the fire still being investigated."
+          "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T07:06:16.000Z"
+        "publishedAt": "2026-08-21T09:53:47.000Z"
       },
       {
-        "id": "world-86531fd1",
-        "title": "Meghan could return to acting once back in UK",
-        "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+        "id": "world-99438fcf",
+        "title": "Panama Canal to cut number of ships passing through due to El Niño",
+        "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
         "bullets": [
-          "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
+          "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T09:48:00.000Z"
+        "publishedAt": "2026-08-21T06:46:08.000Z"
       }
     ]
   }
