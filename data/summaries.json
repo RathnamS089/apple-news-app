@@ -7747,20 +7747,33 @@
   },
   {
     "date": "2026-08-21",
-    "generatedAt": "2026-08-21T07:09:26.874Z",
+    "generatedAt": "2026-08-21T09:53:37.695Z",
     "articles": [
       {
         "id": "top-3fb20ea9",
         "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
-        "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+        "summary": "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.",
         "bullets": [
-          "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+          "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T00:33:21.000Z"
+        "publishedAt": "2026-08-21T07:43:30.000Z"
+      },
+      {
+        "id": "top-86531fd1",
+        "title": "Meghan could return to acting once back in UK",
+        "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+        "bullets": [
+          "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T09:48:00.000Z"
       },
       {
         "id": "top-6aa9382b",
@@ -7774,24 +7787,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T04:07:22.000Z"
+        "publishedAt": "2026-08-21T09:48:08.000Z"
       },
       {
-        "id": "top-86531fd1",
-        "title": "Meghan could return to acting once back in UK",
-        "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
-        "bullets": [
-          "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T02:52:29.000Z"
-      },
-      {
-        "id": "top-b25e7437",
-        "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
+        "id": "top-661dc26e",
+        "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
         "summary": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
         "bullets": [
           "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many."
@@ -7813,7 +7813,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T22:23:24.000Z"
+        "publishedAt": "2026-08-21T08:26:01.000Z"
       },
       {
         "id": "tech-5697e3a9",
@@ -7947,17 +7947,17 @@
         "publishedAt": "2026-08-20T19:18:21.000Z"
       },
       {
-        "id": "world-5efa59fe",
-        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-        "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+        "id": "world-63f25b94",
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
         "bullets": [
-          "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank."
+          "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T18:55:14.000Z"
+        "publishedAt": "2026-08-21T05:00:57.000Z"
       },
       {
         "id": "world-a9932bd2",
@@ -7973,43 +7973,43 @@
         "publishedAt": "2026-08-20T23:16:45.000Z"
       },
       {
-        "id": "world-190edd65",
-        "title": "El Niño set to be 'strongest in living memory', says Met Office",
-        "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+        "id": "world-1bb2e21e",
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
         "bullets": [
-          "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+          "Three activists were accused of inciting others to subvert state power under the China-introduced law."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T00:33:21.000Z"
+        "publishedAt": "2026-08-21T05:47:32.000Z"
       },
       {
-        "id": "world-22dfef85",
-        "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-        "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+        "id": "world-27b026fc",
+        "title": "Five missing after fire in Swiss Alpine town",
+        "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
         "bullets": [
-          "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
+          "Eight others were injured, local police say, with the cause of the fire still being investigated."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T05:30:18.000Z"
+        "publishedAt": "2026-08-21T07:06:16.000Z"
       },
       {
-        "id": "world-f22ba537",
-        "title": "Why the US economy is ringing alarm bells",
-        "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+        "id": "world-86531fd1",
+        "title": "Meghan could return to acting once back in UK",
+        "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
         "bullets": [
-          "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?"
+          "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-20T23:15:15.000Z"
+        "publishedAt": "2026-08-21T09:48:00.000Z"
       }
     ]
   }
