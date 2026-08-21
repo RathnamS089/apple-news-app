@@ -7744,5 +7744,272 @@
         "publishedAt": "2026-08-20T20:08:29.000Z"
       }
     ]
+  },
+  {
+    "date": "2026-08-21",
+    "generatedAt": "2026-08-21T01:59:10.503Z",
+    "articles": [
+      {
+        "id": "top-30fcc6f8",
+        "title": "Harry and Meghan's return to UK reignites questions over security",
+        "summary": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+        "bullets": [
+          "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T18:12:59.000Z"
+      },
+      {
+        "id": "top-6ff25acb",
+        "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+        "summary": "The brothers have had a fractured relationship for a number of years.",
+        "bullets": [
+          "The brothers have had a fractured relationship for a number of years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T16:54:51.000Z"
+      },
+      {
+        "id": "top-1f51715f",
+        "title": "El Niño climate event set to be 'strongest in living memory', says Met Office",
+        "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+        "bullets": [
+          "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T00:33:21.000Z"
+      },
+      {
+        "id": "top-4d930f9a",
+        "title": "French becoming more effective in stopping small boat crossings, UK says",
+        "summary": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
+        "bullets": [
+          "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T22:23:24.000Z"
+      },
+      {
+        "id": "top-b25e7437",
+        "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
+        "summary": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
+        "bullets": [
+          "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T00:11:18.000Z"
+      },
+      {
+        "id": "tech-5697e3a9",
+        "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
+        "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+        "bullets": [
+          "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T22:00:11.000Z"
+      },
+      {
+        "id": "tech-632fd8ff",
+        "title": "Europe cancels planned upgrades for Ariane 6 rocket",
+        "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
+        "bullets": [
+          "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T21:40:52.000Z"
+      },
+      {
+        "id": "tech-a32a692f",
+        "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
+        "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
+        "bullets": [
+          "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T21:25:25.000Z"
+      },
+      {
+        "id": "tech-1e1ad43f",
+        "title": "Roblox must make changes after failing to block adults creeping on kids",
+        "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+        "bullets": [
+          "Roblox is first platform to submit to independent audits under the Online Safety Act."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T17:14:08.000Z"
+      },
+      {
+        "id": "tech-c68c4c68",
+        "title": "Genesis joins the giant electric SUV club with new GV90",
+        "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
+        "bullets": [
+          "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T14:35:58.000Z"
+      },
+      {
+        "id": "ai-43ebb463",
+        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+        "bullets": [
+          "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T00:13:44.000Z"
+      },
+      {
+        "id": "ai-69178687",
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "bullets": [
+          "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T22:36:37.000Z"
+      },
+      {
+        "id": "ai-84136b50",
+        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "bullets": [
+          "Ever wanted someone else to do your texting for you?",
+          "ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T22:09:51.000Z"
+      },
+      {
+        "id": "ai-16826914",
+        "title": "OK, can we actually cool data centers with our pee?",
+        "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+        "bullets": [
+          "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T20:53:13.000Z"
+      },
+      {
+        "id": "ai-1e20d1fc",
+        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+        "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+        "bullets": [
+          "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T19:18:21.000Z"
+      },
+      {
+        "id": "world-5efa59fe",
+        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+        "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+        "bullets": [
+          "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T18:55:14.000Z"
+      },
+      {
+        "id": "world-a9932bd2",
+        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+        "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "bullets": [
+          "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T23:16:45.000Z"
+      },
+      {
+        "id": "world-ea44e2c0",
+        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+        "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+        "bullets": [
+          "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T17:14:55.000Z"
+      },
+      {
+        "id": "world-7cb9e0be",
+        "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+        "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+        "bullets": [
+          "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T22:01:26.000Z"
+      },
+      {
+        "id": "world-988e1c05",
+        "title": "Dozens dead after boat capsizes in north-western Nigeria",
+        "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+        "bullets": [
+          "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-20T20:27:36.000Z"
+      }
+    ]
   }
 ]
