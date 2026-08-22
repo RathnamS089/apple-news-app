@@ -7747,21 +7747,8 @@
   },
   {
     "date": "2026-08-22",
-    "generatedAt": "2026-08-22T09:44:39.680Z",
+    "generatedAt": "2026-08-22T13:02:39.809Z",
     "articles": [
-      {
-        "id": "top-bffd3e17",
-        "title": "Multiple deaths after crash between police vehicle and car",
-        "summary": "\"A number of patients died at the scene\", ambulance officials say, after the collision near Middlesbrough.",
-        "bullets": [
-          "\"A number of patients died at the scene\", ambulance officials say, after the collision near Middlesbrough."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T09:37:37.000Z"
-      },
       {
         "id": "top-32013926",
         "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -7773,46 +7760,85 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T04:46:33.000Z"
+        "publishedAt": "2026-08-22T12:20:46.000Z"
       },
       {
-        "id": "top-49a6c34f",
-        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-        "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+        "id": "top-0e1ea547",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
         "bullets": [
-          "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the..."
+          "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T22:36:12.000Z"
+        "publishedAt": "2026-08-22T12:36:28.000Z"
       },
       {
-        "id": "top-26aa1fb6",
-        "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-        "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+        "id": "top-679db45a",
+        "title": "How this 1960s ex-council house is managing to stay cool without air con",
+        "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
         "bullets": [
-          "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex."
+          "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T09:09:41.000Z"
+        "publishedAt": "2026-08-21T23:56:48.000Z"
       },
       {
-        "id": "top-5404f52f",
-        "title": "More students planning to live at home for university over 'insane' living costs",
-        "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+        "id": "top-62a1ea20",
+        "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+        "summary": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
         "bullets": [
-          "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
+          "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T23:01:58.000Z"
+        "publishedAt": "2026-08-21T23:13:00.000Z"
+      },
+      {
+        "id": "top-94323a1f",
+        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+        "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+        "bullets": [
+          "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T08:40:49.000Z"
+      },
+      {
+        "id": "tech-517583a2",
+        "title": "Putting mice into hibernation causes a major loss of synapses",
+        "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+        "bullets": [
+          "Hibernation cuts down on synapses, but mice seem to retain memories anyway."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T11:22:32.000Z"
+      },
+      {
+        "id": "tech-e8c798b5",
+        "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+        "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+        "bullets": [
+          "Lands free of roads are under threat from the Trump administration’s proposed rollback."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T11:08:53.000Z"
       },
       {
         "id": "tech-e17be3a7",
@@ -7852,32 +7878,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-21T20:10:50.000Z"
-      },
-      {
-        "id": "tech-e34acb84",
-        "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-        "summary": "The private Android-based OS will expand beyond Pixels next year.",
-        "bullets": [
-          "The private Android-based OS will expand beyond Pixels next year."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T19:32:29.000Z"
-      },
-      {
-        "id": "tech-b65b1919",
-        "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-        "summary": "Logitech increased prices by up to 25 percent last year.",
-        "bullets": [
-          "Logitech increased prices by up to 25 percent last year."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T19:04:41.000Z"
       },
       {
         "id": "ai-ca49835f",
@@ -7920,19 +7920,6 @@
         "publishedAt": "2026-08-21T19:43:39.000Z"
       },
       {
-        "id": "ai-eac2d276",
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "summary": "There's about to be a big fight to secure access to space.",
-        "bullets": [
-          "There's about to be a big fight to secure access to space."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T14:00:00.000Z"
-      },
-      {
         "id": "ai-eacc9f74",
         "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
         "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has...",
@@ -7941,6 +7928,19 @@
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "id": "ai-eac2d276",
+        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "summary": "There's about to be a big fight to secure access to space.",
+        "bullets": [
+          "There's about to be a big fight to secure access to space."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-08-21T14:00:00.000Z"
@@ -7956,7 +7956,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T04:46:33.000Z"
+        "publishedAt": "2026-08-22T12:20:46.000Z"
       },
       {
         "id": "world-49a6c34f",
@@ -7985,30 +7985,30 @@
         "publishedAt": "2026-08-21T05:00:57.000Z"
       },
       {
-        "id": "world-8e3d34ed",
-        "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-        "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+        "id": "world-0e1ea547",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
         "bullets": [
-          "Nine people are still missing after the attack which left 130 injured, including a number of children."
+          "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T09:13:26.000Z"
+        "publishedAt": "2026-08-22T12:36:28.000Z"
       },
       {
-        "id": "world-b258bb8c",
-        "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-        "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+        "id": "world-399ca126",
+        "title": "One killed in sword attack at Swedish school",
+        "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
         "bullets": [
-          "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+          "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T03:43:26.000Z"
+        "publishedAt": "2026-08-21T21:03:24.000Z"
       }
     ]
   }
