@@ -7747,8 +7747,21 @@
   },
   {
     "date": "2026-08-22",
-    "generatedAt": "2026-08-22T18:50:42.288Z",
+    "generatedAt": "2026-08-22T21:38:24.551Z",
     "articles": [
+      {
+        "id": "top-a5943de4",
+        "title": "Two police officers among seven killed in wrong-way car crash",
+        "summary": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+        "bullets": [
+          "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T19:28:14.000Z"
+      },
       {
         "id": "top-7fe1784f",
         "title": "Video appears to show police chase minutes before fatal A66 crash",
@@ -7760,7 +7773,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T17:36:57.000Z"
+        "publishedAt": "2026-08-22T20:14:04.000Z"
       },
       {
         "id": "top-4f643e48",
@@ -7773,7 +7786,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T18:20:36.000Z"
+        "publishedAt": "2026-08-22T20:10:00.000Z"
       },
       {
         "id": "top-0e1ea547",
@@ -7800,19 +7813,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-21T23:56:48.000Z"
-      },
-      {
-        "id": "top-5d886c94",
-        "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-        "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
-        "bullets": [
-          "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T17:02:06.000Z"
       },
       {
         "id": "tech-517583a2",
@@ -7880,6 +7880,19 @@
         "publishedAt": "2026-08-21T20:10:50.000Z"
       },
       {
+        "id": "ai-1e26df9f",
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating...",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "bullets": [
+          "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T19:00:00.000Z"
+      },
+      {
         "id": "ai-41dec09d",
         "title": "OpenAI says California should strengthen its AI safety bill",
         "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
@@ -7933,19 +7946,6 @@
         "publishedAt": "2026-08-21T22:37:38.000Z"
       },
       {
-        "id": "ai-eb34c5eb",
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-        "bullets": [
-          "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T19:43:39.000Z"
-      },
-      {
         "id": "world-ba3722a9",
         "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
         "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
@@ -7956,7 +7956,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T18:20:36.000Z"
+        "publishedAt": "2026-08-22T20:10:00.000Z"
       },
       {
         "id": "world-438687a3",
@@ -7969,7 +7969,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T16:20:51.000Z"
+        "publishedAt": "2026-08-22T20:02:46.000Z"
       },
       {
         "id": "world-49a6c34f",
