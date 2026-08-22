@@ -7747,8 +7747,21 @@
   },
   {
     "date": "2026-08-22",
-    "generatedAt": "2026-08-22T07:01:15.055Z",
+    "generatedAt": "2026-08-22T09:44:39.680Z",
     "articles": [
+      {
+        "id": "top-bffd3e17",
+        "title": "Multiple deaths after crash between police vehicle and car",
+        "summary": "\"A number of patients died at the scene\", ambulance officials say, after the collision near Middlesbrough.",
+        "bullets": [
+          "\"A number of patients died at the scene\", ambulance officials say, after the collision near Middlesbrough."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T09:37:37.000Z"
+      },
       {
         "id": "top-32013926",
         "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -7786,7 +7799,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T22:28:37.000Z"
+        "publishedAt": "2026-08-22T09:09:41.000Z"
       },
       {
         "id": "top-5404f52f",
@@ -7800,19 +7813,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-21T23:01:58.000Z"
-      },
-      {
-        "id": "top-aa9353c3",
-        "title": "Burnham economic adviser O'Neill rules out government job",
-        "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
-        "bullets": [
-          "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T02:53:22.000Z"
       },
       {
         "id": "tech-e17be3a7",
@@ -7995,7 +7995,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T06:40:30.000Z"
+        "publishedAt": "2026-08-22T09:13:26.000Z"
       },
       {
         "id": "world-b258bb8c",
