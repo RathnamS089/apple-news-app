@@ -7747,20 +7747,33 @@
   },
   {
     "date": "2026-08-22",
-    "generatedAt": "2026-08-22T15:37:14.826Z",
+    "generatedAt": "2026-08-22T18:50:42.288Z",
     "articles": [
       {
-        "id": "top-32013926",
-        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-        "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+        "id": "top-7fe1784f",
+        "title": "Video appears to show police chase minutes before fatal A66 crash",
+        "summary": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
         "bullets": [
-          "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+          "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T12:20:46.000Z"
+        "publishedAt": "2026-08-22T17:36:57.000Z"
+      },
+      {
+        "id": "top-4f643e48",
+        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "bullets": [
+          "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T18:20:36.000Z"
       },
       {
         "id": "top-0e1ea547",
@@ -7789,31 +7802,17 @@
         "publishedAt": "2026-08-21T23:56:48.000Z"
       },
       {
-        "id": "top-294eb240",
-        "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-        "summary": "They will not be working royals when they come back. So what could they be doing instead?",
+        "id": "top-5d886c94",
+        "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+        "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
         "bullets": [
-          "They will not be working royals when they come back.",
-          "So what could they be doing instead?"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T00:03:10.000Z"
-      },
-      {
-        "id": "top-04209700",
-        "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-        "summary": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
-        "bullets": [
-          "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says."
+          "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T14:10:05.000Z"
+        "publishedAt": "2026-08-22T17:02:06.000Z"
       },
       {
         "id": "tech-517583a2",
@@ -7881,6 +7880,32 @@
         "publishedAt": "2026-08-21T20:10:50.000Z"
       },
       {
+        "id": "ai-41dec09d",
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "bullets": [
+          "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T16:30:34.000Z"
+      },
+      {
+        "id": "ai-1c9cef7d",
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "bullets": [
+          "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T16:00:00.000Z"
+      },
+      {
         "id": "ai-ca49835f",
         "title": "Anthropic’s Opus 4.6 is a smut-machine",
         "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
@@ -7921,56 +7946,30 @@
         "publishedAt": "2026-08-21T19:43:39.000Z"
       },
       {
-        "id": "ai-eac2d276",
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "summary": "There's about to be a big fight to secure access to space.",
+        "id": "world-ba3722a9",
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
         "bullets": [
-          "There's about to be a big fight to secure access to space."
+          "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T14:00:00.000Z"
-      },
-      {
-        "id": "ai-eacc9f74",
-        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-        "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has...",
-        "bullets": [
-          "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T14:00:00.000Z"
+        "publishedAt": "2026-08-22T18:20:36.000Z"
       },
       {
         "id": "world-438687a3",
         "title": "Carney faces crucial test after walking away from Trump's deal",
-        "summary": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
         "bullets": [
-          "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences."
+          "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T15:00:27.000Z"
-      },
-      {
-        "id": "world-32013926",
-        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-        "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-        "bullets": [
-          "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T12:20:46.000Z"
+        "publishedAt": "2026-08-22T16:20:51.000Z"
       },
       {
         "id": "world-49a6c34f",
@@ -7999,17 +7998,17 @@
         "publishedAt": "2026-08-22T13:48:06.000Z"
       },
       {
-        "id": "world-63f25b94",
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "id": "world-0e1ea547",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
         "bullets": [
-          "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian..."
+          "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-21T05:00:57.000Z"
+        "publishedAt": "2026-08-22T13:13:16.000Z"
       }
     ]
   }
