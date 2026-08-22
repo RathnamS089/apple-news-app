@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-07-23",
-    "generatedAt": "2026-07-23T22:16:36.893Z",
-    "articles": [
-      {
-        "id": "top-782dc851",
-        "title": "Burnham pauses plan to release some prisoners early from September",
-        "summary": "The prime minister says no prisoners will be released until a review has been conducted.",
-        "bullets": [
-          "The prime minister says no prisoners will be released until a review has been conducted."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T18:17:54.000Z"
-      },
-      {
-        "id": "top-5888ca98",
-        "title": "Mum and daughter who died at beach were trying to save boy, 7",
-        "summary": "Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say.",
-        "bullets": [
-          "Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T17:23:21.000Z"
-      },
-      {
-        "id": "top-1e3fa09c",
-        "title": "US announces tariffs on dozens of countries over forced labour concerns",
-        "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-        "bullets": [
-          "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T21:46:34.000Z"
-      },
-      {
-        "id": "top-fe79304a",
-        "title": "Oil prices hit $100 for the first time since May",
-        "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-        "bullets": [
-          "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T15:31:00.000Z"
-      },
-      {
-        "id": "top-641d2f89",
-        "title": "PM to spend first day working from northern branch of No 10",
-        "summary": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
-        "bullets": [
-          "Various ministers are also set to work regularly from the northern branch of Downing Street."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T21:31:03.000Z"
-      },
-      {
-        "id": "tech-09958433",
-        "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-        "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
-        "bullets": [
-          "App is installed through Windows Update when certain LG monitors connect to a PC."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T20:47:33.000Z"
-      },
-      {
-        "id": "tech-4773e75b",
-        "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-        "summary": "The FDA hasn't said where the cases are or how they're linked.",
-        "bullets": [
-          "The FDA hasn't said where the cases are or how they're linked."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T19:22:36.000Z"
-      },
-      {
-        "id": "tech-9beedce8",
-        "title": "Forgot your Google password? Now you can log in with a selfie.",
-        "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
-        "bullets": [
-          "Google's selfie videos can be used for account access, AI Avatars, and age verification."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T19:14:25.000Z"
-      },
-      {
-        "id": "tech-5bc4e21b",
-        "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-        "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
-        "bullets": [
-          "Bill would let Homeland Security chief decide when an AI should be shut down."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T19:08:01.000Z"
-      },
-      {
-        "id": "tech-d3ad6717",
-        "title": "Final Coyote vs. Acme trailer drops at SDCC",
-        "summary": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
-        "bullets": [
-          "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T18:01:46.000Z"
-      },
-      {
-        "id": "ai-87963e23",
-        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-        "bullets": [
-          "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T20:33:02.000Z"
-      },
-      {
-        "id": "ai-825d80b9",
-        "title": "Anthropic updates Claude voice mode with more capable models",
-        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-        "bullets": [
-          "Claude's new voice model will let you reschedule your meeting or draft an email."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T19:00:00.000Z"
-      },
-      {
-        "id": "ai-206ab012",
-        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-        "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-        "bullets": [
-          "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T18:38:34.000Z"
-      },
-      {
-        "id": "ai-c1b8976e",
-        "title": "Runway launches AI model router as generative media gets crowded",
-        "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-        "bullets": [
-          "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T17:07:35.000Z"
-      },
-      {
-        "id": "ai-bd85123e",
-        "title": "OpenAI makes ChatGPT Health available to all US users",
-        "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-        "bullets": [
-          "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T17:00:00.000Z"
-      },
-      {
-        "id": "world-fe79304a",
-        "title": "Oil prices hit $100 for the first time since May",
-        "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-        "bullets": [
-          "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T15:31:00.000Z"
-      },
-      {
-        "id": "world-969f79b6",
-        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-        "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-        "bullets": [
-          "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T17:58:02.000Z"
-      },
-      {
-        "id": "world-8d9c3218",
-        "title": "France evacuates 20,000 as wildfires spread in south-west",
-        "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-        "bullets": [
-          "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T19:17:42.000Z"
-      },
-      {
-        "id": "world-26c9cd41",
-        "title": "India activist ends hunger strike after 26 days",
-        "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
-        "bullets": [
-          "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T21:27:04.000Z"
-      },
-      {
-        "id": "world-e3cb0fe4",
-        "title": "Ukraine's ousted defence minister insists on being reinstated",
-        "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-        "bullets": [
-          "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-23T17:37:59.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-07-24",
     "generatedAt": "2026-07-24T22:28:55.271Z",
     "articles": [
@@ -8008,6 +7742,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-21T15:58:57.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "generatedAt": "2026-08-22T01:52:07.070Z",
+    "articles": [
+      {
+        "id": "top-26aa1fb6",
+        "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+        "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+        "bullets": [
+          "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T22:28:37.000Z"
+      },
+      {
+        "id": "top-cde65522",
+        "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+        "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+        "bullets": [
+          "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T17:18:41.000Z"
+      },
+      {
+        "id": "top-5404f52f",
+        "title": "More students planning to live at home for university over 'insane' living costs",
+        "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+        "bullets": [
+          "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T23:01:58.000Z"
+      },
+      {
+        "id": "top-442d781b",
+        "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+        "bullets": [
+          "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T01:47:54.000Z"
+      },
+      {
+        "id": "top-49a6c34f",
+        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+        "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+        "bullets": [
+          "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T22:36:12.000Z"
+      },
+      {
+        "id": "tech-e17be3a7",
+        "title": "Trump's space transportation policy calls for new spaceport on federal land",
+        "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+        "bullets": [
+          "\"We probably need another site that's capable of heavy and super heavy launch capability.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T23:32:17.000Z"
+      },
+      {
+        "id": "tech-8de8aa2c",
+        "title": "Thunder + fiber-optic cabling used for seismic imaging",
+        "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
+        "bullets": [
+          "Thunderstorms make seismic waves that can be used to find sub-surface features."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T20:26:46.000Z"
+      },
+      {
+        "id": "tech-808e8676",
+        "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+        "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+        "bullets": [
+          "Renters say hidden Zillow listings make it harder to afford living in New York City."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T20:10:50.000Z"
+      },
+      {
+        "id": "tech-e34acb84",
+        "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+        "summary": "The private Android-based OS will expand beyond Pixels next year.",
+        "bullets": [
+          "The private Android-based OS will expand beyond Pixels next year."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T19:32:29.000Z"
+      },
+      {
+        "id": "tech-b65b1919",
+        "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
+        "summary": "Logitech increased prices by up to 25 percent last year.",
+        "bullets": [
+          "Logitech increased prices by up to 25 percent last year."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T19:04:41.000Z"
+      },
+      {
+        "id": "ai-ca49835f",
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "bullets": [
+          "Anthropic forbids its Claude models from generating sexually explicit content.",
+          "But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T23:07:25.000Z"
+      },
+      {
+        "id": "ai-2136bce0",
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+        "bullets": [
+          "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T22:37:38.000Z"
+      },
+      {
+        "id": "ai-eb34c5eb",
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+        "bullets": [
+          "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T19:43:39.000Z"
+      },
+      {
+        "id": "ai-eacc9f74",
+        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+        "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has...",
+        "bullets": [
+          "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "id": "ai-eac2d276",
+        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "summary": "There's about to be a big fight to secure access to space.",
+        "bullets": [
+          "There's about to be a big fight to secure access to space."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T14:00:00.000Z"
+      },
+      {
+        "id": "world-3ed14476",
+        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+        "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+        "bullets": [
+          "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T00:40:47.000Z"
+      },
+      {
+        "id": "world-49a6c34f",
+        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+        "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+        "bullets": [
+          "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T22:36:12.000Z"
+      },
+      {
+        "id": "world-63f25b94",
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "bullets": [
+          "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T05:00:57.000Z"
+      },
+      {
+        "id": "world-442d781b",
+        "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+        "bullets": [
+          "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T01:47:54.000Z"
+      },
+      {
+        "id": "world-399ca126",
+        "title": "One killed in sword attack at Swedish school",
+        "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+        "bullets": [
+          "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T21:03:24.000Z"
       }
     ]
   }
