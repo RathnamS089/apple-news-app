@@ -7748,8 +7748,21 @@
   },
   {
     "date": "2026-08-23",
-    "generatedAt": "2026-08-23T18:50:05.239Z",
+    "generatedAt": "2026-08-23T21:37:28.192Z",
     "articles": [
+      {
+        "id": "top-1d34b81c",
+        "title": "Families of two police officers killed in crash say they were heroes",
+        "summary": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.",
+        "bullets": [
+          "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T21:22:17.000Z"
+      },
       {
         "id": "top-698487a5",
         "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
@@ -7761,59 +7774,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T14:58:40.000Z"
+        "publishedAt": "2026-08-23T21:05:43.000Z"
       },
       {
-        "id": "top-9f598c7b",
-        "title": "CrossCountry cancels 'almost all' UK services after power cut",
-        "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+        "id": "top-b566d930",
+        "title": "CrossCountry to provide full service on Monday after major disruption",
+        "summary": "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible.",
         "bullets": [
-          "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\"."
+          "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T14:05:16.000Z"
+        "publishedAt": "2026-08-23T19:00:31.000Z"
       },
       {
-        "id": "top-cc793284",
-        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "id": "top-c08d4237",
+        "title": "Trump waves green flag to start IndyCar race through Washington streets",
+        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
         "bullets": [
-          "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+          "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T05:46:43.000Z"
+        "publishedAt": "2026-08-23T20:19:36.000Z"
       },
       {
-        "id": "top-1fd907fc",
-        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-        "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+        "id": "top-256c2981",
+        "title": "Reform says it will prioritise British-born young workers for social housing",
+        "summary": "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\".",
         "bullets": [
-          "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
+          "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T12:56:43.000Z"
-      },
-      {
-        "id": "top-3d432d86",
-        "title": "Newcastle and Liverpool united in tribute to legend Keegan",
-        "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
-        "bullets": [
-          "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T15:53:38.000Z"
+        "publishedAt": "2026-08-23T21:07:47.000Z"
       },
       {
         "id": "tech-914c55fb",
@@ -7881,6 +7881,32 @@
         "publishedAt": "2026-08-21T23:32:17.000Z"
       },
       {
+        "id": "ai-c29ca7bd",
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "bullets": [
+          "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T20:01:36.000Z"
+      },
+      {
+        "id": "ai-c2c2802d",
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "bullets": [
+          "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T19:14:08.000Z"
+      },
+      {
         "id": "ai-e8d3a7ca",
         "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
         "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
@@ -7921,32 +7947,6 @@
         "publishedAt": "2026-08-22T21:46:56.000Z"
       },
       {
-        "id": "ai-1e26df9f",
-        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating...",
-        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-        "bullets": [
-          "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T19:00:00.000Z"
-      },
-      {
-        "id": "ai-41dec09d",
-        "title": "OpenAI says California should strengthen its AI safety bill",
-        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-        "bullets": [
-          "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T16:30:34.000Z"
-      },
-      {
         "id": "world-1fd907fc",
         "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
         "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
@@ -7970,7 +7970,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T05:46:43.000Z"
+        "publishedAt": "2026-08-23T19:11:30.000Z"
       },
       {
         "id": "world-30e14d83",
