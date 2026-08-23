@@ -7748,8 +7748,21 @@
   },
   {
     "date": "2026-08-23",
-    "generatedAt": "2026-08-23T02:01:03.997Z",
+    "generatedAt": "2026-08-23T04:02:58.430Z",
     "articles": [
+      {
+        "id": "top-0cad591d",
+        "title": "Mayors to get powers to overrule local councils on planning decisions",
+        "summary": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+        "bullets": [
+          "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T03:10:51.000Z"
+      },
       {
         "id": "top-a5943de4",
         "title": "Two police officers among seven killed in wrong-way car crash",
@@ -7762,19 +7775,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-22T19:28:14.000Z"
-      },
-      {
-        "id": "top-7fe1784f",
-        "title": "Video appears to show police chase minutes before fatal A66 crash",
-        "summary": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
-        "bullets": [
-          "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T20:14:04.000Z"
       },
       {
         "id": "top-e7d27292",
@@ -7790,6 +7790,19 @@
         "publishedAt": "2026-08-22T23:00:03.000Z"
       },
       {
+        "id": "top-6cbf591b",
+        "title": "Restriction zone scheme for offenders to start in October",
+        "summary": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
+        "bullets": [
+          "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T02:37:03.000Z"
+      },
+      {
         "id": "top-4f643e48",
         "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
         "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
@@ -7801,19 +7814,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-22T20:10:00.000Z"
-      },
-      {
-        "id": "top-0e1ea547",
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-        "bullets": [
-          "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T13:13:16.000Z"
       },
       {
         "id": "tech-517583a2",
