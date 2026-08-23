@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-07-24",
-    "generatedAt": "2026-07-24T22:28:55.271Z",
-    "articles": [
-      {
-        "id": "top-d97645ca",
-        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-        "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-        "bullets": [
-          "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:47:16.000Z"
-      },
-      {
-        "id": "top-5a6d64fb",
-        "title": "Law student is charged over intercepted bomb in car",
-        "summary": "Isobella Perrie Sullivan's lawyer says she did not know that a bag in the car she was driving contained a bomb.",
-        "bullets": [
-          "Isobella Perrie Sullivan's lawyer says she did not know that a bag in the car she was driving contained a bomb."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:51:53.000Z"
-      },
-      {
-        "id": "top-bf6d224e",
-        "title": "Watch moment of explosion as huge fire breaks out in Essex",
-        "summary": "More than 100 firefighters were sent to tackle a huge fire at industrial units on a farm on Friday.",
-        "bullets": [
-          "More than 100 firefighters were sent to tackle a huge fire at industrial units on a farm on Friday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvg9e334d0yo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:48:49.000Z"
-      },
-      {
-        "id": "top-b494f7c3",
-        "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
-        "summary": "Craig Bowe says he heard screams during a trip to a beach to celebrate his daughter's birthday.",
-        "bullets": [
-          "Craig Bowe says he heard screams during a trip to a beach to celebrate his daughter's birthday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:14:02.000Z"
-      },
-      {
-        "id": "top-74b71684",
-        "title": "Andy Burnham's first week pledges - how much do they add up to?",
-        "summary": "BBC Verify has looked at how much Burnham's new spending commitments cost and how they will be paid for",
-        "bullets": [
-          "BBC Verify has looked at how much Burnham's new spending commitments cost and how they will be paid for"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T13:04:47.000Z"
-      },
-      {
-        "id": "tech-eed396fc",
-        "title": "Canadian legislator reads out apparent LLM response in floor speech",
-        "summary": "\"Here’s a more natural, flowing version of that section...\"",
-        "bullets": [
-          "\"Here’s a more natural, flowing version of that section...\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:25:15.000Z"
-      },
-      {
-        "id": "tech-b15ab03a",
-        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-        "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-        "bullets": [
-          "Models are improving quickly, but the cheaper options are often good enough."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:05:51.000Z"
-      },
-      {
-        "id": "tech-262b631b",
-        "title": "Roku raises streaming stick prices by up to 60 percent",
-        "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
-        "bullets": [
-          "Roku blames RAM shortage after CEO called it \"great\" for business in May."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T19:41:06.000Z"
-      },
-      {
-        "id": "tech-6be205ca",
-        "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
-        "summary": "There's no human safety or efficacy data, but that no longer seems to matter.",
-        "bullets": [
-          "There's no human safety or efficacy data, but that no longer seems to matter."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T19:10:09.000Z"
-      },
-      {
-        "id": "tech-ce027a7c",
-        "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
-        "summary": "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US.",
-        "bullets": [
-          "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T18:02:21.000Z"
-      },
-      {
-        "id": "ai-f4551652",
-        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-        "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-        "bullets": [
-          "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T22:25:58.000Z"
-      },
-      {
-        "id": "ai-92d44891",
-        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-        "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent...",
-        "bullets": [
-          "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T18:07:32.000Z"
-      },
-      {
-        "id": "ai-2e126baf",
-        "title": "Anthropic launches Opus 5",
-        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "bullets": [
-          "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T17:00:00.000Z"
-      },
-      {
-        "id": "ai-6dbf0397",
-        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "bullets": [
-          "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T15:51:49.000Z"
-      },
-      {
-        "id": "ai-cb74f27e",
-        "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-        "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-        "bullets": [
-          "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T15:13:57.000Z"
-      },
-      {
-        "id": "world-d97645ca",
-        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-        "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-        "bullets": [
-          "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:47:16.000Z"
-      },
-      {
-        "id": "world-5788d3f7",
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-        "bullets": [
-          "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T18:51:17.000Z"
-      },
-      {
-        "id": "world-fbafc0be",
-        "title": "Trump vows to investigate EU over fining of US tech companies",
-        "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-        "bullets": [
-          "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\""
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T20:23:58.000Z"
-      },
-      {
-        "id": "world-efed094b",
-        "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-        "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-        "bullets": [
-          "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T18:13:02.000Z"
-      },
-      {
-        "id": "world-d807375f",
-        "title": "ICC top prosecutor removed over sexual misconduct allegations",
-        "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
-        "bullets": [
-          "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T21:02:30.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-07-25",
     "generatedAt": "2026-07-25T22:12:15.497Z",
     "articles": [
@@ -8009,6 +7743,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-22T13:13:16.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "generatedAt": "2026-08-23T02:01:03.997Z",
+    "articles": [
+      {
+        "id": "top-a5943de4",
+        "title": "Two police officers among seven killed in wrong-way car crash",
+        "summary": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+        "bullets": [
+          "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T19:28:14.000Z"
+      },
+      {
+        "id": "top-7fe1784f",
+        "title": "Video appears to show police chase minutes before fatal A66 crash",
+        "summary": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
+        "bullets": [
+          "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T20:14:04.000Z"
+      },
+      {
+        "id": "top-e7d27292",
+        "title": "Struggling households need more help with bills, energy industry says",
+        "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+        "bullets": [
+          "Industry body Energy UK says the current support for households most in need does not go far enough."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T23:00:03.000Z"
+      },
+      {
+        "id": "top-4f643e48",
+        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "bullets": [
+          "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T20:10:00.000Z"
+      },
+      {
+        "id": "top-0e1ea547",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "bullets": [
+          "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T13:13:16.000Z"
+      },
+      {
+        "id": "tech-517583a2",
+        "title": "Putting mice into hibernation causes a major loss of synapses",
+        "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+        "bullets": [
+          "Hibernation cuts down on synapses, but mice seem to retain memories anyway."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T11:22:32.000Z"
+      },
+      {
+        "id": "tech-e8c798b5",
+        "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+        "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+        "bullets": [
+          "Lands free of roads are under threat from the Trump administration’s proposed rollback."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T11:08:53.000Z"
+      },
+      {
+        "id": "tech-e17be3a7",
+        "title": "Trump's space transportation policy calls for new spaceport on federal land",
+        "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+        "bullets": [
+          "\"We probably need another site that's capable of heavy and super heavy launch capability.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T23:32:17.000Z"
+      },
+      {
+        "id": "tech-8de8aa2c",
+        "title": "Thunder + fiber-optic cabling used for seismic imaging",
+        "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
+        "bullets": [
+          "Thunderstorms make seismic waves that can be used to find sub-surface features."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T20:26:46.000Z"
+      },
+      {
+        "id": "tech-808e8676",
+        "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+        "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+        "bullets": [
+          "Renters say hidden Zillow listings make it harder to afford living in New York City."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T20:10:50.000Z"
+      },
+      {
+        "id": "ai-6c9117bf",
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "bullets": [
+          "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T21:46:56.000Z"
+      },
+      {
+        "id": "ai-1e26df9f",
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating...",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "bullets": [
+          "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T19:00:00.000Z"
+      },
+      {
+        "id": "ai-41dec09d",
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "bullets": [
+          "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T16:30:34.000Z"
+      },
+      {
+        "id": "ai-1c9cef7d",
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "bullets": [
+          "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T16:00:00.000Z"
+      },
+      {
+        "id": "ai-ca49835f",
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "bullets": [
+          "Anthropic forbids its Claude models from generating sexually explicit content.",
+          "But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T23:07:25.000Z"
+      },
+      {
+        "id": "world-ba3722a9",
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "bullets": [
+          "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T20:10:00.000Z"
+      },
+      {
+        "id": "world-438687a3",
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "bullets": [
+          "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T20:02:46.000Z"
+      },
+      {
+        "id": "world-0e1ea547",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "bullets": [
+          "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T13:13:16.000Z"
+      },
+      {
+        "id": "world-61efccfa",
+        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+        "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+        "bullets": [
+          "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T14:35:11.000Z"
+      },
+      {
+        "id": "world-a9c41b9e",
+        "title": "Syria says Israeli strike near Damascus violation of international law",
+        "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+        "bullets": [
+          "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T21:42:42.000Z"
       }
     ]
   }
