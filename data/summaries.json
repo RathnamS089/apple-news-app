@@ -7748,8 +7748,21 @@
   },
   {
     "date": "2026-08-23",
-    "generatedAt": "2026-08-23T04:02:58.430Z",
+    "generatedAt": "2026-08-23T07:03:16.664Z",
     "articles": [
+      {
+        "id": "top-94e1e9f3",
+        "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
+        "summary": "PC Matthew Blades, PC Tom Clough and five young people were killed when a car drove the wrong way on the A66 and struck the police vehicle.",
+        "bullets": [
+          "PC Matthew Blades, PC Tom Clough and five young people were killed when a car drove the wrong way on the A66 and struck the police vehicle."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T07:01:43.000Z"
+      },
       {
         "id": "top-0cad591d",
         "title": "Mayors to get powers to overrule local councils on planning decisions",
@@ -7764,17 +7777,17 @@
         "publishedAt": "2026-08-23T03:10:51.000Z"
       },
       {
-        "id": "top-a5943de4",
-        "title": "Two police officers among seven killed in wrong-way car crash",
-        "summary": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+        "id": "top-67fd8a58",
+        "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
         "bullets": [
-          "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle."
+          "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T19:28:14.000Z"
+        "publishedAt": "2026-08-23T05:46:43.000Z"
       },
       {
         "id": "top-e7d27292",
@@ -7801,19 +7814,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-23T02:37:03.000Z"
-      },
-      {
-        "id": "top-4f643e48",
-        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-        "bullets": [
-          "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T20:10:00.000Z"
       },
       {
         "id": "tech-517583a2",
@@ -7947,8 +7947,8 @@
         "publishedAt": "2026-08-21T23:07:25.000Z"
       },
       {
-        "id": "world-ba3722a9",
-        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "id": "world-67fd8a58",
+        "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
         "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
         "bullets": [
           "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
@@ -7957,7 +7957,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-22T20:10:00.000Z"
+        "publishedAt": "2026-08-23T05:46:43.000Z"
       },
       {
         "id": "world-438687a3",
