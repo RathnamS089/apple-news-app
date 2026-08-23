@@ -7748,7 +7748,7 @@
   },
   {
     "date": "2026-08-23",
-    "generatedAt": "2026-08-23T09:44:58.303Z",
+    "generatedAt": "2026-08-23T13:03:52.944Z",
     "articles": [
       {
         "id": "top-cc793284",
@@ -7774,46 +7774,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T03:10:51.000Z"
+        "publishedAt": "2026-08-23T10:02:23.000Z"
       },
       {
-        "id": "top-79a9e565",
-        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-        "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+        "id": "top-1fd907fc",
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "summary": "The former defence minister has also called for wartime elections to be held in Ukraine.",
         "bullets": [
-          "The sacked former defence minister has also called for elections to be held in Ukraine."
+          "The former defence minister has also called for wartime elections to be held in Ukraine."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T09:37:05.000Z"
+        "publishedAt": "2026-08-23T12:56:43.000Z"
       },
       {
-        "id": "top-ed812582",
-        "title": "Plan to restrict serious offenders to certain areas to start in October",
-        "summary": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
+        "id": "top-d5626316",
+        "title": "How a new era of heatwaves could shake up the school calendar",
+        "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
         "bullets": [
-          "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation."
+          "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T02:37:03.000Z"
+        "publishedAt": "2026-08-22T23:16:43.000Z"
       },
       {
-        "id": "top-74dfb758",
-        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-        "summary": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+        "id": "top-9f598c7b",
+        "title": "CrossCountry cancels 'almost all' UK services after power cut",
+        "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
         "bullets": [
-          "The government says at no point was there a risk to the UK's energy system during the attack in July."
+          "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T02:48:41.000Z"
+        "publishedAt": "2026-08-23T12:38:01.000Z"
+      },
+      {
+        "id": "tech-50e2f75c",
+        "title": "Volcanoes that made history",
+        "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+        "bullets": [
+          "Enormous eruptions altered Earth’s climate and societies all over the globe."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T11:02:54.000Z"
       },
       {
         "id": "tech-517583a2",
@@ -7866,19 +7879,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-21T20:26:46.000Z"
-      },
-      {
-        "id": "tech-808e8676",
-        "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-        "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
-        "bullets": [
-          "Renters say hidden Zillow listings make it harder to afford living in New York City."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T20:10:50.000Z"
       },
       {
         "id": "ai-6c9117bf",
@@ -7960,17 +7960,17 @@
         "publishedAt": "2026-08-23T05:46:43.000Z"
       },
       {
-        "id": "world-79a9e565",
-        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-        "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+        "id": "world-1fd907fc",
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "summary": "The former defence minister has also called for wartime elections to be held in Ukraine.",
         "bullets": [
-          "The sacked former defence minister has also called for elections to be held in Ukraine."
+          "The former defence minister has also called for wartime elections to be held in Ukraine."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T09:37:05.000Z"
+        "publishedAt": "2026-08-23T12:56:43.000Z"
       },
       {
         "id": "world-d69dac58",
@@ -7999,17 +7999,17 @@
         "publishedAt": "2026-08-22T14:35:11.000Z"
       },
       {
-        "id": "world-03611c09",
-        "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-        "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+        "id": "world-13cf7ba3",
+        "title": "The hotel booking mix-up that could free mushroom murderer",
+        "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
         "bullets": [
-          "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
+          "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T03:44:19.000Z"
+        "publishedAt": "2026-08-22T19:03:03.000Z"
       }
     ]
   }
