@@ -7748,59 +7748,46 @@
   },
   {
     "date": "2026-08-24",
-    "generatedAt": "2026-08-24T13:15:19.533Z",
+    "generatedAt": "2026-08-24T15:57:57.177Z",
     "articles": [
       {
-        "id": "top-1f475696",
-        "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-        "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
+        "id": "top-4fd971b3",
+        "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
         "bullets": [
-          "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos."
+          "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T12:28:16.000Z"
+        "publishedAt": "2026-08-24T15:54:16.000Z"
       },
       {
-        "id": "top-8c41a247",
-        "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-        "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+        "id": "top-eaa95fb6",
+        "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+        "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
         "bullets": [
-          "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country."
+          "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T05:00:22.000Z"
+        "publishedAt": "2026-08-24T15:14:14.000Z"
       },
       {
-        "id": "top-f3ec3a14",
-        "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-        "summary": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+        "id": "top-ad1caa81",
+        "title": "Snooker champion Graeme Dott guilty of child sex abuse",
+        "summary": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
         "bullets": [
-          "Job site Adzuna said the number of graduate vacancies was the lowest since 2016"
+          "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T10:55:47.000Z"
-      },
-      {
-        "id": "top-0eb650a4",
-        "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
-        "summary": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
-        "bullets": [
-          "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T05:15:25.000Z"
+        "publishedAt": "2026-08-24T14:29:00.000Z"
       },
       {
         "id": "top-8eedec18",
@@ -7814,6 +7801,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-24T10:13:58.000Z"
+      },
+      {
+        "id": "top-8f68fa52",
+        "title": "Prince Harry steps down from African wildlife charity board",
+        "summary": "Last year the organisation African Parks admitted human rights abuses were committed by its rangers in Congo-Brazzaville.",
+        "bullets": [
+          "Last year the organisation African Parks admitted human rights abuses were committed by its rangers in Congo-Brazzaville."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T15:28:06.000Z"
       },
       {
         "id": "tech-06a4e247",
@@ -7881,6 +7881,46 @@
         "publishedAt": "2026-08-22T11:08:53.000Z"
       },
       {
+        "id": "ai-08758c97",
+        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures,...",
+        "bullets": [
+          "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures,..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T15:24:18.000Z"
+      },
+      {
+        "id": "ai-c1308037",
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+        "bullets": [
+          "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T15:00:00.000Z"
+      },
+      {
+        "id": "ai-f323c478",
+        "title": "Hugging Face reportedly in talks to be acquired for $13B",
+        "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+        "bullets": [
+          "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B.",
+          "But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T13:47:26.000Z"
+      },
+      {
         "id": "ai-c29ca7bd",
         "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
         "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
@@ -7907,44 +7947,30 @@
         "publishedAt": "2026-08-23T19:14:08.000Z"
       },
       {
-        "id": "ai-e8d3a7ca",
-        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-        "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+        "id": "world-9b5d30b4",
+        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+        "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
         "bullets": [
-          "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+          "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T15:30:00.000Z"
+        "publishedAt": "2026-08-24T13:35:07.000Z"
       },
       {
-        "id": "ai-8497ae17",
-        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-        "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+        "id": "world-fc22403c",
+        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
         "bullets": [
-          "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their...",
-          "That seems illegal, right?"
+          "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T15:00:00.000Z"
-      },
-      {
-        "id": "ai-6c9117bf",
-        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-        "bullets": [
-          "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T21:46:56.000Z"
+        "publishedAt": "2026-08-24T15:54:16.000Z"
       },
       {
         "id": "world-0d0a9e25",
@@ -7960,17 +7986,17 @@
         "publishedAt": "2026-08-24T10:40:22.000Z"
       },
       {
-        "id": "world-9b5d30b4",
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-        "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+        "id": "world-dc7ef320",
+        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+        "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
         "bullets": [
-          "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+          "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T10:39:23.000Z"
+        "publishedAt": "2026-08-24T13:56:22.000Z"
       },
       {
         "id": "world-1a3de145",
@@ -7984,32 +8010,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-24T08:31:55.000Z"
-      },
-      {
-        "id": "world-4de76c18",
-        "title": "Nearly three million Teslas recalled in China over hidden door handles",
-        "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-        "bullets": [
-          "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T05:01:17.000Z"
-      },
-      {
-        "id": "world-207bc9af",
-        "title": "Access to Zambian courts prevented as election petition deadline looms",
-        "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-        "bullets": [
-          "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T11:17:28.000Z"
       }
     ]
   }
