@@ -7748,46 +7748,20 @@
   },
   {
     "date": "2026-08-24",
-    "generatedAt": "2026-08-24T07:30:15.986Z",
+    "generatedAt": "2026-08-24T10:06:12.340Z",
     "articles": [
       {
-        "id": "top-1d34b81c",
-        "title": "Families of two police officers killed in crash say they were heroes",
-        "summary": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.",
+        "id": "top-99957ef2",
+        "title": "Social media firms should remove dangerous driving videos, minister says",
+        "summary": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
         "bullets": [
-          "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle."
+          "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T07:18:06.000Z"
-      },
-      {
-        "id": "top-3511992e",
-        "title": "How easy is it to find an NHS dentist? It depends where you live",
-        "summary": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.",
-        "bullets": [
-          "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T23:10:18.000Z"
-      },
-      {
-        "id": "top-4de76c18",
-        "title": "Nearly three million Teslas recalled in China over hidden door handles",
-        "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-        "bullets": [
-          "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T05:01:17.000Z"
+        "publishedAt": "2026-08-24T09:48:43.000Z"
       },
       {
         "id": "top-8c41a247",
@@ -7803,17 +7777,43 @@
         "publishedAt": "2026-08-24T05:00:22.000Z"
       },
       {
-        "id": "top-15d4bf52",
-        "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-        "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+        "id": "top-c9cd1ad0",
+        "title": "Tesla recalls nearly three million cars in China over hidden door handles",
+        "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
         "bullets": [
-          "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
+          "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T03:55:35.000Z"
+        "publishedAt": "2026-08-24T05:01:17.000Z"
+      },
+      {
+        "id": "top-0eb650a4",
+        "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+        "summary": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
+        "bullets": [
+          "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T05:15:25.000Z"
+      },
+      {
+        "id": "top-d8c124c0",
+        "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+        "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+        "bullets": [
+          "The fire has burned around 10,500 acres and is completely uncontained, officials say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T08:34:26.000Z"
       },
       {
         "id": "tech-914c55fb",
@@ -7960,6 +7960,19 @@
         "publishedAt": "2026-08-24T05:00:22.000Z"
       },
       {
+        "id": "world-d8c124c0",
+        "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+        "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+        "bullets": [
+          "The fire has burned around 10,500 acres and is completely uncontained, officials say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T08:34:26.000Z"
+      },
+      {
         "id": "world-cc793284",
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
@@ -7973,43 +7986,30 @@
         "publishedAt": "2026-08-23T19:11:30.000Z"
       },
       {
-        "id": "world-2e708258",
-        "title": "Shein aims for almost $27bn valuation in stock market debut",
-        "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+        "id": "world-4de76c18",
+        "title": "Nearly three million Teslas recalled in China over hidden door handles",
+        "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
         "bullets": [
-          "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
+          "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T07:00:53.000Z"
+        "publishedAt": "2026-08-24T05:01:17.000Z"
       },
       {
-        "id": "world-541c5ee7",
-        "title": "China probes use of formaldehyde to keep cabbages fresh",
-        "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+        "id": "world-1a3de145",
+        "title": "King of Norway's health has worsened, palace says",
+        "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
         "bullets": [
-          "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages."
+          "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T05:40:48.000Z"
-      },
-      {
-        "id": "world-15d4bf52",
-        "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-        "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-        "bullets": [
-          "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T03:55:35.000Z"
+        "publishedAt": "2026-08-24T08:31:55.000Z"
       }
     ]
   }
