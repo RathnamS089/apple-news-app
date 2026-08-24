@@ -7748,7 +7748,7 @@
   },
   {
     "date": "2026-08-24",
-    "generatedAt": "2026-08-24T01:59:18.759Z",
+    "generatedAt": "2026-08-24T04:08:07.183Z",
     "articles": [
       {
         "id": "top-1d34b81c",
@@ -7803,17 +7803,17 @@
         "publishedAt": "2026-08-23T19:00:31.000Z"
       },
       {
-        "id": "top-c08d4237",
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+        "id": "top-be577b16",
+        "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+        "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
         "bullets": [
-          "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+          "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T20:19:36.000Z"
+        "publishedAt": "2026-08-24T03:27:11.000Z"
       },
       {
         "id": "tech-914c55fb",
@@ -7947,17 +7947,17 @@
         "publishedAt": "2026-08-22T21:46:56.000Z"
       },
       {
-        "id": "world-1fd907fc",
-        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-        "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+        "id": "world-6b876d72",
+        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
         "bullets": [
-          "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
+          "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T12:56:43.000Z"
+        "publishedAt": "2026-08-23T23:07:10.000Z"
       },
       {
         "id": "world-cc793284",
@@ -7973,6 +7973,19 @@
         "publishedAt": "2026-08-23T19:11:30.000Z"
       },
       {
+        "id": "world-2e708258",
+        "title": "Shein aims for almost $27bn valuation in stock market debut",
+        "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+        "bullets": [
+          "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T04:06:54.000Z"
+      },
+      {
         "id": "world-30e14d83",
         "title": "Guinea rubbish landfill collapse kills 30",
         "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
@@ -7986,30 +7999,17 @@
         "publishedAt": "2026-08-23T18:17:37.000Z"
       },
       {
-        "id": "world-4399c364",
-        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-        "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+        "id": "world-be577b16",
+        "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+        "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
         "bullets": [
-          "Representatives met in Switzerland to work out next steps to resolve the conflict."
+          "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-23T12:52:08.000Z"
-      },
-      {
-        "id": "world-3588c50c",
-        "title": "France links sharp rise in drownings to heatwaves",
-        "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-        "bullets": [
-          "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T17:39:33.000Z"
+        "publishedAt": "2026-08-24T03:27:11.000Z"
       }
     ]
   }
