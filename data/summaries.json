@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-07-25",
-    "generatedAt": "2026-07-25T22:12:15.497Z",
-    "articles": [
-      {
-        "id": "top-0bc9a325",
-        "title": "Police investigate donations by Tice company to Reform UK",
-        "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
-        "bullets": [
-          "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T18:04:50.000Z"
-      },
-      {
-        "id": "top-eed053fd",
-        "title": "More than 250,000 flee wildfires in France and Spain",
-        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-        "bullets": [
-          "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T17:13:40.000Z"
-      },
-      {
-        "id": "top-150ef51e",
-        "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-        "summary": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
-        "bullets": [
-          "Families visiting France have told the BBC how their holidays have become evacuation missions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T14:18:32.000Z"
-      },
-      {
-        "id": "top-de50538f",
-        "title": "India's 'cockroach' protest called off after education minister quits",
-        "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-        "bullets": [
-          "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T17:44:46.000Z"
-      },
-      {
-        "id": "top-c7b9bb33",
-        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
-        "summary": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
-        "bullets": [
-          "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T18:20:20.000Z"
-      },
-      {
-        "id": "tech-e67d325a",
-        "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-        "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
-        "bullets": [
-          "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T20:52:30.000Z"
-      },
-      {
-        "id": "tech-46ad1886",
-        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
-        "bullets": [
-          "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T17:47:22.000Z"
-      },
-      {
-        "id": "tech-f93d3dbe",
-        "title": "With help from data, art museums are reframing the visitor experience",
-        "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
-        "bullets": [
-          "Museums are embracing data-driven curation and a shifting technology landscape."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T11:00:32.000Z"
-      },
-      {
-        "id": "tech-2debb111",
-        "title": "Big Tech accused of stonewalling European social media researchers",
-        "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
-        "bullets": [
-          "Researchers say TikTok, X, and Meta aren't providing data they're legally required to."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T10:45:32.000Z"
-      },
-      {
-        "id": "tech-c5cd0699",
-        "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-        "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
-        "bullets": [
-          "\"Any potential damage will be assessed when it is safe to do so.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T22:28:20.000Z"
-      },
-      {
-        "id": "ai-ee6a3f37",
-        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-        "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-        "bullets": [
-          "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T16:00:00.000Z"
-      },
-      {
-        "id": "ai-d5aa78fb",
-        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-        "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-        "bullets": [
-          "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions.",
-          "Here's how to fix the problem."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T13:05:00.000Z"
-      },
-      {
-        "id": "ai-9c0eb406",
-        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-        "bullets": [
-          "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T00:23:11.000Z"
-      },
-      {
-        "id": "ai-78bfbeeb",
-        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-        "bullets": [
-          "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T22:25:58.000Z"
-      },
-      {
-        "id": "ai-92d44891",
-        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-        "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-        "bullets": [
-          "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-24T18:07:32.000Z"
-      },
-      {
-        "id": "world-eed053fd",
-        "title": "More than 250,000 flee wildfires in France and Spain",
-        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-        "bullets": [
-          "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T17:13:40.000Z"
-      },
-      {
-        "id": "world-701ca116",
-        "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-        "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
-        "bullets": [
-          "Police say an intensive manhunt is under way after the incident in Berlin's city centre."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T21:33:00.000Z"
-      },
-      {
-        "id": "world-130ec624",
-        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-        "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-        "bullets": [
-          "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T13:51:07.000Z"
-      },
-      {
-        "id": "world-de50538f",
-        "title": "India's 'cockroach' protest called off after education minister quits",
-        "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-        "bullets": [
-          "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T17:44:46.000Z"
-      },
-      {
-        "id": "world-85779633",
-        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-        "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-        "bullets": [
-          "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-25T06:34:40.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-07-26",
     "generatedAt": "2026-07-26T22:14:44.457Z",
     "articles": [
@@ -7814,6 +7547,273 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-23T21:07:47.000Z"
+      },
+      {
+        "id": "tech-914c55fb",
+        "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+        "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+        "bullets": [
+          "\"The Chang’e 7 mission does not meet the conditions for launch.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T14:30:16.000Z"
+      },
+      {
+        "id": "tech-50e2f75c",
+        "title": "Volcanoes that made history",
+        "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+        "bullets": [
+          "Enormous eruptions altered Earth’s climate and societies all over the globe."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T11:02:54.000Z"
+      },
+      {
+        "id": "tech-517583a2",
+        "title": "Putting mice into hibernation causes a major loss of synapses",
+        "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+        "bullets": [
+          "Hibernation cuts down on synapses, but mice seem to retain memories anyway."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T11:22:32.000Z"
+      },
+      {
+        "id": "tech-e8c798b5",
+        "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+        "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+        "bullets": [
+          "Lands free of roads are under threat from the Trump administration’s proposed rollback."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T11:08:53.000Z"
+      },
+      {
+        "id": "tech-e17be3a7",
+        "title": "Trump's space transportation policy calls for new spaceport on federal land",
+        "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+        "bullets": [
+          "\"We probably need another site that's capable of heavy and super heavy launch capability.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-21T23:32:17.000Z"
+      },
+      {
+        "id": "ai-c29ca7bd",
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "bullets": [
+          "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T20:01:36.000Z"
+      },
+      {
+        "id": "ai-c2c2802d",
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "bullets": [
+          "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T19:14:08.000Z"
+      },
+      {
+        "id": "ai-e8d3a7ca",
+        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+        "bullets": [
+          "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T15:30:00.000Z"
+      },
+      {
+        "id": "ai-8497ae17",
+        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+        "bullets": [
+          "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their...",
+          "That seems illegal, right?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T15:00:00.000Z"
+      },
+      {
+        "id": "ai-6c9117bf",
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "bullets": [
+          "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-22T21:46:56.000Z"
+      },
+      {
+        "id": "world-1fd907fc",
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+        "bullets": [
+          "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T12:56:43.000Z"
+      },
+      {
+        "id": "world-cc793284",
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "bullets": [
+          "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T19:11:30.000Z"
+      },
+      {
+        "id": "world-30e14d83",
+        "title": "Guinea rubbish landfill collapse kills 30",
+        "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+        "bullets": [
+          "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T18:17:37.000Z"
+      },
+      {
+        "id": "world-4399c364",
+        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+        "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+        "bullets": [
+          "Representatives met in Switzerland to work out next steps to resolve the conflict."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T12:52:08.000Z"
+      },
+      {
+        "id": "world-3588c50c",
+        "title": "France links sharp rise in drownings to heatwaves",
+        "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+        "bullets": [
+          "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T17:39:33.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "generatedAt": "2026-08-24T01:59:18.759Z",
+    "articles": [
+      {
+        "id": "top-1d34b81c",
+        "title": "Families of two police officers killed in crash say they were heroes",
+        "summary": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.",
+        "bullets": [
+          "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T00:37:43.000Z"
+      },
+      {
+        "id": "top-3511992e",
+        "title": "How easy is it to find an NHS dentist? It depends where you live",
+        "summary": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.",
+        "bullets": [
+          "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T23:10:18.000Z"
+      },
+      {
+        "id": "top-6b876d72",
+        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "bullets": [
+          "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T23:07:10.000Z"
+      },
+      {
+        "id": "top-b566d930",
+        "title": "CrossCountry to provide full service on Monday after major disruption",
+        "summary": "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible.",
+        "bullets": [
+          "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T19:00:31.000Z"
+      },
+      {
+        "id": "top-c08d4237",
+        "title": "Trump waves green flag to start IndyCar race through Washington streets",
+        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+        "bullets": [
+          "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-23T20:19:36.000Z"
       },
       {
         "id": "tech-914c55fb",
