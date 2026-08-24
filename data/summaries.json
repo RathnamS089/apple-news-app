@@ -7748,8 +7748,34 @@
   },
   {
     "date": "2026-08-24",
-    "generatedAt": "2026-08-24T15:57:57.177Z",
+    "generatedAt": "2026-08-24T19:01:13.913Z",
     "articles": [
+      {
+        "id": "top-4cd7e0e2",
+        "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+        "summary": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
+        "bullets": [
+          "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T17:53:40.000Z"
+      },
+      {
+        "id": "top-7b427fe5",
+        "title": "How the deadly A66 crash unfolded leaving seven dead",
+        "summary": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
+        "bullets": [
+          "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T16:55:42.000Z"
+      },
       {
         "id": "top-4fd971b3",
         "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
@@ -7761,7 +7787,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T15:54:16.000Z"
+        "publishedAt": "2026-08-24T17:29:59.000Z"
       },
       {
         "id": "top-eaa95fb6",
@@ -7777,43 +7803,17 @@
         "publishedAt": "2026-08-24T15:14:14.000Z"
       },
       {
-        "id": "top-ad1caa81",
-        "title": "Snooker champion Graeme Dott guilty of child sex abuse",
-        "summary": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
+        "id": "top-55e24888",
+        "title": "Police pass Mohamed Al Fayed case file to prosecutors",
+        "summary": "The Crown Prosecution Service will review evidence relating to a man in his 80s gathered by police investigating allegations against the late Harrods owner.",
         "bullets": [
-          "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy."
+          "The Crown Prosecution Service will review evidence relating to a man in his 80s gathered by police investigating allegations against the late Harrods..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T14:29:00.000Z"
-      },
-      {
-        "id": "top-8eedec18",
-        "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
-        "summary": "Former TV contestant, Jo Gardiner, 61, dies of cancer one year after her son's death in a crash.",
-        "bullets": [
-          "Former TV contestant, Jo Gardiner, 61, dies of cancer one year after her son's death in a crash."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T10:13:58.000Z"
-      },
-      {
-        "id": "top-8f68fa52",
-        "title": "Prince Harry steps down from African wildlife charity board",
-        "summary": "Last year the organisation African Parks admitted human rights abuses were committed by its rangers in Congo-Brazzaville.",
-        "bullets": [
-          "Last year the organisation African Parks admitted human rights abuses were committed by its rangers in Congo-Brazzaville."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T15:28:06.000Z"
+        "publishedAt": "2026-08-24T18:20:37.000Z"
       },
       {
         "id": "tech-06a4e247",
@@ -7881,6 +7881,19 @@
         "publishedAt": "2026-08-22T11:08:53.000Z"
       },
       {
+        "id": "ai-c87daf12",
+        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+        "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+        "bullets": [
+          "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-24T18:03:55.000Z"
+      },
+      {
         "id": "ai-08758c97",
         "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
         "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures,...",
@@ -7934,19 +7947,6 @@
         "publishedAt": "2026-08-23T20:01:36.000Z"
       },
       {
-        "id": "ai-c2c2802d",
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-        "bullets": [
-          "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T19:14:08.000Z"
-      },
-      {
         "id": "world-9b5d30b4",
         "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
         "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
@@ -7957,7 +7957,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T13:35:07.000Z"
+        "publishedAt": "2026-08-24T18:39:53.000Z"
       },
       {
         "id": "world-fc22403c",
@@ -7970,7 +7970,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T15:54:16.000Z"
+        "publishedAt": "2026-08-24T17:29:59.000Z"
       },
       {
         "id": "world-0d0a9e25",
