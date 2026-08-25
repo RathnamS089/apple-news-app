@@ -7747,8 +7747,21 @@
   },
   {
     "date": "2026-08-25",
-    "generatedAt": "2026-08-25T16:02:38.734Z",
+    "generatedAt": "2026-08-25T18:59:11.408Z",
     "articles": [
+      {
+        "id": "top-60ecf678",
+        "title": "Dolly Parton: The life of a legendary country singer",
+        "summary": "Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.",
+        "bullets": [
+          "Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T18:27:22.000Z"
+      },
       {
         "id": "top-9985d87e",
         "title": "Father's house rammed before son died in A66 crash",
@@ -7760,20 +7773,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T15:26:11.000Z"
+        "publishedAt": "2026-08-25T17:30:40.000Z"
       },
       {
-        "id": "top-c9ce74af",
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "id": "top-b4b14e93",
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
         "bullets": [
-          "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
+          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T11:53:36.000Z"
+        "publishedAt": "2026-08-25T16:56:20.000Z"
+      },
+      {
+        "id": "top-615ebffb",
+        "title": "Trump says all mines cleared from Strait of Hormuz",
+        "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+        "bullets": [
+          "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T17:32:50.000Z"
       },
       {
         "id": "top-b7db34f2",
@@ -7789,97 +7815,82 @@
         "publishedAt": "2026-08-25T15:04:52.000Z"
       },
       {
-        "id": "top-7232bd90",
-        "title": "Man dies in crash after police pursuit",
-        "summary": "Two women are also hurt and one remains in hospital in critical condition.",
+        "id": "tech-337e841b",
+        "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+        "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
         "bullets": [
-          "Two women are also hurt and one remains in hospital in critical condition."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T13:44:52.000Z"
-      },
-      {
-        "id": "top-6ace6541",
-        "title": "CIA chief in Moscow for unannounced talks, US media reports",
-        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-        "bullets": [
-          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T15:43:50.000Z"
-      },
-      {
-        "id": "tech-0f280341",
-        "title": "Apple's new desktop computers are designed specifically for local AI development",
-        "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-        "bullets": [
-          "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind."
+          "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T13:00:11.000Z"
+        "publishedAt": "2026-08-25T17:39:38.000Z"
       },
       {
-        "id": "tech-d606e488",
-        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+        "id": "tech-756d0949",
+        "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+        "summary": "\"This will be a project like no other.\"",
         "bullets": [
-          "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations."
+          "\"This will be a project like no other.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T21:45:53.000Z"
+        "publishedAt": "2026-08-25T17:26:15.000Z"
       },
       {
-        "id": "tech-f8538464",
-        "title": "Data centers become \"killer application\" for new power transformer tech",
-        "summary": "Solid-state transformers could also benefit EV charging and, someday, households.",
+        "id": "tech-60fb632a",
+        "title": "Lab supply companies have been selling antibodies using manipulated images",
+        "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
         "bullets": [
-          "Solid-state transformers could also benefit EV charging and, someday, households."
+          "Image changes that would get a paper retracted are widespread among suppliers."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T21:32:16.000Z"
+        "publishedAt": "2026-08-25T16:16:57.000Z"
       },
       {
-        "id": "tech-a38e1da9",
-        "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-        "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+        "id": "tech-f5ba6e47",
+        "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+        "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
         "bullets": [
-          "There are currently 3 categories.",
-          "Without reason, RFK Jr.",
-          "is considering changes."
+          "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T21:04:48.000Z"
+        "publishedAt": "2026-08-25T16:04:37.000Z"
       },
       {
-        "id": "tech-cd6c8748",
-        "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-        "summary": "Monitor vendors are playing with fire.",
+        "id": "tech-21ac2c65",
+        "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+        "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
         "bullets": [
-          "Monitor vendors are playing with fire."
+          "A pioneering AI scientist once predicted computers would replace human radiologists."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T20:17:41.000Z"
+        "publishedAt": "2026-08-25T15:10:03.000Z"
+      },
+      {
+        "id": "ai-063278c3",
+        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+        "bullets": [
+          "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T17:50:33.000Z"
       },
       {
         "id": "ai-459bce53",
@@ -7934,17 +7945,17 @@
         "publishedAt": "2026-08-25T12:00:00.000Z"
       },
       {
-        "id": "ai-d2767220",
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-        "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "id": "world-7974c272",
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+        "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
         "bullets": [
-          "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
+          "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T00:23:12.000Z"
+        "publishedAt": "2026-08-25T17:54:03.000Z"
       },
       {
         "id": "world-c9ce74af",
@@ -7960,6 +7971,19 @@
         "publishedAt": "2026-08-25T11:53:36.000Z"
       },
       {
+        "id": "world-b4b14e93",
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "bullets": [
+          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T16:56:20.000Z"
+      },
+      {
         "id": "world-a48986ed",
         "title": "Brain disease in dead NFL players 'higher than previously shown'",
         "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
@@ -7973,19 +7997,6 @@
         "publishedAt": "2026-08-25T11:54:40.000Z"
       },
       {
-        "id": "world-6ace6541",
-        "title": "CIA chief in Moscow for unannounced talks, US media reports",
-        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-        "bullets": [
-          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T15:43:50.000Z"
-      },
-      {
         "id": "world-4b7249b7",
         "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
         "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
@@ -7997,19 +8008,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-25T08:52:17.000Z"
-      },
-      {
-        "id": "world-bb65f751",
-        "title": "Two unvaccinated people die of measles in Pennsylvania",
-        "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-        "bullets": [
-          "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T14:54:34.000Z"
       }
     ]
   }
