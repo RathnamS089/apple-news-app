@@ -7747,14 +7747,14 @@
   },
   {
     "date": "2026-08-25",
-    "generatedAt": "2026-08-25T18:59:11.408Z",
+    "generatedAt": "2026-08-25T21:45:44.611Z",
     "articles": [
       {
-        "id": "top-60ecf678",
-        "title": "Dolly Parton: The life of a legendary country singer",
-        "summary": "Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.",
+        "id": "top-926be6ff",
+        "title": "Dolly Parton: The life of an iconic country singer",
+        "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
         "bullets": [
-          "Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media."
+          "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
@@ -7786,33 +7786,72 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T16:56:20.000Z"
+        "publishedAt": "2026-08-25T19:48:14.000Z"
       },
       {
-        "id": "top-615ebffb",
-        "title": "Trump says all mines cleared from Strait of Hormuz",
-        "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+        "id": "top-7974c272",
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+        "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
         "bullets": [
-          "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide."
+          "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T17:32:50.000Z"
+        "publishedAt": "2026-08-25T19:50:57.000Z"
       },
       {
-        "id": "top-b7db34f2",
-        "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-        "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+        "id": "top-7232bd90",
+        "title": "Man dies in crash after police pursuit",
+        "summary": "Two women are also hurt and one remains in hospital in critical condition.",
         "bullets": [
-          "Iran is no stranger to US sanctions and has developed deep economic ties with several countries."
+          "Two women are also hurt and one remains in hospital in critical condition."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T15:04:52.000Z"
+        "publishedAt": "2026-08-25T19:39:44.000Z"
+      },
+      {
+        "id": "tech-daf4ca49",
+        "title": "World humanoid robot games show runners breaking records, bursting into flames",
+        "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+        "bullets": [
+          "Record-breaking robot races are less substantial than household chore challenges."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T20:59:03.000Z"
+      },
+      {
+        "id": "tech-53fd6fb7",
+        "title": "Preserving glow-in-the-dark art and fashion for future generations",
+        "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+        "bullets": [
+          "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T18:59:12.000Z"
+      },
+      {
+        "id": "tech-93bb253d",
+        "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+        "summary": "It's currently only appearing on Pixels running Android 17.",
+        "bullets": [
+          "It's currently only appearing on Pixels running Android 17."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T18:32:30.000Z"
       },
       {
         "id": "tech-337e841b",
@@ -7841,43 +7880,17 @@
         "publishedAt": "2026-08-25T17:26:15.000Z"
       },
       {
-        "id": "tech-60fb632a",
-        "title": "Lab supply companies have been selling antibodies using manipulated images",
-        "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
+        "id": "ai-a38a93a1",
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "summary": "The company's new fundraising total now stands at $232 million.",
         "bullets": [
-          "Image changes that would get a paper retracted are widespread among suppliers."
+          "The company's new fundraising total now stands at $232 million."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T16:16:57.000Z"
-      },
-      {
-        "id": "tech-f5ba6e47",
-        "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-        "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
-        "bullets": [
-          "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T16:04:37.000Z"
-      },
-      {
-        "id": "tech-21ac2c65",
-        "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-        "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
-        "bullets": [
-          "A pioneering AI scientist once predicted computers would replace human radiologists."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T15:10:03.000Z"
+        "publishedAt": "2026-08-25T19:03:47.000Z"
       },
       {
         "id": "ai-063278c3",
@@ -7932,19 +7945,6 @@
         "publishedAt": "2026-08-25T13:00:00.000Z"
       },
       {
-        "id": "ai-42192bc4",
-        "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-        "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-        "bullets": [
-          "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T12:00:00.000Z"
-      },
-      {
         "id": "world-7974c272",
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -7955,7 +7955,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T17:54:03.000Z"
+        "publishedAt": "2026-08-25T19:50:57.000Z"
       },
       {
         "id": "world-c9ce74af",
@@ -7981,7 +7981,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T16:56:20.000Z"
+        "publishedAt": "2026-08-25T19:48:14.000Z"
+      },
+      {
+        "id": "world-dc9abfd3",
+        "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+        "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+        "bullets": [
+          "The operation included the arrest of 39 people in South Africa for romance and investment scams."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T19:30:37.000Z"
       },
       {
         "id": "world-a48986ed",
@@ -7995,19 +8008,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-25T11:54:40.000Z"
-      },
-      {
-        "id": "world-4b7249b7",
-        "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-        "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-        "bullets": [
-          "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T08:52:17.000Z"
       }
     ]
   }
