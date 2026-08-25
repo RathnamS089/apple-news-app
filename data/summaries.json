@@ -7747,20 +7747,20 @@
   },
   {
     "date": "2026-08-25",
-    "generatedAt": "2026-08-25T13:13:13.679Z",
+    "generatedAt": "2026-08-25T16:02:38.734Z",
     "articles": [
       {
-        "id": "top-600d3fb1",
-        "title": "Five more arrests in wrong-way crash investigation",
-        "summary": "The new arrests include a 16-year-old boy and two men held on suspicion of being in an organised crime group.",
+        "id": "top-9985d87e",
+        "title": "Father's house rammed before son died in A66 crash",
+        "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
         "bullets": [
-          "The new arrests include a 16-year-old boy and two men held on suspicion of being in an organised crime group."
+          "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T13:05:25.000Z"
+        "publishedAt": "2026-08-25T15:26:11.000Z"
       },
       {
         "id": "top-c9ce74af",
@@ -7776,17 +7776,17 @@
         "publishedAt": "2026-08-25T11:53:36.000Z"
       },
       {
-        "id": "top-b20f026a",
-        "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
-        "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+        "id": "top-b7db34f2",
+        "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+        "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
         "bullets": [
-          "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before."
+          "Iran is no stranger to US sanctions and has developed deep economic ties with several countries."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T12:37:53.000Z"
+        "publishedAt": "2026-08-25T15:04:52.000Z"
       },
       {
         "id": "top-7232bd90",
@@ -7799,20 +7799,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T12:52:58.000Z"
+        "publishedAt": "2026-08-25T13:44:52.000Z"
       },
       {
-        "id": "top-9fb42ff3",
-        "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
-        "summary": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.",
+        "id": "top-6ace6541",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
         "bullets": [
-          "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday."
+          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T10:06:04.000Z"
+        "publishedAt": "2026-08-25T15:43:50.000Z"
+      },
+      {
+        "id": "tech-0f280341",
+        "title": "Apple's new desktop computers are designed specifically for local AI development",
+        "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+        "bullets": [
+          "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T13:00:11.000Z"
       },
       {
         "id": "tech-d606e488",
@@ -7869,17 +7882,43 @@
         "publishedAt": "2026-08-24T20:17:41.000Z"
       },
       {
-        "id": "tech-6d88dde8",
-        "title": "GM vehicles under federal scrutiny after hundreds of reports",
-        "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
+        "id": "ai-459bce53",
+        "title": "Gamma acquires Accel-backed design startup Lica",
+        "summary": "Lica co-founders are going to work on Gamma's new research team.",
         "bullets": [
-          "The eBoost brake-by-wire system is responsible for at least 22 crashes now."
+          "Lica co-founders are going to work on Gamma's new research team."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T19:42:50.000Z"
+        "publishedAt": "2026-08-25T15:00:00.000Z"
+      },
+      {
+        "id": "ai-4784aeaa",
+        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+        "bullets": [
+          "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T14:22:04.000Z"
+      },
+      {
+        "id": "ai-d1970d79",
+        "title": "Accel-backed Keenable is indexing the web for AI agents",
+        "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+        "bullets": [
+          "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T13:00:00.000Z"
       },
       {
         "id": "ai-42192bc4",
@@ -7908,46 +7947,6 @@
         "publishedAt": "2026-08-25T00:23:12.000Z"
       },
       {
-        "id": "ai-ded7e420",
-        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-        "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-        "bullets": [
-          "The president bought when the stock was in the mid-$150 range.",
-          "SpaceX finished trading on Monday back at its IPO price of $135."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T21:24:17.000Z"
-      },
-      {
-        "id": "ai-d35178d2",
-        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-        "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-        "bullets": [
-          "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T19:54:19.000Z"
-      },
-      {
-        "id": "ai-c87daf12",
-        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-        "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-        "bullets": [
-          "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T18:03:55.000Z"
-      },
-      {
         "id": "world-c9ce74af",
         "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -7961,30 +7960,30 @@
         "publishedAt": "2026-08-25T11:53:36.000Z"
       },
       {
-        "id": "world-c870a17b",
-        "title": "Lockerbie bombing trial postponed days before it was due to start",
-        "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+        "id": "world-a48986ed",
+        "title": "Brain disease in dead NFL players 'higher than previously shown'",
+        "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
         "bullets": [
-          "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
+          "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T11:54:03.000Z"
+        "publishedAt": "2026-08-25T11:54:40.000Z"
       },
       {
-        "id": "world-22046341",
-        "title": "US removes Syria from list of state sponsors of terrorism",
-        "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+        "id": "world-6ace6541",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
         "bullets": [
-          "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa."
+          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T00:17:25.000Z"
+        "publishedAt": "2026-08-25T15:43:50.000Z"
       },
       {
         "id": "world-4b7249b7",
@@ -8000,17 +7999,17 @@
         "publishedAt": "2026-08-25T08:52:17.000Z"
       },
       {
-        "id": "world-c570317c",
-        "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-        "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+        "id": "world-bb65f751",
+        "title": "Two unvaccinated people die of measles in Pennsylvania",
+        "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
         "bullets": [
-          "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues."
+          "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T07:39:25.000Z"
+        "publishedAt": "2026-08-25T14:54:34.000Z"
       }
     ]
   }
