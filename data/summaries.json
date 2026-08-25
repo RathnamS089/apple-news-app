@@ -7747,8 +7747,21 @@
   },
   {
     "date": "2026-08-25",
-    "generatedAt": "2026-08-25T01:53:52.536Z",
+    "generatedAt": "2026-08-25T04:01:57.604Z",
     "articles": [
+      {
+        "id": "top-1d419e09",
+        "title": "More than 70,000 social and affordable homes to be built across England as part of £39bn plan",
+        "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+        "bullets": [
+          "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T00:32:20.000Z"
+      },
       {
         "id": "top-4cd7e0e2",
         "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
@@ -7776,17 +7789,17 @@
         "publishedAt": "2026-08-24T16:55:42.000Z"
       },
       {
-        "id": "top-4fd971b3",
-        "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "id": "top-83c5436f",
+        "title": "UK drone factories may face attacks from 'unknown sources' Putin advisor tells BBC",
+        "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
         "bullets": [
-          "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
+          "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T01:48:24.000Z"
+        "publishedAt": "2026-08-25T03:51:09.000Z"
       },
       {
         "id": "top-2be8f0f4",
@@ -7800,19 +7813,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-24T22:13:20.000Z"
-      },
-      {
-        "id": "top-9b5d30b4",
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-        "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-        "bullets": [
-          "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T23:48:25.000Z"
       },
       {
         "id": "tech-d606e488",
@@ -7948,17 +7948,17 @@
         "publishedAt": "2026-08-24T15:24:18.000Z"
       },
       {
-        "id": "world-9b5d30b4",
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-        "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+        "id": "world-9709bb10",
+        "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+        "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
         "bullets": [
-          "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+          "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-24T23:48:25.000Z"
+        "publishedAt": "2026-08-25T03:50:06.000Z"
       },
       {
         "id": "world-fc22403c",
@@ -7987,6 +7987,19 @@
         "publishedAt": "2026-08-25T00:17:25.000Z"
       },
       {
+        "id": "world-96a7cf9b",
+        "title": "French tourist dies in Death Valley after car gets stuck in mud",
+        "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+        "bullets": [
+          "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T02:08:57.000Z"
+      },
+      {
         "id": "world-e4dcf5e5",
         "title": "Moment tornado tears through southern France",
         "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
@@ -7998,19 +8011,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-25T00:16:35.000Z"
-      },
-      {
-        "id": "world-1a3de145",
-        "title": "King of Norway's health has worsened, palace says",
-        "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
-        "bullets": [
-          "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T08:31:55.000Z"
       }
     ]
   }
