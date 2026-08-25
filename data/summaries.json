@@ -7747,7 +7747,7 @@
   },
   {
     "date": "2026-08-25",
-    "generatedAt": "2026-08-25T07:10:14.284Z",
+    "generatedAt": "2026-08-25T09:52:52.710Z",
     "articles": [
       {
         "id": "top-c78f53ff",
@@ -7760,7 +7760,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T06:54:46.000Z"
+        "publishedAt": "2026-08-25T08:08:26.000Z"
       },
       {
         "id": "top-6d22b8b6",
@@ -7773,7 +7773,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T05:41:08.000Z"
+        "publishedAt": "2026-08-25T08:25:36.000Z"
       },
       {
         "id": "top-c870a17b",
@@ -7786,7 +7786,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T06:59:03.000Z"
+        "publishedAt": "2026-08-25T09:08:13.000Z"
       },
       {
         "id": "top-2be8f0f4",
@@ -7802,8 +7802,8 @@
         "publishedAt": "2026-08-24T22:13:20.000Z"
       },
       {
-        "id": "top-9e8d2b9d",
-        "title": "The grieving family who say the coroner's courts aren't working",
+        "id": "top-7d04e2f0",
+        "title": "The grieving family who say the coroners' courts aren't working",
         "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
         "bullets": [
           "One man's death highlights the growing strains on the UK's coroner's courts"
@@ -7958,7 +7958,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T06:54:46.000Z"
+        "publishedAt": "2026-08-25T08:08:26.000Z"
       },
       {
         "id": "world-c870a17b",
@@ -7971,11 +7971,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T06:59:03.000Z"
+        "publishedAt": "2026-08-25T09:08:13.000Z"
       },
       {
-        "id": "world-52cc8011",
-        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+        "id": "world-29d97bec",
+        "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
         "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
         "bullets": [
           "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
