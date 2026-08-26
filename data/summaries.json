@@ -7747,46 +7747,59 @@
   },
   {
     "date": "2026-08-26",
-    "generatedAt": "2026-08-26T04:04:29.161Z",
+    "generatedAt": "2026-08-26T07:10:41.069Z",
     "articles": [
       {
-        "id": "top-89de90e7",
-        "title": "How Dolly Parton told her life story through six iconic songs",
-        "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
+        "id": "top-38c8f1fc",
+        "title": "The life of an iconic country singer",
+        "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
         "bullets": [
-          "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality."
+          "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T23:43:13.000Z"
+        "publishedAt": "2026-08-25T18:27:22.000Z"
       },
       {
-        "id": "top-155fa4ed",
-        "title": "Winter energy prices expected to rise to three-year high",
-        "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+        "id": "top-9753100a",
+        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+        "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
         "bullets": [
-          "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem."
+          "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T23:07:29.000Z"
+        "publishedAt": "2026-08-26T07:01:44.000Z"
       },
       {
-        "id": "top-b4b14e93",
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "id": "top-744bbd54",
+        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+        "summary": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
         "bullets": [
-          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+          "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T19:48:14.000Z"
+        "publishedAt": "2026-08-26T04:07:48.000Z"
+      },
+      {
+        "id": "top-c6509ecb",
+        "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+        "summary": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+        "bullets": [
+          "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T05:14:12.000Z"
       },
       {
         "id": "top-52d46b22",
@@ -7801,19 +7814,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-25T23:13:34.000Z"
-      },
-      {
-        "id": "top-152b5418",
-        "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
-        "summary": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks",
-        "bullets": [
-          "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T23:11:15.000Z"
       },
       {
         "id": "tech-ad2cfbf1",
@@ -7908,11 +7908,11 @@
         "publishedAt": "2026-08-26T00:40:59.000Z"
       },
       {
-        "id": "ai-fc34039b",
-        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-        "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "id": "ai-90fdcb20",
+        "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+        "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
         "bullets": [
-          "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting..."
+          "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
