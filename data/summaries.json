@@ -7747,7 +7747,7 @@
   },
   {
     "date": "2026-08-26",
-    "generatedAt": "2026-08-26T13:18:03.605Z",
+    "generatedAt": "2026-08-26T16:34:48.526Z",
     "articles": [
       {
         "id": "top-af3bb3c6",
@@ -7763,6 +7763,19 @@
         "publishedAt": "2026-08-26T12:36:04.000Z"
       },
       {
+        "id": "top-30e9f527",
+        "title": "Rocky Horror star Tim Curry dies at 80",
+        "summary": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
+        "bullets": [
+          "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T16:17:39.000Z"
+      },
+      {
         "id": "top-09653ee2",
         "title": "Murder probe as two people dead in house fire in Middlesbrough",
         "summary": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
@@ -7773,7 +7786,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T12:53:26.000Z"
+        "publishedAt": "2026-08-26T14:34:07.000Z"
       },
       {
         "id": "top-1ab068a7",
@@ -7789,30 +7802,69 @@
         "publishedAt": "2026-08-26T13:01:51.000Z"
       },
       {
-        "id": "top-131d7f5a",
-        "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
-        "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+        "id": "top-20e4a0ef",
+        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+        "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
         "bullets": [
-          "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media."
+          "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T18:27:22.000Z"
+        "publishedAt": "2026-08-26T11:32:11.000Z"
       },
       {
-        "id": "top-7eb5c42d",
-        "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
-        "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+        "id": "tech-9b3b2199",
+        "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
+        "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
         "bullets": [
-          "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
+          "Republicans demanded that parties and fundraising committees be given lowest ad rates."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T10:29:36.000Z"
+        "publishedAt": "2026-08-26T15:45:07.000Z"
+      },
+      {
+        "id": "tech-06b0e610",
+        "title": "Researchers get two genetic codes to work at the same time",
+        "summary": "Messing with the genetic code might have gotten a bit easier to do.",
+        "bullets": [
+          "Messing with the genetic code might have gotten a bit easier to do."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T15:00:34.000Z"
+      },
+      {
+        "id": "tech-00b5517e",
+        "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+        "summary": "\"We're living in this world of scarcity with the Moon.\"",
+        "bullets": [
+          "\"We're living in this world of scarcity with the Moon.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T14:14:52.000Z"
+      },
+      {
+        "id": "tech-8d91e7e7",
+        "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
+        "summary": "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare.",
+        "bullets": [
+          "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T13:53:32.000Z"
       },
       {
         "id": "tech-1143098e",
@@ -7828,135 +7880,108 @@
         "publishedAt": "2026-08-26T11:10:49.000Z"
       },
       {
-        "id": "tech-e876b839",
-        "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
-        "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
+        "id": "ai-5bc2993b",
+        "title": "Radar makes podcasts searchable — and usable by AI agents",
+        "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
         "bullets": [
-          "A steel frame cargo bike with a unique twist: You can let it choose your gear."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T11:00:12.000Z"
-      },
-      {
-        "id": "tech-ad2cfbf1",
-        "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-        "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
-        "bullets": [
-          "SpaceX aims to launch Starship from Florida by the end of the year.",
-          "2027 seems more likely."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T22:21:06.000Z"
-      },
-      {
-        "id": "tech-daf4ca49",
-        "title": "World humanoid robot games show runners breaking records, bursting into flames",
-        "summary": "Record-breaking robot races are less substantial than household chore challenges.",
-        "bullets": [
-          "Record-breaking robot races are less substantial than household chore challenges."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T20:59:03.000Z"
-      },
-      {
-        "id": "tech-53fd6fb7",
-        "title": "Preserving glow-in-the-dark art and fashion for future generations",
-        "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
-        "bullets": [
-          "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T18:59:12.000Z"
-      },
-      {
-        "id": "ai-d4f31d56",
-        "title": "Arga is building a better way to train enterprise AI agents",
-        "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-        "bullets": [
-          "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV..."
+          "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T12:55:28.000Z"
+        "publishedAt": "2026-08-26T15:47:28.000Z"
       },
       {
-        "id": "ai-fc963d24",
-        "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-        "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+        "id": "ai-7f014854",
+        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+        "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
         "bullets": [
-          "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames."
+          "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T12:00:00.000Z"
+        "publishedAt": "2026-08-26T15:00:00.000Z"
       },
       {
-        "id": "ai-236c676a",
-        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-        "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+        "id": "ai-37d4edc7",
+        "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+        "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
         "bullets": [
-          "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
+          "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T11:00:00.000Z"
+        "publishedAt": "2026-08-26T14:37:01.000Z"
       },
       {
-        "id": "ai-1fc22671",
-        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-        "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+        "id": "ai-c85cc731",
+        "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+        "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
         "bullets": [
-          "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+          "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T03:30:00.000Z"
+        "publishedAt": "2026-08-26T14:19:29.000Z"
       },
       {
-        "id": "ai-1837baed",
-        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-        "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+        "id": "ai-f5fb7194",
+        "title": "Robot brain builders are pushing out of their GPT-2 era",
+        "summary": "Robot bodies are waiting for their AI brains to catch up.",
         "bullets": [
-          "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+          "Robot bodies are waiting for their AI brains to catch up."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T00:40:59.000Z"
+        "publishedAt": "2026-08-26T13:30:00.000Z"
+      },
+      {
+        "id": "world-20e4a0ef",
+        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+        "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+        "bullets": [
+          "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T11:32:11.000Z"
       },
       {
         "id": "world-5251aa8e",
         "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-        "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+        "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
         "bullets": [
-          "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies."
+          "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T12:32:47.000Z"
+        "publishedAt": "2026-08-26T14:42:03.000Z"
+      },
+      {
+        "id": "world-7f4bcc24",
+        "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+        "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+        "bullets": [
+          "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T15:42:45.000Z"
       },
       {
         "id": "world-7974c272",
@@ -7972,43 +7997,17 @@
         "publishedAt": "2026-08-25T19:50:57.000Z"
       },
       {
-        "id": "world-f2b9b1db",
-        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-        "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+        "id": "world-f945c70c",
+        "title": "Radiation link in flight attendant's breast cancer, French court finds",
+        "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
         "bullets": [
-          "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
+          "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T11:02:22.000Z"
-      },
-      {
-        "id": "world-cc5600de",
-        "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-        "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
-        "bullets": [
-          "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T08:17:45.000Z"
-      },
-      {
-        "id": "world-256de325",
-        "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-        "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
-        "bullets": [
-          "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T08:01:56.000Z"
+        "publishedAt": "2026-08-26T10:29:36.000Z"
       }
     ]
   }
