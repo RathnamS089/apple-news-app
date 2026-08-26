@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-07-27",
-    "generatedAt": "2026-07-27T22:19:58.699Z",
-    "articles": [
-      {
-        "id": "top-aff849c3",
-        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-        "bullets": [
-          "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T20:34:55.000Z"
-      },
-      {
-        "id": "top-b852eb84",
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
-        "bullets": [
-          "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T15:59:27.000Z"
-      },
-      {
-        "id": "top-61ed30fa",
-        "title": "Funeral director who left people unburied breached families' trust 'on industrial scale', court hears",
-        "summary": "The sentencing hearing of Robert Bush hears how the funeral parlour was likened to a \"horror scene\".",
-        "bullets": [
-          "The sentencing hearing of Robert Bush hears how the funeral parlour was likened to a \"horror scene\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8ek0682jdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T16:46:19.000Z"
-      },
-      {
-        "id": "top-ce34d6d3",
-        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
-        "summary": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
-        "bullets": [
-          "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T21:57:08.000Z"
-      },
-      {
-        "id": "top-fe50c6ab",
-        "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
-        "summary": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
-        "bullets": [
-          "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T16:38:33.000Z"
-      },
-      {
-        "id": "tech-d9b43377",
-        "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-        "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
-        "bullets": [
-          "Age verification is okay, but filtering is preempted by Section 230, judges find."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T19:18:02.000Z"
-      },
-      {
-        "id": "tech-13959b3d",
-        "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-        "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
-        "bullets": [
-          "Telecom expects AI revenue from dark fiber deals and retrofitted data centers."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T18:48:41.000Z"
-      },
-      {
-        "id": "tech-7b2e1297",
-        "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
-        "summary": "NASA has not made substantial investments in thermal protection research for decades.",
-        "bullets": [
-          "NASA has not made substantial investments in thermal protection research for decades."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T18:34:40.000Z"
-      },
-      {
-        "id": "tech-5c89e269",
-        "title": "ChatGPT starts blocking direct requests to copy an author's style",
-        "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
-        "bullets": [
-          "New behavior capturing a writer's \"broad qualities\" could have legal implications."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T16:58:46.000Z"
-      },
-      {
-        "id": "tech-ba800b06",
-        "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-        "summary": "The government says destroying his own data during an airport interrogation was illegal.",
-        "bullets": [
-          "The government says destroying his own data during an airport interrogation was illegal."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T15:58:34.000Z"
-      },
-      {
-        "id": "ai-a3f277f4",
-        "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-        "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-        "bullets": [
-          "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself —..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T21:17:11.000Z"
-      },
-      {
-        "id": "ai-ecfd763c",
-        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-        "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-        "bullets": [
-          "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T20:19:42.000Z"
-      },
-      {
-        "id": "ai-6b6f948f",
-        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-        "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-        "bullets": [
-          "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T18:32:11.000Z"
-      },
-      {
-        "id": "ai-050d3520",
-        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-        "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-        "bullets": [
-          "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T17:28:42.000Z"
-      },
-      {
-        "id": "ai-a272d063",
-        "title": "Threads users can now chat with Meta AI in their DMs",
-        "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-        "bullets": [
-          "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T16:45:24.000Z"
-      },
-      {
-        "id": "world-aff849c3",
-        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-        "bullets": [
-          "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T20:34:55.000Z"
-      },
-      {
-        "id": "world-7c4ac7c2",
-        "title": "Trump says Iran war talks taking place during lull in strikes",
-        "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-        "bullets": [
-          "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T21:10:56.000Z"
-      },
-      {
-        "id": "world-a34d5b5a",
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-        "bullets": [
-          "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T16:33:05.000Z"
-      },
-      {
-        "id": "world-57e9abbc",
-        "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-        "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-        "bullets": [
-          "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T12:33:31.000Z"
-      },
-      {
-        "id": "world-630642fc",
-        "title": "US singer D4vd to go on trial for murder in death of teen",
-        "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-        "bullets": [
-          "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-27T21:37:59.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-07-28",
     "generatedAt": "2026-07-28T22:18:10.753Z",
     "articles": [
@@ -7943,6 +7677,274 @@
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-08-25T13:00:00.000Z"
+      },
+      {
+        "id": "world-7974c272",
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+        "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+        "bullets": [
+          "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T19:50:57.000Z"
+      },
+      {
+        "id": "world-c9ce74af",
+        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+        "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "bullets": [
+          "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T11:53:36.000Z"
+      },
+      {
+        "id": "world-b4b14e93",
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "bullets": [
+          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T19:48:14.000Z"
+      },
+      {
+        "id": "world-dc9abfd3",
+        "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+        "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+        "bullets": [
+          "The operation included the arrest of 39 people in South Africa for romance and investment scams."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T19:30:37.000Z"
+      },
+      {
+        "id": "world-a48986ed",
+        "title": "Brain disease in dead NFL players 'higher than previously shown'",
+        "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+        "bullets": [
+          "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T11:54:40.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "generatedAt": "2026-08-26T02:00:01.402Z",
+    "articles": [
+      {
+        "id": "top-926be6ff",
+        "title": "Dolly Parton: The life of an iconic country singer",
+        "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+        "bullets": [
+          "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T18:27:22.000Z"
+      },
+      {
+        "id": "top-9985d87e",
+        "title": "Father's house rammed before son died in A66 crash",
+        "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+        "bullets": [
+          "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T17:30:40.000Z"
+      },
+      {
+        "id": "top-b4b14e93",
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "bullets": [
+          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T19:48:14.000Z"
+      },
+      {
+        "id": "top-155fa4ed",
+        "title": "Winter energy prices expected to rise to three-year high",
+        "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+        "bullets": [
+          "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T23:07:29.000Z"
+      },
+      {
+        "id": "top-52d46b22",
+        "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
+        "summary": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes",
+        "bullets": [
+          "Big companies used to go out of their way to support Pride.",
+          "Now, there's a nervousness in the air, Darren Milby writes"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T23:13:34.000Z"
+      },
+      {
+        "id": "tech-ad2cfbf1",
+        "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+        "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+        "bullets": [
+          "SpaceX aims to launch Starship from Florida by the end of the year.",
+          "2027 seems more likely."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T22:21:06.000Z"
+      },
+      {
+        "id": "tech-daf4ca49",
+        "title": "World humanoid robot games show runners breaking records, bursting into flames",
+        "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+        "bullets": [
+          "Record-breaking robot races are less substantial than household chore challenges."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T20:59:03.000Z"
+      },
+      {
+        "id": "tech-53fd6fb7",
+        "title": "Preserving glow-in-the-dark art and fashion for future generations",
+        "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+        "bullets": [
+          "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T18:59:12.000Z"
+      },
+      {
+        "id": "tech-93bb253d",
+        "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+        "summary": "It's currently only appearing on Pixels running Android 17.",
+        "bullets": [
+          "It's currently only appearing on Pixels running Android 17."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T18:32:30.000Z"
+      },
+      {
+        "id": "tech-337e841b",
+        "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+        "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
+        "bullets": [
+          "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T17:39:38.000Z"
+      },
+      {
+        "id": "ai-1837baed",
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+        "bullets": [
+          "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T00:40:59.000Z"
+      },
+      {
+        "id": "ai-fc34039b",
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "bullets": [
+          "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T00:06:20.000Z"
+      },
+      {
+        "id": "ai-a38a93a1",
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "summary": "The company's new fundraising total now stands at $232 million.",
+        "bullets": [
+          "The company's new fundraising total now stands at $232 million."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T19:03:47.000Z"
+      },
+      {
+        "id": "ai-063278c3",
+        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+        "bullets": [
+          "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T17:50:33.000Z"
+      },
+      {
+        "id": "ai-459bce53",
+        "title": "Gamma acquires Accel-backed design startup Lica",
+        "summary": "Lica co-founders are going to work on Gamma's new research team.",
+        "bullets": [
+          "Lica co-founders are going to work on Gamma's new research team."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-25T15:00:00.000Z"
       },
       {
         "id": "world-7974c272",
