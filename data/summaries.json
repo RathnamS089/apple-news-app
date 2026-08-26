@@ -7747,11 +7747,50 @@
   },
   {
     "date": "2026-08-26",
-    "generatedAt": "2026-08-26T09:59:33.558Z",
+    "generatedAt": "2026-08-26T13:18:03.605Z",
     "articles": [
       {
-        "id": "top-6d87c265",
-        "title": "Watch: The life of an iconic country singer",
+        "id": "top-af3bb3c6",
+        "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+        "summary": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+        "bullets": [
+          "This video has been edited by the BBC with white flashes, due to the distressing content."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T12:36:04.000Z"
+      },
+      {
+        "id": "top-09653ee2",
+        "title": "Murder probe as two people dead in house fire in Middlesbrough",
+        "summary": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
+        "bullets": [
+          "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T12:53:26.000Z"
+      },
+      {
+        "id": "top-1ab068a7",
+        "title": "Prince Harry and Meghan land in UK days after announcing move",
+        "summary": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
+        "bullets": [
+          "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T13:01:51.000Z"
+      },
+      {
+        "id": "top-131d7f5a",
+        "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
         "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
         "bullets": [
           "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media."
@@ -7763,57 +7802,43 @@
         "publishedAt": "2026-08-25T18:27:22.000Z"
       },
       {
-        "id": "top-9753100a",
-        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-        "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+        "id": "top-7eb5c42d",
+        "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
+        "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
         "bullets": [
-          "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says."
+          "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T09:31:51.000Z"
+        "publishedAt": "2026-08-26T10:29:36.000Z"
       },
       {
-        "id": "top-c6509ecb",
-        "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
-        "summary": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+        "id": "tech-1143098e",
+        "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+        "summary": "The focus is on agentic capability and predictable enterprise deployment.",
         "bullets": [
-          "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied."
+          "The focus is on agentic capability and predictable enterprise deployment."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T05:14:12.000Z"
+        "publishedAt": "2026-08-26T11:10:49.000Z"
       },
       {
-        "id": "top-1c5ef4c8",
-        "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
-        "summary": "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.",
+        "id": "tech-e876b839",
+        "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
+        "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
         "bullets": [
-          "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks."
+          "A steel frame cargo bike with a unique twist: You can let it choose your gear."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T09:28:03.000Z"
-      },
-      {
-        "id": "top-52d46b22",
-        "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
-        "summary": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes",
-        "bullets": [
-          "Big companies used to go out of their way to support Pride.",
-          "Now, there's a nervousness in the air, Darren Milby writes"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T23:13:34.000Z"
+        "publishedAt": "2026-08-26T11:00:12.000Z"
       },
       {
         "id": "tech-ad2cfbf1",
@@ -7856,30 +7881,43 @@
         "publishedAt": "2026-08-25T18:59:12.000Z"
       },
       {
-        "id": "tech-93bb253d",
-        "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-        "summary": "It's currently only appearing on Pixels running Android 17.",
+        "id": "ai-d4f31d56",
+        "title": "Arga is building a better way to train enterprise AI agents",
+        "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
         "bullets": [
-          "It's currently only appearing on Pixels running Android 17."
+          "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T18:32:30.000Z"
+        "publishedAt": "2026-08-26T12:55:28.000Z"
       },
       {
-        "id": "tech-337e841b",
-        "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
-        "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
+        "id": "ai-fc963d24",
+        "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+        "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
         "bullets": [
-          "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\""
+          "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T17:39:38.000Z"
+        "publishedAt": "2026-08-26T12:00:00.000Z"
+      },
+      {
+        "id": "ai-236c676a",
+        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+        "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+        "bullets": [
+          "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T11:00:00.000Z"
       },
       {
         "id": "ai-1fc22671",
@@ -7908,43 +7946,17 @@
         "publishedAt": "2026-08-26T00:40:59.000Z"
       },
       {
-        "id": "ai-90fdcb20",
-        "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-        "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
+        "id": "world-5251aa8e",
+        "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+        "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
         "bullets": [
-          "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the..."
+          "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T00:06:20.000Z"
-      },
-      {
-        "id": "ai-a38a93a1",
-        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "summary": "The company's new fundraising total now stands at $232 million.",
-        "bullets": [
-          "The company's new fundraising total now stands at $232 million."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T19:03:47.000Z"
-      },
-      {
-        "id": "ai-063278c3",
-        "title": "Claude Cowork finally remembers what you told the app in chat",
-        "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-        "bullets": [
-          "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T17:50:33.000Z"
+        "publishedAt": "2026-08-26T12:32:47.000Z"
       },
       {
         "id": "world-7974c272",
@@ -7960,56 +7972,43 @@
         "publishedAt": "2026-08-25T19:50:57.000Z"
       },
       {
-        "id": "world-c9ce74af",
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "id": "world-f2b9b1db",
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
         "bullets": [
-          "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
+          "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T11:53:36.000Z"
+        "publishedAt": "2026-08-26T11:02:22.000Z"
       },
       {
-        "id": "world-b4b14e93",
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "id": "world-cc5600de",
+        "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+        "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
         "bullets": [
-          "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+          "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T19:48:14.000Z"
+        "publishedAt": "2026-08-26T08:17:45.000Z"
       },
       {
-        "id": "world-dc9abfd3",
-        "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-        "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+        "id": "world-256de325",
+        "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+        "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
         "bullets": [
-          "The operation included the arrest of 39 people in South Africa for romance and investment scams."
+          "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T19:30:37.000Z"
-      },
-      {
-        "id": "world-a48986ed",
-        "title": "Brain disease in dead NFL players 'higher than previously shown'",
-        "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
-        "bullets": [
-          "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T11:54:40.000Z"
+        "publishedAt": "2026-08-26T08:01:56.000Z"
       }
     ]
   }
