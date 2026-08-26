@@ -7747,11 +7747,11 @@
   },
   {
     "date": "2026-08-26",
-    "generatedAt": "2026-08-26T07:10:41.069Z",
+    "generatedAt": "2026-08-26T09:59:33.558Z",
     "articles": [
       {
-        "id": "top-38c8f1fc",
-        "title": "The life of an iconic country singer",
+        "id": "top-6d87c265",
+        "title": "Watch: The life of an iconic country singer",
         "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
         "bullets": [
           "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media."
@@ -7773,20 +7773,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T07:01:44.000Z"
-      },
-      {
-        "id": "top-744bbd54",
-        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
-        "summary": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
-        "bullets": [
-          "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T04:07:48.000Z"
+        "publishedAt": "2026-08-26T09:31:51.000Z"
       },
       {
         "id": "top-c6509ecb",
@@ -7800,6 +7787,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-08-26T05:14:12.000Z"
+      },
+      {
+        "id": "top-1c5ef4c8",
+        "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
+        "summary": "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.",
+        "bullets": [
+          "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-26T09:28:03.000Z"
       },
       {
         "id": "top-52d46b22",
