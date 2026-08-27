@@ -7747,79 +7747,92 @@
   },
   {
     "date": "2026-08-27",
-    "generatedAt": "2026-08-27T00:49:51.265Z",
+    "generatedAt": "2026-08-27T14:15:49.461Z",
     "articles": [
       {
-        "id": "top-12acacbf",
-        "title": "BBC visits hospital in Kathmandu as families wait for news",
-        "summary": "More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing.",
+        "id": "top-d10ea27b",
+        "title": "Watch: How the collapse of a glacier caused such devastation",
+        "summary": "At least 270 people have died in the massive flash floods, while more than 800 others are missing.",
         "bullets": [
-          "More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing."
+          "At least 270 people have died in the massive flash floods, while more than 800 others are missing."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T21:15:34.000Z"
+        "publishedAt": "2026-08-27T10:17:45.000Z"
       },
       {
-        "id": "top-47dfc2ea",
-        "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-        "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
+        "id": "top-41672a29",
+        "title": "'My family members were swept away': Survivors describe horror",
+        "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
         "bullets": [
-          "The deal has been reached during a California federal court trial over claims brought by US states."
+          "One woman says her father, mother, sister and sister's children were carried away before her eyes."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T21:27:23.000Z"
+        "publishedAt": "2026-08-27T07:09:52.000Z"
       },
       {
-        "id": "top-3f0175ef",
-        "title": "Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC",
-        "summary": "Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.",
+        "id": "top-3534e072",
+        "title": "UK salmonella cases nearing 500 as egg investigations continue",
+        "summary": "Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters.",
         "bullets": [
-          "Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say."
+          "Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-27T00:12:22.000Z"
+        "publishedAt": "2026-08-27T11:00:35.000Z"
       },
       {
-        "id": "top-30e9f527",
-        "title": "Rocky Horror star Tim Curry dies at 80",
-        "summary": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
+        "id": "top-aa8791fa",
+        "title": "Dame Jenni Murray died days after car crash, inquest hears",
+        "summary": "The former presenter of BBC Radio 4 Woman's Hour died earlier this year, eight days after the collision.",
         "bullets": [
-          "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show."
+          "The former presenter of BBC Radio 4 Woman's Hour died earlier this year, eight days after the collision."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T19:53:35.000Z"
+        "publishedAt": "2026-08-27T11:52:28.000Z"
       },
       {
-        "id": "top-dbf9355d",
-        "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
-        "summary": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
+        "id": "top-efe14e7b",
+        "title": "In pictures: The dotty world of Japanese artist Yayoi Kusama, who has died aged 97",
+        "summary": "Kusama was known for creating extraordinary immersive worlds that delighted millions of visitors.",
         "bullets": [
-          "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour."
+          "Kusama was known for creating extraordinary immersive worlds that delighted millions of visitors."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T23:07:22.000Z"
+        "publishedAt": "2026-08-27T09:23:15.000Z"
+      },
+      {
+        "id": "tech-e12aad38",
+        "title": "Bentley takes us for a ride in its new EV, the Torcal",
+        "summary": "The electric Torcal will be Bentley's entry model and cost less than a Bentayga.",
+        "bullets": [
+          "The electric Torcal will be Bentley's entry model and cost less than a Bentayga."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T11:30:09.000Z"
       },
       {
         "id": "tech-73a429b0",
         "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
-        "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
+        "summary": "A dashing pirate, a butler, a shapeshifting killer clown, an alien mad scientist in drag—the man had range.",
         "bullets": [
-          "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range."
+          "A dashing pirate, a butler, a shapeshifting killer clown, an alien mad scientist in drag—the man had range."
         ],
         "source": "Ars Technica - All content",
         "sourceUrl": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
@@ -7867,21 +7880,60 @@
         "publishedAt": "2026-08-26T19:50:52.000Z"
       },
       {
-        "id": "tech-3da745e5",
-        "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
-        "summary": "The bishops' snub comes as the state continues to attack vaccines.",
+        "id": "ai-d858a769",
+        "title": "Here’s all the times AI has gone rogue and hacked other companies",
+        "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
         "bullets": [
-          "The bishops' snub comes as the state continues to attack vaccines."
+          "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T19:39:24.000Z"
+        "publishedAt": "2026-08-27T14:01:42.000Z"
       },
       {
-        "id": "ai-eec65939",
-        "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+        "id": "ai-5c58e4f2",
+        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+        "bullets": [
+          "Plaud's new 'agentic' earbuds are priced at $249."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T13:00:00.000Z"
+      },
+      {
+        "id": "ai-62cae3f0",
+        "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+        "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+        "bullets": [
+          "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T11:35:59.000Z"
+      },
+      {
+        "id": "ai-711c34c1",
+        "title": "Nvidia closes in on Hugging Face acquisition",
+        "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+        "bullets": [
+          "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T06:32:51.000Z"
+      },
+      {
+        "id": "ai-519e8f00",
+        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
         "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
         "bullets": [
           "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
@@ -7893,122 +7945,69 @@
         "publishedAt": "2026-08-27T00:24:57.000Z"
       },
       {
-        "id": "ai-b1344d96",
-        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-        "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+        "id": "world-7e52b3f6",
+        "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+        "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
         "bullets": [
-          "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years.",
-          "But this extended partnerships stretches beyond buying more chips."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T23:47:18.000Z"
-      },
-      {
-        "id": "ai-70447070",
-        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-        "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-        "bullets": [
-          "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T21:37:39.000Z"
-      },
-      {
-        "id": "ai-37923aa9",
-        "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-        "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-        "bullets": [
-          "Consumer AI apps need to stop making users learn their product architecture."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T19:37:34.000Z"
-      },
-      {
-        "id": "ai-a9b3a423",
-        "title": "How do we explain OpenAI’s executive exodus?",
-        "summary": "Was Greg Brockman the right executive all along?",
-        "bullets": [
-          "Was Greg Brockman the right executive all along?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T19:34:04.000Z"
-      },
-      {
-        "id": "world-20e4a0ef",
-        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-        "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-        "bullets": [
-          "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer."
+          "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T11:32:11.000Z"
+        "publishedAt": "2026-08-27T09:50:10.000Z"
       },
       {
-        "id": "world-5251aa8e",
-        "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-        "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
+        "id": "world-57a8c285",
+        "title": "What we know about deadly Nepal-Tibet floods",
+        "summary": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
         "bullets": [
-          "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies."
+          "Hundreds have died in flooding and landslides on the border of Nepal and Tibet."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T14:42:03.000Z"
+        "publishedAt": "2026-08-27T09:55:02.000Z"
       },
       {
-        "id": "world-7f4bcc24",
-        "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
-        "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+        "id": "world-fcf911cf",
+        "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+        "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
         "bullets": [
-          "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
+          "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T15:42:45.000Z"
+        "publishedAt": "2026-08-27T14:11:06.000Z"
       },
       {
-        "id": "world-48d5a4e6",
-        "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
-        "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+        "id": "world-196626ac",
+        "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+        "summary": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
         "bullets": [
-          "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
+          "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-26T22:02:18.000Z"
+        "publishedAt": "2026-08-27T11:20:49.000Z"
       },
       {
-        "id": "world-7974c272",
-        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-        "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+        "id": "world-d05bb0f9",
+        "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
+        "summary": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
         "bullets": [
-          "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+          "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-25T19:50:57.000Z"
+        "publishedAt": "2026-08-27T11:23:28.000Z"
       }
     ]
   }
