@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-07-29",
-    "generatedAt": "2026-07-29T22:15:05.896Z",
-    "articles": [
-      {
-        "id": "top-ce2344fa",
-        "title": "More than half of England in drought, Environment Agency declares",
-        "summary": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
-        "bullets": [
-          "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T14:37:30.000Z"
-      },
-      {
-        "id": "top-b7ad1618",
-        "title": "Moment police officers set foot in 'horror scene' funeral home",
-        "summary": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
-        "bullets": [
-          "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T17:00:41.000Z"
-      },
-      {
-        "id": "top-999bf07c",
-        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-        "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-        "bullets": [
-          "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T21:36:06.000Z"
-      },
-      {
-        "id": "top-c72bb27c",
-        "title": "Police to take no further action against Polanski over guillotine re-post",
-        "summary": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
-        "bullets": [
-          "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T19:53:48.000Z"
-      },
-      {
-        "id": "top-89610207",
-        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-        "bullets": [
-          "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T18:41:31.000Z"
-      },
-      {
-        "id": "tech-76636362",
-        "title": "Who wins and who loses after US bans foreign robots?",
-        "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-        "bullets": [
-          "Government ban on foreign-made robots may hinder instead of help US robotics."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T20:03:42.000Z"
-      },
-      {
-        "id": "tech-3469fd60",
-        "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-        "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
-        "bullets": [
-          "Comcast, accused of negligence, says lawsuit mischaracterized alleged events."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T19:33:55.000Z"
-      },
-      {
-        "id": "tech-d86f8fa6",
-        "title": "Customize Ars your way with an Ars Pro subscription",
-        "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
-        "bullets": [
-          "Ars Pro subscribers get customizable layouts along with no ads and no trackers."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T19:23:27.000Z"
-      },
-      {
-        "id": "tech-1efb1079",
-        "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
-        "summary": "Google's new API relies on parents to set age ranges in Family Link.",
-        "bullets": [
-          "Google's new API relies on parents to set age ranges in Family Link."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T18:08:22.000Z"
-      },
-      {
-        "id": "tech-40207bf1",
-        "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-        "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
-        "bullets": [
-          "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T17:58:24.000Z"
-      },
-      {
-        "id": "ai-eee6dba7",
-        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-        "bullets": [
-          "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T21:16:39.000Z"
-      },
-      {
-        "id": "ai-a55b4484",
-        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-        "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-        "bullets": [
-          "Weng previously served as the VP of AI Safety Research at OpenAI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T21:07:48.000Z"
-      },
-      {
-        "id": "ai-cdfc76fb",
-        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-        "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-        "bullets": [
-          "Another way to think about the whole thing is to picture a bear at a campsite.",
-          "(Really, we are going there.)"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T19:44:49.000Z"
-      },
-      {
-        "id": "ai-455fcbfa",
-        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-        "bullets": [
-          "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T18:45:27.000Z"
-      },
-      {
-        "id": "ai-52917f05",
-        "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-        "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-        "bullets": [
-          "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T15:35:09.000Z"
-      },
-      {
-        "id": "world-89610207",
-        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-        "bullets": [
-          "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T18:41:31.000Z"
-      },
-      {
-        "id": "world-541b9f01",
-        "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-        "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
-        "bullets": [
-          "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T16:23:41.000Z"
-      },
-      {
-        "id": "world-0e891c62",
-        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-        "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-        "bullets": [
-          "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T20:21:46.000Z"
-      },
-      {
-        "id": "world-dac51c7c",
-        "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-        "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
-        "bullets": [
-          "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T16:49:41.000Z"
-      },
-      {
-        "id": "world-cc0cb6fe",
-        "title": "Four women accuse Jared Leto of criminal sexual conduct",
-        "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-        "bullets": [
-          "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T21:36:06.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-07-30",
     "generatedAt": "2026-07-30T22:28:46.777Z",
     "articles": [
@@ -8008,6 +7741,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-27T11:23:28.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "generatedAt": "2026-08-28T00:26:01.306Z",
+    "articles": [
+      {
+        "id": "top-40fdadc9",
+        "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+        "summary": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
+        "bullets": [
+          "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T16:13:39.000Z"
+      },
+      {
+        "id": "top-b98195b8",
+        "title": "Uefa preparing criminal legal action against Infantino",
+        "summary": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
+        "bullets": [
+          "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T14:42:09.000Z"
+      },
+      {
+        "id": "top-01edcd4e",
+        "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
+        "summary": "BBC special correspondent Allan Little met the \"Butcher of Bosnia\" in the early months of the Bosnian war.",
+        "bullets": [
+          "BBC special correspondent Allan Little met the \"Butcher of Bosnia\" in the early months of the Bosnian war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T18:12:01.000Z"
+      },
+      {
+        "id": "top-622b7079",
+        "title": "Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths",
+        "summary": "Cleveland Police confirms it has support from six local forces and the National Crime Agency.",
+        "bullets": [
+          "Cleveland Police confirms it has support from six local forces and the National Crime Agency."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T20:14:57.000Z"
+      },
+      {
+        "id": "top-f6183cc5",
+        "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
+        "summary": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
+        "bullets": [
+          "The bill for clearing the dump in Oxfordshire has been covered by taxpayers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T21:00:48.000Z"
+      },
+      {
+        "id": "tech-608cbb0c",
+        "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+        "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
+        "bullets": [
+          "Standardized driver interface aims to let devices talk to AI and each other."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T22:15:43.000Z"
+      },
+      {
+        "id": "tech-2668b854",
+        "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+        "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
+        "bullets": [
+          "xAI accused of training Grok on real and AI-generated child pornography."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T20:52:31.000Z"
+      },
+      {
+        "id": "tech-321404cd",
+        "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
+        "summary": "GOP campaign committees want quick ruling before election ads ramp up next week.",
+        "bullets": [
+          "GOP campaign committees want quick ruling before election ads ramp up next week."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T20:06:10.000Z"
+      },
+      {
+        "id": "tech-46e33fd7",
+        "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+        "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+        "bullets": [
+          "Nvidia is nabbing critical infrastructure for open models as interest grows."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T19:55:22.000Z"
+      },
+      {
+        "id": "tech-83d33037",
+        "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+        "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
+        "bullets": [
+          "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T18:57:08.000Z"
+      },
+      {
+        "id": "ai-03dff577",
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "bullets": [
+          "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T23:16:45.000Z"
+      },
+      {
+        "id": "ai-448201be",
+        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+        "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+        "bullets": [
+          "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T19:52:52.000Z"
+      },
+      {
+        "id": "ai-8117bd72",
+        "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+        "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+        "bullets": [
+          "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T17:43:24.000Z"
+      },
+      {
+        "id": "ai-331741f6",
+        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+        "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+        "bullets": [
+          "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T16:00:00.000Z"
+      },
+      {
+        "id": "ai-c0fa0603",
+        "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+        "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+        "bullets": [
+          "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T14:56:52.000Z"
+      },
+      {
+        "id": "world-7e52b3f6",
+        "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+        "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+        "bullets": [
+          "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T09:50:10.000Z"
+      },
+      {
+        "id": "world-57a8c285",
+        "title": "What we know about deadly Nepal-Tibet floods",
+        "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+        "bullets": [
+          "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T22:54:28.000Z"
+      },
+      {
+        "id": "world-fcf911cf",
+        "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+        "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
+        "bullets": [
+          "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T17:05:22.000Z"
+      },
+      {
+        "id": "world-29bb491e",
+        "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+        "summary": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
+        "bullets": [
+          "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T20:39:16.000Z"
+      },
+      {
+        "id": "world-c8d1c553",
+        "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
+        "summary": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital.",
+        "bullets": [
+          "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-27T17:42:04.000Z"
       }
     ]
   }
