@@ -7745,7 +7745,7 @@
   },
   {
     "date": "2026-08-29",
-    "generatedAt": "2026-08-29T01:46:07.459Z",
+    "generatedAt": "2026-08-29T10:08:33.971Z",
     "articles": [
       {
         "id": "top-7b2cd30a",
@@ -7771,20 +7771,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-28T22:05:41.000Z"
+        "publishedAt": "2026-08-29T03:54:11.000Z"
       },
       {
-        "id": "top-3a9b18e3",
-        "title": "Man dies and at least six injured after sign falls at Christian festival",
-        "summary": "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.",
+        "id": "top-1425c962",
+        "title": "Christian festival 'devastated' as man dies after sign falls",
+        "summary": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
         "bullets": [
-          "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say."
+          "Police say at least six other people were also injured in the incident at the Big Church Festival."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-28T21:41:12.000Z"
+        "publishedAt": "2026-08-29T09:40:34.000Z"
       },
       {
         "id": "top-8031f98c",
@@ -7955,20 +7955,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-28T22:05:41.000Z"
+        "publishedAt": "2026-08-29T03:54:11.000Z"
       },
       {
-        "id": "world-8cd40cf6",
-        "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-        "summary": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+        "id": "world-c39ec6f2",
+        "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+        "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
         "bullets": [
-          "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy."
+          "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T09:38:07.000Z"
+      },
+      {
+        "id": "world-a9cb2b90",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "bullets": [
+          "Venezuelan interim president says the unusual agreement will help revive her country's economy."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-29T01:21:43.000Z"
+        "publishedAt": "2026-08-29T02:42:27.000Z"
       },
       {
         "id": "world-8031f98c",
@@ -7995,19 +8008,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-28T19:40:45.000Z"
-      },
-      {
-        "id": "world-cc6e1aa1",
-        "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-        "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-        "bullets": [
-          "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T00:46:02.000Z"
       }
     ]
   }
