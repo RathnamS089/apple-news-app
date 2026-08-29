@@ -7745,33 +7745,20 @@
   },
   {
     "date": "2026-08-29",
-    "generatedAt": "2026-08-29T10:08:33.971Z",
+    "generatedAt": "2026-08-29T16:45:07.362Z",
     "articles": [
       {
-        "id": "top-7b2cd30a",
-        "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-        "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+        "id": "top-6c27b58f",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
         "bullets": [
-          "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator."
+          "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-28T21:17:54.000Z"
-      },
-      {
-        "id": "top-5d9d9b77",
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-        "bullets": [
-          "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T03:54:11.000Z"
+        "publishedAt": "2026-08-29T15:27:56.000Z"
       },
       {
         "id": "top-1425c962",
@@ -7784,33 +7771,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-29T09:40:34.000Z"
+        "publishedAt": "2026-08-29T14:12:30.000Z"
       },
       {
-        "id": "top-8031f98c",
-        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-        "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+        "id": "top-e5f8ef39",
+        "title": "Cleverly quits shadow cabinet to run for London mayor",
+        "summary": "The capital is not set to vote on a new mayor until 2028.",
         "bullets": [
-          "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
+          "The capital is not set to vote on a new mayor until 2028."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-29T00:32:17.000Z"
+        "publishedAt": "2026-08-29T16:24:39.000Z"
       },
       {
-        "id": "top-b37f6144",
-        "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-        "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+        "id": "top-756fc5a4",
+        "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
+        "summary": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
         "bullets": [
-          "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+          "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-29T00:56:19.000Z"
+        "publishedAt": "2026-08-29T15:43:43.000Z"
+      },
+      {
+        "id": "top-5c4e5bc3",
+        "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+        "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
+        "bullets": [
+          "The former Duchess of York is renting a six-bed house in the Home Counties, reports say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T10:43:25.000Z"
+      },
+      {
+        "id": "tech-a42767f1",
+        "title": "I asked 100 companies for my data. Some deleted it instead.",
+        "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+        "bullets": [
+          "Testing 100 companies found privacy requests often led to confusion and dead ends."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T10:50:31.000Z"
       },
       {
         "id": "tech-2e087c0f",
@@ -7866,17 +7879,17 @@
         "publishedAt": "2026-08-28T18:07:55.000Z"
       },
       {
-        "id": "tech-cb0dfa4d",
-        "title": "Here's what we know about the \"space academy\" Trump just announced",
-        "summary": "\"It's called the US Space Academy. That's a big deal.\"",
+        "id": "ai-0e71438a",
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
         "bullets": [
-          "\"It's called the US Space Academy."
+          "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-28T17:36:30.000Z"
+        "publishedAt": "2026-08-29T13:00:00.000Z"
       },
       {
         "id": "ai-90ca18b5",
@@ -7932,19 +7945,6 @@
         "publishedAt": "2026-08-28T12:46:12.000Z"
       },
       {
-        "id": "ai-d7a3c5e0",
-        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-        "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-        "bullets": [
-          "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T12:21:06.000Z"
-      },
-      {
         "id": "world-5d9d9b77",
         "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
         "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
@@ -7958,17 +7958,17 @@
         "publishedAt": "2026-08-29T03:54:11.000Z"
       },
       {
-        "id": "world-c39ec6f2",
-        "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
-        "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+        "id": "world-6c27b58f",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
         "bullets": [
-          "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said."
+          "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-29T09:38:07.000Z"
+        "publishedAt": "2026-08-29T15:27:56.000Z"
       },
       {
         "id": "world-a9cb2b90",
@@ -7981,7 +7981,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-29T02:42:27.000Z"
+        "publishedAt": "2026-08-29T16:15:56.000Z"
       },
       {
         "id": "world-8031f98c",
