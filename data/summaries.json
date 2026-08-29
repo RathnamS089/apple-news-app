@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-07-30",
-    "generatedAt": "2026-07-30T22:28:46.777Z",
-    "articles": [
-      {
-        "id": "top-f64bde7f",
-        "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
-        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-        "bullets": [
-          "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T16:47:40.000Z"
-      },
-      {
-        "id": "top-b60459e0",
-        "title": "Suffolk wildfire still growing and unpredictable, says fire service",
-        "summary": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
-        "bullets": [
-          "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T18:50:57.000Z"
-      },
-      {
-        "id": "top-275966aa",
-        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-        "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
-        "bullets": [
-          "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T16:04:53.000Z"
-      },
-      {
-        "id": "top-029fff3f",
-        "title": "Andy Burnham to give regional mayors share of income tax",
-        "summary": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
-        "bullets": [
-          "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T21:32:09.000Z"
-      },
-      {
-        "id": "top-71a4c880",
-        "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
-        "summary": "Wales is on course for its driest July on record in almost 190 years.",
-        "bullets": [
-          "Wales is on course for its driest July on record in almost 190 years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T14:15:09.000Z"
-      },
-      {
-        "id": "tech-fad0f9bf",
-        "title": "Quantum computers outperform classical ones, with results you can trust",
-        "summary": "Three approaches to the issue of quantum results that can't be verified classically.",
-        "bullets": [
-          "Three approaches to the issue of quantum results that can't be verified classically."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T15:59:37.000Z"
-      },
-      {
-        "id": "tech-44361562",
-        "title": "New MCP specification addresses the main barrier to enterprise adoption",
-        "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
-        "bullets": [
-          "Plus, a new policy for the AI protocol ensures features aren't removed suddenly."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T14:53:07.000Z"
-      },
-      {
-        "id": "tech-9595abae",
-        "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-        "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-        "bullets": [
-          "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T22:07:06.000Z"
-      },
-      {
-        "id": "tech-7f399603",
-        "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
-        "summary": "Advertisers agreed to “reset” relationship with X.",
-        "bullets": [
-          "Advertisers agreed to “reset” relationship with X."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T20:57:35.000Z"
-      },
-      {
-        "id": "tech-76636362",
-        "title": "Who wins and who loses after US bans foreign robots?",
-        "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-        "bullets": [
-          "Government ban on foreign-made robots may hinder instead of help US robotics."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-07-29T20:03:42.000Z"
-      },
-      {
-        "id": "ai-9487864f",
-        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-        "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-        "bullets": [
-          "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T20:26:38.000Z"
-      },
-      {
-        "id": "ai-b2e6258b",
-        "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-        "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-        "bullets": [
-          "Friend, the AI wearable, can now talk to its users — for an enhanced price."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T19:44:16.000Z"
-      },
-      {
-        "id": "ai-3e6c206e",
-        "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-        "bullets": [
-          "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T18:57:58.000Z"
-      },
-      {
-        "id": "ai-faed3fb0",
-        "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-        "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-        "bullets": [
-          "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option.",
-          "It's also replacing its own AI writing feature with a proofreading tool."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T18:05:21.000Z"
-      },
-      {
-        "id": "ai-358e931a",
-        "title": "Okta buys AI security startup Permiso — source says for about $200M",
-        "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-        "bullets": [
-          "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T16:09:42.000Z"
-      },
-      {
-        "id": "world-8a13bc3c",
-        "title": "Uefa to boycott World Cups if Fifa plans approved",
-        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-        "bullets": [
-          "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T16:47:40.000Z"
-      },
-      {
-        "id": "world-b5dbb206",
-        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-        "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-        "bullets": [
-          "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T10:49:14.000Z"
-      },
-      {
-        "id": "world-9e5fb363",
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-        "bullets": [
-          "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T17:26:01.000Z"
-      },
-      {
-        "id": "world-fc3a4a71",
-        "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-        "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
-        "bullets": [
-          "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T21:24:31.000Z"
-      },
-      {
-        "id": "world-338702cb",
-        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-        "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-        "bullets": [
-          "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-07-30T15:35:50.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-07-31",
     "generatedAt": "2026-07-31T22:16:53.700Z",
     "articles": [
@@ -8007,6 +7740,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-28T12:15:46.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "generatedAt": "2026-08-29T01:46:07.459Z",
+    "articles": [
+      {
+        "id": "top-7b2cd30a",
+        "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+        "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+        "bullets": [
+          "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T21:17:54.000Z"
+      },
+      {
+        "id": "top-5d9d9b77",
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "bullets": [
+          "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T22:05:41.000Z"
+      },
+      {
+        "id": "top-3a9b18e3",
+        "title": "Man dies and at least six injured after sign falls at Christian festival",
+        "summary": "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.",
+        "bullets": [
+          "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T21:41:12.000Z"
+      },
+      {
+        "id": "top-8031f98c",
+        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+        "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+        "bullets": [
+          "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T00:32:17.000Z"
+      },
+      {
+        "id": "top-b37f6144",
+        "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+        "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+        "bullets": [
+          "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T00:56:19.000Z"
+      },
+      {
+        "id": "tech-2e087c0f",
+        "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+        "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+        "bullets": [
+          "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T22:14:52.000Z"
+      },
+      {
+        "id": "tech-5cb9ebf7",
+        "title": "Cities terminate Flock contracts at record pace in August",
+        "summary": "Cancellations have accelerated.",
+        "bullets": [
+          "Cancellations have accelerated."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T21:33:54.000Z"
+      },
+      {
+        "id": "tech-3dd29db1",
+        "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+        "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+        "bullets": [
+          "went to Samoa to spread vaccine fears.",
+          "The measles outbreak after killed 83."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T21:17:38.000Z"
+      },
+      {
+        "id": "tech-a7866a71",
+        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+        "bullets": [
+          "Anthropic refused to support lethal autonomous warfare and mass surveillance."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T18:07:55.000Z"
+      },
+      {
+        "id": "tech-cb0dfa4d",
+        "title": "Here's what we know about the \"space academy\" Trump just announced",
+        "summary": "\"It's called the US Space Academy. That's a big deal.\"",
+        "bullets": [
+          "\"It's called the US Space Academy."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T17:36:30.000Z"
+      },
+      {
+        "id": "ai-90ca18b5",
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+        "bullets": [
+          "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft.",
+          "It's the latest in a string of loans, underscoring the high cost of the AI boom."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T20:24:11.000Z"
+      },
+      {
+        "id": "ai-6b75f42d",
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "bullets": [
+          "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T19:30:38.000Z"
+      },
+      {
+        "id": "ai-2321ecb9",
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "summary": "There's a lot of capital pouring into the business of giving models away.",
+        "bullets": [
+          "There's a lot of capital pouring into the business of giving models away."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T18:19:40.000Z"
+      },
+      {
+        "id": "ai-0aa995e2",
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+        "bullets": [
+          "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T12:46:12.000Z"
+      },
+      {
+        "id": "ai-d7a3c5e0",
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+        "bullets": [
+          "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T12:21:06.000Z"
+      },
+      {
+        "id": "world-5d9d9b77",
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "bullets": [
+          "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T22:05:41.000Z"
+      },
+      {
+        "id": "world-8cd40cf6",
+        "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+        "summary": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+        "bullets": [
+          "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T01:21:43.000Z"
+      },
+      {
+        "id": "world-8031f98c",
+        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+        "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+        "bullets": [
+          "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T00:32:17.000Z"
+      },
+      {
+        "id": "world-da9b8e83",
+        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+        "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+        "bullets": [
+          "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T19:40:45.000Z"
+      },
+      {
+        "id": "world-cc6e1aa1",
+        "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+        "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+        "bullets": [
+          "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T00:46:02.000Z"
       }
     ]
   }
