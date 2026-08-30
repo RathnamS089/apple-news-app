@@ -7747,7 +7747,7 @@
   },
   {
     "date": "2026-08-30",
-    "generatedAt": "2026-08-30T05:27:57.949Z",
+    "generatedAt": "2026-08-30T11:57:34.926Z",
     "articles": [
       {
         "id": "top-60fcc87a",
@@ -7760,59 +7760,72 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T04:59:16.000Z"
+        "publishedAt": "2026-08-30T08:59:58.000Z"
       },
       {
-        "id": "top-9452057f",
-        "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
-        "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+        "id": "top-b9888baa",
+        "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
+        "summary": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
         "bullets": [
-          "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
+          "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T04:59:56.000Z"
+        "publishedAt": "2026-08-30T07:58:31.000Z"
       },
       {
-        "id": "top-3b276471",
-        "title": "Iceland EU referendum on a knife edge as counting continues",
-        "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
+        "id": "top-8a46e3ed",
+        "title": "British woman killed in stabbing at German railway station",
+        "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
         "bullets": [
-          "A vote on whether to resume membership talks with the European Union is too close to call."
+          "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T11:34:48.000Z"
+      },
+      {
+        "id": "top-000c867f",
+        "title": "Church names pastor killed by falling sign at Christian festival",
+        "summary": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
+        "bullets": [
+          "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T11:46:07.000Z"
+      },
+      {
+        "id": "top-7d6476b3",
+        "title": "Iceland votes against restarting talks on joining EU",
+        "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+        "bullets": [
+          "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T03:57:01.000Z"
+        "publishedAt": "2026-08-30T10:49:11.000Z"
       },
       {
-        "id": "top-2f8b89c9",
-        "title": "Rescue to continue overnight for 'in distress' vessel carrying five in the Channel",
-        "summary": "Several fishing vessels are assisting the Coastguard after reports of a boat \"in distress' off Plymouth.",
+        "id": "tech-36a3f1e6",
+        "title": "Inside Meta’s push to put robots to work in data centers",
+        "summary": "The company is testing robots on tasks that can performed by technicians.",
         "bullets": [
-          "Several fishing vessels are assisting the Coastguard after reports of a boat \"in distress' off Plymouth."
+          "The company is testing robots on tasks that can performed by technicians."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-08-29T23:49:43.000Z"
-      },
-      {
-        "id": "top-d4cb194e",
-        "title": "British heavyweight Moses Itauma stretchered out after shock defeat in gruelling world title fight",
-        "summary": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.",
-        "bullets": [
-          "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T23:16:03.000Z"
+        "publishedAt": "2026-08-30T11:03:47.000Z"
       },
       {
         "id": "tech-a42767f1",
@@ -7866,19 +7879,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-28T21:17:38.000Z"
-      },
-      {
-        "id": "tech-a7866a71",
-        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-        "bullets": [
-          "Anthropic refused to support lethal autonomous warfare and mass surveillance."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T18:07:55.000Z"
       },
       {
         "id": "ai-748afcb5",
@@ -7947,43 +7947,30 @@
         "publishedAt": "2026-08-28T19:30:38.000Z"
       },
       {
-        "id": "world-5d9d9b77",
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "id": "world-7d6476b3",
+        "title": "Iceland votes against restarting talks on joining EU",
+        "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
         "bullets": [
-          "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T03:54:11.000Z"
-      },
-      {
-        "id": "world-3b276471",
-        "title": "Iceland EU referendum on a knife edge as counting continues",
-        "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
-        "bullets": [
-          "A vote on whether to resume membership talks with the European Union is too close to call."
+          "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T03:57:01.000Z"
+        "publishedAt": "2026-08-30T10:49:11.000Z"
       },
       {
-        "id": "world-1067c042",
-        "title": "WhatsApp chat used to send cash for crime and extremism",
-        "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+        "id": "world-22646427",
+        "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+        "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
         "bullets": [
-          "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
+          "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T04:59:56.000Z"
+        "publishedAt": "2026-08-30T11:25:11.000Z"
       },
       {
         "id": "world-6c27b58f",
@@ -7999,17 +7986,30 @@
         "publishedAt": "2026-08-29T20:13:16.000Z"
       },
       {
-        "id": "world-0ed9082c",
-        "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-        "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+        "id": "world-b4cbddb1",
+        "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+        "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
         "bullets": [
-          "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
+          "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-29T17:52:42.000Z"
+        "publishedAt": "2026-08-30T00:17:25.000Z"
+      },
+      {
+        "id": "world-1067c042",
+        "title": "WhatsApp chat used to send cash for crime and extremism",
+        "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+        "bullets": [
+          "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T04:59:56.000Z"
       }
     ]
   }
