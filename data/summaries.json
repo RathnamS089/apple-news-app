@@ -7747,7 +7747,7 @@
   },
   {
     "date": "2026-08-30",
-    "generatedAt": "2026-08-30T11:57:34.926Z",
+    "generatedAt": "2026-08-30T16:43:32.337Z",
     "articles": [
       {
         "id": "top-60fcc87a",
@@ -7763,17 +7763,17 @@
         "publishedAt": "2026-08-30T08:59:58.000Z"
       },
       {
-        "id": "top-b9888baa",
-        "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
-        "summary": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
+        "id": "top-b3d64d99",
+        "title": "Police release one of two men arrested over fatal house fire",
+        "summary": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
         "bullets": [
-          "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes."
+          "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T07:58:31.000Z"
+        "publishedAt": "2026-08-30T14:34:20.000Z"
       },
       {
         "id": "top-8a46e3ed",
@@ -7786,7 +7786,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T11:34:48.000Z"
+        "publishedAt": "2026-08-30T16:11:46.000Z"
       },
       {
         "id": "top-000c867f",
@@ -7802,17 +7802,17 @@
         "publishedAt": "2026-08-30T11:46:07.000Z"
       },
       {
-        "id": "top-7d6476b3",
-        "title": "Iceland votes against restarting talks on joining EU",
-        "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+        "id": "top-f13e877a",
+        "title": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
+        "summary": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
         "bullets": [
-          "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
+          "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T10:49:11.000Z"
+        "publishedAt": "2026-08-30T16:30:05.000Z"
       },
       {
         "id": "tech-36a3f1e6",
@@ -7881,6 +7881,20 @@
         "publishedAt": "2026-08-28T21:17:38.000Z"
       },
       {
+        "id": "ai-2b44dee6",
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "bullets": [
+          "Caterpillar has spent decades putting autonomous machines to work at remote mining sites.",
+          "It's now bringing that experience to AI deployment."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T15:00:00.000Z"
+      },
+      {
         "id": "ai-748afcb5",
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
         "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
@@ -7934,30 +7948,17 @@
         "publishedAt": "2026-08-28T20:24:11.000Z"
       },
       {
-        "id": "ai-6b75f42d",
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "id": "world-d9d228c8",
+        "title": "Iceland votes against restarting EU membership talks",
+        "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
         "bullets": [
-          "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T19:30:38.000Z"
-      },
-      {
-        "id": "world-7d6476b3",
-        "title": "Iceland votes against restarting talks on joining EU",
-        "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
-        "bullets": [
-          "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
+          "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T10:49:11.000Z"
+        "publishedAt": "2026-08-30T16:11:44.000Z"
       },
       {
         "id": "world-22646427",
@@ -7970,24 +7971,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T11:25:11.000Z"
+        "publishedAt": "2026-08-30T12:44:08.000Z"
       },
       {
-        "id": "world-6c27b58f",
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-        "bullets": [
-          "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T20:13:16.000Z"
-      },
-      {
-        "id": "world-b4cbddb1",
-        "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+        "id": "world-f3db7c62",
+        "title": "Canada installs large Lake Ontario sign in latest jab at US",
         "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
         "bullets": [
           "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario."
@@ -7996,7 +7984,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-30T00:17:25.000Z"
+        "publishedAt": "2026-08-30T14:25:43.000Z"
       },
       {
         "id": "world-1067c042",
@@ -8010,6 +7998,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-30T04:59:56.000Z"
+      },
+      {
+        "id": "world-fc8f61f2",
+        "title": "Russia says it helped to repel Niger attempted coup",
+        "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+        "bullets": [
+          "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T16:33:17.000Z"
       }
     ]
   }
