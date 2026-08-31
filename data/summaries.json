@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-08-01",
-    "generatedAt": "2026-08-01T22:12:48.635Z",
-    "articles": [
-      {
-        "id": "top-eb073e94",
-        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-        "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-        "bullets": [
-          "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T20:09:27.000Z"
-      },
-      {
-        "id": "top-dadc2d3a",
-        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-        "summary": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
-        "bullets": [
-          "The pressure is building on Gianni Infantino.",
-          "Can he survive as Fifa president?"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T22:03:13.000Z"
-      },
-      {
-        "id": "top-2b9e8983",
-        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-        "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-        "bullets": [
-          "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T15:25:30.000Z"
-      },
-      {
-        "id": "top-df314653",
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-        "bullets": [
-          "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T21:13:17.000Z"
-      },
-      {
-        "id": "top-a8d3af49",
-        "title": "Cambridge professor at centre of plagiarism row defends his work",
-        "summary": "Prof Jason Arday admitted errors in his work but said he was not a liar after attracting criticism online.",
-        "bullets": [
-          "Prof Jason Arday admitted errors in his work but said he was not a liar after attracting criticism online."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gmp7zylvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T20:32:25.000Z"
-      },
-      {
-        "id": "tech-c1943403",
-        "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-        "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-        "bullets": [
-          "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T18:20:11.000Z"
-      },
-      {
-        "id": "tech-681b9e14",
-        "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-        "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
-        "bullets": [
-          "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T15:19:04.000Z"
-      },
-      {
-        "id": "tech-4162966d",
-        "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-        "summary": "Reddit may still be considering ending its licensing deal with Google.",
-        "bullets": [
-          "Reddit may still be considering ending its licensing deal with Google."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T12:30:36.000Z"
-      },
-      {
-        "id": "tech-1ece902d",
-        "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-        "summary": "Autonomous vehicle giant disturbs residents' sleep.",
-        "bullets": [
-          "Autonomous vehicle giant disturbs residents' sleep."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T11:30:54.000Z"
-      },
-      {
-        "id": "tech-381148d6",
-        "title": "Defcon's new badge is a security key you can see inside",
-        "summary": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
-        "bullets": [
-          "A removable chip lets hackers inspect their badge—and keep using it after Defcon."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T10:05:21.000Z"
-      },
-      {
-        "id": "ai-c029c3ed",
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-        "bullets": [
-          "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T20:26:04.000Z"
-      },
-      {
-        "id": "ai-c32d16dc",
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-        "bullets": [
-          "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ...",
-          "is not healthy for me or good for the world.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T19:45:45.000Z"
-      },
-      {
-        "id": "ai-bada20a1",
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "bullets": [
-          "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T17:07:34.000Z"
-      },
-      {
-        "id": "ai-65c702c7",
-        "title": "This $9 key physically locks your most addictive apps",
-        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-        "bullets": [
-          "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T15:58:17.000Z"
-      },
-      {
-        "id": "ai-f3dd5fa3",
-        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-        "bullets": [
-          "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-07-31T22:47:26.000Z"
-      },
-      {
-        "id": "world-eb073e94",
-        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-        "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-        "bullets": [
-          "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T20:09:27.000Z"
-      },
-      {
-        "id": "world-10874de3",
-        "title": "Call for 'full review' as pressure grows on Infantino",
-        "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-        "bullets": [
-          "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T17:07:46.000Z"
-      },
-      {
-        "id": "world-10b97289",
-        "title": "Tourist plane crashes in Peru, killing 13",
-        "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-        "bullets": [
-          "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T20:51:09.000Z"
-      },
-      {
-        "id": "world-1e107e79",
-        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-        "bullets": [
-          "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T05:01:56.000Z"
-      },
-      {
-        "id": "world-3b74756b",
-        "title": "Italy putting nearly all major cities on highest heat alert",
-        "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-        "bullets": [
-          "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-01T17:51:46.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-02",
     "generatedAt": "2026-08-02T22:12:09.366Z",
     "articles": [
@@ -8009,6 +7741,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-08-30T22:14:37.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "generatedAt": "2026-08-31T05:40:39.213Z",
+    "articles": [
+      {
+        "id": "top-0f0ff972",
+        "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+        "summary": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+        "bullets": [
+          "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T18:33:36.000Z"
+      },
+      {
+        "id": "top-1d8aaab9",
+        "title": "US and Iran trade strikes for first time in weeks",
+        "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+        "bullets": [
+          "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-31T04:54:32.000Z"
+      },
+      {
+        "id": "top-2ef14431",
+        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+        "summary": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+        "bullets": [
+          "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-31T02:03:38.000Z"
+      },
+      {
+        "id": "top-1a9ca9d9",
+        "title": "Parents of seriously ill children should get paid leave, says commissioner",
+        "summary": "Children's commissioner Dame Rachel de Souza has backed called for more support for parents and carers.",
+        "bullets": [
+          "Children's commissioner Dame Rachel de Souza has backed called for more support for parents and carers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z4n8j14do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-31T04:17:28.000Z"
+      },
+      {
+        "id": "top-f7e1dba4",
+        "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
+        "summary": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
+        "bullets": [
+          "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-08-31T01:47:54.000Z"
+      },
+      {
+        "id": "tech-e1295dcc",
+        "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+        "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
+        "bullets": [
+          "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T21:40:56.000Z"
+      },
+      {
+        "id": "tech-6743477f",
+        "title": "Why it matters that President Trump just dialed into a NASA news conference",
+        "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
+        "bullets": [
+          "With just one more major mission upcoming, NASA's science programs need a boost."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T17:40:30.000Z"
+      },
+      {
+        "id": "tech-36a3f1e6",
+        "title": "Inside Meta’s push to put robots to work in data centers",
+        "summary": "The company is testing robots on tasks that can performed by technicians.",
+        "bullets": [
+          "The company is testing robots on tasks that can performed by technicians."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T11:03:47.000Z"
+      },
+      {
+        "id": "tech-a42767f1",
+        "title": "I asked 100 companies for my data. Some deleted it instead.",
+        "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+        "bullets": [
+          "Testing 100 companies found privacy requests often led to confusion and dead ends."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T10:50:31.000Z"
+      },
+      {
+        "id": "tech-2e087c0f",
+        "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+        "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+        "bullets": [
+          "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-08-28T22:14:52.000Z"
+      },
+      {
+        "id": "ai-f0518eaf",
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+        "bullets": [
+          "is shutting out more foreign-made drones and robots.",
+          "China’s scale means the global competition may simply move elsewhere."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-31T02:34:00.000Z"
+      },
+      {
+        "id": "ai-c67384db",
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his...",
+        "bullets": [
+          "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T16:54:25.000Z"
+      },
+      {
+        "id": "ai-2b44dee6",
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "bullets": [
+          "Caterpillar has spent decades putting autonomous machines to work at remote mining sites.",
+          "It's now bringing that experience to AI deployment."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T15:00:00.000Z"
+      },
+      {
+        "id": "ai-748afcb5",
+        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "bullets": [
+          "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T18:41:59.000Z"
+      },
+      {
+        "id": "ai-62fad70d",
+        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still...",
+        "bullets": [
+          "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-08-29T17:36:47.000Z"
+      },
+      {
+        "id": "world-2dfd7b73",
+        "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+        "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+        "bullets": [
+          "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-31T03:56:15.000Z"
+      },
+      {
+        "id": "world-1d8aaab9",
+        "title": "US and Iran trade strikes for first time in weeks",
+        "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+        "bullets": [
+          "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-31T04:54:32.000Z"
+      },
+      {
+        "id": "world-d9d228c8",
+        "title": "Iceland votes against restarting EU membership talks",
+        "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+        "bullets": [
+          "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T16:11:44.000Z"
+      },
+      {
+        "id": "world-22646427",
+        "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+        "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+        "bullets": [
+          "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T17:49:31.000Z"
+      },
+      {
+        "id": "world-95058d8c",
+        "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+        "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+        "bullets": [
+          "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-08-30T23:52:27.000Z"
       }
     ]
   }
