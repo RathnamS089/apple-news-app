@@ -7747,8 +7747,21 @@
   },
   {
     "date": "2026-09-01",
-    "generatedAt": "2026-09-01T14:10:24.754Z",
+    "generatedAt": "2026-09-01T18:34:21.287Z",
     "articles": [
+      {
+        "id": "top-dd91ce8e",
+        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+        "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+        "bullets": [
+          "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T16:36:42.000Z"
+      },
       {
         "id": "top-fc07059c",
         "title": "Keir Starmer announces he is standing down as MP",
@@ -7760,59 +7773,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T13:18:48.000Z"
+        "publishedAt": "2026-09-01T17:04:29.000Z"
       },
       {
-        "id": "top-8bc0ceb9",
-        "title": "Summer 2026 was UK's hottest on record, Met Office says",
-        "summary": "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
+        "id": "top-3af6bfbb",
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
         "bullets": [
-          "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat."
+          "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T12:18:55.000Z"
+        "publishedAt": "2026-09-01T16:53:40.000Z"
       },
       {
-        "id": "top-aa8f2b60",
-        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-        "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+        "id": "top-6f9d4edd",
+        "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
+        "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
         "bullets": [
-          "As of August, the number forced to return this year from Pakistan and Iran had reached another million."
+          "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T05:00:34.000Z"
+        "publishedAt": "2026-09-01T16:11:18.000Z"
       },
       {
-        "id": "top-df09e574",
-        "title": "The final minutes before floodwater crashed through Nepal-China border",
-        "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+        "id": "top-2d5e354c",
+        "title": "Watch: Norway's new king takes oath as mourners pay respects to his late father",
+        "summary": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
         "bullets": [
-          "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods."
+          "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T06:02:27.000Z"
+        "publishedAt": "2026-09-01T14:06:58.000Z"
       },
       {
-        "id": "top-f1570d22",
-        "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-        "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+        "id": "tech-454204a9",
+        "title": "It turns out that Orion's much-maligned heat shield performed really well",
+        "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
         "bullets": [
-          "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
+          "Independent safety officials also have high praise for changes by NASA leadership."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T13:46:05.000Z"
+        "publishedAt": "2026-09-01T14:46:28.000Z"
       },
       {
         "id": "tech-f095f12d",
@@ -7867,83 +7880,82 @@
         "publishedAt": "2026-08-31T21:23:09.000Z"
       },
       {
-        "id": "tech-f20aa105",
-        "title": "Get in on the Ars community that doesn’t fit beneath an article",
-        "summary": "You've read the stories. Now check out our forums.",
+        "id": "ai-0a0353af",
+        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+        "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
         "bullets": [
-          "You've read the stories.",
-          "Now check out our forums."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T21:12:01.000Z"
-      },
-      {
-        "id": "ai-75125432",
-        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-        "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-        "bullets": [
-          "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+          "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T00:13:00.000Z"
+        "publishedAt": "2026-09-01T17:35:37.000Z"
       },
       {
-        "id": "ai-d2f93f79",
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "id": "ai-c875659e",
+        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+        "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
         "bullets": [
-          "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
+          "OpenAI said that the integration provides read-only access to health records for clinicians."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-31T20:13:45.000Z"
+        "publishedAt": "2026-09-01T17:00:00.000Z"
       },
       {
-        "id": "ai-69d5707e",
-        "title": "Instagram puts new limits on undisclosed AI profiles",
-        "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+        "id": "ai-e11d1d61",
+        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+        "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
         "bullets": [
-          "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
+          "The startup wants to do for IT infrastructure what Cursor did for software engineering."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-31T19:16:59.000Z"
+        "publishedAt": "2026-09-01T16:31:04.000Z"
       },
       {
-        "id": "ai-3fcf2a9a",
-        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-        "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+        "id": "ai-bba3bde7",
+        "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+        "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
         "bullets": [
-          "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the..."
+          "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows,..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-31T18:35:11.000Z"
+        "publishedAt": "2026-09-01T15:51:55.000Z"
       },
       {
-        "id": "ai-315a8141",
-        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-        "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+        "id": "ai-09f86721",
+        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+        "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
         "bullets": [
-          "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
+          "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-31T16:00:00.000Z"
+        "publishedAt": "2026-09-01T15:45:51.000Z"
+      },
+      {
+        "id": "world-3af6bfbb",
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+        "bullets": [
+          "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T16:53:40.000Z"
       },
       {
         "id": "world-aa8f2b60",
@@ -7959,17 +7971,17 @@
         "publishedAt": "2026-09-01T05:00:34.000Z"
       },
       {
-        "id": "world-8249019c",
-        "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-        "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+        "id": "world-50d6d77f",
+        "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+        "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
         "bullets": [
-          "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16."
+          "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T07:37:24.000Z"
+        "publishedAt": "2026-09-01T16:11:18.000Z"
       },
       {
         "id": "world-f1570d22",
@@ -7982,33 +7994,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T13:46:05.000Z"
+        "publishedAt": "2026-09-01T15:33:14.000Z"
       },
       {
-        "id": "world-375dece4",
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
-        "summary": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+        "id": "world-fd7fa97b",
+        "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+        "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
         "bullets": [
-          "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered."
+          "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T12:58:44.000Z"
-      },
-      {
-        "id": "world-0a9898c6",
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-        "summary": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
-        "bullets": [
-          "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T10:30:55.000Z"
+        "publishedAt": "2026-09-01T18:06:58.000Z"
       }
     ]
   }
