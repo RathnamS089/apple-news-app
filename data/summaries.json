@@ -7747,33 +7747,33 @@
   },
   {
     "date": "2026-09-01",
-    "generatedAt": "2026-09-01T08:42:17.375Z",
+    "generatedAt": "2026-09-01T14:10:24.754Z",
     "articles": [
       {
-        "id": "top-c3ffdbfd",
-        "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-        "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+        "id": "top-fc07059c",
+        "title": "Keir Starmer announces he is standing down as MP",
+        "summary": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
         "bullets": [
-          "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago."
+          "The move will trigger a by-election to replace the former prime minister in his London constituency."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T07:02:58.000Z"
+        "publishedAt": "2026-09-01T13:18:48.000Z"
       },
       {
-        "id": "top-11be4361",
-        "title": "Man charged with murder of woman and girl after fatal Teesside house fire",
-        "summary": "A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.",
+        "id": "top-8bc0ceb9",
+        "title": "Summer 2026 was UK's hottest on record, Met Office says",
+        "summary": "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
         "bullets": [
-          "A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday."
+          "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T04:21:49.000Z"
+        "publishedAt": "2026-09-01T12:18:55.000Z"
       },
       {
         "id": "top-aa8f2b60",
@@ -7789,30 +7789,56 @@
         "publishedAt": "2026-09-01T05:00:34.000Z"
       },
       {
-        "id": "top-87e25146",
-        "title": "US army secretary resigns after months of tension",
-        "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+        "id": "top-df09e574",
+        "title": "The final minutes before floodwater crashed through Nepal-China border",
+        "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
         "bullets": [
-          "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post."
+          "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T01:01:03.000Z"
+        "publishedAt": "2026-09-01T06:02:27.000Z"
       },
       {
-        "id": "top-67f3a6bb",
-        "title": "Shein shares fall in long-awaited stock market debut",
-        "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+        "id": "top-f1570d22",
+        "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+        "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
         "bullets": [
-          "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London."
+          "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T04:15:15.000Z"
+        "publishedAt": "2026-09-01T13:46:05.000Z"
+      },
+      {
+        "id": "tech-f095f12d",
+        "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+        "summary": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
+        "bullets": [
+          "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T11:00:35.000Z"
+      },
+      {
+        "id": "tech-debd90f4",
+        "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+        "summary": "\"We could really be facing the great filter.\"",
+        "bullets": [
+          "\"We could really be facing the great filter.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T10:00:33.000Z"
       },
       {
         "id": "tech-5db6f85c",
@@ -7853,32 +7879,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-08-31T21:12:01.000Z"
-      },
-      {
-        "id": "tech-c7634bb7",
-        "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-        "summary": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
-        "bullets": [
-          "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T20:02:16.000Z"
-      },
-      {
-        "id": "tech-7d4f2e03",
-        "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-        "summary": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
-        "bullets": [
-          "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T18:39:25.000Z"
       },
       {
         "id": "ai-75125432",
@@ -7972,43 +7972,43 @@
         "publishedAt": "2026-09-01T07:37:24.000Z"
       },
       {
-        "id": "world-bd09286e",
-        "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
-        "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+        "id": "world-f1570d22",
+        "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+        "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
         "bullets": [
-          "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods."
+          "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T06:02:27.000Z"
+        "publishedAt": "2026-09-01T13:46:05.000Z"
       },
       {
-        "id": "world-c3ffdbfd",
-        "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-        "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+        "id": "world-375dece4",
+        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+        "summary": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
         "bullets": [
-          "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago."
+          "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T07:02:58.000Z"
+        "publishedAt": "2026-09-01T12:58:44.000Z"
       },
       {
-        "id": "world-ce58113a",
-        "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-        "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+        "id": "world-0a9898c6",
+        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+        "summary": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
         "bullets": [
-          "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market."
+          "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-08-31T21:28:49.000Z"
+        "publishedAt": "2026-09-01T10:30:55.000Z"
       }
     ]
   }
