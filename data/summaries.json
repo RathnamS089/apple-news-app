@@ -7747,8 +7747,21 @@
   },
   {
     "date": "2026-09-01",
-    "generatedAt": "2026-09-01T18:34:21.287Z",
+    "generatedAt": "2026-09-01T23:20:36.865Z",
     "articles": [
+      {
+        "id": "top-de5db0c5",
+        "title": "Burnham promises more devolution and public control of essential services",
+        "summary": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+        "bullets": [
+          "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T21:48:44.000Z"
+      },
       {
         "id": "top-dd91ce8e",
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
@@ -7786,33 +7799,72 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T16:53:40.000Z"
+        "publishedAt": "2026-09-01T21:05:22.000Z"
       },
       {
-        "id": "top-6f9d4edd",
-        "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
-        "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+        "id": "top-8695dd06",
+        "title": "US strikes Iran as state media reports four killed at wedding party",
+        "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
         "bullets": [
-          "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
+          "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T16:11:18.000Z"
+        "publishedAt": "2026-09-01T21:48:28.000Z"
       },
       {
-        "id": "top-2d5e354c",
-        "title": "Watch: Norway's new king takes oath as mourners pay respects to his late father",
-        "summary": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
+        "id": "tech-608bcc00",
+        "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+        "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
         "bullets": [
-          "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace."
+          "Historically, state health departments determine cases and deaths, not the CDC."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T14:06:58.000Z"
+        "publishedAt": "2026-09-01T18:21:16.000Z"
+      },
+      {
+        "id": "tech-12a897cd",
+        "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+        "summary": "New features are rolling out across the Android ecosystem starting today.",
+        "bullets": [
+          "New features are rolling out across the Android ecosystem starting today."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T18:00:02.000Z"
+      },
+      {
+        "id": "tech-f6f44aa9",
+        "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+        "summary": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
+        "bullets": [
+          "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T17:51:17.000Z"
+      },
+      {
+        "id": "tech-425e193a",
+        "title": "This is what a supercar was like a century ago",
+        "summary": "When the average car could only do 40 mph, this Bentley could break 100.",
+        "bullets": [
+          "When the average car could only do 40 mph, this Bentley could break 100."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T17:34:16.000Z"
       },
       {
         "id": "tech-454204a9",
@@ -7828,56 +7880,56 @@
         "publishedAt": "2026-09-01T14:46:28.000Z"
       },
       {
-        "id": "tech-f095f12d",
-        "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
-        "summary": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
+        "id": "ai-744f783a",
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
         "bullets": [
-          "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters."
+          "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T11:00:35.000Z"
+        "publishedAt": "2026-09-01T22:08:24.000Z"
       },
       {
-        "id": "tech-debd90f4",
-        "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
-        "summary": "\"We could really be facing the great filter.\"",
+        "id": "ai-fdc28b64",
+        "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
         "bullets": [
-          "\"We could really be facing the great filter.\""
+          "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T10:00:33.000Z"
+        "publishedAt": "2026-09-01T21:06:24.000Z"
       },
       {
-        "id": "tech-5db6f85c",
-        "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-        "summary": "It's the lightest Bentley in 85 years.",
+        "id": "ai-eb846778",
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
         "bullets": [
-          "It's the lightest Bentley in 85 years."
+          "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-31T23:01:16.000Z"
+        "publishedAt": "2026-09-01T20:53:05.000Z"
       },
       {
-        "id": "tech-df600419",
-        "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
-        "summary": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
+        "id": "ai-f7585d2a",
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
         "bullets": [
-          "The CDC has tallied nearly 30,000 confirmed and probable cases this summer."
+          "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-08-31T21:23:09.000Z"
+        "publishedAt": "2026-09-01T19:39:22.000Z"
       },
       {
         "id": "ai-0a0353af",
@@ -7893,58 +7945,6 @@
         "publishedAt": "2026-09-01T17:35:37.000Z"
       },
       {
-        "id": "ai-c875659e",
-        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-        "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-        "bullets": [
-          "OpenAI said that the integration provides read-only access to health records for clinicians."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T17:00:00.000Z"
-      },
-      {
-        "id": "ai-e11d1d61",
-        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-        "bullets": [
-          "The startup wants to do for IT infrastructure what Cursor did for software engineering."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T16:31:04.000Z"
-      },
-      {
-        "id": "ai-bba3bde7",
-        "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-        "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-        "bullets": [
-          "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T15:51:55.000Z"
-      },
-      {
-        "id": "ai-09f86721",
-        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-        "bullets": [
-          "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T15:45:51.000Z"
-      },
-      {
         "id": "world-3af6bfbb",
         "title": "Germany says Russia behind Leipzig airport drone attack",
         "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
@@ -7955,7 +7955,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T16:53:40.000Z"
+        "publishedAt": "2026-09-01T21:05:22.000Z"
+      },
+      {
+        "id": "world-8695dd06",
+        "title": "US strikes Iran as state media reports four killed at wedding party",
+        "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+        "bullets": [
+          "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-01T21:48:28.000Z"
       },
       {
         "id": "world-aa8f2b60",
@@ -7995,19 +8008,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-01T15:33:14.000Z"
-      },
-      {
-        "id": "world-fd7fa97b",
-        "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-        "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
-        "bullets": [
-          "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T18:06:58.000Z"
       }
     ]
   }
