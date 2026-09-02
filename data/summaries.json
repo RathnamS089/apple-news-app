@@ -7744,20 +7744,33 @@
   },
   {
     "date": "2026-09-02",
-    "generatedAt": "2026-09-02T11:22:57.048Z",
+    "generatedAt": "2026-09-02T16:37:16.517Z",
     "articles": [
       {
-        "id": "top-ec4ba9ef",
-        "title": "Four charged with murder after baby stabbed to death",
-        "summary": "Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.",
+        "id": "top-a602c4d3",
+        "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+        "summary": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
         "bullets": [
-          "Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder."
+          "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T09:30:10.000Z"
+        "publishedAt": "2026-09-02T14:26:39.000Z"
+      },
+      {
+        "id": "top-533b6404",
+        "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
+        "summary": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+        "bullets": [
+          "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T14:52:48.000Z"
       },
       {
         "id": "top-12bbe0de",
@@ -7773,173 +7786,200 @@
         "publishedAt": "2026-09-02T10:33:47.000Z"
       },
       {
-        "id": "top-fc45cf82",
-        "title": "BBC gains rare access to occupied Lebanon as officials say Israel expanding positions",
-        "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+        "id": "top-f48cf5d6",
+        "title": "Lucy Letby 'boyfriend' doctor named as court order lifted",
+        "summary": "Dr Mark Deakin, a consultant at Alder Hey hospital, was described as Letby's \"boyfriend\" during her trial.",
         "bullets": [
-          "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions."
+          "Dr Mark Deakin, a consultant at Alder Hey hospital, was described as Letby's \"boyfriend\" during her trial."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8z3jv98xyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T05:03:09.000Z"
+        "publishedAt": "2026-09-02T13:49:17.000Z"
       },
       {
-        "id": "top-6b136078",
-        "title": "UK aid worker says he was mistaken for survivor in Nepal",
-        "summary": "Alastair Chambers says the mix-up was after he returned to Kathmandu after flying back in an aid helicopter.",
+        "id": "top-254f817f",
+        "title": "Watch: BBC visits village swept away by deadly floods",
+        "summary": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
         "bullets": [
-          "Alastair Chambers says the mix-up was after he returned to Kathmandu after flying back in an aid helicopter."
+          "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg59d09nyyvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T09:24:23.000Z"
+        "publishedAt": "2026-09-02T15:16:42.000Z"
       },
       {
-        "id": "top-2c0e9c33",
-        "title": "Watch: Amol Rajan says goodbye on his final Today programme",
-        "summary": "In an emotional message, Rajan thanked his family, team and listeners as he said goodbye to the programme.",
+        "id": "tech-1fbfffab",
+        "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+        "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
         "bullets": [
-          "In an emotional message, Rajan thanked his family, team and listeners as he said goodbye to the programme."
+          "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T16:30:11.000Z"
+      },
+      {
+        "id": "tech-c68b56d9",
+        "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
+        "summary": "He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness.",
+        "bullets": [
+          "He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T14:47:42.000Z"
+      },
+      {
+        "id": "tech-94cca5f2",
+        "title": "The Army just used a 20-kilowatt laser to take out three drones",
+        "summary": "The Army says its laser system can track and destroy hostile drones.",
+        "bullets": [
+          "The Army says its laser system can track and destroy hostile drones."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T13:04:59.000Z"
+      },
+      {
+        "id": "tech-05f1798b",
+        "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+        "summary": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
+        "bullets": [
+          "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T11:15:23.000Z"
+      },
+      {
+        "id": "tech-37b5048d",
+        "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+        "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+        "bullets": [
+          "What can we learn from a BGP hijacking that poisoned production software?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T11:00:43.000Z"
+      },
+      {
+        "id": "ai-062fdb99",
+        "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+        "summary": "Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating.",
+        "bullets": [
+          "Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T16:04:10.000Z"
+      },
+      {
+        "id": "ai-f7d1e301",
+        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+        "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+        "bullets": [
+          "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T16:01:48.000Z"
+      },
+      {
+        "id": "ai-351d5e5b",
+        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+        "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+        "bullets": [
+          "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T15:01:23.000Z"
+      },
+      {
+        "id": "ai-04fd03f9",
+        "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+        "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+        "bullets": [
+          "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T14:56:34.000Z"
+      },
+      {
+        "id": "ai-929a70f8",
+        "title": "Adobe acquires Indian market intelligence startup Rilo",
+        "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+        "bullets": [
+          "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T14:03:57.000Z"
+      },
+      {
+        "id": "world-1d39650a",
+        "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+        "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+        "bullets": [
+          "Iranian media reports two children were among those killed when shrapnel hit a home.",
+          "Iran then launched missiles and drones at US targets in the Middle East."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c9v9y7z7mxyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T10:25:08.000Z"
+        "publishedAt": "2026-09-02T15:33:19.000Z"
       },
       {
-        "id": "tech-cb060410",
-        "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-        "summary": "333 miles of real-world range with uncompromised comfort and off-road ability.",
+        "id": "world-12921ce1",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
         "bullets": [
-          "333 miles of real-world range with uncompromised comfort and off-road ability."
+          "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-        "category": "tech",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T23:01:52.000Z"
+        "publishedAt": "2026-09-02T14:34:22.000Z"
       },
       {
-        "id": "tech-50be0e4e",
-        "title": "Research roundup: 7 cool science stories we almost missed",
-        "summary": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
+        "id": "world-c78045e3",
+        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+        "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
         "bullets": [
-          "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more."
+          "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
-        "category": "tech",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-01T19:06:10.000Z"
-      },
-      {
-        "id": "tech-8c2e8d9d",
-        "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
-        "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
-        "bullets": [
-          "Historically, state health departments determine cases and deaths, not the CDC."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T18:21:16.000Z"
-      },
-      {
-        "id": "tech-12a897cd",
-        "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
-        "summary": "New features are rolling out across the Android ecosystem starting today.",
-        "bullets": [
-          "New features are rolling out across the Android ecosystem starting today."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T18:00:02.000Z"
-      },
-      {
-        "id": "tech-f6f44aa9",
-        "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
-        "summary": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
-        "bullets": [
-          "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T17:51:17.000Z"
-      },
-      {
-        "id": "ai-744f783a",
-        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-        "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-        "bullets": [
-          "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T22:08:24.000Z"
-      },
-      {
-        "id": "ai-2dfe4143",
-        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-        "bullets": [
-          "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T21:06:24.000Z"
-      },
-      {
-        "id": "ai-eb846778",
-        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-        "bullets": [
-          "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T20:53:05.000Z"
-      },
-      {
-        "id": "ai-f7585d2a",
-        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-        "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-        "bullets": [
-          "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T19:39:22.000Z"
-      },
-      {
-        "id": "ai-0a0353af",
-        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-        "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-        "bullets": [
-          "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-01T17:35:37.000Z"
+        "publishedAt": "2026-09-02T11:47:11.000Z"
       },
       {
         "id": "world-8b2cb2b4",
@@ -7955,57 +7995,17 @@
         "publishedAt": "2026-09-02T10:04:28.000Z"
       },
       {
-        "id": "world-1f97917e",
-        "title": "Why US troops have a history in this raucous Thai city",
-        "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
+        "id": "world-546b0b80",
+        "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+        "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
         "bullets": [
-          "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars."
+          "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T07:18:39.000Z"
-      },
-      {
-        "id": "world-35e47ea2",
-        "title": "Thousands still missing as Nepal-Tibet flood relief and recovery intensifies",
-        "summary": "More than 1, 000 people have died and thousands are missing, with communities relying on airlifted supplies.",
-        "bullets": [
-          "More than 1, 000 people have died and thousands are missing, with communities relying on airlifted supplies."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T10:07:02.000Z"
-      },
-      {
-        "id": "world-de34344a",
-        "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-        "summary": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
-        "bullets": [
-          "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T05:03:09.000Z"
-      },
-      {
-        "id": "world-85e63696",
-        "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-        "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-        "bullets": [
-          "Chinese and Gulf state airlines are among those still using Russian airspace.",
-          "Meanwhile, Russia says it will intensify its own attacks on Ukraine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T10:00:08.000Z"
+        "publishedAt": "2026-09-02T16:18:55.000Z"
       }
     ]
   }
