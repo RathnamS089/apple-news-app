@@ -7744,63 +7744,50 @@
   },
   {
     "date": "2026-09-02",
-    "generatedAt": "2026-09-02T16:37:16.517Z",
+    "generatedAt": "2026-09-02T21:05:47.097Z",
     "articles": [
       {
-        "id": "top-a602c4d3",
-        "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
-        "summary": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
+        "id": "top-0373f4ff",
+        "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
+        "summary": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.",
         "bullets": [
-          "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth."
+          "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T14:26:39.000Z"
+        "publishedAt": "2026-09-02T20:43:06.000Z"
       },
       {
-        "id": "top-533b6404",
-        "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
-        "summary": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+        "id": "top-9b5b2df2",
+        "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
+        "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
         "bullets": [
-          "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\"."
+          "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T14:52:48.000Z"
+        "publishedAt": "2026-09-02T18:57:51.000Z"
       },
       {
-        "id": "top-12bbe0de",
-        "title": "Watch: What we know about reported strike on Iran wedding celebrations",
-        "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
+        "id": "top-375811ad",
+        "title": "What famous scenes are in the epic Bayeux Tapestry?",
+        "summary": "The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.",
         "bullets": [
-          "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran."
+          "The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T10:33:47.000Z"
+        "publishedAt": "2026-09-02T18:40:57.000Z"
       },
       {
-        "id": "top-f48cf5d6",
-        "title": "Lucy Letby 'boyfriend' doctor named as court order lifted",
-        "summary": "Dr Mark Deakin, a consultant at Alder Hey hospital, was described as Letby's \"boyfriend\" during her trial.",
-        "bullets": [
-          "Dr Mark Deakin, a consultant at Alder Hey hospital, was described as Letby's \"boyfriend\" during her trial."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8z3jv98xyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T13:49:17.000Z"
-      },
-      {
-        "id": "top-254f817f",
-        "title": "Watch: BBC visits village swept away by deadly floods",
+        "id": "top-2f062b7f",
+        "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
         "summary": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
         "bullets": [
           "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts..."
@@ -7810,6 +7797,58 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-02T15:16:42.000Z"
+      },
+      {
+        "id": "top-ffae672a",
+        "title": "Four in court over murder of baby stabbed to death",
+        "summary": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
+        "bullets": [
+          "Four people, aged between 19 and 38, appear in court charged with murdering the newborn."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T15:35:13.000Z"
+      },
+      {
+        "id": "tech-445d0a4e",
+        "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+        "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+        "bullets": [
+          "\"Requirements are being adjusted to reflect near-term mission needs.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T19:37:08.000Z"
+      },
+      {
+        "id": "tech-9dc5fc71",
+        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+        "bullets": [
+          "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T18:13:54.000Z"
+      },
+      {
+        "id": "tech-838bd4a7",
+        "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+        "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+        "bullets": [
+          "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T17:58:33.000Z"
       },
       {
         "id": "tech-1fbfffab",
@@ -7838,108 +7877,69 @@
         "publishedAt": "2026-09-02T14:47:42.000Z"
       },
       {
-        "id": "tech-94cca5f2",
-        "title": "The Army just used a 20-kilowatt laser to take out three drones",
-        "summary": "The Army says its laser system can track and destroy hostile drones.",
+        "id": "ai-0a0debc1",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
         "bullets": [
-          "The Army says its laser system can track and destroy hostile drones."
+          "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T13:04:59.000Z"
+        "publishedAt": "2026-09-02T20:19:14.000Z"
       },
       {
-        "id": "tech-05f1798b",
-        "title": "Is Russia's rival to Starlink failing? Here's what we know.",
-        "summary": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
+        "id": "ai-d64850e8",
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms...",
         "bullets": [
-          "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble."
+          "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T11:15:23.000Z"
+        "publishedAt": "2026-09-02T17:18:13.000Z"
       },
       {
-        "id": "tech-37b5048d",
-        "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-        "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+        "id": "ai-13c82a03",
+        "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+        "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms...",
         "bullets": [
-          "What can we learn from a BGP hijacking that poisoned production software?"
+          "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T11:00:43.000Z"
+        "publishedAt": "2026-09-02T17:09:57.000Z"
+      },
+      {
+        "id": "ai-de1017c0",
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+        "bullets": [
+          "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T17:09:06.000Z"
       },
       {
         "id": "ai-062fdb99",
         "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-        "summary": "Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating.",
+        "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
         "bullets": [
-          "Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating."
+          "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-09-02T16:04:10.000Z"
-      },
-      {
-        "id": "ai-f7d1e301",
-        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-        "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-        "bullets": [
-          "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T16:01:48.000Z"
-      },
-      {
-        "id": "ai-351d5e5b",
-        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-        "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-        "bullets": [
-          "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T15:01:23.000Z"
-      },
-      {
-        "id": "ai-04fd03f9",
-        "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-        "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-        "bullets": [
-          "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T14:56:34.000Z"
-      },
-      {
-        "id": "ai-929a70f8",
-        "title": "Adobe acquires Indian market intelligence startup Rilo",
-        "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-        "bullets": [
-          "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T14:03:57.000Z"
       },
       {
         "id": "world-1d39650a",
@@ -7956,6 +7956,19 @@
         "publishedAt": "2026-09-02T15:33:19.000Z"
       },
       {
+        "id": "world-ea949f1b",
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+        "bullets": [
+          "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T17:33:45.000Z"
+      },
+      {
         "id": "world-12921ce1",
         "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
         "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
@@ -7966,7 +7979,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T14:34:22.000Z"
+        "publishedAt": "2026-09-02T16:49:00.000Z"
       },
       {
         "id": "world-c78045e3",
@@ -7982,30 +7995,17 @@
         "publishedAt": "2026-09-02T11:47:11.000Z"
       },
       {
-        "id": "world-8b2cb2b4",
-        "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-        "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
+        "id": "world-5b7e0690",
+        "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+        "summary": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
         "bullets": [
-          "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
+          "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T10:04:28.000Z"
-      },
-      {
-        "id": "world-546b0b80",
-        "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-        "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
-        "bullets": [
-          "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T16:18:55.000Z"
+        "publishedAt": "2026-09-02T20:12:32.000Z"
       }
     ]
   }
