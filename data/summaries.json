@@ -7744,7 +7744,7 @@
   },
   {
     "date": "2026-09-02",
-    "generatedAt": "2026-09-02T21:05:47.097Z",
+    "generatedAt": "2026-09-02T23:20:38.135Z",
     "articles": [
       {
         "id": "top-0373f4ff",
@@ -7760,6 +7760,19 @@
         "publishedAt": "2026-09-02T20:43:06.000Z"
       },
       {
+        "id": "top-236a9da9",
+        "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+        "summary": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
+        "bullets": [
+          "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T13:20:11.000Z"
+      },
+      {
         "id": "top-9b5b2df2",
         "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
         "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
@@ -7773,43 +7786,69 @@
         "publishedAt": "2026-09-02T18:57:51.000Z"
       },
       {
-        "id": "top-375811ad",
-        "title": "What famous scenes are in the epic Bayeux Tapestry?",
-        "summary": "The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.",
+        "id": "top-12921ce1",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
         "bullets": [
-          "The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum."
+          "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T18:40:57.000Z"
+        "publishedAt": "2026-09-02T16:49:00.000Z"
       },
       {
-        "id": "top-2f062b7f",
-        "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
-        "summary": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
+        "id": "top-45f8f149",
+        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+        "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
         "bullets": [
-          "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts..."
+          "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T15:16:42.000Z"
+        "publishedAt": "2026-09-02T21:34:27.000Z"
       },
       {
-        "id": "top-ffae672a",
-        "title": "Four in court over murder of baby stabbed to death",
-        "summary": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
+        "id": "tech-7d219efd",
+        "title": "Spending deal comes with a bonus: Blocking political control of grants",
+        "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
         "bullets": [
-          "Four people, aged between 19 and 38, appear in court charged with murdering the newborn."
+          "Congress pauses the OMB's attempt to rewrite how research is funded."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T15:35:13.000Z"
+        "publishedAt": "2026-09-02T21:20:03.000Z"
+      },
+      {
+        "id": "tech-3b315c11",
+        "title": "I rented a car, and within hours, my driver's license was for sale",
+        "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+        "bullets": [
+          "The FBI is reportedly investigating a massive data breach that is unfolding in real time."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T20:32:02.000Z"
+      },
+      {
+        "id": "tech-7f18f7a2",
+        "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+        "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
+        "bullets": [
+          "Carrier scorecards may include call-blocking stats and data on customer complaints."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T19:54:27.000Z"
       },
       {
         "id": "tech-445d0a4e",
@@ -7838,43 +7877,43 @@
         "publishedAt": "2026-09-02T18:13:54.000Z"
       },
       {
-        "id": "tech-838bd4a7",
-        "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-        "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+        "id": "ai-81274292",
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
         "bullets": [
-          "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says."
+          "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T17:58:33.000Z"
+        "publishedAt": "2026-09-02T23:01:00.000Z"
       },
       {
-        "id": "tech-1fbfffab",
-        "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
-        "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
+        "id": "ai-bc6b1a48",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
         "bullets": [
-          "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted."
+          "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T16:30:11.000Z"
+        "publishedAt": "2026-09-02T22:44:56.000Z"
       },
       {
-        "id": "tech-c68b56d9",
-        "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
-        "summary": "He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness.",
+        "id": "ai-79e6e747",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
         "bullets": [
-          "He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness."
+          "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-02T14:47:42.000Z"
+        "publishedAt": "2026-09-02T22:24:09.000Z"
       },
       {
         "id": "ai-0a0debc1",
@@ -7903,59 +7942,6 @@
         "publishedAt": "2026-09-02T17:18:13.000Z"
       },
       {
-        "id": "ai-13c82a03",
-        "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-        "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms...",
-        "bullets": [
-          "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T17:09:57.000Z"
-      },
-      {
-        "id": "ai-de1017c0",
-        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-        "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
-        "bullets": [
-          "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T17:09:06.000Z"
-      },
-      {
-        "id": "ai-062fdb99",
-        "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-        "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-        "bullets": [
-          "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T16:04:10.000Z"
-      },
-      {
-        "id": "world-1d39650a",
-        "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-        "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-        "bullets": [
-          "Iranian media reports two children were among those killed when shrapnel hit a home.",
-          "Iran then launched missiles and drones at US targets in the Middle East."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T15:33:19.000Z"
-      },
-      {
         "id": "world-ea949f1b",
         "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
         "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
@@ -7967,6 +7953,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-02T17:33:45.000Z"
+      },
+      {
+        "id": "world-45f8f149",
+        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+        "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+        "bullets": [
+          "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T21:34:27.000Z"
       },
       {
         "id": "world-12921ce1",
