@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-08-04",
-    "generatedAt": "2026-08-04T22:30:23.638Z",
-    "articles": [
-      {
-        "id": "top-a5b8ae8f",
-        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-        "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-        "bullets": [
-          "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T17:26:06.000Z"
-      },
-      {
-        "id": "top-47d103bb",
-        "title": "More than 170 migrants rescued after boat catches fire in Channel",
-        "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-        "bullets": [
-          "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T19:45:58.000Z"
-      },
-      {
-        "id": "top-567cba13",
-        "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-        "summary": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
-        "bullets": [
-          "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T19:31:26.000Z"
-      },
-      {
-        "id": "top-843f46ac",
-        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-        "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-        "bullets": [
-          "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T19:00:43.000Z"
-      },
-      {
-        "id": "top-7cb3a733",
-        "title": "Infantino calls executive meeting as criticism mounts",
-        "summary": "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations.",
-        "bullets": [
-          "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T20:13:03.000Z"
-      },
-      {
-        "id": "tech-6b088b85",
-        "title": "Senators demand crackdown on wildfire \"prediction markets\"",
-        "summary": "Fire experts warn such markets could incentivize arson.",
-        "bullets": [
-          "Fire experts warn such markets could incentivize arson."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T21:52:31.000Z"
-      },
-      {
-        "id": "tech-2c7085b6",
-        "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
-        "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
-        "bullets": [
-          "$1.25 billion program restored, but judge ruled race provision unconstitutional."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T21:27:05.000Z"
-      },
-      {
-        "id": "tech-fb82ab5a",
-        "title": "Texas halts data center connections to power grid amid overwhelming demand",
-        "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
-        "bullets": [
-          "Governor who touted Texas as AI “epicenter” pauses data center grid connections."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T20:34:28.000Z"
-      },
-      {
-        "id": "tech-df8155e3",
-        "title": "China is Tesla's cash cow, but for how much longer?",
-        "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
-        "bullets": [
-          "Tesla's Shanghai factory is busier than ever but might be cut loose."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T17:34:48.000Z"
-      },
-      {
-        "id": "tech-c920ea0b",
-        "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-        "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
-        "bullets": [
-          "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T16:11:05.000Z"
-      },
-      {
-        "id": "ai-e4ecdf2c",
-        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-        "bullets": [
-          "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T21:07:26.000Z"
-      },
-      {
-        "id": "ai-05f7c765",
-        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-        "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-        "bullets": [
-          "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T20:05:26.000Z"
-      },
-      {
-        "id": "ai-b7c7cfed",
-        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-        "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-        "bullets": [
-          "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T19:48:40.000Z"
-      },
-      {
-        "id": "ai-10bdb96e",
-        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-        "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-        "bullets": [
-          "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T19:34:34.000Z"
-      },
-      {
-        "id": "ai-1d0d6903",
-        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-        "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-        "bullets": [
-          "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T19:28:49.000Z"
-      },
-      {
-        "id": "world-a5b8ae8f",
-        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-        "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-        "bullets": [
-          "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T17:26:06.000Z"
-      },
-      {
-        "id": "world-843f46ac",
-        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-        "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-        "bullets": [
-          "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T19:00:43.000Z"
-      },
-      {
-        "id": "world-3d38f14d",
-        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-        "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-        "bullets": [
-          "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T21:45:20.000Z"
-      },
-      {
-        "id": "world-45acb0b1",
-        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-        "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-        "bullets": [
-          "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T11:19:01.000Z"
-      },
-      {
-        "id": "world-2533c32a",
-        "title": "Arrests in Egypt after people allegedly impersonate judges",
-        "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
-        "bullets": [
-          "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-04T19:25:00.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-05",
     "generatedAt": "2026-08-05T22:28:58.812Z",
     "articles": [
@@ -7979,6 +7713,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-02T16:49:00.000Z"
+      },
+      {
+        "id": "world-c78045e3",
+        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+        "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+        "bullets": [
+          "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T11:47:11.000Z"
+      },
+      {
+        "id": "world-5b7e0690",
+        "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+        "summary": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
+        "bullets": [
+          "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T20:12:32.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "generatedAt": "2026-09-03T04:36:51.181Z",
+    "articles": [
+      {
+        "id": "top-0373f4ff",
+        "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
+        "summary": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.",
+        "bullets": [
+          "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T20:43:06.000Z"
+      },
+      {
+        "id": "top-9b5b2df2",
+        "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
+        "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
+        "bullets": [
+          "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T18:57:51.000Z"
+      },
+      {
+        "id": "top-ed1c77b1",
+        "title": "The overlooked factor driving the childhood obesity crisis",
+        "summary": "At a specialist childhood obesity clinic, almost all of the children are not in school. Why?",
+        "bullets": [
+          "At a specialist childhood obesity clinic, almost all of the children are not in school."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T00:47:45.000Z"
+      },
+      {
+        "id": "top-47295b15",
+        "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+        "summary": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+        "bullets": [
+          "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T23:36:49.000Z"
+      },
+      {
+        "id": "top-12921ce1",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+        "bullets": [
+          "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T03:21:24.000Z"
+      },
+      {
+        "id": "tech-7d219efd",
+        "title": "Spending deal comes with a bonus: Blocking political control of grants",
+        "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+        "bullets": [
+          "Congress pauses the OMB's attempt to rewrite how research is funded."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T21:20:03.000Z"
+      },
+      {
+        "id": "tech-3b315c11",
+        "title": "I rented a car, and within hours, my driver's license was for sale",
+        "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+        "bullets": [
+          "The FBI is reportedly investigating a massive data breach that is unfolding in real time."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T20:32:02.000Z"
+      },
+      {
+        "id": "tech-7f18f7a2",
+        "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+        "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
+        "bullets": [
+          "Carrier scorecards may include call-blocking stats and data on customer complaints."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T19:54:27.000Z"
+      },
+      {
+        "id": "tech-445d0a4e",
+        "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+        "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+        "bullets": [
+          "\"Requirements are being adjusted to reflect near-term mission needs.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T19:37:08.000Z"
+      },
+      {
+        "id": "tech-9dc5fc71",
+        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+        "bullets": [
+          "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T18:13:54.000Z"
+      },
+      {
+        "id": "ai-81274292",
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+        "bullets": [
+          "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T23:01:00.000Z"
+      },
+      {
+        "id": "ai-bc6b1a48",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "bullets": [
+          "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T22:44:56.000Z"
+      },
+      {
+        "id": "ai-79e6e747",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "bullets": [
+          "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T22:24:09.000Z"
+      },
+      {
+        "id": "ai-0a0debc1",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "bullets": [
+          "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T20:19:14.000Z"
+      },
+      {
+        "id": "ai-d64850e8",
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms...",
+        "bullets": [
+          "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T17:18:13.000Z"
+      },
+      {
+        "id": "world-ea949f1b",
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+        "bullets": [
+          "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T17:33:45.000Z"
+      },
+      {
+        "id": "world-0b2fefc7",
+        "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
+        "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+        "bullets": [
+          "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-02T21:34:27.000Z"
+      },
+      {
+        "id": "world-12921ce1",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+        "bullets": [
+          "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T03:21:24.000Z"
       },
       {
         "id": "world-c78045e3",
