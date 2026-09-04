@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-05",
-    "generatedAt": "2026-08-05T22:28:58.812Z",
-    "articles": [
-      {
-        "id": "top-2b1a1ef2",
-        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-        "summary": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
-        "bullets": [
-          "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:12:17.000Z"
-      },
-      {
-        "id": "top-eb4ae5a2",
-        "title": "Fifa admits mistakes but Infantino remains president",
-        "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
-        "bullets": [
-          "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T21:37:08.000Z"
-      },
-      {
-        "id": "top-0e4111b3",
-        "title": "Woman arrested after four stabbed in central London",
-        "summary": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
-        "bullets": [
-          "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T16:34:52.000Z"
-      },
-      {
-        "id": "top-077f0ccb",
-        "title": "University of Cambridge professor at centre of plagiarism row resigns",
-        "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
-        "bullets": [
-          "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T21:18:04.000Z"
-      },
-      {
-        "id": "top-ae6de67d",
-        "title": "Walk-in mental health centres to open in banks and libraries across England",
-        "summary": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
-        "bullets": [
-          "Government plans network of nearly 200 specialist services to help those facing mental health crises."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T21:30:46.000Z"
-      },
-      {
-        "id": "tech-8de7fd7e",
-        "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-        "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
-        "bullets": [
-          "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T21:03:18.000Z"
-      },
-      {
-        "id": "tech-41720999",
-        "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-        "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-        "bullets": [
-          "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:47:11.000Z"
-      },
-      {
-        "id": "tech-9132137c",
-        "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-        "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
-        "bullets": [
-          "Reddit says the beloved site is used for some \"bad behavior.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:01:32.000Z"
-      },
-      {
-        "id": "tech-b2fefa51",
-        "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-        "summary": "\"Slop\" isn't the only problem.",
-        "bullets": [
-          "\"Slop\" isn't the only problem."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T19:51:40.000Z"
-      },
-      {
-        "id": "tech-d5e61c49",
-        "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-        "summary": "SpaceX won't build large cell towers but plans small base stations across US.",
-        "bullets": [
-          "SpaceX won't build large cell towers but plans small base stations across US."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T19:38:56.000Z"
-      },
-      {
-        "id": "ai-bdd23858",
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-        "bullets": [
-          "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T21:21:28.000Z"
-      },
-      {
-        "id": "ai-995793d9",
-        "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-        "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-        "bullets": [
-          "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:05:00.000Z"
-      },
-      {
-        "id": "ai-0ccb9253",
-        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-        "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-        "bullets": [
-          "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T19:30:19.000Z"
-      },
-      {
-        "id": "ai-3efaf97b",
-        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-        "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-        "bullets": [
-          "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers.",
-          "Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T15:56:14.000Z"
-      },
-      {
-        "id": "ai-3ba8581c",
-        "title": "Hark previews its browser use agent for completing tasks",
-        "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-        "bullets": [
-          "Hark claims that its browser use agent is faster and cheaper than competition."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T15:46:27.000Z"
-      },
-      {
-        "id": "world-7e777a56",
-        "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-        "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-        "bullets": [
-          "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T21:21:51.000Z"
-      },
-      {
-        "id": "world-8f917f1f",
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-        "bullets": [
-          "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T18:19:51.000Z"
-      },
-      {
-        "id": "world-8d6d1f7b",
-        "title": "Drone carrying explosives found at German airport, police say",
-        "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-        "bullets": [
-          "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:01:51.000Z"
-      },
-      {
-        "id": "world-ec4ee074",
-        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-        "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
-        "bullets": [
-          "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:03:36.000Z"
-      },
-      {
-        "id": "world-eb4ae5a2",
-        "title": "Fifa admits mistakes but Infantino remains president",
-        "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
-        "bullets": [
-          "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T21:37:08.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-06",
     "generatedAt": "2026-08-06T14:36:48.198Z",
     "articles": [
@@ -8006,6 +7739,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-03T09:37:34.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "generatedAt": "2026-09-04T04:42:39.142Z",
+    "articles": [
+      {
+        "id": "top-28aa755c",
+        "title": "Farage senior aide filmed suggesting way to avoid donations law",
+        "summary": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+        "bullets": [
+          "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T21:07:58.000Z"
+      },
+      {
+        "id": "top-423c5a16",
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "bullets": [
+          "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T23:00:15.000Z"
+      },
+      {
+        "id": "top-0e1de0da",
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "bullets": [
+          "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T22:31:23.000Z"
+      },
+      {
+        "id": "top-acb9f788",
+        "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+        "summary": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
+        "bullets": [
+          "The jury now faces a seventh day of deliberations in the triple-murder trial."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T00:55:45.000Z"
+      },
+      {
+        "id": "top-4e8c1bff",
+        "title": "Argentina to sanction oil firms as tensions heighten in Falklands dispute with UK",
+        "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "bullets": [
+          "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T04:39:26.000Z"
+      },
+      {
+        "id": "tech-1b73fe20",
+        "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+        "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+        "bullets": [
+          "CDC staff had already accepted the measles death reports when RFK Jr."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T22:13:50.000Z"
+      },
+      {
+        "id": "tech-cdc2642f",
+        "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+        "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+        "bullets": [
+          "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T21:10:59.000Z"
+      },
+      {
+        "id": "tech-8da67138",
+        "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+        "summary": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
+        "bullets": [
+          "Researchers now have clear new targets and insights for developing a Shigella vaccine."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T20:14:48.000Z"
+      },
+      {
+        "id": "tech-7bfd011f",
+        "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+        "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+        "bullets": [
+          "Open source, commercial, single-hop, multi-hop, mixnet?",
+          "The array of options is dizzying."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T19:52:06.000Z"
+      },
+      {
+        "id": "tech-de95883d",
+        "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
+        "summary": "Circuit split raised the odds that SCOTUS will rule on Kalshi fight against states.",
+        "bullets": [
+          "Circuit split raised the odds that SCOTUS will rule on Kalshi fight against states."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T19:42:02.000Z"
+      },
+      {
+        "id": "ai-1076ccff",
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+        "bullets": [
+          "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T04:21:03.000Z"
+      },
+      {
+        "id": "ai-394e9f6a",
+        "title": "Crusoe reportedly raises $3B at a $30B valuation",
+        "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+        "bullets": [
+          "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T00:48:42.000Z"
+      },
+      {
+        "id": "ai-68cbc265",
+        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+        "bullets": [
+          "The high-profile startup's annual revenue run rate stands at over $100 million."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T19:36:29.000Z"
+      },
+      {
+        "id": "ai-bee9cff9",
+        "title": "Abliteration.ai is making a business out of removing AI guardrails",
+        "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+        "bullets": [
+          "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T18:37:57.000Z"
+      },
+      {
+        "id": "ai-89449fa7",
+        "title": "Meta is paying to peek at how you use their latest AI model",
+        "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+        "bullets": [
+          "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T18:19:56.000Z"
+      },
+      {
+        "id": "world-b4b51d9c",
+        "title": "Nepal says it will need billions in funding to rebuild after flash floods",
+        "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
+        "bullets": [
+          "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T02:20:37.000Z"
+      },
+      {
+        "id": "world-808625ad",
+        "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+        "summary": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+        "bullets": [
+          "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T00:54:46.000Z"
+      },
+      {
+        "id": "world-4e8c1bff",
+        "title": "Argentina to sanction oil firms as tensions heighten in Falklands dispute with UK",
+        "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+        "bullets": [
+          "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T04:39:26.000Z"
+      },
+      {
+        "id": "world-cbab571d",
+        "title": "US investigating if missile hit Iran wedding, Vance says",
+        "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+        "bullets": [
+          "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-03T22:19:59.000Z"
+      },
+      {
+        "id": "world-abd8594e",
+        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+        "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+        "bullets": [
+          "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T04:06:41.000Z"
       }
     ]
   }
