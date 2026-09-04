@@ -7744,20 +7744,59 @@
   },
   {
     "date": "2026-09-04",
-    "generatedAt": "2026-09-04T16:24:19.959Z",
+    "generatedAt": "2026-09-04T20:47:58.536Z",
     "articles": [
       {
-        "id": "top-c0a358fb",
-        "title": "Farage says his aides' donor comments were 'loose pub talk'",
-        "summary": "Two senior Reform aides have stepped down from their roles following a Channel 4 News and Verbatim film about donations.",
+        "id": "top-4566191e",
+        "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+        "summary": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
         "bullets": [
-          "Two senior Reform aides have stepped down from their roles following a Channel 4 News and Verbatim film about donations."
+          "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T16:08:29.000Z"
+        "publishedAt": "2026-09-04T19:50:01.000Z"
+      },
+      {
+        "id": "top-06e42eea",
+        "title": "BBC visits area at heart of police investigation after A66 crash",
+        "summary": "The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash.",
+        "bullets": [
+          "The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T20:10:23.000Z"
+      },
+      {
+        "id": "top-13797cae",
+        "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+        "summary": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
+        "bullets": [
+          "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T19:20:18.000Z"
+      },
+      {
+        "id": "top-84b2ec64",
+        "title": "UN votes to adopt new world map to reflect Africa's true size",
+        "summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+        "bullets": [
+          "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T19:44:40.000Z"
       },
       {
         "id": "top-a09a057b",
@@ -7773,108 +7812,83 @@
         "publishedAt": "2026-09-04T14:40:00.000Z"
       },
       {
-        "id": "top-d9b185df",
-        "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-        "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+        "id": "tech-2aea8ba8",
+        "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+        "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
         "bullets": [
-          "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T11:54:51.000Z"
-      },
-      {
-        "id": "top-034672ab",
-        "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-        "summary": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
-        "bullets": [
-          "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T12:39:05.000Z"
-      },
-      {
-        "id": "top-6be77e3c",
-        "title": "Oasis fans say cryptic codes in chip shop video point to Glasgow gigs next year",
-        "summary": "Internet sleuths spotted sets of numbers in posters suggesting the map co-ordinates for Celtic's Parkhead stadium in Glasgow.",
-        "bullets": [
-          "Internet sleuths spotted sets of numbers in posters suggesting the map co-ordinates for Celtic's Parkhead stadium in Glasgow."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T12:06:37.000Z"
-      },
-      {
-        "id": "tech-c6c73ccc",
-        "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
-        "summary": "Two of Europe's leading launch startups announced new fundraising this week.",
-        "bullets": [
-          "Two of Europe's leading launch startups announced new fundraising this week."
+          "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T12:48:36.000Z"
+        "publishedAt": "2026-09-04T19:01:02.000Z"
       },
       {
-        "id": "tech-ddbf3020",
-        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
-        "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
+        "id": "tech-671c37af",
+        "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+        "summary": "Broadcom admits it put “too big a focus on VCF.”",
         "bullets": [
-          "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone."
+          "Broadcom admits it put “too big a focus on VCF.”"
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T11:00:05.000Z"
+        "publishedAt": "2026-09-04T17:35:02.000Z"
       },
       {
-        "id": "tech-1b73fe20",
-        "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-        "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+        "id": "tech-7397167d",
+        "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+        "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
         "bullets": [
-          "CDC staff had already accepted the measles death reports when RFK Jr."
+          "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-03T22:13:50.000Z"
+        "publishedAt": "2026-09-04T17:18:12.000Z"
       },
       {
-        "id": "tech-cdc2642f",
-        "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-        "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+        "id": "tech-127cc850",
+        "title": "Pentagon rescinds new testosterone screening policy without explanation",
+        "summary": "The Pentagon says the guidance is being updated after being online for one day.",
         "bullets": [
-          "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use."
+          "The Pentagon says the guidance is being updated after being online for one day."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-03T21:10:59.000Z"
+        "publishedAt": "2026-09-04T16:57:24.000Z"
       },
       {
-        "id": "tech-8da67138",
-        "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
-        "summary": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
+        "id": "tech-2e5555b5",
+        "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
+        "summary": "\"I think we can't get in trouble for that now. It's like 20 years ago.\"",
         "bullets": [
-          "Researchers now have clear new targets and insights for developing a Shigella vaccine."
+          "\"I think we can't get in trouble for that now.",
+          "It's like 20 years ago.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-03T20:14:48.000Z"
+        "publishedAt": "2026-09-04T16:42:53.000Z"
+      },
+      {
+        "id": "ai-69203dd6",
+        "title": "What will Apple’s John Ternus era look like?",
+        "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk...",
+        "bullets": [
+          "Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T17:18:00.000Z"
       },
       {
         "id": "ai-8f96fe71",
@@ -7930,19 +7944,6 @@
         "publishedAt": "2026-09-04T14:00:00.000Z"
       },
       {
-        "id": "ai-1076ccff",
-        "title": "The sameness problem behind those unappetizing AI-generated menus",
-        "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-        "bullets": [
-          "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T04:21:03.000Z"
-      },
-      {
         "id": "world-97dd4746",
         "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
         "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
@@ -7953,7 +7954,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T14:17:35.000Z"
+        "publishedAt": "2026-09-04T16:49:15.000Z"
       },
       {
         "id": "world-a09a057b",
