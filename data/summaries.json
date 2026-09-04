@@ -7744,7 +7744,7 @@
   },
   {
     "date": "2026-09-04",
-    "generatedAt": "2026-09-04T20:47:58.536Z",
+    "generatedAt": "2026-09-04T23:03:46.993Z",
     "articles": [
       {
         "id": "top-4566191e",
@@ -7760,17 +7760,30 @@
         "publishedAt": "2026-09-04T19:50:01.000Z"
       },
       {
-        "id": "top-06e42eea",
-        "title": "BBC visits area at heart of police investigation after A66 crash",
-        "summary": "The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash.",
+        "id": "top-6b1104c2",
+        "title": "Cleveland police chief proud of force but being 'let down' by funding",
+        "summary": "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.",
         "bullets": [
-          "The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash."
+          "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T20:10:23.000Z"
+        "publishedAt": "2026-09-04T21:00:05.000Z"
+      },
+      {
+        "id": "top-5593b862",
+        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+        "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+        "bullets": [
+          "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T22:48:38.000Z"
       },
       {
         "id": "top-13797cae",
@@ -7799,17 +7812,30 @@
         "publishedAt": "2026-09-04T19:44:40.000Z"
       },
       {
-        "id": "top-a09a057b",
-        "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-        "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+        "id": "tech-32115997",
+        "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+        "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
         "bullets": [
-          "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
+          "\"It’s long past time for RFK to stop playing games with people’s lives.\""
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T14:40:00.000Z"
+        "publishedAt": "2026-09-04T20:22:41.000Z"
+      },
+      {
+        "id": "tech-0dec33de",
+        "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+        "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+        "bullets": [
+          "FCC tells court it is “open-minded\" about whether ABC should lose licenses."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T19:46:34.000Z"
       },
       {
         "id": "tech-2aea8ba8",
@@ -7851,31 +7877,17 @@
         "publishedAt": "2026-09-04T17:18:12.000Z"
       },
       {
-        "id": "tech-127cc850",
-        "title": "Pentagon rescinds new testosterone screening policy without explanation",
-        "summary": "The Pentagon says the guidance is being updated after being online for one day.",
+        "id": "ai-70ff5f77",
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
         "bullets": [
-          "The Pentagon says the guidance is being updated after being online for one day."
+          "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T16:57:24.000Z"
-      },
-      {
-        "id": "tech-2e5555b5",
-        "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
-        "summary": "\"I think we can't get in trouble for that now. It's like 20 years ago.\"",
-        "bullets": [
-          "\"I think we can't get in trouble for that now.",
-          "It's like 20 years ago.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T16:42:53.000Z"
+        "publishedAt": "2026-09-04T21:12:11.000Z"
       },
       {
         "id": "ai-69203dd6",
@@ -7930,18 +7942,17 @@
         "publishedAt": "2026-09-04T14:47:11.000Z"
       },
       {
-        "id": "ai-a59cd57e",
-        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-        "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+        "id": "world-5593b862",
+        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+        "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
         "bullets": [
-          "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene.",
-          "Apply before the application closes tonight at midnight PT."
+          "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three..."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T14:00:00.000Z"
+        "publishedAt": "2026-09-04T22:48:38.000Z"
       },
       {
         "id": "world-97dd4746",
@@ -7994,19 +8005,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-04T16:02:32.000Z"
-      },
-      {
-        "id": "world-abd8594e",
-        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-        "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-        "bullets": [
-          "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T04:06:41.000Z"
       }
     ]
   }
