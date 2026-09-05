@@ -7743,8 +7743,21 @@
   },
   {
     "date": "2026-09-05",
-    "generatedAt": "2026-09-05T17:24:19.180Z",
+    "generatedAt": "2026-09-05T20:25:15.642Z",
     "articles": [
+      {
+        "id": "top-7660ff8d",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "bullets": [
+          "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T20:15:49.000Z"
+      },
       {
         "id": "top-6ff006d5",
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
@@ -7795,20 +7808,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T17:15:05.000Z"
-      },
-      {
-        "id": "top-492e26d0",
-        "title": "Jaguar Land Rover confirms planned job cuts",
-        "summary": "The firm says it needs to save about £1.7bn over the next two years.",
-        "bullets": [
-          "The firm says it needs to save about £1.7bn over the next two years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T13:22:17.000Z"
+        "publishedAt": "2026-09-05T18:48:37.000Z"
       },
       {
         "id": "tech-efcc9b53",
@@ -7876,6 +7876,32 @@
         "publishedAt": "2026-09-04T19:46:34.000Z"
       },
       {
+        "id": "ai-bdc2d291",
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "bullets": [
+          "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T19:35:24.000Z"
+      },
+      {
+        "id": "ai-1bb8ec95",
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "bullets": [
+          "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T18:05:27.000Z"
+      },
+      {
         "id": "ai-fc3db640",
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "summary": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -7915,30 +7941,17 @@
         "publishedAt": "2026-09-04T21:12:11.000Z"
       },
       {
-        "id": "ai-69203dd6",
-        "title": "What will Apple’s John Ternus era look like?",
-        "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk...",
+        "id": "world-7660ff8d",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
         "bullets": [
-          "Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]"
+          "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T17:18:00.000Z"
-      },
-      {
-        "id": "ai-8f96fe71",
-        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-        "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-        "bullets": [
-          "It's the latest failure of OpenAI's internal monitoring and security systems."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T16:21:11.000Z"
+        "publishedAt": "2026-09-05T20:15:49.000Z"
       },
       {
         "id": "world-30164b85",
@@ -7951,20 +7964,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T17:15:05.000Z"
-      },
-      {
-        "id": "world-7660ff8d",
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
-        "bullets": [
-          "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T17:18:31.000Z"
+        "publishedAt": "2026-09-05T18:48:37.000Z"
       },
       {
         "id": "world-5593b862",
