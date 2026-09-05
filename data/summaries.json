@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-06",
-    "generatedAt": "2026-08-06T14:36:48.198Z",
-    "articles": [
-      {
-        "id": "top-13585195",
-        "title": "Burnham orders review of grooming gang early releases",
-        "summary": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
-        "bullets": [
-          "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T13:56:53.000Z"
-      },
-      {
-        "id": "top-d4c749a1",
-        "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
-        "summary": "Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.",
-        "bullets": [
-          "Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T12:51:39.000Z"
-      },
-      {
-        "id": "top-07695f29",
-        "title": "Majority of England's rivers and lakes fail new environmental review",
-        "summary": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
-        "bullets": [
-          "A comprehensive assessment of England's waterways is the first in six years and shows little improvement."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T10:00:06.000Z"
-      },
-      {
-        "id": "top-708b9968",
-        "title": "Cambridge professor at centre of plagiarism row resigns",
-        "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
-        "bullets": [
-          "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T06:28:03.000Z"
-      },
-      {
-        "id": "top-3536146b",
-        "title": "Ukraine hits two oil refineries deep in Russian territory",
-        "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-        "bullets": [
-          "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T12:18:48.000Z"
-      },
-      {
-        "id": "tech-55581791",
-        "title": "AI isn’t enough to protect social media communities from AI",
-        "summary": "Why humans need to moderate humans.",
-        "bullets": [
-          "Why humans need to moderate humans."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T11:00:44.000Z"
-      },
-      {
-        "id": "tech-d33f2cb3",
-        "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-        "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
-        "bullets": [
-          "Baseboard management controllers from the world's biggest manufacturers are a security mess."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T22:35:20.000Z"
-      },
-      {
-        "id": "tech-8de7fd7e",
-        "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-        "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
-        "bullets": [
-          "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T21:03:18.000Z"
-      },
-      {
-        "id": "tech-41720999",
-        "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-        "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-        "bullets": [
-          "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:47:11.000Z"
-      },
-      {
-        "id": "tech-9132137c",
-        "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-        "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
-        "bullets": [
-          "Reddit says the beloved site is used for some \"bad behavior.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-05T20:01:32.000Z"
-      },
-      {
-        "id": "ai-e931cfda",
-        "title": "Amid legal battles, Suno says it will start watermarking songs",
-        "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-        "bullets": [
-          "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T13:31:57.000Z"
-      },
-      {
-        "id": "ai-7abe7d3a",
-        "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-        "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
-        "bullets": [
-          "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T13:00:00.000Z"
-      },
-      {
-        "id": "ai-3d803a73",
-        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-        "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-        "bullets": [
-          "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T13:00:00.000Z"
-      },
-      {
-        "id": "ai-949905e4",
-        "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-        "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-        "bullets": [
-          "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T12:30:00.000Z"
-      },
-      {
-        "id": "ai-56a0c548",
-        "title": "Omilia raises $67M to scale its customer support platform",
-        "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-        "bullets": [
-          "The Series B is the company's second fundraise since it last raised capital in 2020.",
-          "In that time, it has increased its ARR by 10x to $60 million."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T12:00:00.000Z"
-      },
-      {
-        "id": "world-3536146b",
-        "title": "Ukraine hits two oil refineries deep in Russian territory",
-        "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-        "bullets": [
-          "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T12:18:48.000Z"
-      },
-      {
-        "id": "world-6a5ee098",
-        "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-        "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.",
-        "bullets": [
-          "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T14:20:56.000Z"
-      },
-      {
-        "id": "world-6360bdfc",
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-        "bullets": [
-          "Neither the US or Oman have commented on the proposed agreement on the vital waterway."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T01:19:59.000Z"
-      },
-      {
-        "id": "world-48ce7993",
-        "title": "DR Congo river boat under quarantine for Ebola after five deaths",
-        "summary": "The health minister says all the passengers are being screened as a precautionary measure.",
-        "bullets": [
-          "The health minister says all the passengers are being screened as a precautionary measure."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T14:04:27.000Z"
-      },
-      {
-        "id": "world-3ed7a5fa",
-        "title": "EasyJet agrees to £5.7bn takeover by US firm",
-        "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-        "bullets": [
-          "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-06T14:33:29.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-07",
     "generatedAt": "2026-08-07T21:57:15.598Z",
     "articles": [
@@ -8005,6 +7738,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-04T16:02:32.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "generatedAt": "2026-09-05T04:34:18.871Z",
+    "articles": [
+      {
+        "id": "top-6b1104c2",
+        "title": "Cleveland police chief proud of force but being 'let down' by funding",
+        "summary": "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.",
+        "bullets": [
+          "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T21:00:05.000Z"
+      },
+      {
+        "id": "top-4566191e",
+        "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+        "summary": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+        "bullets": [
+          "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T19:50:01.000Z"
+      },
+      {
+        "id": "top-77eb776e",
+        "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
+        "summary": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.",
+        "bullets": [
+          "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T01:26:29.000Z"
+      },
+      {
+        "id": "top-84b2ec64",
+        "title": "UN votes to adopt new world map to reflect Africa's true size",
+        "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+        "bullets": [
+          "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T00:53:11.000Z"
+      },
+      {
+        "id": "top-17ef3e0a",
+        "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+        "summary": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
+        "bullets": [
+          "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T01:03:35.000Z"
+      },
+      {
+        "id": "tech-0531ea24",
+        "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+        "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+        "bullets": [
+          "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T22:49:17.000Z"
+      },
+      {
+        "id": "tech-290e6aed",
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+        "bullets": [
+          "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T22:17:36.000Z"
+      },
+      {
+        "id": "tech-32115997",
+        "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+        "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+        "bullets": [
+          "\"It’s long past time for RFK to stop playing games with people’s lives.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T20:22:41.000Z"
+      },
+      {
+        "id": "tech-0dec33de",
+        "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+        "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+        "bullets": [
+          "FCC tells court it is “open-minded\" about whether ABC should lose licenses."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T19:46:34.000Z"
+      },
+      {
+        "id": "tech-2aea8ba8",
+        "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+        "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
+        "bullets": [
+          "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T19:01:02.000Z"
+      },
+      {
+        "id": "ai-fc3db640",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+        "bullets": [
+          "The round is being raised just months after the robot data startup exited from stealth."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T23:36:14.000Z"
+      },
+      {
+        "id": "ai-ec1c1d6b",
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+        "bullets": [
+          "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T23:15:11.000Z"
+      },
+      {
+        "id": "ai-70ff5f77",
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+        "bullets": [
+          "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T21:12:11.000Z"
+      },
+      {
+        "id": "ai-69203dd6",
+        "title": "What will Apple’s John Ternus era look like?",
+        "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk...",
+        "bullets": [
+          "Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T17:18:00.000Z"
+      },
+      {
+        "id": "ai-8f96fe71",
+        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+        "bullets": [
+          "It's the latest failure of OpenAI's internal monitoring and security systems."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T16:21:11.000Z"
+      },
+      {
+        "id": "world-5593b862",
+        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+        "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+        "bullets": [
+          "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T22:48:38.000Z"
+      },
+      {
+        "id": "world-4c00c490",
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+        "bullets": [
+          "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T04:28:21.000Z"
+      },
+      {
+        "id": "world-97dd4746",
+        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+        "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+        "bullets": [
+          "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T16:49:15.000Z"
+      },
+      {
+        "id": "world-84b2ec64",
+        "title": "UN votes to adopt new world map to reflect Africa's true size",
+        "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
+        "bullets": [
+          "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T00:53:11.000Z"
+      },
+      {
+        "id": "world-7dea5fd0",
+        "title": "At least two dead in blast at Bolivia military barracks",
+        "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+        "bullets": [
+          "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T02:59:40.000Z"
       }
     ]
   }
