@@ -7743,14 +7743,14 @@
   },
   {
     "date": "2026-09-05",
-    "generatedAt": "2026-09-05T15:17:14.355Z",
+    "generatedAt": "2026-09-05T17:24:19.180Z",
     "articles": [
       {
         "id": "top-6ff006d5",
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-        "summary": "The government says it condemns \"the behaviour in Dover\" and the disruption it has caused.",
+        "summary": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
         "bullets": [
-          "The government says it condemns \"the behaviour in Dover\" and the disruption it has caused."
+          "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
@@ -7787,15 +7787,15 @@
       {
         "id": "top-30164b85",
         "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-        "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+        "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
         "bullets": [
-          "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships."
+          "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T15:14:21.000Z"
+        "publishedAt": "2026-09-05T17:15:05.000Z"
       },
       {
         "id": "top-492e26d0",
@@ -7809,6 +7809,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-05T13:22:17.000Z"
+      },
+      {
+        "id": "tech-efcc9b53",
+        "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+        "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+        "bullets": [
+          "The US government is investigating whether the Cybercab meets vehicle safety standards."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T15:17:36.000Z"
       },
       {
         "id": "tech-0531ea24",
@@ -7861,19 +7874,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-09-04T19:46:34.000Z"
-      },
-      {
-        "id": "tech-2aea8ba8",
-        "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-        "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-        "bullets": [
-          "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T19:01:02.000Z"
       },
       {
         "id": "ai-fc3db640",
@@ -7943,28 +7943,28 @@
       {
         "id": "world-30164b85",
         "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-        "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+        "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
         "bullets": [
-          "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships."
+          "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T15:14:21.000Z"
+        "publishedAt": "2026-09-05T17:15:05.000Z"
       },
       {
-        "id": "world-f0f93287",
-        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-        "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+        "id": "world-7660ff8d",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
         "bullets": [
-          "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
+          "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\"."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T15:05:14.000Z"
+        "publishedAt": "2026-09-05T17:18:31.000Z"
       },
       {
         "id": "world-5593b862",
@@ -7990,7 +7990,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T08:41:38.000Z"
+        "publishedAt": "2026-09-05T15:22:41.000Z"
       },
       {
         "id": "world-5f570cf1",
@@ -8003,7 +8003,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T13:46:02.000Z"
+        "publishedAt": "2026-09-05T16:14:24.000Z"
       }
     ]
   }
