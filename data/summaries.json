@@ -7742,20 +7742,20 @@
   },
   {
     "date": "2026-09-06",
-    "generatedAt": "2026-09-06T20:26:49.496Z",
+    "generatedAt": "2026-09-06T22:54:51.077Z",
     "articles": [
       {
-        "id": "top-9650401b",
-        "title": "German far-right set for big win in eastern state, projections show",
-        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+        "id": "top-de70c7d3",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
         "bullets": [
-          "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
+          "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T20:16:35.000Z"
+        "publishedAt": "2026-09-06T22:53:37.000Z"
       },
       {
         "id": "top-32f84278",
@@ -7768,7 +7768,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T20:18:52.000Z"
+        "publishedAt": "2026-09-06T20:41:58.000Z"
       },
       {
         "id": "top-8b97972f",
@@ -7797,17 +7797,17 @@
         "publishedAt": "2026-09-06T16:39:45.000Z"
       },
       {
-        "id": "top-7f7a871f",
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "id": "top-14779c60",
+        "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+        "summary": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
         "bullets": [
-          "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+          "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T16:00:21.000Z"
+        "publishedAt": "2026-09-06T22:00:36.000Z"
       },
       {
         "id": "tech-10668864",
@@ -7875,6 +7875,32 @@
         "publishedAt": "2026-09-04T22:17:36.000Z"
       },
       {
+        "id": "ai-c2e1bac4",
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "bullets": [
+          "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T20:47:37.000Z"
+      },
+      {
+        "id": "ai-1dc8ac0d",
+        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+        "bullets": [
+          "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T16:45:00.000Z"
+      },
+      {
         "id": "ai-9d86226a",
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
@@ -7914,30 +7940,17 @@
         "publishedAt": "2026-09-05T18:05:27.000Z"
       },
       {
-        "id": "ai-fc3db640",
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+        "id": "world-de70c7d3",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
         "bullets": [
-          "The round is being raised just months after the robot data startup exited from stealth."
+          "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T23:36:14.000Z"
-      },
-      {
-        "id": "ai-ec1c1d6b",
-        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-        "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-        "bullets": [
-          "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T23:15:11.000Z"
+        "publishedAt": "2026-09-06T22:53:37.000Z"
       },
       {
         "id": "world-32f84278",
@@ -7950,20 +7963,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T20:18:52.000Z"
+        "publishedAt": "2026-09-06T20:41:58.000Z"
       },
       {
-        "id": "world-9650401b",
-        "title": "German far-right set for big win in eastern state, projections show",
-        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+        "id": "world-33995276",
+        "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+        "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
         "bullets": [
-          "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
+          "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T20:16:35.000Z"
+        "publishedAt": "2026-09-06T20:52:12.000Z"
       },
       {
         "id": "world-7f7a871f",
@@ -7990,19 +8003,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-06T16:54:34.000Z"
-      },
-      {
-        "id": "world-87beade4",
-        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-        "bullets": [
-          "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-06T08:05:22.000Z"
       }
     ]
   }
