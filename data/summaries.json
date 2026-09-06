@@ -7742,20 +7742,33 @@
   },
   {
     "date": "2026-09-06",
-    "generatedAt": "2026-09-06T15:30:15.662Z",
+    "generatedAt": "2026-09-06T20:26:49.496Z",
     "articles": [
       {
-        "id": "top-c799173c",
-        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-        "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "id": "top-9650401b",
+        "title": "German far-right set for big win in eastern state, projections show",
+        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
         "bullets": [
-          "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion."
+          "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T20:16:35.000Z"
+      },
+      {
+        "id": "top-32f84278",
+        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+        "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+        "bullets": [
+          "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T13:16:21.000Z"
+        "publishedAt": "2026-09-06T20:18:52.000Z"
       },
       {
         "id": "top-8b97972f",
@@ -7768,46 +7781,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T10:29:03.000Z"
+        "publishedAt": "2026-09-06T16:32:59.000Z"
       },
       {
-        "id": "top-f838e9b1",
-        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-        "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "id": "top-16e133d7",
+        "title": "Jamaica to bring slavery reparations petition to King Charles",
+        "summary": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
         "bullets": [
-          "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+          "The King will be asked to refer three questions to the Judicial Committee of the Privy Council."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T16:39:45.000Z"
+      },
+      {
+        "id": "top-7f7a871f",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "bullets": [
+          "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T09:56:39.000Z"
-      },
-      {
-        "id": "top-6da86e5a",
-        "title": "Why more women carry the 'mental load' - and how couples can share it",
-        "summary": "Planning, organising and remembering household tasks often fall disproportionately to mothers - here are some tips to help.",
-        "bullets": [
-          "Planning, organising and remembering household tasks often fall disproportionately to mothers - here are some tips to help."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T23:31:14.000Z"
-      },
-      {
-        "id": "top-b7b29d54",
-        "title": "Dozens feared trapped in collapsed building in Delhi",
-        "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
-        "bullets": [
-          "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-06T14:07:35.000Z"
+        "publishedAt": "2026-09-06T16:00:21.000Z"
       },
       {
         "id": "tech-10668864",
@@ -7940,30 +7940,43 @@
         "publishedAt": "2026-09-04T23:15:11.000Z"
       },
       {
-        "id": "world-c799173c",
-        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-        "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "id": "world-32f84278",
+        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+        "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
         "bullets": [
-          "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion."
+          "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T13:16:21.000Z"
+        "publishedAt": "2026-09-06T20:18:52.000Z"
       },
       {
-        "id": "world-f838e9b1",
-        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-        "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "id": "world-9650401b",
+        "title": "German far-right set for big win in eastern state, projections show",
+        "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
         "bullets": [
-          "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+          "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T20:16:35.000Z"
+      },
+      {
+        "id": "world-7f7a871f",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "bullets": [
+          "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T09:56:39.000Z"
+        "publishedAt": "2026-09-06T16:00:21.000Z"
       },
       {
         "id": "world-b7b29d54",
@@ -7976,7 +7989,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-06T14:07:35.000Z"
+        "publishedAt": "2026-09-06T16:54:34.000Z"
       },
       {
         "id": "world-87beade4",
@@ -7990,19 +8003,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-06T08:05:22.000Z"
-      },
-      {
-        "id": "world-b57af654",
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-        "bullets": [
-          "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T22:44:07.000Z"
       }
     ]
   }
