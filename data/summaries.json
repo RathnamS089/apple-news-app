@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-07",
-    "generatedAt": "2026-08-07T21:57:15.598Z",
-    "articles": [
-      {
-        "id": "top-bf2d4268",
-        "title": "Police failings revealed as sex offender left free to murder and attack women",
-        "summary": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
-        "bullets": [
-          "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T21:10:48.000Z"
-      },
-      {
-        "id": "top-a701ead7",
-        "title": "Serial sex offender guilty of murdering two women and raping third",
-        "summary": "Simon Levy, from Tottenham, was left free to kill due to a string of police and court blunders.",
-        "bullets": [
-          "Simon Levy, from Tottenham, was left free to kill due to a string of police and court blunders."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T19:52:52.000Z"
-      },
-      {
-        "id": "top-ddb580cb",
-        "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
-        "summary": "No arrests were made at the time and the investigation was closed.",
-        "bullets": [
-          "No arrests were made at the time and the investigation was closed."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T20:58:58.000Z"
-      },
-      {
-        "id": "top-a342a3ca",
-        "title": "Streeting 'sickened' by sex abuse claims at Army college",
-        "summary": "The defence secretary promises to look into what went wrong at the college in North Yorkshire.",
-        "bullets": [
-          "The defence secretary promises to look into what went wrong at the college in North Yorkshire."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T16:53:25.000Z"
-      },
-      {
-        "id": "top-5a1e708d",
-        "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
-        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
-        "bullets": [
-          "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T20:33:23.000Z"
-      },
-      {
-        "id": "tech-8099c931",
-        "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-        "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
-        "bullets": [
-          "Six deaths reported among screwworm cases, one directly attributed to the flies."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T21:09:00.000Z"
-      },
-      {
-        "id": "tech-9d00d27b",
-        "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-        "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
-        "bullets": [
-          "New Mexico judge orders $567M fund to help address youth mental health crisis."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T19:49:27.000Z"
-      },
-      {
-        "id": "tech-7c59042f",
-        "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-        "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
-        "bullets": [
-          "Fitted with telescopes, the plane did our longest imaging of the Sun's corona."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T19:00:17.000Z"
-      },
-      {
-        "id": "tech-63fab6f6",
-        "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-        "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
-        "bullets": [
-          "19 new maps continue the story from MachineGames' other campaign additions."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T18:00:02.000Z"
-      },
-      {
-        "id": "tech-191225d1",
-        "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
-        "summary": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
-        "bullets": [
-          "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T17:51:05.000Z"
-      },
-      {
-        "id": "ai-cd1b4667",
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-        "bullets": [
-          "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T21:30:11.000Z"
-      },
-      {
-        "id": "ai-57202996",
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-        "bullets": [
-          "Kitesurf is a cloud-hosted browser designed for AI agents instead of people.",
-          "It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T16:16:09.000Z"
-      },
-      {
-        "id": "ai-082e374e",
-        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-        "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-        "bullets": [
-          "Airbnb will debut a new AI-powered search experience with a toggle."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T14:22:49.000Z"
-      },
-      {
-        "id": "ai-e002e307",
-        "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-        "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s...",
-        "bullets": [
-          "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T14:00:00.000Z"
-      },
-      {
-        "id": "ai-506b90da",
-        "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-        "summary": "Meta's total fine has racked up to $942 million in this case.",
-        "bullets": [
-          "Meta's total fine has racked up to $942 million in this case."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T11:40:37.000Z"
-      },
-      {
-        "id": "world-5a1e708d",
-        "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
-        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
-        "bullets": [
-          "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T20:33:23.000Z"
-      },
-      {
-        "id": "world-955521ce",
-        "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-        "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-        "bullets": [
-          "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T21:19:27.000Z"
-      },
-      {
-        "id": "world-d5a9698e",
-        "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-        "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-        "bullets": [
-          "The student says she feared never seeing her mother again after the attack killed five teachers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T14:20:27.000Z"
-      },
-      {
-        "id": "world-48e15251",
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "bullets": [
-          "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T17:42:54.000Z"
-      },
-      {
-        "id": "world-2db4151a",
-        "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-        "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-        "bullets": [
-          "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T16:13:45.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-08",
     "generatedAt": "2026-08-08T21:47:22.089Z",
     "articles": [
@@ -7991,6 +7724,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-05T15:22:41.000Z"
+      },
+      {
+        "id": "world-97dc2941",
+        "title": "Prince William to attend King Harald's funeral in Norway",
+        "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+        "bullets": [
+          "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T21:00:02.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "generatedAt": "2026-09-06T04:43:35.216Z",
+    "articles": [
+      {
+        "id": "top-f5b195f0",
+        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+        "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+        "bullets": [
+          "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T02:24:16.000Z"
+      },
+      {
+        "id": "top-6ff006d5",
+        "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+        "summary": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
+        "bullets": [
+          "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T21:29:02.000Z"
+      },
+      {
+        "id": "top-81442bf0",
+        "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+        "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
+        "bullets": [
+          "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T14:26:37.000Z"
+      },
+      {
+        "id": "top-b57af654",
+        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+        "bullets": [
+          "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T22:44:07.000Z"
+      },
+      {
+        "id": "top-85ff2f4d",
+        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+        "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+        "bullets": [
+          "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T23:20:00.000Z"
+      },
+      {
+        "id": "tech-efcc9b53",
+        "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+        "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+        "bullets": [
+          "The US government is investigating whether the Cybercab meets vehicle safety standards."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T15:17:36.000Z"
+      },
+      {
+        "id": "tech-0531ea24",
+        "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+        "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+        "bullets": [
+          "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T22:49:17.000Z"
+      },
+      {
+        "id": "tech-290e6aed",
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+        "bullets": [
+          "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T22:17:36.000Z"
+      },
+      {
+        "id": "tech-32115997",
+        "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+        "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+        "bullets": [
+          "\"It’s long past time for RFK to stop playing games with people’s lives.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T20:22:41.000Z"
+      },
+      {
+        "id": "tech-0dec33de",
+        "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+        "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+        "bullets": [
+          "FCC tells court it is “open-minded\" about whether ABC should lose licenses."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T19:46:34.000Z"
+      },
+      {
+        "id": "ai-9d86226a",
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "bullets": [
+          "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T22:49:55.000Z"
+      },
+      {
+        "id": "ai-bdc2d291",
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "bullets": [
+          "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T19:35:24.000Z"
+      },
+      {
+        "id": "ai-1bb8ec95",
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "bullets": [
+          "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T18:05:27.000Z"
+      },
+      {
+        "id": "ai-fc3db640",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+        "bullets": [
+          "The round is being raised just months after the robot data startup exited from stealth."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T23:36:14.000Z"
+      },
+      {
+        "id": "ai-ec1c1d6b",
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+        "bullets": [
+          "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T23:15:11.000Z"
+      },
+      {
+        "id": "world-f5b195f0",
+        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+        "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+        "bullets": [
+          "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T02:24:16.000Z"
+      },
+      {
+        "id": "world-b57af654",
+        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+        "bullets": [
+          "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T22:44:07.000Z"
+      },
+      {
+        "id": "world-be1c5f5c",
+        "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+        "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+        "bullets": [
+          "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T21:29:38.000Z"
+      },
+      {
+        "id": "world-79795bb7",
+        "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+        "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+        "bullets": [
+          "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T01:54:29.000Z"
       },
       {
         "id": "world-97dc2941",
