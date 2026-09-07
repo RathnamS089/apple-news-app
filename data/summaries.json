@@ -7741,8 +7741,21 @@
   },
   {
     "date": "2026-09-07",
-    "generatedAt": "2026-09-07T19:11:53.427Z",
+    "generatedAt": "2026-09-07T23:31:47.974Z",
     "articles": [
+      {
+        "id": "top-b712a55d",
+        "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+        "summary": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
+        "bullets": [
+          "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T19:04:09.000Z"
+      },
       {
         "id": "top-4d03f90f",
         "title": "What we know about anti-migrant protests and organiser Danny Thomas",
@@ -7755,19 +7768,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-07T15:20:48.000Z"
-      },
-      {
-        "id": "top-221f9164",
-        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-        "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-        "bullets": [
-          "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T14:57:30.000Z"
       },
       {
         "id": "top-ae0ce328",
@@ -7796,17 +7796,17 @@
         "publishedAt": "2026-09-07T15:41:52.000Z"
       },
       {
-        "id": "top-5c6e25b2",
-        "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-        "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+        "id": "top-221f9164",
+        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
         "bullets": [
-          "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
+          "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-07T15:27:50.000Z"
+        "publishedAt": "2026-09-07T14:57:30.000Z"
       },
       {
         "id": "tech-dca65797",
@@ -7874,6 +7874,20 @@
         "publishedAt": "2026-09-04T22:49:17.000Z"
       },
       {
+        "id": "ai-8e9efb10",
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "bullets": [
+          "The rise of AI has brought an avalanche of new terms and slang.",
+          "Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T19:24:00.000Z"
+      },
+      {
         "id": "ai-c2e1bac4",
         "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
         "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
@@ -7926,17 +7940,30 @@
         "publishedAt": "2026-09-05T19:35:24.000Z"
       },
       {
-        "id": "ai-1bb8ec95",
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "id": "world-fc232d7d",
+        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+        "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
         "bullets": [
-          "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+          "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T18:05:27.000Z"
+        "publishedAt": "2026-09-07T22:23:03.000Z"
+      },
+      {
+        "id": "world-6b9111b4",
+        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+        "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+        "bullets": [
+          "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T21:12:37.000Z"
       },
       {
         "id": "world-98cc9eac",
@@ -7976,32 +8003,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-07T13:39:23.000Z"
-      },
-      {
-        "id": "world-bbfb713b",
-        "title": "Investigators begin work on why cargo plane overran Miami runway",
-        "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-        "bullets": [
-          "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T17:46:25.000Z"
-      },
-      {
-        "id": "world-5c6e25b2",
-        "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-        "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-        "bullets": [
-          "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T15:27:50.000Z"
       }
     ]
   }
