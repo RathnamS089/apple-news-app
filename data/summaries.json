@@ -7742,8 +7742,21 @@
   },
   {
     "date": "2026-09-08",
-    "generatedAt": "2026-09-08T11:23:26.116Z",
+    "generatedAt": "2026-09-08T16:40:59.435Z",
     "articles": [
+      {
+        "id": "top-3e8288a5",
+        "title": "Ports denied request to land 120 migrants in RNLI boats",
+        "summary": "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.",
+        "bullets": [
+          "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-08T15:26:05.000Z"
+      },
       {
         "id": "top-814dc588",
         "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
@@ -7758,56 +7771,69 @@
         "publishedAt": "2026-09-08T09:43:53.000Z"
       },
       {
-        "id": "top-7a124d58",
-        "title": "Prince George begins first day at a rainy Eton College",
-        "summary": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school.",
+        "id": "top-25c83404",
+        "title": "Renoir paintings worth millions stolen in French museum heist",
+        "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
         "bullets": [
-          "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school."
+          "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T11:07:18.000Z"
+        "publishedAt": "2026-09-08T13:35:28.000Z"
       },
       {
-        "id": "top-b7a421f3",
-        "title": "Nottingham attacks victim's death 'potentially preventable'",
-        "summary": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.",
+        "id": "top-a58dce4b",
+        "title": "Monty Don to leave Gardeners' World after more than 20 years",
+        "summary": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
         "bullets": [
-          "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived."
+          "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T11:10:58.000Z"
+        "publishedAt": "2026-09-08T11:43:32.000Z"
       },
       {
-        "id": "top-333c554a",
-        "title": "Drought and hosepipe bans remain despite wettest week since early February",
-        "summary": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
+        "id": "top-8f16a829",
+        "title": "Prince George attends first day at Eton College",
+        "summary": "The 13 year old was dropped off at the all-boys boarding school by his parents, Prince William and Princess Catherine of Wales.",
         "bullets": [
-          "Parts of England and Wales have seen more rain than any other week since early February but are still in drought."
+          "The 13 year old was dropped off at the all-boys boarding school by his parents, Prince William and Princess Catherine of Wales."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/clyjdgvzg0yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T09:31:31.000Z"
+        "publishedAt": "2026-09-08T16:32:06.000Z"
       },
       {
-        "id": "top-c9e085ab",
-        "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
-        "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+        "id": "tech-43bd5481",
+        "title": "EV batteries last longer than drivers feared",
+        "summary": "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km.",
         "bullets": [
-          "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
+          "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T04:39:14.000Z"
+        "publishedAt": "2026-09-08T13:56:38.000Z"
+      },
+      {
+        "id": "tech-5ab40c72",
+        "title": "With another huge infusion of cash, Stoke Space goes even bigger",
+        "summary": "The space economy will grow exactly as fast as we can launch rockets.",
+        "bullets": [
+          "The space economy will grow exactly as fast as we can launch rockets."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-08T12:29:18.000Z"
       },
       {
         "id": "tech-dca65797",
@@ -7849,30 +7875,30 @@
         "publishedAt": "2026-09-06T10:00:35.000Z"
       },
       {
-        "id": "tech-efcc9b53",
-        "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-        "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+        "id": "ai-0f7eadfc",
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
         "bullets": [
-          "The US government is investigating whether the Cybercab meets vehicle safety standards."
+          "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-05T15:17:36.000Z"
+        "publishedAt": "2026-09-08T16:20:31.000Z"
       },
       {
-        "id": "tech-0531ea24",
-        "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-        "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+        "id": "ai-56a5ed7c",
+        "title": "Mistral raises €3B as sovereign AI becomes big business",
+        "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
         "bullets": [
-          "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\""
+          "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-04T22:49:17.000Z"
+        "publishedAt": "2026-09-08T14:17:48.000Z"
       },
       {
         "id": "ai-8e9efb10",
@@ -7915,86 +7941,34 @@
         "publishedAt": "2026-09-06T16:45:00.000Z"
       },
       {
-        "id": "ai-9d86226a",
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "id": "world-82991231",
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
         "bullets": [
-          "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T22:49:55.000Z"
-      },
-      {
-        "id": "ai-bdc2d291",
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-        "bullets": [
-          "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T19:35:24.000Z"
-      },
-      {
-        "id": "world-0e7ea0ad",
-        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-        "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-        "bullets": [
-          "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
+          "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T04:39:14.000Z"
+        "publishedAt": "2026-09-08T14:46:16.000Z"
       },
       {
-        "id": "world-f6ed4c92",
-        "title": "At least two people dead after Russian strikes on Kyiv",
-        "summary": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
+        "id": "world-25c83404",
+        "title": "Renoir paintings worth millions stolen in French museum heist",
+        "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
         "bullets": [
-          "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday."
+          "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T10:23:01.000Z"
+        "publishedAt": "2026-09-08T13:35:28.000Z"
       },
       {
-        "id": "world-5b394912",
-        "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-        "summary": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
-        "bullets": [
-          "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-08T11:00:10.000Z"
-      },
-      {
-        "id": "world-9ee161bd",
-        "title": "Highest paid world leader to get salary increase of $1 million",
-        "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-        "bullets": [
-          "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m)."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-08T09:20:05.000Z"
-      },
-      {
-        "id": "world-441a8b9f",
-        "title": "Argentina targets oil company operating in Falklands",
+        "id": "world-2a633569",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
         "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
         "bullets": [
           "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
@@ -8004,6 +7978,32 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-08T11:09:54.000Z"
+      },
+      {
+        "id": "world-76c2e95e",
+        "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+        "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+        "bullets": [
+          "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\""
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-08T16:36:47.000Z"
+      },
+      {
+        "id": "world-7d0e5008",
+        "title": "British widow faces deportation from Sweden after 22 years",
+        "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+        "bullets": [
+          "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-08T16:23:01.000Z"
       }
     ]
   }
