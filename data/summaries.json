@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-08-09",
-    "generatedAt": "2026-08-09T21:49:49.903Z",
-    "articles": [
-      {
-        "id": "top-807f0801",
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-        "bullets": [
-          "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T20:58:18.000Z"
-      },
-      {
-        "id": "top-33861186",
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-        "bullets": [
-          "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T21:25:04.000Z"
-      },
-      {
-        "id": "top-e3cae239",
-        "title": "Ancient Roman shipwreck discovered off Sicily coast",
-        "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-        "bullets": [
-          "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T12:27:26.000Z"
-      },
-      {
-        "id": "top-b359ddb9",
-        "title": "How weight-loss medication is changing relationships with alcohol",
-        "summary": "Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank.",
-        "bullets": [
-          "Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T23:30:06.000Z"
-      },
-      {
-        "id": "top-4845efbf",
-        "title": "Banksy works cost public almost £150,000",
-        "summary": "The BBC reveals taxpayers have funded thousands of pounds worth of cleaning operations and security for the artworks.",
-        "bullets": [
-          "The BBC reveals taxpayers have funded thousands of pounds worth of cleaning operations and security for the artworks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T23:52:43.000Z"
-      },
-      {
-        "id": "tech-b3b5fa1e",
-        "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-        "summary": "The massive Toba eruption seems to have had little climate impact.",
-        "bullets": [
-          "The massive Toba eruption seems to have had little climate impact."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T11:00:14.000Z"
-      },
-      {
-        "id": "tech-2b2ac22d",
-        "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-        "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
-        "bullets": [
-          "About 90 percent of the distance driven by Perseverance has been autonomous."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T11:30:48.000Z"
-      },
-      {
-        "id": "tech-38ac616d",
-        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-        "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-        "bullets": [
-          "Open source WeatherNext model can make accurate predictions with lower-resolution weather data."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T11:05:50.000Z"
-      },
-      {
-        "id": "tech-4f859dda",
-        "title": "Europe's free satellite service just made it easier to track wildfires",
-        "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
-        "bullets": [
-          "Copernicus Browser adds wildfire visualization amid record wildfire season."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T21:48:21.000Z"
-      },
-      {
-        "id": "tech-8099c931",
-        "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
-        "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
-        "bullets": [
-          "Six deaths reported among screwworm cases, one directly attributed to the flies."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-07T21:09:00.000Z"
-      },
-      {
-        "id": "ai-01b4f496",
-        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "summary": "The AI-focused hedge fund is still making some big bets.",
-        "bullets": [
-          "The AI-focused hedge fund is still making some big bets."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T20:35:17.000Z"
-      },
-      {
-        "id": "ai-9183eb34",
-        "title": "Anthropic is turning Claude Code’s auto mode on by default",
-        "summary": "Programming with Claude Code will soon require even less human oversight.",
-        "bullets": [
-          "Programming with Claude Code will soon require even less human oversight."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T19:20:32.000Z"
-      },
-      {
-        "id": "ai-15d5d645",
-        "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-        "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-        "bullets": [
-          "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T15:00:00.000Z"
-      },
-      {
-        "id": "ai-f749e711",
-        "title": "The AI safety test is becoming a safety risk",
-        "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-        "bullets": [
-          "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T14:30:00.000Z"
-      },
-      {
-        "id": "ai-3bb5a141",
-        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-        "bullets": [
-          "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-08T21:24:02.000Z"
-      },
-      {
-        "id": "world-33861186",
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-        "bullets": [
-          "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T21:25:04.000Z"
-      },
-      {
-        "id": "world-807f0801",
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-        "bullets": [
-          "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T20:58:18.000Z"
-      },
-      {
-        "id": "world-e3cae239",
-        "title": "Ancient Roman shipwreck discovered off Sicily coast",
-        "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-        "bullets": [
-          "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T12:27:26.000Z"
-      },
-      {
-        "id": "world-ba92b5f9",
-        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-        "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-        "bullets": [
-          "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km)."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T18:03:55.000Z"
-      },
-      {
-        "id": "world-8aaab20e",
-        "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-        "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
-        "bullets": [
-          "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-09T15:34:04.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-10",
     "generatedAt": "2026-08-10T21:59:59.347Z",
     "articles": [
@@ -8003,6 +7737,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-07T13:39:23.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "generatedAt": "2026-09-08T04:41:52.361Z",
+    "articles": [
+      {
+        "id": "top-b06d9eba",
+        "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+        "summary": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+        "bullets": [
+          "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-08T01:50:55.000Z"
+      },
+      {
+        "id": "top-1a3a4042",
+        "title": "A&E did not get the basics right - now my son's life is ruined at 32",
+        "summary": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
+        "bullets": [
+          "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-08T03:49:39.000Z"
+      },
+      {
+        "id": "top-b712a55d",
+        "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+        "summary": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
+        "bullets": [
+          "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T19:04:09.000Z"
+      },
+      {
+        "id": "top-ae0ce328",
+        "title": "King makes clear Harry and Meghan remain non-working royals",
+        "summary": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+        "bullets": [
+          "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T18:23:31.000Z"
+      },
+      {
+        "id": "top-fc232d7d",
+        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+        "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+        "bullets": [
+          "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T22:23:03.000Z"
+      },
+      {
+        "id": "tech-dca65797",
+        "title": "The complex corporate web behind a $3.2 billion AI data center",
+        "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+        "bullets": [
+          "When multiple companies are behind one project, who bears responsibility for problems?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T11:00:03.000Z"
+      },
+      {
+        "id": "tech-10668864",
+        "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+        "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+        "bullets": [
+          "\"We achieved within a few years what had taken the European space industry decades before.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T11:55:26.000Z"
+      },
+      {
+        "id": "tech-fbf1fd57",
+        "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+        "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+        "bullets": [
+          "The shift in the fish’s diet is having significant downstream impacts on the environment and climate."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T10:00:35.000Z"
+      },
+      {
+        "id": "tech-efcc9b53",
+        "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+        "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+        "bullets": [
+          "The US government is investigating whether the Cybercab meets vehicle safety standards."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T15:17:36.000Z"
+      },
+      {
+        "id": "tech-0531ea24",
+        "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+        "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+        "bullets": [
+          "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-04T22:49:17.000Z"
+      },
+      {
+        "id": "ai-8e9efb10",
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "bullets": [
+          "The rise of AI has brought an avalanche of new terms and slang.",
+          "Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T19:24:00.000Z"
+      },
+      {
+        "id": "ai-c2e1bac4",
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "bullets": [
+          "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T20:47:37.000Z"
+      },
+      {
+        "id": "ai-1dc8ac0d",
+        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+        "bullets": [
+          "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-06T16:45:00.000Z"
+      },
+      {
+        "id": "ai-9d86226a",
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "bullets": [
+          "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T22:49:55.000Z"
+      },
+      {
+        "id": "ai-bdc2d291",
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "bullets": [
+          "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-05T19:35:24.000Z"
+      },
+      {
+        "id": "world-fc232d7d",
+        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+        "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+        "bullets": [
+          "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T22:23:03.000Z"
+      },
+      {
+        "id": "world-6b9111b4",
+        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+        "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+        "bullets": [
+          "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T21:12:37.000Z"
+      },
+      {
+        "id": "world-98cc9eac",
+        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+        "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+        "bullets": [
+          "The far-right party is trying to form a government in the state after falling three seats short of a majority."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T14:04:01.000Z"
+      },
+      {
+        "id": "world-d3757f43",
+        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+        "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+        "bullets": [
+          "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-07T23:46:44.000Z"
+      },
+      {
+        "id": "world-846f3fe1",
+        "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+        "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+        "bullets": [
+          "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-08T01:07:47.000Z"
       }
     ]
   }
