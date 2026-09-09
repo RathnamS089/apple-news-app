@@ -7742,72 +7742,98 @@
   },
   {
     "date": "2026-09-09",
-    "generatedAt": "2026-09-09T11:27:44.460Z",
+    "generatedAt": "2026-09-09T16:41:33.109Z",
     "articles": [
       {
-        "id": "top-ca8572bd",
-        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-        "summary": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+        "id": "top-c4ed2c09",
+        "title": "Police launch criminal investigation into Reform UK donations",
+        "summary": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
         "bullets": [
-          "Four victims describe being targeted by criminals and then not being taken seriously by the authorities."
+          "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T04:59:08.000Z"
+        "publishedAt": "2026-09-09T15:50:12.000Z"
       },
       {
-        "id": "top-ceb00bfd",
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+        "id": "top-b0ad8b89",
+        "title": "National security can't come at expense of social security, Burnham says",
+        "summary": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
         "bullets": [
-          "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
+          "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T09:47:39.000Z"
+        "publishedAt": "2026-09-09T14:53:26.000Z"
       },
       {
-        "id": "top-6ad8c6fd",
-        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+        "id": "top-9b4212a1",
+        "title": "Europe's royalty pay respects to King Harald V in Norway",
+        "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
         "bullets": [
-          "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence."
+          "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T10:46:43.000Z"
+        "publishedAt": "2026-09-09T16:30:28.000Z"
       },
       {
-        "id": "top-cbfe9dbe",
-        "title": "Police say Nottingham attacks were 'not preventable'",
-        "summary": "Police say any mistakes were not missed opportunities to prevent the 2023 Nottingham attacks.",
+        "id": "top-b42f497d",
+        "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+        "summary": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
         "bullets": [
-          "Police say any mistakes were not missed opportunities to prevent the 2023 Nottingham attacks."
+          "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw39nvy97o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T11:07:00.000Z"
+        "publishedAt": "2026-09-09T13:28:58.000Z"
       },
       {
-        "id": "top-11b31627",
-        "title": "Learner drivers still waiting 20 weeks to book tests",
-        "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+        "id": "top-796ed992",
+        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
         "bullets": [
-          "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks."
+          "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T09:55:11.000Z"
+        "publishedAt": "2026-09-09T15:01:58.000Z"
+      },
+      {
+        "id": "tech-f0fc3630",
+        "title": "NOAA is putting commercial fishing ahead of conservation",
+        "summary": "Critics say the new agenda could weaken science-based rules and marine protections.",
+        "bullets": [
+          "Critics say the new agenda could weaken science-based rules and marine protections."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T13:58:44.000Z"
+      },
+      {
+        "id": "tech-abeefdc4",
+        "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+        "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+        "bullets": [
+          "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T11:00:10.000Z"
       },
       {
         "id": "tech-a7af3363",
@@ -7825,9 +7851,9 @@
       {
         "id": "tech-fb548dc8",
         "title": "GOG brings back \"big box\" PC games, one printable template at a time",
-        "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+        "summary": "Preservation \"goodies\" also include downloadable 3D models for desktop perusal.",
         "bullets": [
-          "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal."
+          "Preservation \"goodies\" also include downloadable 3D models for desktop perusal."
         ],
         "source": "Ars Technica - All content",
         "sourceUrl": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
@@ -7849,96 +7875,82 @@
         "publishedAt": "2026-09-08T21:11:46.000Z"
       },
       {
-        "id": "tech-febb7e8d",
-        "title": "The universal language of space is... Star Trek? Mais oui.",
-        "summary": "\"Science fiction imagines the future. We build it.\"",
+        "id": "ai-d75480aa",
+        "title": "Superintelligence is coming. Should we let it?",
+        "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what...",
         "bullets": [
-          "\"Science fiction imagines the future."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-08T20:20:20.000Z"
-      },
-      {
-        "id": "tech-2fe8d090",
-        "title": "NIH to use part of its budget to pay for Department of Defense research",
-        "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
-        "bullets": [
-          "Money would ostensibly fund research the NIH leadership said it no longer wanted."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-08T20:06:44.000Z"
-      },
-      {
-        "id": "ai-0539d968",
-        "title": "Hackers are stealing Claude tokens from subscribers",
-        "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-        "bullets": [
-          "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working.",
-          "Anthropic has since warned users about hackers."
+          "Executive Director of [&#8230;]"
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+        "sourceUrl": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T21:10:27.000Z"
+        "publishedAt": "2026-09-09T16:05:35.000Z"
       },
       {
-        "id": "ai-5c4b5f55",
-        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-        "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+        "id": "ai-87306cf3",
+        "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+        "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what...",
         "bullets": [
-          "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+          "Executive Director of [&#8230;]"
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+        "sourceUrl": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T21:04:06.000Z"
+        "publishedAt": "2026-09-09T15:50:13.000Z"
       },
       {
-        "id": "ai-d74e7ef7",
-        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+        "id": "ai-2fdc3305",
+        "title": "Viral AI assistant Instinct now has its own email address",
+        "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
         "bullets": [
-          "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
+          "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+        "sourceUrl": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T19:00:00.000Z"
+        "publishedAt": "2026-09-09T15:13:12.000Z"
       },
       {
-        "id": "ai-edc52d64",
-        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-        "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+        "id": "ai-7000f510",
+        "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
         "bullets": [
-          "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
+          "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+        "sourceUrl": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T17:32:15.000Z"
+        "publishedAt": "2026-09-09T15:02:47.000Z"
       },
       {
-        "id": "ai-0f7eadfc",
-        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-        "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+        "id": "ai-f4bc3790",
+        "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+        "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
         "bullets": [
-          "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment..."
+          "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+        "sourceUrl": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T16:20:31.000Z"
+        "publishedAt": "2026-09-09T14:51:45.000Z"
+      },
+      {
+        "id": "world-2a2a762f",
+        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+        "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+        "bullets": [
+          "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T13:29:33.000Z"
       },
       {
         "id": "world-ceb00bfd",
@@ -7967,43 +7979,30 @@
         "publishedAt": "2026-09-09T10:20:40.000Z"
       },
       {
-        "id": "world-c6782bc7",
-        "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-        "summary": "The billion dollar payout marks the largest divorce settlement in the country's history.",
+        "id": "world-9b4212a1",
+        "title": "Europe's royalty pay respects to King Harald V in Norway",
+        "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
         "bullets": [
-          "The billion dollar payout marks the largest divorce settlement in the country's history."
+          "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T08:21:39.000Z"
+        "publishedAt": "2026-09-09T16:30:28.000Z"
       },
       {
-        "id": "world-a282950f",
-        "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-        "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+        "id": "world-00d832ff",
+        "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+        "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
         "bullets": [
-          "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India."
+          "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T23:27:23.000Z"
-      },
-      {
-        "id": "world-e4d397a5",
-        "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-        "summary": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-        "bullets": [
-          "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T07:44:20.000Z"
+        "publishedAt": "2026-09-09T16:01:54.000Z"
       }
     ]
   }
