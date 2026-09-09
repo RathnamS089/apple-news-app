@@ -7742,72 +7742,72 @@
   },
   {
     "date": "2026-09-09",
-    "generatedAt": "2026-09-09T04:46:52.835Z",
+    "generatedAt": "2026-09-09T11:27:44.460Z",
     "articles": [
       {
-        "id": "top-c5742423",
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "id": "top-ca8572bd",
+        "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+        "summary": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
         "bullets": [
-          "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate..."
+          "Four victims describe being targeted by criminals and then not being taken seriously by the authorities."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T01:45:15.000Z"
+        "publishedAt": "2026-09-09T04:59:08.000Z"
       },
       {
-        "id": "top-a8ca0881",
-        "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-        "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+        "id": "top-ceb00bfd",
+        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+        "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
         "bullets": [
-          "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-08T21:46:31.000Z"
-      },
-      {
-        "id": "top-4c0fd1c5",
-        "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-        "summary": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
-        "bullets": [
-          "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T02:59:38.000Z"
-      },
-      {
-        "id": "top-f21f64c4",
-        "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-        "summary": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
-        "bullets": [
-          "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran."
+          "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T04:26:38.000Z"
+        "publishedAt": "2026-09-09T09:47:39.000Z"
       },
       {
-        "id": "top-c175120a",
-        "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-        "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+        "id": "top-6ad8c6fd",
+        "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+        "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
         "bullets": [
-          "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on."
+          "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T23:11:32.000Z"
+        "publishedAt": "2026-09-09T10:46:43.000Z"
+      },
+      {
+        "id": "top-cbfe9dbe",
+        "title": "Police say Nottingham attacks were 'not preventable'",
+        "summary": "Police say any mistakes were not missed opportunities to prevent the 2023 Nottingham attacks.",
+        "bullets": [
+          "Police say any mistakes were not missed opportunities to prevent the 2023 Nottingham attacks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw39nvy97o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T11:07:00.000Z"
+      },
+      {
+        "id": "top-11b31627",
+        "title": "Learner drivers still waiting 20 weeks to book tests",
+        "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+        "bullets": [
+          "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T09:55:11.000Z"
       },
       {
         "id": "tech-a7af3363",
@@ -7941,69 +7941,69 @@
         "publishedAt": "2026-09-08T16:20:31.000Z"
       },
       {
-        "id": "world-c5742423",
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "id": "world-ceb00bfd",
+        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+        "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
         "bullets": [
-          "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate..."
+          "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T01:45:15.000Z"
+        "publishedAt": "2026-09-09T09:47:39.000Z"
       },
       {
-        "id": "world-a8ca0881",
-        "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-        "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+        "id": "world-b3515d1c",
+        "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+        "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
         "bullets": [
-          "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-08T21:46:31.000Z"
-      },
-      {
-        "id": "world-0d2d4e49",
-        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-        "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
-        "bullets": [
-          "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force."
+          "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T03:03:32.000Z"
+        "publishedAt": "2026-09-09T10:20:40.000Z"
       },
       {
-        "id": "world-c175120a",
-        "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-        "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+        "id": "world-c6782bc7",
+        "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+        "summary": "The billion dollar payout marks the largest divorce settlement in the country's history.",
         "bullets": [
-          "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on."
+          "The billion dollar payout marks the largest divorce settlement in the country's history."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T23:11:32.000Z"
+        "publishedAt": "2026-09-09T08:21:39.000Z"
       },
       {
-        "id": "world-25c83404",
-        "title": "Renoir paintings worth millions stolen in French museum heist",
-        "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+        "id": "world-a282950f",
+        "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+        "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
         "bullets": [
-          "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
+          "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-08T13:35:28.000Z"
+        "publishedAt": "2026-09-08T23:27:23.000Z"
+      },
+      {
+        "id": "world-e4d397a5",
+        "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+        "summary": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
+        "bullets": [
+          "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T07:44:20.000Z"
       }
     ]
   }
