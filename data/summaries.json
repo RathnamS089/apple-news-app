@@ -7741,11 +7741,11 @@
   },
   {
     "date": "2026-09-10",
-    "generatedAt": "2026-09-10T11:24:07.579Z",
+    "generatedAt": "2026-09-10T16:27:07.253Z",
     "articles": [
       {
-        "id": "top-8aee2249",
-        "title": "England's mayors to be given power to introduce tourist tax",
+        "id": "top-fba1dee8",
+        "title": "England's mayors to get power to impose tourist tax",
         "summary": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
         "bullets": [
           "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England."
@@ -7754,7 +7754,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T11:02:47.000Z"
+        "publishedAt": "2026-09-10T14:46:09.000Z"
+      },
+      {
+        "id": "top-5b4e1195",
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "bullets": [
+          "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T15:56:33.000Z"
       },
       {
         "id": "top-68ad1148",
@@ -7767,50 +7780,50 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T10:07:19.000Z"
+        "publishedAt": "2026-09-10T13:23:37.000Z"
       },
       {
-        "id": "top-ebca6350",
-        "title": "Watch: Is Trump's $5,000 election pledge legal?",
-        "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+        "id": "top-7a2ab32b",
+        "title": "Police and army attend funeral for officer killed in wrong-way A66 crash",
+        "summary": "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers.",
         "bullets": [
-          "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms."
+          "Former army colleagues attend PC Tom Clough's funeral alongside police and emergency workers."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvl72e57yeo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T07:12:32.000Z"
+        "publishedAt": "2026-09-10T15:02:18.000Z"
       },
       {
-        "id": "top-76818238",
-        "title": "Why some experts increasingly fear AI will take over",
-        "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "id": "top-3fdf4583",
+        "title": "Seven arrested and one man in critical condition after stabbing in London",
+        "summary": "Seven people have been arrested in connection with the incident and police say there is no wider threat to the public.",
         "bullets": [
-          "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried"
+          "Seven people have been arrested in connection with the incident and police say there is no wider threat to the public."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T23:17:33.000Z"
+        "publishedAt": "2026-09-10T16:19:12.000Z"
       },
       {
-        "id": "top-05521d63",
-        "title": "RNLI reviews security after volunteers targeted online",
-        "summary": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
+        "id": "tech-c4e663f5",
+        "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
+        "summary": "\"Artemis II is done.\"",
         "bullets": [
-          "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday."
+          "\"Artemis II is done.\""
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T09:07:49.000Z"
+        "publishedAt": "2026-09-10T11:30:42.000Z"
       },
       {
-        "id": "tech-5853031e",
-        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "id": "tech-be2d8f2f",
+        "title": "Four groups caught using the same Chrome and Windows exploit kit",
         "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
         "bullets": [
           "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
@@ -7861,17 +7874,30 @@
         "publishedAt": "2026-09-09T19:42:00.000Z"
       },
       {
-        "id": "tech-69b52609",
-        "title": "When it comes to Beatles references, scientists can't let it be",
-        "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
+        "id": "ai-90e7aa80",
+        "title": "AI agents are flooding public services with new requests",
+        "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
         "bullets": [
-          "New study detects 3,200 references to Beatles song titles and lyrics in academic papers."
+          "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-09T19:31:55.000Z"
+        "publishedAt": "2026-09-10T14:53:50.000Z"
+      },
+      {
+        "id": "ai-eb2785d1",
+        "title": "Maven Robotics wants to steal your robot deployment deal",
+        "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+        "bullets": [
+          "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T14:17:37.000Z"
       },
       {
         "id": "ai-8ea9acc0",
@@ -7913,32 +7939,6 @@
         "publishedAt": "2026-09-09T21:43:34.000Z"
       },
       {
-        "id": "ai-dbc1f6e6",
-        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-        "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-        "bullets": [
-          "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T20:24:48.000Z"
-      },
-      {
-        "id": "ai-23042010",
-        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-        "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-        "bullets": [
-          "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T20:03:43.000Z"
-      },
-      {
         "id": "world-e2c87a3e",
         "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
         "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
@@ -7949,7 +7949,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T10:07:19.000Z"
+        "publishedAt": "2026-09-10T13:23:37.000Z"
       },
       {
         "id": "world-ebca6350",
@@ -8001,7 +8001,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T10:46:24.000Z"
+        "publishedAt": "2026-09-10T13:12:40.000Z"
       }
     ]
   }
