@@ -7741,7 +7741,7 @@
   },
   {
     "date": "2026-09-10",
-    "generatedAt": "2026-09-10T20:54:13.076Z",
+    "generatedAt": "2026-09-10T23:12:27.469Z",
     "articles": [
       {
         "id": "top-97984aa3",
@@ -7754,7 +7754,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T16:59:38.000Z"
+        "publishedAt": "2026-09-10T21:22:06.000Z"
       },
       {
         "id": "top-5b4e1195",
@@ -7809,6 +7809,32 @@
         "publishedAt": "2026-09-10T18:27:22.000Z"
       },
       {
+        "id": "tech-d9543471",
+        "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+        "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+        "bullets": [
+          "Laptops don't usually get hot enough to burn—but they can still be harmful."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T22:16:05.000Z"
+      },
+      {
+        "id": "tech-26ff6bd8",
+        "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+        "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+        "bullets": [
+          "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T20:55:29.000Z"
+      },
+      {
         "id": "tech-26d929ce",
         "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
         "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
@@ -7848,30 +7874,58 @@
         "publishedAt": "2026-09-10T18:14:14.000Z"
       },
       {
-        "id": "tech-32544b9a",
-        "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
-        "summary": "The trick from Next Generation would be even more effective in real life.",
+        "id": "ai-a410fd8c",
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
         "bullets": [
-          "The trick from Next Generation would be even more effective in real life."
+          "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says.",
+          "But, he insists, its deals are not circular."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T17:54:33.000Z"
+        "publishedAt": "2026-09-10T21:51:59.000Z"
       },
       {
-        "id": "tech-be3da706",
-        "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
-        "summary": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
+        "id": "ai-63ff3c01",
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
         "bullets": [
-          "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC."
+          "Mark Wahlberg joins Bruce K.",
+          "Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T17:30:09.000Z"
+        "publishedAt": "2026-09-10T21:35:00.000Z"
+      },
+      {
+        "id": "ai-ca0e2903",
+        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+        "bullets": [
+          "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T20:59:51.000Z"
+      },
+      {
+        "id": "ai-abd8a7e3",
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+        "bullets": [
+          "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T20:57:30.000Z"
       },
       {
         "id": "ai-5082d9f1",
@@ -7885,58 +7939,6 @@
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-09-10T19:50:04.000Z"
-      },
-      {
-        "id": "ai-2a0626fc",
-        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-        "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-        "bullets": [
-          "Come inside the mind of a bot trying to convince the internet it's human."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T17:54:44.000Z"
-      },
-      {
-        "id": "ai-182a3197",
-        "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-        "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-        "bullets": [
-          "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T17:45:00.000Z"
-      },
-      {
-        "id": "ai-90e7aa80",
-        "title": "AI agents are flooding public services with new requests",
-        "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-        "bullets": [
-          "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T14:53:50.000Z"
-      },
-      {
-        "id": "ai-eb2785d1",
-        "title": "Maven Robotics wants to steal your robot deployment deal",
-        "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-        "bullets": [
-          "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T14:17:37.000Z"
       },
       {
         "id": "world-8fbbc8e6",
