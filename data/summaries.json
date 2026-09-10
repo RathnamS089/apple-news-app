@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "generatedAt": "2026-08-11T22:06:43.764Z",
-    "articles": [
-      {
-        "id": "top-7d74ccd5",
-        "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
-        "summary": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
-        "bullets": [
-          "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T21:00:46.000Z"
-      },
-      {
-        "id": "top-03f43aca",
-        "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
-        "summary": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
-        "bullets": [
-          "Only average conditions are needed for the remainder of August to break the record, which was set just last year."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T14:23:52.000Z"
-      },
-      {
-        "id": "top-4c05d79c",
-        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
-        "summary": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
-        "bullets": [
-          "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T21:21:44.000Z"
-      },
-      {
-        "id": "top-8713aa39",
-        "title": "Eclipse chasers scramble for glasses as stocks run low",
-        "summary": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
-        "bullets": [
-          "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T16:31:43.000Z"
-      },
-      {
-        "id": "top-6c1d258d",
-        "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-        "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
-        "bullets": [
-          "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T15:53:53.000Z"
-      },
-      {
-        "id": "tech-59bbe17e",
-        "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-        "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
-        "bullets": [
-          "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T20:27:16.000Z"
-      },
-      {
-        "id": "tech-a4d7c040",
-        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-        "summary": "But will Gemini's surge survive slowing model releases?",
-        "bullets": [
-          "But will Gemini's surge survive slowing model releases?"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T19:48:12.000Z"
-      },
-      {
-        "id": "tech-a6b746ad",
-        "title": "Used EV buying guide: The $30,000 edition",
-        "summary": "Depending on the model, you might have hundreds to choose from—or just one.",
-        "bullets": [
-          "Depending on the model, you might have hundreds to choose from—or just one."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T18:31:53.000Z"
-      },
-      {
-        "id": "tech-8bbb4cac",
-        "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
-        "summary": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
-        "bullets": [
-          "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T18:00:14.000Z"
-      },
-      {
-        "id": "tech-c32ff00c",
-        "title": "Tracking extreme heat by the hour makes climate change seem even worse",
-        "summary": "Hot hours of summer could triple in the coming decades.",
-        "bullets": [
-          "Hot hours of summer could triple in the coming decades."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T16:26:38.000Z"
-      },
-      {
-        "id": "ai-d3a622fd",
-        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-        "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-        "bullets": [
-          "VC firm still has more than 55% of its previous $650 million India fund available for deployment."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T21:39:11.000Z"
-      },
-      {
-        "id": "ai-81460dd8",
-        "title": "OpenAI launches ChatGPT desktop app for Linux",
-        "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-        "bullets": [
-          "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T19:15:35.000Z"
-      },
-      {
-        "id": "ai-7b117a1b",
-        "title": "Google’s Gemini app surges to 1 billion users",
-        "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-        "bullets": [
-          "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice...",
-          "Plus, Gemini now generates more than 150 million images every day, according to Google."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T18:49:12.000Z"
-      },
-      {
-        "id": "ai-2ea20712",
-        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-        "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-        "bullets": [
-          "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T17:41:34.000Z"
-      },
-      {
-        "id": "ai-5c2357fc",
-        "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-        "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-        "bullets": [
-          "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T17:41:22.000Z"
-      },
-      {
-        "id": "world-1c3be4bd",
-        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-        "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-        "bullets": [
-          "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T19:09:52.000Z"
-      },
-      {
-        "id": "world-82a8bbb5",
-        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-        "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-        "bullets": [
-          "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T21:14:56.000Z"
-      },
-      {
-        "id": "world-2e6fc1d0",
-        "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-        "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
-        "bullets": [
-          "Elaborate deception operations and decoys are often used to deceive potential threats to the US president."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T20:39:42.000Z"
-      },
-      {
-        "id": "world-7d796ef5",
-        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
-        "bullets": [
-          "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T16:19:44.000Z"
-      },
-      {
-        "id": "world-a20fc420",
-        "title": "Russia releases former US Marine reported in poor health",
-        "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
-        "bullets": [
-          "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-11T17:02:22.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-12",
     "generatedAt": "2026-08-12T22:04:46.088Z",
     "articles": [
@@ -8003,6 +7736,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-09T13:29:33.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "generatedAt": "2026-09-10T04:47:16.014Z",
+    "articles": [
+      {
+        "id": "top-8aee2249",
+        "title": "England's mayors to be given power to introduce tourist tax",
+        "summary": "The government is expected to outline how local leaders will be able to impose levies on overnight stays.",
+        "bullets": [
+          "The government is expected to outline how local leaders will be able to impose levies on overnight stays."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T02:48:38.000Z"
+      },
+      {
+        "id": "top-1153429f",
+        "title": "Iran war will not end until after November US elections, says Trump",
+        "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+        "bullets": [
+          "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T04:21:00.000Z"
+      },
+      {
+        "id": "top-0a75d6a5",
+        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+        "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "bullets": [
+          "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T22:17:22.000Z"
+      },
+      {
+        "id": "top-b1c35eab",
+        "title": "Four takeaways from Trump's speech at first Republican midterms convention",
+        "summary": "He covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
+        "bullets": [
+          "He covered many of the subjects he has returned to time and again - with a few surprises thrown in."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T04:07:44.000Z"
+      },
+      {
+        "id": "top-5bca9bcc",
+        "title": "AI is becoming harder to control – can humans stay in charge?",
+        "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "bullets": [
+          "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T23:17:33.000Z"
+      },
+      {
+        "id": "tech-5853031e",
+        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+        "bullets": [
+          "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T20:55:02.000Z"
+      },
+      {
+        "id": "tech-c4e27ba8",
+        "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+        "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+        "bullets": [
+          "\"We will not be relevant without a massive rocket at a massive cadence.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T20:27:40.000Z"
+      },
+      {
+        "id": "tech-54d89f47",
+        "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+        "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+        "bullets": [
+          "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T20:06:28.000Z"
+      },
+      {
+        "id": "tech-17f20853",
+        "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+        "summary": "Apple's first foldable can be yours next month.",
+        "bullets": [
+          "Apple's first foldable can be yours next month."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T19:42:00.000Z"
+      },
+      {
+        "id": "tech-69b52609",
+        "title": "When it comes to Beatles references, scientists can't let it be",
+        "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
+        "bullets": [
+          "New study detects 3,200 references to Beatles song titles and lyrics in academic papers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T19:31:55.000Z"
+      },
+      {
+        "id": "ai-8ea9acc0",
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+        "bullets": [
+          "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T00:00:37.000Z"
+      },
+      {
+        "id": "ai-0d97ce9a",
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "bullets": [
+          "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T22:25:22.000Z"
+      },
+      {
+        "id": "ai-ddac743d",
+        "title": "Massachusetts hits data centers with new clean power rules",
+        "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+        "bullets": [
+          "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T21:43:34.000Z"
+      },
+      {
+        "id": "ai-dbc1f6e6",
+        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+        "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+        "bullets": [
+          "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T20:24:48.000Z"
+      },
+      {
+        "id": "ai-23042010",
+        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+        "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "bullets": [
+          "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T20:03:43.000Z"
+      },
+      {
+        "id": "world-59de4214",
+        "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+        "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+        "bullets": [
+          "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T04:08:07.000Z"
+      },
+      {
+        "id": "world-cec74421",
+        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+        "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+        "bullets": [
+          "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T21:23:45.000Z"
+      },
+      {
+        "id": "world-b2a90fbd",
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+        "bullets": [
+          "The US tech giant says the €13bn data centre project will create tens of thousands of jobs."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T17:06:48.000Z"
+      },
+      {
+        "id": "world-ceb00bfd",
+        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+        "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+        "bullets": [
+          "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T16:46:53.000Z"
+      },
+      {
+        "id": "world-3538175f",
+        "title": "Iran referred to UN Security Council for nuclear non-compliance",
+        "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+        "bullets": [
+          "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-09T20:22:51.000Z"
       }
     ]
   }
