@@ -7742,7 +7742,7 @@
   },
   {
     "date": "2026-09-11",
-    "generatedAt": "2026-09-11T21:00:10.925Z",
+    "generatedAt": "2026-09-11T23:17:44.989Z",
     "articles": [
       {
         "id": "top-c0fed797",
@@ -7771,6 +7771,19 @@
         "publishedAt": "2026-09-11T16:49:47.000Z"
       },
       {
+        "id": "top-e16a4c35",
+        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+        "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
+        "bullets": [
+          "Patriot Platform wants to build a group of working-class voters to influence political parties on the right."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T23:06:39.000Z"
+      },
+      {
         "id": "top-73031529",
         "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
         "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
@@ -7794,20 +7807,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T20:11:47.000Z"
+        "publishedAt": "2026-09-11T22:17:45.000Z"
       },
       {
-        "id": "top-6737b556",
-        "title": "How global trade and oil prices could be hit by Houthi advance",
-        "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+        "id": "tech-99b7ae56",
+        "title": "Random rewards enrich classic game-theory contests",
+        "summary": "Simple games gain rich strategies in the face of noise.",
         "bullets": [
-          "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping."
+          "Simple games gain rich strategies in the face of noise."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T16:13:39.000Z"
+        "publishedAt": "2026-09-11T21:41:16.000Z"
+      },
+      {
+        "id": "tech-74a0254f",
+        "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+        "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+        "bullets": [
+          "The strain lurking in the inflatable structure was hypervirulent."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T21:14:26.000Z"
+      },
+      {
+        "id": "tech-5c88bad7",
+        "title": "Trump's forced coal plant extensions thrown out by judge",
+        "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+        "bullets": [
+          "The Department of Energy declared an \"emergency\" when none existed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:32:59.000Z"
+      },
+      {
+        "id": "tech-88ac0974",
+        "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+        "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+        "bullets": [
+          "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T19:34:09.000Z"
       },
       {
         "id": "tech-fd80f44c",
@@ -7823,63 +7875,25 @@
         "publishedAt": "2026-09-11T18:49:39.000Z"
       },
       {
-        "id": "tech-c0c2fa4f",
-        "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-        "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+        "id": "ai-f197c99e",
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
         "bullets": [
-          "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas."
+          "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T18:22:22.000Z"
+        "publishedAt": "2026-09-11T22:58:17.000Z"
       },
       {
-        "id": "tech-fe842df9",
-        "title": "NASA moving at warp speed to set up US Space Academy",
-        "summary": "NASA asks US states to show them the money.",
+        "id": "ai-26f50527",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
         "bullets": [
-          "NASA asks US states to show them the money."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T16:20:43.000Z"
-      },
-      {
-        "id": "tech-9f740847",
-        "title": "Claude users found ways around safeguards for bioweapons research",
-        "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-        "bullets": [
-          "Some dangerous biology looks much like legitimate research, complicating AI safeguards."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T13:02:35.000Z"
-      },
-      {
-        "id": "tech-09fc0a05",
-        "title": "ClickFix attacks infecting PCs and Macs are going viral",
-        "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-        "bullets": [
-          "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T11:30:58.000Z"
-      },
-      {
-        "id": "ai-bda8a6ca",
-        "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-        "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
-        "bullets": [
-          "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
+          "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
+          "a more robust set of open-weight options that aren’t Chinese."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
@@ -7928,19 +7942,6 @@
         "publishedAt": "2026-09-11T20:30:17.000Z"
       },
       {
-        "id": "ai-89505949",
-        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-        "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-        "bullets": [
-          "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T19:35:54.000Z"
-      },
-      {
         "id": "world-9469e09f",
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
         "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
@@ -7951,7 +7952,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T20:11:47.000Z"
+        "publishedAt": "2026-09-11T22:17:45.000Z"
       },
       {
         "id": "world-56061773",
