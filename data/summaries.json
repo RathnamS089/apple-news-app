@@ -7742,7 +7742,7 @@
   },
   {
     "date": "2026-09-11",
-    "generatedAt": "2026-09-11T16:31:15.124Z",
+    "generatedAt": "2026-09-11T21:00:10.925Z",
     "articles": [
       {
         "id": "top-c0fed797",
@@ -7755,59 +7755,98 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T15:54:46.000Z"
+        "publishedAt": "2026-09-11T17:22:39.000Z"
       },
       {
-        "id": "top-23c9efc0",
-        "title": "UK government rejects 'kill switch' idea for dangerous AI",
-        "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+        "id": "top-0dcd0f50",
+        "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+        "summary": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
         "bullets": [
-          "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\"."
+          "Although supporters say they will try again, for now the momentum has fallen away from a change in the law."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T15:07:07.000Z"
+        "publishedAt": "2026-09-11T16:49:47.000Z"
       },
       {
-        "id": "top-703773c0",
-        "title": "Kate visits cancer patients in hospital she helped fund with climb",
-        "summary": "The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer.",
+        "id": "top-73031529",
+        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+        "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
         "bullets": [
-          "The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer."
+          "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T14:19:21.000Z"
+        "publishedAt": "2026-09-11T20:12:01.000Z"
       },
       {
-        "id": "top-cc74f5e9",
-        "title": "Sacked Grand Theft Auto worker claims Rockstar staff placed on 'watch list'",
-        "summary": "The makers of Grand Theft Auto deny staff were sacked for union organising and were instead dismissed for sharing confidential information online.",
+        "id": "top-9469e09f",
+        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+        "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
         "bullets": [
-          "The makers of Grand Theft Auto deny staff were sacked for union organising and were instead dismissed for sharing confidential information online."
+          "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrx5xlz83jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T15:52:19.000Z"
+        "publishedAt": "2026-09-11T20:11:47.000Z"
       },
       {
-        "id": "top-56061773",
-        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-        "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in tribute to his aunt.",
+        "id": "top-6737b556",
+        "title": "How global trade and oil prices could be hit by Houthi advance",
+        "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
         "bullets": [
-          "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in tribute to his aunt."
+          "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T16:00:59.000Z"
+        "publishedAt": "2026-09-11T16:13:39.000Z"
+      },
+      {
+        "id": "tech-fd80f44c",
+        "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+        "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
+        "bullets": [
+          "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T18:49:39.000Z"
+      },
+      {
+        "id": "tech-c0c2fa4f",
+        "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+        "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+        "bullets": [
+          "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T18:22:22.000Z"
+      },
+      {
+        "id": "tech-fe842df9",
+        "title": "NASA moving at warp speed to set up US Space Academy",
+        "summary": "NASA asks US states to show them the money.",
+        "bullets": [
+          "NASA asks US states to show them the money."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T16:20:43.000Z"
       },
       {
         "id": "tech-9f740847",
@@ -7836,123 +7875,96 @@
         "publishedAt": "2026-09-11T11:30:58.000Z"
       },
       {
-        "id": "tech-b0de345b",
-        "title": "What happens when quantum mechanics and relativity meet?",
-        "summary": "Experiment put atoms in a superposition of trajectories to find out.",
+        "id": "ai-bda8a6ca",
+        "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+        "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
         "bullets": [
-          "Experiment put atoms in a superposition of trajectories to find out."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T11:20:02.000Z"
-      },
-      {
-        "id": "tech-c94878af",
-        "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
-        "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
-        "bullets": [
-          "ULA is preparing to resume launching the Vulcan rocket in the coming weeks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T11:00:44.000Z"
-      },
-      {
-        "id": "tech-b36d0935",
-        "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
-        "summary": "\"We felt like now is the time to pour gas on that fire.\"",
-        "bullets": [
-          "\"We felt like now is the time to pour gas on that fire.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T11:00:30.000Z"
-      },
-      {
-        "id": "ai-a410fd8c",
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-        "bullets": [
-          "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says.",
-          "But, he insists, its deals are not circular."
+          "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T21:51:59.000Z"
+        "publishedAt": "2026-09-11T20:59:47.000Z"
       },
       {
-        "id": "ai-63ff3c01",
-        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+        "id": "ai-8116463f",
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
         "bullets": [
-          "Mark Wahlberg joins Bruce K.",
-          "Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
+          "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T21:35:00.000Z"
+        "publishedAt": "2026-09-11T20:57:36.000Z"
       },
       {
-        "id": "ai-ca0e2903",
-        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-        "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+        "id": "ai-21ef89ed",
+        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+        "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
         "bullets": [
-          "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
+          "Only one week left to secure your exhibit table.",
+          "Tables are limited and can sell out before the September 18 deadline."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T20:59:51.000Z"
+        "publishedAt": "2026-09-11T20:33:18.000Z"
       },
       {
-        "id": "ai-abd8a7e3",
-        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-        "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+        "id": "ai-6b8d5414",
+        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+        "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
         "bullets": [
-          "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent..."
+          "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T20:57:30.000Z"
+        "publishedAt": "2026-09-11T20:30:17.000Z"
       },
       {
-        "id": "ai-5082d9f1",
-        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-        "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+        "id": "ai-89505949",
+        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+        "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
         "bullets": [
-          "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+          "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T19:50:04.000Z"
+        "publishedAt": "2026-09-11T19:35:54.000Z"
       },
       {
-        "id": "world-24fb3e88",
-        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-        "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "id": "world-9469e09f",
+        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+        "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
         "bullets": [
-          "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
+          "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T08:15:25.000Z"
+        "publishedAt": "2026-09-11T20:11:47.000Z"
+      },
+      {
+        "id": "world-56061773",
+        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+        "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+        "bullets": [
+          "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T16:00:59.000Z"
       },
       {
         "id": "world-895bc40c",
@@ -7968,19 +7980,6 @@
         "publishedAt": "2026-09-11T15:50:23.000Z"
       },
       {
-        "id": "world-7bcdf66a",
-        "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-        "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-        "bullets": [
-          "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T10:50:04.000Z"
-      },
-      {
         "id": "world-b5028974",
         "title": "Princess Diana's 'revenge dress' goes up for auction",
         "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
@@ -7994,17 +7993,17 @@
         "publishedAt": "2026-09-11T12:04:46.000Z"
       },
       {
-        "id": "world-6737b556",
-        "title": "How global trade and oil prices could be hit by Houthi advance",
-        "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+        "id": "world-7bcdf66a",
+        "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+        "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
         "bullets": [
-          "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping."
+          "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T16:13:39.000Z"
+        "publishedAt": "2026-09-11T10:50:04.000Z"
       }
     ]
   }
