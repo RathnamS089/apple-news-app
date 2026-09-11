@@ -7742,21 +7742,8 @@
   },
   {
     "date": "2026-09-11",
-    "generatedAt": "2026-09-11T04:45:15.703Z",
+    "generatedAt": "2026-09-11T11:26:16.171Z",
     "articles": [
-      {
-        "id": "top-bfdbd664",
-        "title": "MPs to vote on legalising assisted dying in England and Wales",
-        "summary": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
-        "bullets": [
-          "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T02:05:23.000Z"
-      },
       {
         "id": "top-773ea099",
         "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
@@ -7768,24 +7755,24 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T23:21:00.000Z"
+        "publishedAt": "2026-09-11T05:53:06.000Z"
       },
       {
-        "id": "top-5b4e1195",
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "id": "top-6b797685",
+        "title": "AI boom helps drive surprise UK growth in July",
+        "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
         "bullets": [
-          "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly."
+          "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T17:38:31.000Z"
+        "publishedAt": "2026-09-11T10:17:28.000Z"
       },
       {
-        "id": "top-35c17f59",
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "id": "top-24fb3e88",
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
         "bullets": [
           "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
@@ -7794,20 +7781,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T02:46:30.000Z"
+        "publishedAt": "2026-09-11T08:15:25.000Z"
       },
       {
-        "id": "top-37f19b2a",
-        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
-        "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "id": "top-b5028974",
+        "title": "Princess Diana's 'revenge dress' goes up for auction",
+        "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
         "bullets": [
-          "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave."
+          "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T23:22:11.000Z"
+        "publishedAt": "2026-09-11T06:54:46.000Z"
+      },
+      {
+        "id": "top-7bd794fd",
+        "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "summary": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+        "bullets": [
+          "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T23:22:33.000Z"
       },
       {
         "id": "tech-d9543471",
@@ -7891,10 +7891,10 @@
       {
         "id": "ai-63ff3c01",
         "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
         "bullets": [
           "Mark Wahlberg joins Bruce K.",
-          "Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses."
+          "Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
@@ -7942,69 +7942,69 @@
         "publishedAt": "2026-09-10T19:50:04.000Z"
       },
       {
-        "id": "world-8fbbc8e6",
-        "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-        "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+        "id": "world-24fb3e88",
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
         "bullets": [
-          "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route."
+          "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T18:15:47.000Z"
+        "publishedAt": "2026-09-11T08:15:25.000Z"
       },
       {
-        "id": "world-140fc83d",
-        "title": "Can Trump really pay $5,000 to every American adult?",
-        "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "id": "world-3c5ff20c",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
         "bullets": [
-          "Analysts question if the US president's election year offer is workable, legal or affordable."
+          "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T16:48:37.000Z"
+        "publishedAt": "2026-09-11T05:41:54.000Z"
       },
       {
-        "id": "world-49512625",
-        "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-        "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+        "id": "world-b4cca3b0",
+        "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+        "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
         "bullets": [
-          "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded."
+          "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T16:31:30.000Z"
+        "publishedAt": "2026-09-11T08:54:20.000Z"
       },
       {
-        "id": "world-a37f23b8",
-        "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-        "summary": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+        "id": "world-7bcdf66a",
+        "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+        "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
         "bullets": [
-          "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears."
+          "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T15:54:17.000Z"
+        "publishedAt": "2026-09-11T10:50:04.000Z"
       },
       {
-        "id": "world-cc202217",
-        "title": "More than 20 children killed in DR Congo school fire",
-        "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+        "id": "world-b5028974",
+        "title": "Princess Diana's 'revenge dress' goes up for auction",
+        "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
         "bullets": [
-          "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
+          "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-10T19:16:24.000Z"
+        "publishedAt": "2026-09-11T06:54:46.000Z"
       }
     ]
   }
