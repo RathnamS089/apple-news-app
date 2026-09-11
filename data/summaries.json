@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "generatedAt": "2026-08-12T22:04:46.088Z",
-    "articles": [
-      {
-        "id": "top-eafdedfd",
-        "title": "Watch: Solar eclipse seen over UK skies",
-        "summary": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse.",
-        "bullets": [
-          "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T21:46:21.000Z"
-      },
-      {
-        "id": "top-a92335ff",
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-        "bullets": [
-          "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T17:47:01.000Z"
-      },
-      {
-        "id": "top-ac15f695",
-        "title": "Students wait for A-level, T-level and BTec results",
-        "summary": "Another record number of students are expected to secure a place at their first choice of university.",
-        "bullets": [
-          "Another record number of students are expected to secure a place at their first choice of university."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T19:26:55.000Z"
-      },
-      {
-        "id": "top-8e72eca7",
-        "title": "Double killer and rapist given whole life sentence",
-        "summary": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
-        "bullets": [
-          "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T14:25:00.000Z"
-      },
-      {
-        "id": "top-0ff70c17",
-        "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
-        "summary": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
-        "bullets": [
-          "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T19:05:38.000Z"
-      },
-      {
-        "id": "tech-7af49c97",
-        "title": "Terabytes of credentials leaked in massive supply-chain attack",
-        "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-        "bullets": [
-          "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T21:43:21.000Z"
-      },
-      {
-        "id": "tech-60af482d",
-        "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-        "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
-        "bullets": [
-          "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T21:13:39.000Z"
-      },
-      {
-        "id": "tech-3626fd41",
-        "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-        "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-        "bullets": [
-          "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T21:00:30.000Z"
-      },
-      {
-        "id": "tech-29e640b1",
-        "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-        "summary": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
-        "bullets": [
-          "With Truth API, Trump is \"selling priority access to news he himself generates.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T20:20:52.000Z"
-      },
-      {
-        "id": "tech-1d49f284",
-        "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-        "summary": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
-        "bullets": [
-          "Hundreds of Homeland Security drones retasked to survey wildlife and livestock."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T19:40:46.000Z"
-      },
-      {
-        "id": "ai-5cc38968",
-        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-        "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-        "bullets": [
-          "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback.",
-          "\"That's honestly the answer.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T20:10:40.000Z"
-      },
-      {
-        "id": "ai-b9497817",
-        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-        "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-        "bullets": [
-          "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T18:19:12.000Z"
-      },
-      {
-        "id": "ai-7b56ba3d",
-        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-        "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-        "bullets": [
-          "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T17:51:00.000Z"
-      },
-      {
-        "id": "ai-22f780bf",
-        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-        "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-        "bullets": [
-          "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T17:41:29.000Z"
-      },
-      {
-        "id": "ai-dbb82824",
-        "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-        "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-        "bullets": [
-          "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T16:57:58.000Z"
-      },
-      {
-        "id": "world-a92335ff",
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-        "bullets": [
-          "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T17:47:01.000Z"
-      },
-      {
-        "id": "world-300a8f31",
-        "title": "Israeli settlers besieging Palestinian families in West Bank village",
-        "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-        "bullets": [
-          "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T16:14:08.000Z"
-      },
-      {
-        "id": "world-f50c5937",
-        "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
-        "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
-        "bullets": [
-          "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T21:53:26.000Z"
-      },
-      {
-        "id": "world-0e574ad0",
-        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-        "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-        "bullets": [
-          "Leavitt will depart from her role to spend time with her young children and family, the president says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T20:57:47.000Z"
-      },
-      {
-        "id": "world-4771ebe6",
-        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-        "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-        "bullets": [
-          "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-12T20:56:11.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-13",
     "generatedAt": "2026-08-13T22:04:55.886Z",
     "articles": [
@@ -7807,6 +7540,274 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-10T18:27:22.000Z"
+      },
+      {
+        "id": "tech-d9543471",
+        "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+        "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+        "bullets": [
+          "Laptops don't usually get hot enough to burn—but they can still be harmful."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T22:16:05.000Z"
+      },
+      {
+        "id": "tech-26ff6bd8",
+        "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+        "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+        "bullets": [
+          "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T20:55:29.000Z"
+      },
+      {
+        "id": "tech-26d929ce",
+        "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+        "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
+        "bullets": [
+          "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T19:09:29.000Z"
+      },
+      {
+        "id": "tech-0d7876d4",
+        "title": "Android can now securely migrate your logins between password managers",
+        "summary": "App support is slim right now, but Google says more are coming.",
+        "bullets": [
+          "App support is slim right now, but Google says more are coming."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T18:41:09.000Z"
+      },
+      {
+        "id": "tech-0ba96e3a",
+        "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+        "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
+        "bullets": [
+          "\"Bankruptcy cannot become the new land grab for AI.”"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T18:14:14.000Z"
+      },
+      {
+        "id": "ai-a410fd8c",
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+        "bullets": [
+          "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says.",
+          "But, he insists, its deals are not circular."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T21:51:59.000Z"
+      },
+      {
+        "id": "ai-63ff3c01",
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+        "bullets": [
+          "Mark Wahlberg joins Bruce K.",
+          "Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T21:35:00.000Z"
+      },
+      {
+        "id": "ai-ca0e2903",
+        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+        "bullets": [
+          "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T20:59:51.000Z"
+      },
+      {
+        "id": "ai-abd8a7e3",
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+        "bullets": [
+          "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T20:57:30.000Z"
+      },
+      {
+        "id": "ai-5082d9f1",
+        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+        "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+        "bullets": [
+          "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T19:50:04.000Z"
+      },
+      {
+        "id": "world-8fbbc8e6",
+        "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+        "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+        "bullets": [
+          "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T18:15:47.000Z"
+      },
+      {
+        "id": "world-140fc83d",
+        "title": "Can Trump really pay $5,000 to every American adult?",
+        "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "bullets": [
+          "Analysts question if the US president's election year offer is workable, legal or affordable."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T16:48:37.000Z"
+      },
+      {
+        "id": "world-49512625",
+        "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+        "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+        "bullets": [
+          "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T16:31:30.000Z"
+      },
+      {
+        "id": "world-a37f23b8",
+        "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+        "summary": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+        "bullets": [
+          "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T15:54:17.000Z"
+      },
+      {
+        "id": "world-cc202217",
+        "title": "More than 20 children killed in DR Congo school fire",
+        "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+        "bullets": [
+          "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T19:16:24.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "generatedAt": "2026-09-11T04:45:15.703Z",
+    "articles": [
+      {
+        "id": "top-bfdbd664",
+        "title": "MPs to vote on legalising assisted dying in England and Wales",
+        "summary": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
+        "bullets": [
+          "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T02:05:23.000Z"
+      },
+      {
+        "id": "top-773ea099",
+        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+        "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+        "bullets": [
+          "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T23:21:00.000Z"
+      },
+      {
+        "id": "top-5b4e1195",
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "bullets": [
+          "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T17:38:31.000Z"
+      },
+      {
+        "id": "top-35c17f59",
+        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "bullets": [
+          "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T02:46:30.000Z"
+      },
+      {
+        "id": "top-37f19b2a",
+        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+        "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+        "bullets": [
+          "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-10T23:22:11.000Z"
       },
       {
         "id": "tech-d9543471",
