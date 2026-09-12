@@ -7741,24 +7741,24 @@
   },
   {
     "date": "2026-09-12",
-    "generatedAt": "2026-09-12T10:51:28.479Z",
+    "generatedAt": "2026-09-12T15:34:30.816Z",
     "articles": [
       {
-        "id": "top-cfb3b4d6",
-        "title": "Reform receives record £36m donation from crypto billionaire",
-        "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+        "id": "top-8b5ebdc3",
+        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+        "summary": "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.",
         "bullets": [
-          "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances."
+          "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T06:19:50.000Z"
+        "publishedAt": "2026-09-12T15:13:40.000Z"
       },
       {
-        "id": "top-eaff1b43",
-        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+        "id": "top-330ed368",
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
         "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
         "bullets": [
           "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg"
@@ -7767,7 +7767,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T10:07:00.000Z"
+        "publishedAt": "2026-09-12T12:51:24.000Z"
+      },
+      {
+        "id": "top-0ac8cdf3",
+        "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
+        "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+        "bullets": [
+          "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T13:56:20.000Z"
       },
       {
         "id": "top-da6245c5",
@@ -7780,33 +7793,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T04:43:10.000Z"
+        "publishedAt": "2026-09-12T12:15:50.000Z"
       },
       {
-        "id": "top-fed0ff47",
-        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-        "summary": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
+        "id": "top-ec8fb7db",
+        "title": "French officials investigate if malicious act caused train derailment",
+        "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
         "bullets": [
-          "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years."
+          "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T19:44:58.000Z"
+        "publishedAt": "2026-09-12T15:05:53.000Z"
       },
       {
-        "id": "top-e16a4c35",
-        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
-        "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
+        "id": "tech-72556e43",
+        "title": "I spent $4,000 on a robot dog from China",
+        "summary": "Unitree might be the world’s most important robotics company.",
         "bullets": [
-          "Patriot Platform wants to build a group of working-class voters to influence political parties on the right."
+          "Unitree might be the world’s most important robotics company."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T23:06:39.000Z"
+        "publishedAt": "2026-09-12T11:00:53.000Z"
       },
       {
         "id": "tech-fe106729",
@@ -7859,19 +7872,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-09-11T20:32:59.000Z"
-      },
-      {
-        "id": "tech-88ac0974",
-        "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-        "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-        "bullets": [
-          "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T19:34:09.000Z"
       },
       {
         "id": "ai-f197c99e",
@@ -7951,59 +7951,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T04:43:10.000Z"
+        "publishedAt": "2026-09-12T12:15:50.000Z"
       },
       {
         "id": "world-605e2e5f",
         "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-        "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+        "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
         "bullets": [
-          "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare."
+          "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T10:41:53.000Z"
+        "publishedAt": "2026-09-12T13:56:20.000Z"
       },
       {
-        "id": "world-e9084c8c",
-        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-        "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+        "id": "world-ec8fb7db",
+        "title": "French officials investigate if malicious act caused train derailment",
+        "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
         "bullets": [
-          "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy."
+          "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T20:34:29.000Z"
+        "publishedAt": "2026-09-12T15:05:53.000Z"
       },
       {
-        "id": "world-73031529",
-        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-        "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+        "id": "world-4be63e01",
+        "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+        "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
         "bullets": [
-          "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
+          "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T00:43:00.000Z"
+        "publishedAt": "2026-09-12T05:55:15.000Z"
       },
       {
-        "id": "world-c587c513",
-        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-        "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+        "id": "world-98ff4483",
+        "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+        "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
         "bullets": [
-          "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
+          "The authorities have struggled to contain the fallout, as frightened migrants flee the country."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T03:02:28.000Z"
+        "publishedAt": "2026-09-12T10:00:05.000Z"
       }
     ]
   }
