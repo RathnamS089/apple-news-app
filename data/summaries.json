@@ -7741,7 +7741,7 @@
   },
   {
     "date": "2026-09-12",
-    "generatedAt": "2026-09-12T04:39:22.564Z",
+    "generatedAt": "2026-09-12T10:51:28.479Z",
     "articles": [
       {
         "id": "top-cfb3b4d6",
@@ -7754,14 +7754,40 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T23:27:18.000Z"
+        "publishedAt": "2026-09-12T06:19:50.000Z"
+      },
+      {
+        "id": "top-eaff1b43",
+        "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+        "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+        "bullets": [
+          "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T10:07:00.000Z"
+      },
+      {
+        "id": "top-da6245c5",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "bullets": [
+          "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T04:43:10.000Z"
       },
       {
         "id": "top-fed0ff47",
         "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-        "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+        "summary": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
         "bullets": [
-          "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years."
+          "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
@@ -7781,32 +7807,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-11T23:06:39.000Z"
-      },
-      {
-        "id": "top-0222287b",
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-        "bullets": [
-          "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T02:29:49.000Z"
-      },
-      {
-        "id": "top-c0fed797",
-        "title": "MPs vote against fresh attempt to legalise assisted dying",
-        "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
-        "bullets": [
-          "The proposed law sought to introduce one of the biggest societal changes in recent years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T01:12:31.000Z"
       },
       {
         "id": "tech-fe106729",
@@ -7941,17 +7941,30 @@
         "publishedAt": "2026-09-11T20:30:17.000Z"
       },
       {
-        "id": "world-9469e09f",
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+        "id": "world-da6245c5",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
         "bullets": [
-          "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
+          "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T22:17:45.000Z"
+        "publishedAt": "2026-09-12T04:43:10.000Z"
+      },
+      {
+        "id": "world-605e2e5f",
+        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+        "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+        "bullets": [
+          "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T10:41:53.000Z"
       },
       {
         "id": "world-e9084c8c",
@@ -7967,6 +7980,19 @@
         "publishedAt": "2026-09-11T20:34:29.000Z"
       },
       {
+        "id": "world-73031529",
+        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+        "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+        "bullets": [
+          "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T00:43:00.000Z"
+      },
+      {
         "id": "world-c587c513",
         "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
         "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
@@ -7978,32 +8004,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-12T03:02:28.000Z"
-      },
-      {
-        "id": "world-ef366453",
-        "title": "Passenger train derails in France leaving at least 44 injured",
-        "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-        "bullets": [
-          "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T21:25:32.000Z"
-      },
-      {
-        "id": "world-0222287b",
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-        "bullets": [
-          "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T02:29:49.000Z"
       }
     ]
   }
