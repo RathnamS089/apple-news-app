@@ -7741,20 +7741,20 @@
   },
   {
     "date": "2026-09-12",
-    "generatedAt": "2026-09-12T15:34:30.816Z",
+    "generatedAt": "2026-09-12T20:35:46.204Z",
     "articles": [
       {
         "id": "top-8b5ebdc3",
         "title": "Reform receives second £36m donation in two days as crypto investor matches record",
-        "summary": "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.",
+        "summary": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
         "bullets": [
-          "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party."
+          "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T15:13:40.000Z"
+        "publishedAt": "2026-09-12T17:36:45.000Z"
       },
       {
         "id": "top-330ed368",
@@ -7783,30 +7783,31 @@
         "publishedAt": "2026-09-12T13:56:20.000Z"
       },
       {
-        "id": "top-da6245c5",
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "id": "top-ae3279bb",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
         "bullets": [
-          "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
+          "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T12:15:50.000Z"
+        "publishedAt": "2026-09-12T17:42:38.000Z"
       },
       {
-        "id": "top-ec8fb7db",
-        "title": "French officials investigate if malicious act caused train derailment",
-        "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+        "id": "top-876d51f1",
+        "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+        "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
         "bullets": [
-          "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
+          "Consumer group Which?",
+          "has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T15:05:53.000Z"
+        "publishedAt": "2026-09-12T18:31:23.000Z"
       },
       {
         "id": "tech-72556e43",
@@ -7874,6 +7875,32 @@
         "publishedAt": "2026-09-11T20:32:59.000Z"
       },
       {
+        "id": "ai-40b8fea9",
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "bullets": [
+          "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T20:19:16.000Z"
+      },
+      {
+        "id": "ai-8bde5f69",
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "bullets": [
+          "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T19:34:44.000Z"
+      },
+      {
         "id": "ai-f197c99e",
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
         "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -7914,31 +7941,17 @@
         "publishedAt": "2026-09-11T20:57:36.000Z"
       },
       {
-        "id": "ai-21ef89ed",
-        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-        "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+        "id": "world-ae3279bb",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
         "bullets": [
-          "Only one week left to secure your exhibit table.",
-          "Tables are limited and can sell out before the September 18 deadline."
+          "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-11T20:33:18.000Z"
-      },
-      {
-        "id": "ai-6b8d5414",
-        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-        "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-        "bullets": [
-          "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:30:17.000Z"
+        "publishedAt": "2026-09-12T17:42:38.000Z"
       },
       {
         "id": "world-da6245c5",
@@ -7967,6 +7980,19 @@
         "publishedAt": "2026-09-12T13:56:20.000Z"
       },
       {
+        "id": "world-0c910155",
+        "title": "Fire at nursing home in Chile kills 16 residents",
+        "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+        "bullets": [
+          "Ten people were evacuated from the home in Araucanía region in central Chile."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T19:36:50.000Z"
+      },
+      {
         "id": "world-ec8fb7db",
         "title": "French officials investigate if malicious act caused train derailment",
         "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
@@ -7978,32 +8004,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-12T15:05:53.000Z"
-      },
-      {
-        "id": "world-4be63e01",
-        "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-        "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
-        "bullets": [
-          "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T05:55:15.000Z"
-      },
-      {
-        "id": "world-98ff4483",
-        "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-        "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-        "bullets": [
-          "The authorities have struggled to contain the fallout, as frightened migrants flee the country."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T10:00:05.000Z"
       }
     ]
   }
