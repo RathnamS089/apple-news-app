@@ -1,274 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "generatedAt": "2026-08-13T22:04:55.886Z",
-    "articles": [
-      {
-        "id": "top-de936763",
-        "title": "Two seriously hurt as passenger train derails in East Sussex",
-        "summary": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
-        "bullets": [
-          "\"It was pandemonium...",
-          "I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T21:36:39.000Z"
-      },
-      {
-        "id": "top-62f7e82b",
-        "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
-        "summary": "Multiple fires burned across the West Midlands and destroyed homes.",
-        "bullets": [
-          "Multiple fires burned across the West Midlands and destroyed homes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T20:26:25.000Z"
-      },
-      {
-        "id": "top-185fc068",
-        "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
-        "summary": "An amber extreme heat warning is in place for parts of England until midnight.",
-        "bullets": [
-          "An amber extreme heat warning is in place for parts of England until midnight."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T18:54:25.000Z"
-      },
-      {
-        "id": "top-9a0e96da",
-        "title": "Five key takeaways from results day 2026",
-        "summary": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
-        "bullets": [
-          "Top grades and students going to university are on the up, but technical subjects are also becoming more popular."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T16:49:28.000Z"
-      },
-      {
-        "id": "top-7034bee7",
-        "title": "Son of 102-year-old says father died after being 'pushed off stage'",
-        "summary": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
-        "bullets": [
-          "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T18:28:17.000Z"
-      },
-      {
-        "id": "tech-046bc746",
-        "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-        "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-        "bullets": [
-          "Trump memo is first time gov't has authorized private sector to perform cyberattacks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T19:38:58.000Z"
-      },
-      {
-        "id": "tech-57d1406f",
-        "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-        "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
-        "bullets": [
-          "Will it be the VSS...",
-          "Horizon, Explorer, Ascend or Apeiron?"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T19:12:15.000Z"
-      },
-      {
-        "id": "tech-58496e81",
-        "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-        "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
-        "bullets": [
-          "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T18:31:56.000Z"
-      },
-      {
-        "id": "tech-749f7b85",
-        "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-        "summary": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
-        "bullets": [
-          "Flock to lock out cops who stalk exes, but agencies can still hide abuse."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T18:10:14.000Z"
-      },
-      {
-        "id": "tech-75e3e3e4",
-        "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
-        "summary": "\"I've lost trust ...\"",
-        "bullets": [
-          "\"I've lost trust ...\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T17:53:53.000Z"
-      },
-      {
-        "id": "ai-fbab2822",
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-        "bullets": [
-          "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T21:13:24.000Z"
-      },
-      {
-        "id": "ai-12e3a72e",
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-        "bullets": [
-          "AI is expensive, Ali Ghodsi tells TechCrunch.",
-          "With so many investors wanting into his latest round, he said yes to more than planned."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T20:14:39.000Z"
-      },
-      {
-        "id": "ai-26bbccd2",
-        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-        "bullets": [
-          "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T19:22:40.000Z"
-      },
-      {
-        "id": "ai-fcd2396f",
-        "title": "IBM partners with OpenAI to bolster enterprise AI push",
-        "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-        "bullets": [
-          "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T19:19:49.000Z"
-      },
-      {
-        "id": "ai-8091bdcb",
-        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-        "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-        "bullets": [
-          "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T18:28:14.000Z"
-      },
-      {
-        "id": "world-74719a88",
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-        "bullets": [
-          "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T20:12:17.000Z"
-      },
-      {
-        "id": "world-b6a6668b",
-        "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-        "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-        "bullets": [
-          "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T19:46:27.000Z"
-      },
-      {
-        "id": "world-e516d2a2",
-        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-        "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-        "bullets": [
-          "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T04:55:58.000Z"
-      },
-      {
-        "id": "world-c44b4434",
-        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-        "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-        "bullets": [
-          "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T21:43:47.000Z"
-      },
-      {
-        "id": "world-d6fe75f2",
-        "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-        "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-        "bullets": [
-          "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-13T22:02:54.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-14",
     "generatedAt": "2026-08-14T21:42:42.833Z",
     "articles": [
@@ -8005,6 +7736,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-11T10:50:04.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "generatedAt": "2026-09-12T04:39:22.564Z",
+    "articles": [
+      {
+        "id": "top-cfb3b4d6",
+        "title": "Reform receives record £36m donation from crypto billionaire",
+        "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+        "bullets": [
+          "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T23:27:18.000Z"
+      },
+      {
+        "id": "top-fed0ff47",
+        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+        "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+        "bullets": [
+          "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T19:44:58.000Z"
+      },
+      {
+        "id": "top-e16a4c35",
+        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+        "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
+        "bullets": [
+          "Patriot Platform wants to build a group of working-class voters to influence political parties on the right."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T23:06:39.000Z"
+      },
+      {
+        "id": "top-0222287b",
+        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+        "bullets": [
+          "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T02:29:49.000Z"
+      },
+      {
+        "id": "top-c0fed797",
+        "title": "MPs vote against fresh attempt to legalise assisted dying",
+        "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+        "bullets": [
+          "The proposed law sought to introduce one of the biggest societal changes in recent years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T01:12:31.000Z"
+      },
+      {
+        "id": "tech-fe106729",
+        "title": "Some satellite companies still have an appetite for boutique launch services",
+        "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+        "bullets": [
+          "\"Dedicated launch is pretty essential for us for most of our missions.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T23:34:45.000Z"
+      },
+      {
+        "id": "tech-44884ff4",
+        "title": "Random rewards enrich classic game-theory insights",
+        "summary": "Simple games gain rich strategies in the face of noise.",
+        "bullets": [
+          "Simple games gain rich strategies in the face of noise."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T21:41:16.000Z"
+      },
+      {
+        "id": "tech-74a0254f",
+        "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+        "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+        "bullets": [
+          "The strain lurking in the inflatable structure was hypervirulent."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T21:14:26.000Z"
+      },
+      {
+        "id": "tech-5c88bad7",
+        "title": "Trump's forced coal plant extensions thrown out by judge",
+        "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+        "bullets": [
+          "The Department of Energy declared an \"emergency\" when none existed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:32:59.000Z"
+      },
+      {
+        "id": "tech-88ac0974",
+        "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+        "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+        "bullets": [
+          "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T19:34:09.000Z"
+      },
+      {
+        "id": "ai-f197c99e",
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "bullets": [
+          "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T22:58:17.000Z"
+      },
+      {
+        "id": "ai-26f50527",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+        "bullets": [
+          "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
+          "a more robust set of open-weight options that aren’t Chinese."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:59:47.000Z"
+      },
+      {
+        "id": "ai-8116463f",
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+        "bullets": [
+          "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:57:36.000Z"
+      },
+      {
+        "id": "ai-21ef89ed",
+        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+        "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+        "bullets": [
+          "Only one week left to secure your exhibit table.",
+          "Tables are limited and can sell out before the September 18 deadline."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:33:18.000Z"
+      },
+      {
+        "id": "ai-6b8d5414",
+        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+        "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+        "bullets": [
+          "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:30:17.000Z"
+      },
+      {
+        "id": "world-9469e09f",
+        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+        "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+        "bullets": [
+          "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T22:17:45.000Z"
+      },
+      {
+        "id": "world-e9084c8c",
+        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+        "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+        "bullets": [
+          "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:34:29.000Z"
+      },
+      {
+        "id": "world-c587c513",
+        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+        "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+        "bullets": [
+          "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T03:02:28.000Z"
+      },
+      {
+        "id": "world-ef366453",
+        "title": "Passenger train derails in France leaving at least 44 injured",
+        "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+        "bullets": [
+          "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T21:25:32.000Z"
+      },
+      {
+        "id": "world-0222287b",
+        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+        "bullets": [
+          "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T02:29:49.000Z"
       }
     ]
   }
