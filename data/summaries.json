@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "generatedAt": "2026-08-14T21:42:42.833Z",
-    "articles": [
-      {
-        "id": "top-06f708a7",
-        "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-        "summary": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
-        "bullets": [
-          "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T21:41:04.000Z"
-      },
-      {
-        "id": "top-98e3e5f4",
-        "title": "Fires prompt national alert as 19 homes destroyed",
-        "summary": "The prime minister said 37 fires were currently burning across England and Wales",
-        "bullets": [
-          "The prime minister said 37 fires were currently burning across England and Wales"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T20:56:53.000Z"
-      },
-      {
-        "id": "top-d6f00323",
-        "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-        "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-        "bullets": [
-          "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T19:17:16.000Z"
-      },
-      {
-        "id": "top-7bd81bb7",
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-        "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-        "bullets": [
-          "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T19:20:43.000Z"
-      },
-      {
-        "id": "top-3b44cb92",
-        "title": "Derailed Essex to London train leads to travel chaos",
-        "summary": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene.",
-        "bullets": [
-          "More than 60 patients were checked over by ambulance crews but all were discharged at the scene."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T19:57:50.000Z"
-      },
-      {
-        "id": "tech-e26b816c",
-        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
-        "bullets": [
-          "Screen-sharing bug lets remote hackers log in without a password."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T18:32:14.000Z"
-      },
-      {
-        "id": "tech-54104f2e",
-        "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-        "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
-        "bullets": [
-          "Airline-backed venture aims to develop a hybrid-electric commercial aircraft."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T18:00:23.000Z"
-      },
-      {
-        "id": "tech-fee4f410",
-        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-        "bullets": [
-          "Judge warns pro se litigants are using chatbots wrong and getting desperate."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T17:26:53.000Z"
-      },
-      {
-        "id": "tech-45d6b5b2",
-        "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-        "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
-        "bullets": [
-          "Kalshi ordered to stop offering bets in Washington, must implement geofencing."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T17:13:14.000Z"
-      },
-      {
-        "id": "tech-c1156ced",
-        "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-        "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-        "bullets": [
-          "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T17:03:54.000Z"
-      },
-      {
-        "id": "ai-e575016e",
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-        "bullets": [
-          "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T16:13:40.000Z"
-      },
-      {
-        "id": "ai-ce261956",
-        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter...",
-        "bullets": [
-          "The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T15:43:28.000Z"
-      },
-      {
-        "id": "ai-56a2276c",
-        "title": "Kog is going deeper to squeeze more inference out of GPUs",
-        "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-        "bullets": [
-          "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T14:50:11.000Z"
-      },
-      {
-        "id": "ai-19a0bafc",
-        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-        "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-        "bullets": [
-          "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T14:05:00.000Z"
-      },
-      {
-        "id": "ai-8f7c58e6",
-        "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter...",
-        "bullets": [
-          "The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T14:00:00.000Z"
-      },
-      {
-        "id": "world-915c3a64",
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-        "bullets": [
-          "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T18:25:38.000Z"
-      },
-      {
-        "id": "world-d95cdf3b",
-        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-        "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-        "bullets": [
-          "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T12:19:21.000Z"
-      },
-      {
-        "id": "world-6a54964d",
-        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-        "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-        "bullets": [
-          "Two families have been trapped in their homes in the occupied West Bank for several days."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T17:03:17.000Z"
-      },
-      {
-        "id": "world-201b833d",
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-        "bullets": [
-          "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T10:36:14.000Z"
-      },
-      {
-        "id": "world-e17a51a6",
-        "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-        "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
-        "bullets": [
-          "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-14T13:18:08.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-15",
     "generatedAt": "2026-08-15T21:37:01.117Z",
     "articles": [
@@ -8003,6 +7737,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-12T15:05:53.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "generatedAt": "2026-09-13T04:52:47.832Z",
+    "articles": [
+      {
+        "id": "top-7f03a7e6",
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+        "bullets": [
+          "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T04:30:44.000Z"
+      },
+      {
+        "id": "top-0ddd511f",
+        "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+        "summary": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+        "bullets": [
+          "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T23:15:54.000Z"
+      },
+      {
+        "id": "top-d4720e92",
+        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+        "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+        "bullets": [
+          "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T21:25:28.000Z"
+      },
+      {
+        "id": "top-6dcd1382",
+        "title": "Student loan terms to be made clearer in England",
+        "summary": "Changes will spell out that governments can change rules and that career choices affect repayments.",
+        "bullets": [
+          "Changes will spell out that governments can change rules and that career choices affect repayments."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T23:20:29.000Z"
+      },
+      {
+        "id": "top-8b5ebdc3",
+        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+        "summary": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
+        "bullets": [
+          "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T17:36:45.000Z"
+      },
+      {
+        "id": "tech-72556e43",
+        "title": "I spent $4,000 on a robot dog from China",
+        "summary": "Unitree might be the world’s most important robotics company.",
+        "bullets": [
+          "Unitree might be the world’s most important robotics company."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T11:00:53.000Z"
+      },
+      {
+        "id": "tech-fe106729",
+        "title": "Some satellite companies still have an appetite for boutique launch services",
+        "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+        "bullets": [
+          "\"Dedicated launch is pretty essential for us for most of our missions.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T23:34:45.000Z"
+      },
+      {
+        "id": "tech-44884ff4",
+        "title": "Random rewards enrich classic game-theory insights",
+        "summary": "Simple games gain rich strategies in the face of noise.",
+        "bullets": [
+          "Simple games gain rich strategies in the face of noise."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T21:41:16.000Z"
+      },
+      {
+        "id": "tech-74a0254f",
+        "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+        "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+        "bullets": [
+          "The strain lurking in the inflatable structure was hypervirulent."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T21:14:26.000Z"
+      },
+      {
+        "id": "tech-5c88bad7",
+        "title": "Trump's forced coal plant extensions thrown out by judge",
+        "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+        "bullets": [
+          "The Department of Energy declared an \"emergency\" when none existed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:32:59.000Z"
+      },
+      {
+        "id": "ai-40b8fea9",
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "bullets": [
+          "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T20:19:16.000Z"
+      },
+      {
+        "id": "ai-8bde5f69",
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "bullets": [
+          "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T19:34:44.000Z"
+      },
+      {
+        "id": "ai-f197c99e",
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "bullets": [
+          "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T22:58:17.000Z"
+      },
+      {
+        "id": "ai-26f50527",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+        "bullets": [
+          "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
+          "a more robust set of open-weight options that aren’t Chinese."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:59:47.000Z"
+      },
+      {
+        "id": "ai-8116463f",
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+        "bullets": [
+          "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-11T20:57:36.000Z"
+      },
+      {
+        "id": "world-ae3279bb",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "bullets": [
+          "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T21:16:47.000Z"
+      },
+      {
+        "id": "world-da6245c5",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "bullets": [
+          "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T12:15:50.000Z"
+      },
+      {
+        "id": "world-ee5683f4",
+        "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+        "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+        "bullets": [
+          "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T00:49:08.000Z"
+      },
+      {
+        "id": "world-d4720e92",
+        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+        "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+        "bullets": [
+          "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T21:25:28.000Z"
+      },
+      {
+        "id": "world-0c910155",
+        "title": "Fire at nursing home in Chile kills 16 residents",
+        "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+        "bullets": [
+          "Ten people were evacuated from the home in Araucanía region in central Chile."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-12T19:36:50.000Z"
       }
     ]
   }
