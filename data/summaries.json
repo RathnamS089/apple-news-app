@@ -7742,8 +7742,21 @@
   },
   {
     "date": "2026-09-13",
-    "generatedAt": "2026-09-13T11:56:38.970Z",
+    "generatedAt": "2026-09-13T16:21:05.473Z",
     "articles": [
+      {
+        "id": "top-467ef9a6",
+        "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
+        "summary": "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\".",
+        "bullets": [
+          "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T15:40:38.000Z"
+      },
       {
         "id": "top-7f03a7e6",
         "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
@@ -7755,59 +7768,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T11:13:07.000Z"
+        "publishedAt": "2026-09-13T14:53:40.000Z"
       },
       {
-        "id": "top-1c647671",
-        "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
-        "summary": "The government is trying to change the law on donations to UK political parties from British expats.",
+        "id": "top-72d5f39b",
+        "title": "Andy Burnham among Great North Run finishers",
+        "summary": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
         "bullets": [
-          "The government is trying to change the law on donations to UK political parties from British expats."
+          "This year's event sees 63,000 people take on the half marathon - including the prime minister."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T11:51:28.000Z"
+        "publishedAt": "2026-09-13T14:54:40.000Z"
       },
       {
-        "id": "top-08c0638f",
-        "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
-        "summary": "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.",
+        "id": "top-e9fc6f06",
+        "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+        "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
         "bullets": [
-          "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says."
+          "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T11:16:06.000Z"
+        "publishedAt": "2026-09-13T16:05:41.000Z"
       },
       {
-        "id": "top-0ddd511f",
-        "title": "Will the Thirlwall report change the debate about Lucy Letby?",
-        "summary": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+        "id": "top-763fd733",
+        "title": "Trump doubles down on united Ireland comments on day two of visit",
+        "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
         "bullets": [
-          "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety."
+          "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T23:15:54.000Z"
+        "publishedAt": "2026-09-13T15:42:50.000Z"
       },
       {
-        "id": "top-3925844d",
-        "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
-        "summary": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\".",
+        "id": "tech-c542b88e",
+        "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+        "summary": "The manufacturer has a service that lets owners repair their own equipment.",
         "bullets": [
-          "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\"."
+          "The manufacturer has a service that lets owners repair their own equipment."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T06:21:12.000Z"
+        "publishedAt": "2026-09-13T11:00:41.000Z"
       },
       {
         "id": "tech-72556e43",
@@ -7860,19 +7873,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-09-11T21:14:26.000Z"
-      },
-      {
-        "id": "tech-5c88bad7",
-        "title": "Trump's forced coal plant extensions thrown out by judge",
-        "summary": "The Department of Energy declared an \"emergency\" when none existed.",
-        "bullets": [
-          "The Department of Energy declared an \"emergency\" when none existed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:32:59.000Z"
       },
       {
         "id": "ai-40b8fea9",
@@ -7951,7 +7951,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T11:13:07.000Z"
+        "publishedAt": "2026-09-13T14:53:40.000Z"
+      },
+      {
+        "id": "world-e9fc6f06",
+        "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+        "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "bullets": [
+          "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T16:05:41.000Z"
+      },
+      {
+        "id": "world-25f472b1",
+        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+        "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+        "bullets": [
+          "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T13:30:38.000Z"
+      },
+      {
+        "id": "world-ede5214b",
+        "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+        "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+        "bullets": [
+          "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T14:25:56.000Z"
       },
       {
         "id": "world-1b547cea",
@@ -7965,45 +8004,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-13T11:23:42.000Z"
-      },
-      {
-        "id": "world-2baee693",
-        "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
-        "summary": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
-        "bullets": [
-          "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T09:42:08.000Z"
-      },
-      {
-        "id": "world-ee5683f4",
-        "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-        "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
-        "bullets": [
-          "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T00:49:08.000Z"
-      },
-      {
-        "id": "world-4443dc7b",
-        "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-        "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-        "bullets": [
-          "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T23:51:05.000Z"
       }
     ]
   }
