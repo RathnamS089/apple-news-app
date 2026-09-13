@@ -7742,7 +7742,7 @@
   },
   {
     "date": "2026-09-13",
-    "generatedAt": "2026-09-13T20:52:57.223Z",
+    "generatedAt": "2026-09-13T23:11:53.018Z",
     "articles": [
       {
         "id": "top-e1223e73",
@@ -7758,6 +7758,19 @@
         "publishedAt": "2026-09-13T19:14:21.000Z"
       },
       {
+        "id": "top-e65f2de2",
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "bullets": [
+          "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T21:30:21.000Z"
+      },
+      {
         "id": "top-a8f5cd4c",
         "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
         "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
@@ -7769,19 +7782,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-13T18:49:37.000Z"
-      },
-      {
-        "id": "top-2745edc9",
-        "title": "Questions mount over what an AI 'slowdown' would look like",
-        "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-        "bullets": [
-          "While pacing AI development might sound like a quick fix, it is far from an easy solution."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T18:20:22.000Z"
       },
       {
         "id": "top-1f202984",
@@ -7797,17 +7797,30 @@
         "publishedAt": "2026-09-13T17:51:19.000Z"
       },
       {
-        "id": "top-72d5f39b",
-        "title": "Andy Burnham among Great North Run finishers",
-        "summary": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
+        "id": "top-5b607610",
+        "title": "Deep-fried food banned under new school dinner rules in England",
+        "summary": "The government describes its new school food standards as \"once-in-a-generation changes\".",
         "bullets": [
-          "This year's event sees 63,000 people take on the half marathon - including the prime minister."
+          "The government describes its new school food standards as \"once-in-a-generation changes\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T14:54:40.000Z"
+        "publishedAt": "2026-09-13T21:30:29.000Z"
+      },
+      {
+        "id": "tech-4b4b954f",
+        "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+        "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+        "bullets": [
+          "The 40-year-old unvaccinated woman reportedly had underlying health conditions."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T21:56:52.000Z"
       },
       {
         "id": "tech-c542b88e",
@@ -7860,19 +7873,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-09-11T21:41:16.000Z"
-      },
-      {
-        "id": "tech-74a0254f",
-        "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-        "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-        "bullets": [
-          "The strain lurking in the inflatable structure was hypervirulent."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T21:14:26.000Z"
       },
       {
         "id": "ai-cd1fd563",
@@ -7979,6 +7979,19 @@
         "publishedAt": "2026-09-13T18:20:22.000Z"
       },
       {
+        "id": "world-043f354a",
+        "title": "Swedish party blocs tied after Sunday vote, projections say",
+        "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+        "bullets": [
+          "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T22:27:54.000Z"
+      },
+      {
         "id": "world-25f472b1",
         "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
         "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
@@ -7990,19 +8003,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-13T13:30:38.000Z"
-      },
-      {
-        "id": "world-ede5214b",
-        "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-        "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-        "bullets": [
-          "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T14:25:56.000Z"
       }
     ]
   }
