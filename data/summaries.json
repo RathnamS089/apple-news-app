@@ -7742,33 +7742,59 @@
   },
   {
     "date": "2026-09-13",
-    "generatedAt": "2026-09-13T16:21:05.473Z",
+    "generatedAt": "2026-09-13T20:52:57.223Z",
     "articles": [
       {
-        "id": "top-467ef9a6",
-        "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
-        "summary": "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\".",
+        "id": "top-e1223e73",
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
         "bullets": [
-          "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would..."
+          "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T15:40:38.000Z"
+        "publishedAt": "2026-09-13T19:14:21.000Z"
       },
       {
-        "id": "top-7f03a7e6",
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+        "id": "top-a8f5cd4c",
+        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+        "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
         "bullets": [
-          "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks."
+          "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T14:53:40.000Z"
+        "publishedAt": "2026-09-13T18:49:37.000Z"
+      },
+      {
+        "id": "top-2745edc9",
+        "title": "Questions mount over what an AI 'slowdown' would look like",
+        "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+        "bullets": [
+          "While pacing AI development might sound like a quick fix, it is far from an easy solution."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T18:20:22.000Z"
+      },
+      {
+        "id": "top-1f202984",
+        "title": "Will record donations to Reform go down as a moment of political change?",
+        "summary": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
+        "bullets": [
+          "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T17:51:19.000Z"
       },
       {
         "id": "top-72d5f39b",
@@ -7782,32 +7808,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-13T14:54:40.000Z"
-      },
-      {
-        "id": "top-e9fc6f06",
-        "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
-        "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "bullets": [
-          "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T16:05:41.000Z"
-      },
-      {
-        "id": "top-763fd733",
-        "title": "Trump doubles down on united Ireland comments on day two of visit",
-        "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
-        "bullets": [
-          "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T15:42:50.000Z"
       },
       {
         "id": "tech-c542b88e",
@@ -7875,6 +7875,32 @@
         "publishedAt": "2026-09-11T21:14:26.000Z"
       },
       {
+        "id": "ai-cd1fd563",
+        "title": "What’s behind the AI industry’s latest warnings of doom?",
+        "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "bullets": [
+          "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T19:40:15.000Z"
+      },
+      {
+        "id": "ai-d2b55af0",
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+        "bullets": [
+          "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T16:30:00.000Z"
+      },
+      {
         "id": "ai-40b8fea9",
         "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
         "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
@@ -7914,48 +7940,8 @@
         "publishedAt": "2026-09-11T22:58:17.000Z"
       },
       {
-        "id": "ai-26f50527",
-        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-        "bullets": [
-          "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
-          "a more robust set of open-weight options that aren’t Chinese."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:59:47.000Z"
-      },
-      {
-        "id": "ai-8116463f",
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-        "bullets": [
-          "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:57:36.000Z"
-      },
-      {
-        "id": "world-7f03a7e6",
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-        "bullets": [
-          "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T14:53:40.000Z"
-      },
-      {
-        "id": "world-e9fc6f06",
-        "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+        "id": "world-e1223e73",
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
         "bullets": [
           "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
@@ -7964,7 +7950,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T16:05:41.000Z"
+        "publishedAt": "2026-09-13T19:14:21.000Z"
+      },
+      {
+        "id": "world-b8f2c048",
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "bullets": [
+          "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T18:49:37.000Z"
+      },
+      {
+        "id": "world-2745edc9",
+        "title": "Questions mount over what an AI 'slowdown' would look like",
+        "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+        "bullets": [
+          "While pacing AI development might sound like a quick fix, it is far from an easy solution."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T18:20:22.000Z"
       },
       {
         "id": "world-25f472b1",
@@ -7991,19 +8003,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-13T14:25:56.000Z"
-      },
-      {
-        "id": "world-1b547cea",
-        "title": "Iran war reshapes Brics ties but also exposes divisions",
-        "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-        "bullets": [
-          "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T11:23:42.000Z"
       }
     ]
   }
