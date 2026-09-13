@@ -7742,20 +7742,46 @@
   },
   {
     "date": "2026-09-13",
-    "generatedAt": "2026-09-13T04:52:47.832Z",
+    "generatedAt": "2026-09-13T11:56:38.970Z",
     "articles": [
       {
         "id": "top-7f03a7e6",
         "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
         "bullets": [
-          "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in."
+          "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-13T04:30:44.000Z"
+        "publishedAt": "2026-09-13T11:13:07.000Z"
+      },
+      {
+        "id": "top-1c647671",
+        "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+        "summary": "The government is trying to change the law on donations to UK political parties from British expats.",
+        "bullets": [
+          "The government is trying to change the law on donations to UK political parties from British expats."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T11:51:28.000Z"
+      },
+      {
+        "id": "top-08c0638f",
+        "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+        "summary": "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.",
+        "bullets": [
+          "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T11:16:06.000Z"
       },
       {
         "id": "top-0ddd511f",
@@ -7771,43 +7797,17 @@
         "publishedAt": "2026-09-12T23:15:54.000Z"
       },
       {
-        "id": "top-d4720e92",
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+        "id": "top-3925844d",
+        "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
+        "summary": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\".",
         "bullets": [
-          "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland."
+          "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T21:25:28.000Z"
-      },
-      {
-        "id": "top-6dcd1382",
-        "title": "Student loan terms to be made clearer in England",
-        "summary": "Changes will spell out that governments can change rules and that career choices affect repayments.",
-        "bullets": [
-          "Changes will spell out that governments can change rules and that career choices affect repayments."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T23:20:29.000Z"
-      },
-      {
-        "id": "top-8b5ebdc3",
-        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
-        "summary": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
-        "bullets": [
-          "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T17:36:45.000Z"
+        "publishedAt": "2026-09-13T06:21:12.000Z"
       },
       {
         "id": "tech-72556e43",
@@ -7941,30 +7941,43 @@
         "publishedAt": "2026-09-11T20:57:36.000Z"
       },
       {
-        "id": "world-ae3279bb",
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "id": "world-7f03a7e6",
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
         "bullets": [
-          "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+          "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T21:16:47.000Z"
+        "publishedAt": "2026-09-13T11:13:07.000Z"
       },
       {
-        "id": "world-da6245c5",
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "id": "world-1b547cea",
+        "title": "Iran war reshapes Brics ties but also exposes divisions",
+        "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
         "bullets": [
-          "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
+          "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T12:15:50.000Z"
+        "publishedAt": "2026-09-13T11:23:42.000Z"
+      },
+      {
+        "id": "world-2baee693",
+        "title": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
+        "summary": "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather.",
+        "bullets": [
+          "Ships and helicopters are searching for the remaining 130 missing people from the Virgo Transport 8 ship, which had encountered bad weather."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-13T09:42:08.000Z"
       },
       {
         "id": "world-ee5683f4",
@@ -7980,30 +7993,17 @@
         "publishedAt": "2026-09-13T00:49:08.000Z"
       },
       {
-        "id": "world-d4720e92",
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+        "id": "world-4443dc7b",
+        "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+        "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
         "bullets": [
-          "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland."
+          "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-12T21:25:28.000Z"
-      },
-      {
-        "id": "world-0c910155",
-        "title": "Fire at nursing home in Chile kills 16 residents",
-        "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-        "bullets": [
-          "Ten people were evacuated from the home in Araucanía region in central Chile."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T19:36:50.000Z"
+        "publishedAt": "2026-09-12T23:51:05.000Z"
       }
     ]
   }
