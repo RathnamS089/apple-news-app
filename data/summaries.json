@@ -7739,7 +7739,7 @@
   },
   {
     "date": "2026-09-14",
-    "generatedAt": "2026-09-14T19:51:28.407Z",
+    "generatedAt": "2026-09-14T23:53:05.349Z",
     "articles": [
       {
         "id": "top-21b2c698",
@@ -7755,8 +7755,8 @@
         "publishedAt": "2026-09-14T16:54:26.000Z"
       },
       {
-        "id": "top-eb3be319",
-        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+        "id": "top-d37585be",
+        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
         "summary": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
         "bullets": [
           "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement."
@@ -7765,7 +7765,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T18:54:16.000Z"
+        "publishedAt": "2026-09-14T22:10:10.000Z"
       },
       {
         "id": "top-3016ca1f",
@@ -7781,95 +7781,121 @@
         "publishedAt": "2026-09-14T18:53:38.000Z"
       },
       {
-        "id": "top-dbd78e4b",
-        "title": "Farage says £72m donations are compliant 'with the law today'",
-        "summary": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
+        "id": "top-7560f375",
+        "title": "Nato jets down drone that entered Lithuanian airspace",
+        "summary": "It is currently unknown where the drone came from, officials said.",
         "bullets": [
-          "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026."
+          "It is currently unknown where the drone came from, officials said."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T17:50:29.000Z"
+        "publishedAt": "2026-09-14T23:52:30.000Z"
       },
       {
-        "id": "top-31f59da6",
-        "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-        "summary": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
+        "id": "top-481da3e3",
+        "title": "Row over Reform's mega donations has mileage in it yet",
+        "summary": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
         "bullets": [
-          "The US rapper was condemned by Jewish groups after making comments criticising Israel."
+          "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T19:30:41.000Z"
+        "publishedAt": "2026-09-14T23:51:03.000Z"
       },
       {
-        "id": "tech-5ad37742",
-        "title": "Prehistoric builders transported Devil's Arrows 11 miles",
-        "summary": "Isotropic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
+        "id": "tech-ef85d49c",
+        "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+        "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
         "bullets": [
-          "Isotropic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks."
+          "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T17:10:54.000Z"
+        "publishedAt": "2026-09-14T22:06:24.000Z"
       },
       {
-        "id": "tech-1a279e83",
-        "title": "Steam Frame: The Ars Technica review",
-        "summary": "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\"",
+        "id": "tech-3f5b3e32",
+        "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+        "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
         "bullets": [
-          "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\""
+          "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T17:00:07.000Z"
+        "publishedAt": "2026-09-14T21:32:22.000Z"
       },
       {
-        "id": "tech-52f4b1af",
-        "title": "\"Offensively cheap\": Solar power is looking up",
-        "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
+        "id": "tech-79594aa6",
+        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
         "bullets": [
-          "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities."
+          "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T16:29:18.000Z"
+        "publishedAt": "2026-09-14T21:04:32.000Z"
       },
       {
-        "id": "tech-9641bbbf",
-        "title": "New corners, new lights for 2028 Volvo XC40",
-        "summary": "The Swedish automaker gives its small SUV a sympathetic makeover.",
+        "id": "tech-0f242b7a",
+        "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+        "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
         "bullets": [
-          "The Swedish automaker gives its small SUV a sympathetic makeover."
+          "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T15:46:06.000Z"
+        "publishedAt": "2026-09-14T19:45:13.000Z"
       },
       {
-        "id": "tech-05c4af16",
-        "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
-        "summary": "Formula 1’s latest venue might be fun to drive, but the race was processional and dull.",
+        "id": "tech-e18d8124",
+        "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+        "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
         "bullets": [
-          "Formula 1’s latest venue might be fun to drive, but the race was processional and dull."
+          "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?"
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T14:32:35.000Z"
+        "publishedAt": "2026-09-14T19:38:46.000Z"
+      },
+      {
+        "id": "ai-631b730b",
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+        "bullets": [
+          "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-14T21:51:02.000Z"
+      },
+      {
+        "id": "ai-c6598f7f",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "bullets": [
+          "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-14T20:44:14.000Z"
       },
       {
         "id": "ai-59470502",
@@ -7909,34 +7935,6 @@
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-09-14T16:27:53.000Z"
-      },
-      {
-        "id": "ai-d62ad0dc",
-        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-        "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch...",
-        "bullets": [
-          "If you're building an AI company, the question isn't whether foundation models will continue to evolve.",
-          "It's whether your company will continue creating value as they do.",
-          "Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T15:00:00.000Z"
-      },
-      {
-        "id": "ai-cae6c7e4",
-        "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-        "summary": "Fathom said that it has over 400,000 monthly active users.",
-        "bullets": [
-          "Fathom said that it has over 400,000 monthly active users."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T14:45:44.000Z"
       },
       {
         "id": "world-21dd451e",
