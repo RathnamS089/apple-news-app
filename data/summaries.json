@@ -7736,7 +7736,7 @@
   },
   {
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15T17:02:59.753Z",
+    "generatedAt": "2026-09-15T21:24:07.106Z",
     "articles": [
       {
         "id": "top-f28b25a1",
@@ -7749,33 +7749,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T16:53:53.000Z"
+        "publishedAt": "2026-09-15T19:47:10.000Z"
       },
       {
-        "id": "top-e4b7b18d",
-        "title": "The key findings and recommendations from the Lucy Letby inquiry",
-        "summary": "Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more.",
+        "id": "top-4981d564",
+        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+        "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
         "bullets": [
-          "Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more."
+          "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T15:11:40.000Z"
+        "publishedAt": "2026-09-15T21:07:13.000Z"
       },
       {
         "id": "top-1dd0412c",
         "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-        "summary": "Gwent Police said he was arrested on suspicion of assault and controlling or coercive behaviour.",
+        "summary": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
         "bullets": [
-          "Gwent Police said he was arrested on suspicion of assault and controlling or coercive behaviour."
+          "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T16:45:49.000Z"
+        "publishedAt": "2026-09-15T20:41:35.000Z"
       },
       {
         "id": "top-115416ce",
@@ -7791,148 +7791,148 @@
         "publishedAt": "2026-09-15T16:24:00.000Z"
       },
       {
-        "id": "top-255c5ded",
-        "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-        "summary": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+        "id": "top-aa811288",
+        "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+        "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
         "bullets": [
-          "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage."
+          "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T16:01:54.000Z"
+        "publishedAt": "2026-09-15T17:35:02.000Z"
       },
       {
-        "id": "tech-fe500b03",
-        "title": "Trump EPA moves to wipe out climate rules for power plants",
-        "summary": "EPA says power plant emissions have no material impact on climate change.",
+        "id": "tech-08fc1a72",
+        "title": "18-year-old dies of measles in PA from severe neurological complication",
+        "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
         "bullets": [
-          "EPA says power plant emissions have no material impact on climate change."
+          "Teen developed acute disseminated encephalomyelitis, a known measles complication."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T13:43:51.000Z"
+        "publishedAt": "2026-09-15T18:58:09.000Z"
       },
       {
-        "id": "tech-cb3a73d7",
-        "title": "GM gives its most important trucks a new UI—and includes CarPlay",
-        "summary": "The new look debuts in the 2027 Chevrolet Silverado and 2027 GMC Sierra pickup trucks.",
+        "id": "tech-0ff464e5",
+        "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+        "summary": "Reaching orbit would mark a significant milestone.",
         "bullets": [
-          "The new look debuts in the 2027 Chevrolet Silverado and 2027 GMC Sierra pickup trucks."
+          "Reaching orbit would mark a significant milestone."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T13:27:57.000Z"
+        "publishedAt": "2026-09-15T18:48:08.000Z"
       },
       {
-        "id": "tech-65086c9d",
-        "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
-        "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+        "id": "tech-f7a488d6",
+        "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+        "summary": "Robots can start working outside physical cages and without safety barriers.",
         "bullets": [
-          "But there may be a price to pay for a quiet Atlantic hurricane season."
+          "Robots can start working outside physical cages and without safety barriers."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T12:36:11.000Z"
+        "publishedAt": "2026-09-15T18:33:02.000Z"
       },
       {
-        "id": "tech-cca01f39",
-        "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-        "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+        "id": "tech-b9c1143f",
+        "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
+        "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
         "bullets": [
-          "Ars previewed Mozilla’s report on how cheap open models caught up on capability."
+          "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T12:00:41.000Z"
+        "publishedAt": "2026-09-15T18:14:11.000Z"
       },
       {
-        "id": "tech-0dc5a8cb",
-        "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-        "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+        "id": "tech-1d51a9e0",
+        "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+        "summary": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
         "bullets": [
-          "The refreshed Volvos also get new infotainment systems with Gemini onboard."
+          "EV growth is happening, even in the US, and those EVs will need plugs to charge."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T07:00:30.000Z"
+        "publishedAt": "2026-09-15T17:58:09.000Z"
       },
       {
-        "id": "ai-c224dcde",
-        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-        "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "id": "ai-555b8736",
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
         "bullets": [
-          "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with..."
+          "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates,..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T15:47:03.000Z"
+        "publishedAt": "2026-09-15T20:12:53.000Z"
       },
       {
-        "id": "ai-500fcd1f",
-        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-        "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+        "id": "ai-713f4681",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
         "bullets": [
-          "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
+          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+        "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T15:22:48.000Z"
+        "publishedAt": "2026-09-15T19:00:00.000Z"
       },
       {
-        "id": "ai-9a52e873",
-        "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-        "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+        "id": "ai-32400157",
+        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+        "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
         "bullets": [
-          "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+          "The AI frenzy could push U.S.",
+          "data centers to become one of the largest consumers of natural gas in the world."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+        "sourceUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T14:42:37.000Z"
+        "publishedAt": "2026-09-15T18:29:20.000Z"
       },
       {
-        "id": "ai-0e8f787b",
-        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-        "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save...",
+        "id": "ai-4533e4f2",
+        "title": "AI agents now have a place to snitch",
+        "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
         "bullets": [
-          "Register before September 25 to save up to $200 on your pass."
+          "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+        "sourceUrl": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T14:30:00.000Z"
+        "publishedAt": "2026-09-15T17:42:59.000Z"
       },
       {
-        "id": "ai-d38f3732",
-        "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-        "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+        "id": "ai-422bcb2b",
+        "title": "Meta expands subscription push with new AI-focused plans",
+        "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
         "bullets": [
-          "Last day to exhibit at Disrupt is Sept 18.",
-          "Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
+          "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+        "sourceUrl": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T14:00:00.000Z"
+        "publishedAt": "2026-09-15T17:05:24.000Z"
       },
       {
         "id": "world-a46b5a62",
@@ -7974,6 +7974,19 @@
         "publishedAt": "2026-09-15T16:55:04.000Z"
       },
       {
+        "id": "world-3fc56cdd",
+        "title": "South African president vows justice as more women's bodies found near Johannesburg",
+        "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
+        "bullets": [
+          "Police have not linked the deaths to a serial killer but are investigating this possibility."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-15T18:01:51.000Z"
+      },
+      {
         "id": "world-4827ceb4",
         "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
         "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
@@ -7985,19 +7998,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-15T16:13:41.000Z"
-      },
-      {
-        "id": "world-368ef1d1",
-        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-        "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-        "bullets": [
-          "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T15:31:34.000Z"
       }
     ]
   }
