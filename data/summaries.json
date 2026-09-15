@@ -7736,59 +7736,33 @@
   },
   {
     "date": "2026-09-15",
-    "generatedAt": "2026-09-15T04:57:55.665Z",
+    "generatedAt": "2026-09-15T11:48:15.609Z",
     "articles": [
       {
-        "id": "top-c78ad4d4",
-        "title": "Lucy Letby public inquiry findings set to be published",
-        "summary": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.",
+        "id": "top-9d766bc6",
+        "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+        "summary": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
         "bullets": [
-          "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action..."
+          "The increase has reignited the debate about the state pension's long-term affordability and generational fairness."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T01:54:35.000Z"
+        "publishedAt": "2026-09-15T11:05:42.000Z"
       },
       {
-        "id": "top-d8fed14f",
-        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-        "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+        "id": "top-a46b5a62",
+        "title": "Denmark says Russian warship fired flares at military helicopter",
+        "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
         "bullets": [
-          "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
+          "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T03:47:27.000Z"
-      },
-      {
-        "id": "top-28c1b928",
-        "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
-        "summary": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
-        "bullets": [
-          "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T23:51:03.000Z"
-      },
-      {
-        "id": "top-7560f375",
-        "title": "Nato jets down drone that entered Lithuanian airspace",
-        "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-        "bullets": [
-          "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T02:22:07.000Z"
+        "publishedAt": "2026-09-15T11:40:00.000Z"
       },
       {
         "id": "top-ca877641",
@@ -7802,6 +7776,45 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-15T03:50:06.000Z"
+      },
+      {
+        "id": "top-d8b48423",
+        "title": "Political donors could face tougher residency rules",
+        "summary": "It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad.",
+        "bullets": [
+          "It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-15T10:55:38.000Z"
+      },
+      {
+        "id": "top-5b8215ed",
+        "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+        "summary": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+        "bullets": [
+          "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-15T11:40:13.000Z"
+      },
+      {
+        "id": "tech-0dc5a8cb",
+        "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+        "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+        "bullets": [
+          "The refreshed Volvos also get new infotainment systems with Gemini onboard."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-15T07:00:30.000Z"
       },
       {
         "id": "tech-3ad7a5cb",
@@ -7854,19 +7867,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-09-14T21:04:32.000Z"
-      },
-      {
-        "id": "tech-0f242b7a",
-        "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-        "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-        "bullets": [
-          "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T19:45:13.000Z"
       },
       {
         "id": "ai-e6ec481c",
@@ -7934,17 +7934,43 @@
         "publishedAt": "2026-09-14T17:00:00.000Z"
       },
       {
-        "id": "world-21dd451e",
-        "title": "China criticises idea it is in 'malicious competition' over AI",
-        "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+        "id": "world-d8fed14f",
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
         "bullets": [
-          "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
+          "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-14T11:31:39.000Z"
+        "publishedAt": "2026-09-15T08:49:31.000Z"
+      },
+      {
+        "id": "world-e88bb435",
+        "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+        "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+        "bullets": [
+          "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-15T02:50:36.000Z"
+      },
+      {
+        "id": "world-a46b5a62",
+        "title": "Denmark says Russian warship fired flares at military helicopter",
+        "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+        "bullets": [
+          "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-15T11:40:00.000Z"
       },
       {
         "id": "world-ca877641",
@@ -7960,43 +7986,17 @@
         "publishedAt": "2026-09-15T03:50:06.000Z"
       },
       {
-        "id": "world-7560f375",
-        "title": "Nato jets down drone that entered Lithuanian airspace",
-        "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+        "id": "world-a8d02ea1",
+        "title": "Suspected sabotage causes major Netherlands rail disruption",
+        "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
         "bullets": [
-          "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia."
+          "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T02:22:07.000Z"
-      },
-      {
-        "id": "world-fd934ab0",
-        "title": "US confirms for first time it has deployed space weapons",
-        "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-        "bullets": [
-          "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T01:52:02.000Z"
-      },
-      {
-        "id": "world-9c29ca09",
-        "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-        "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
-        "bullets": [
-          "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T14:08:12.000Z"
+        "publishedAt": "2026-09-15T09:59:14.000Z"
       }
     ]
   }
