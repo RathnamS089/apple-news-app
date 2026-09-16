@@ -7734,24 +7734,37 @@
   },
   {
     "date": "2026-09-16",
-    "generatedAt": "2026-09-16T04:53:08.731Z",
+    "generatedAt": "2026-09-16T11:40:23.091Z",
     "articles": [
       {
-        "id": "top-5f2eeb16",
-        "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-        "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+        "id": "top-22ae18ff",
+        "title": "Petrol and diesel price rises push UK inflation higher",
+        "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
         "bullets": [
-          "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+          "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T00:59:20.000Z"
+        "publishedAt": "2026-09-16T10:33:42.000Z"
       },
       {
-        "id": "top-4981d564",
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+        "id": "top-0da6f7b2",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "bullets": [
+          "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T10:59:53.000Z"
+      },
+      {
+        "id": "top-9a03f3e3",
+        "title": "Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments",
         "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
         "bullets": [
           "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
@@ -7760,46 +7773,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T01:29:20.000Z"
+        "publishedAt": "2026-09-16T09:36:54.000Z"
       },
       {
-        "id": "top-198598c6",
-        "title": "UK in talks about joining global defence bank led by Canada",
-        "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+        "id": "top-10c189fc",
+        "title": "At least 20 killed and dozens missing after war-damaged Gaza building collapses",
+        "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
         "bullets": [
-          "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects."
+          "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T23:50:55.000Z"
+        "publishedAt": "2026-09-16T11:22:51.000Z"
       },
       {
-        "id": "top-6ec120fc",
-        "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
-        "summary": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.",
+        "id": "top-b99e9696",
+        "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
+        "summary": "Piddington residents vote over proposals to house up to 1,256 male asylum seekers nearby.",
         "bullets": [
-          "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies."
+          "Piddington residents vote over proposals to house up to 1,256 male asylum seekers nearby."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T00:25:34.000Z"
+        "publishedAt": "2026-09-16T10:59:18.000Z"
       },
       {
-        "id": "top-9d71ad8f",
-        "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
-        "summary": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+        "id": "tech-835bb6a1",
+        "title": "How chimps teach their kids tool tricks",
+        "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
         "bullets": [
-          "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
+          "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T04:36:11.000Z"
+        "publishedAt": "2026-09-16T04:00:39.000Z"
       },
       {
         "id": "tech-6914af47",
@@ -7854,17 +7867,17 @@
         "publishedAt": "2026-09-15T18:48:08.000Z"
       },
       {
-        "id": "tech-f7a488d6",
-        "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-        "summary": "Robots can start working outside physical cages and without safety barriers.",
+        "id": "ai-e9767c07",
+        "title": "Amazon launches Alexa+ in India with Hindi support",
+        "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
         "bullets": [
-          "Robots can start working outside physical cages and without safety barriers."
+          "Amazon is letting all customers use Alexa+ assistant in early access period"
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T18:33:02.000Z"
+        "publishedAt": "2026-09-16T10:34:47.000Z"
       },
       {
         "id": "ai-9ea8a19f",
@@ -7920,18 +7933,30 @@
         "publishedAt": "2026-09-15T19:00:00.000Z"
       },
       {
-        "id": "ai-32400157",
-        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-        "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+        "id": "world-0da6f7b2",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
         "bullets": [
-          "The AI frenzy could push U.S.",
-          "data centers to become one of the largest consumers of natural gas in the world."
+          "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T18:29:20.000Z"
+        "publishedAt": "2026-09-16T10:59:53.000Z"
+      },
+      {
+        "id": "world-79aecd95",
+        "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+        "bullets": [
+          "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T10:02:05.000Z"
       },
       {
         "id": "world-4981d564",
@@ -7944,59 +7969,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T01:29:20.000Z"
+        "publishedAt": "2026-09-16T09:36:54.000Z"
       },
       {
-        "id": "world-a46b5a62",
-        "title": "Denmark says Russian warship fired flares at military helicopter",
-        "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+        "id": "world-4088cb49",
+        "title": "At least 20 killed after war-damaged Gaza building collapses",
+        "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
         "bullets": [
-          "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+          "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T11:40:00.000Z"
+        "publishedAt": "2026-09-16T11:22:51.000Z"
       },
       {
-        "id": "world-e76c38c0",
-        "title": "What weapon could the US have put into space?",
-        "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+        "id": "world-368ef1d1",
+        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+        "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
         "bullets": [
-          "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
+          "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T14:23:14.000Z"
-      },
-      {
-        "id": "world-3fc56cdd",
-        "title": "South African president vows justice as more women's bodies found near Johannesburg",
-        "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
-        "bullets": [
-          "Police have not linked the deaths to a serial killer but are investigating this possibility."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:01:51.000Z"
-      },
-      {
-        "id": "world-4827ceb4",
-        "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-        "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-        "bullets": [
-          "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T16:13:41.000Z"
+        "publishedAt": "2026-09-15T20:34:12.000Z"
       }
     ]
   }
