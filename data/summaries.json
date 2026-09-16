@@ -7734,21 +7734,8 @@
   },
   {
     "date": "2026-09-16",
-    "generatedAt": "2026-09-16T11:40:23.091Z",
+    "generatedAt": "2026-09-16T17:01:21.059Z",
     "articles": [
-      {
-        "id": "top-22ae18ff",
-        "title": "Petrol and diesel price rises push UK inflation higher",
-        "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
-        "bullets": [
-          "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T10:33:42.000Z"
-      },
       {
         "id": "top-0da6f7b2",
         "title": "EU chief backs plan for Canada to become 'associate member'",
@@ -7760,46 +7747,111 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T10:59:53.000Z"
+        "publishedAt": "2026-09-16T12:36:51.000Z"
       },
       {
-        "id": "top-9a03f3e3",
-        "title": "Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments",
-        "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+        "id": "top-1b9e413f",
+        "title": "'Putney pusher' suspect found dead at home",
+        "summary": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
         "bullets": [
-          "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
+          "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T09:36:54.000Z"
+        "publishedAt": "2026-09-16T15:56:06.000Z"
       },
       {
-        "id": "top-10c189fc",
-        "title": "At least 20 killed and dozens missing after war-damaged Gaza building collapses",
-        "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
+        "id": "top-c9738ac9",
+        "title": "Photos show widespread damage at US sites from Iranian attacks",
+        "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
         "bullets": [
-          "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living."
+          "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T11:22:51.000Z"
+        "publishedAt": "2026-09-16T16:33:56.000Z"
       },
       {
-        "id": "top-b99e9696",
-        "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
-        "summary": "Piddington residents vote over proposals to house up to 1,256 male asylum seekers nearby.",
+        "id": "top-0cbf05b1",
+        "title": "How escalating Saudi oil crisis could drive up prices everywhere",
+        "summary": "BBC Verify's Ben Chu examines what impact rising energy costs could have on the global economy.",
         "bullets": [
-          "Piddington residents vote over proposals to house up to 1,256 male asylum seekers nearby."
+          "BBC Verify's Ben Chu examines what impact rising energy costs could have on the global economy."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T10:59:18.000Z"
+        "publishedAt": "2026-09-16T16:06:50.000Z"
+      },
+      {
+        "id": "top-ba4a1e83",
+        "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+        "summary": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+        "bullets": [
+          "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T11:50:12.000Z"
+      },
+      {
+        "id": "tech-9cf6c0bd",
+        "title": "What happens when neutrinos swap identities inside a supernova?",
+        "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
+        "bullets": [
+          "Identity-fluid particles may carry some energy out, leading to direct collapse."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T15:17:43.000Z"
+      },
+      {
+        "id": "tech-a3a618de",
+        "title": "macOS 27 Golden Gate: The Ars Technica review",
+        "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
+        "bullets": [
+          "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T14:50:06.000Z"
+      },
+      {
+        "id": "tech-1a5d16d6",
+        "title": "The world’s best racing driver is about to race 100 karts at once",
+        "summary": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
+        "bullets": [
+          "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T14:19:01.000Z"
+      },
+      {
+        "id": "tech-e987ec81",
+        "title": "Lawmakers target Flock cameras with a threat to highway funding",
+        "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
+        "bullets": [
+          "A bipartisan bill would restrict Flock cameras to a handful of public safety uses."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T14:03:39.000Z"
       },
       {
         "id": "tech-835bb6a1",
@@ -7815,122 +7867,73 @@
         "publishedAt": "2026-09-16T04:00:39.000Z"
       },
       {
-        "id": "tech-6914af47",
-        "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-        "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
+        "id": "ai-12011079",
+        "title": "Anthropic merges Claude chat and Cowork in one interface",
+        "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
         "bullets": [
-          "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T22:26:32.000Z"
-      },
-      {
-        "id": "tech-391c987a",
-        "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
-        "summary": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
-        "bullets": [
-          "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T20:19:17.000Z"
-      },
-      {
-        "id": "tech-08fc1a72",
-        "title": "18-year-old dies of measles in PA from severe neurological complication",
-        "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
-        "bullets": [
-          "Teen developed acute disseminated encephalomyelitis, a known measles complication."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:58:09.000Z"
-      },
-      {
-        "id": "tech-0ff464e5",
-        "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-        "summary": "Reaching orbit would mark a significant milestone.",
-        "bullets": [
-          "Reaching orbit would mark a significant milestone."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:48:08.000Z"
-      },
-      {
-        "id": "ai-e9767c07",
-        "title": "Amazon launches Alexa+ in India with Hindi support",
-        "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
-        "bullets": [
-          "Amazon is letting all customers use Alexa+ assistant in early access period"
+          "Anthropic is initially releasing these features to Pro and Max plan subscribers."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T10:34:47.000Z"
+        "publishedAt": "2026-09-16T16:30:00.000Z"
       },
       {
-        "id": "ai-9ea8a19f",
-        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-        "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+        "id": "ai-5ea3a185",
+        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
         "bullets": [
-          "AI isn't some new form of \"alien mind,\" according to Jensen Huang.",
-          "It's just hardware and software, so safety can be engineered by each AI product maker."
+          "The robotics industry is still waiting for their breakthrough into day-to-day life.",
+          "Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026.",
+          "Register before September 25 to save up to $200 on your pass."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T00:20:39.000Z"
+        "publishedAt": "2026-09-16T15:00:00.000Z"
       },
       {
-        "id": "ai-18c5717c",
-        "title": "The AI data center boom is colliding with cities scarred by big industry",
-        "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+        "id": "ai-99ffe6e5",
+        "title": "Threads’ new features let podcasters promote shows and reach listeners",
+        "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
         "bullets": [
-          "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood..."
+          "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T21:47:38.000Z"
+        "publishedAt": "2026-09-16T14:24:58.000Z"
       },
       {
-        "id": "ai-555b8736",
-        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+        "id": "ai-b3ef827b",
+        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+        "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
         "bullets": [
-          "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates,..."
+          "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026.",
+          "Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T20:12:53.000Z"
+        "publishedAt": "2026-09-16T14:15:00.000Z"
       },
       {
-        "id": "ai-713f4681",
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "id": "ai-fb5e189f",
+        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+        "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
         "bullets": [
-          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+          "Last day to book your exhibit table at Disrupt is September 18.",
+          "Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-15T19:00:00.000Z"
+        "publishedAt": "2026-09-16T14:00:00.000Z"
       },
       {
         "id": "world-0da6f7b2",
@@ -7943,7 +7946,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T10:59:53.000Z"
+        "publishedAt": "2026-09-16T12:36:51.000Z"
+      },
+      {
+        "id": "world-782ce757",
+        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+        "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+        "bullets": [
+          "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T13:28:46.000Z"
+      },
+      {
+        "id": "world-2f59dde8",
+        "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+        "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+        "bullets": [
+          "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T12:26:00.000Z"
       },
       {
         "id": "world-79aecd95",
@@ -7959,43 +7988,17 @@
         "publishedAt": "2026-09-16T10:02:05.000Z"
       },
       {
-        "id": "world-4981d564",
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+        "id": "world-f08ed2ba",
+        "title": "Eight German state premiers back Merz amid speculation over future",
+        "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
         "bullets": [
-          "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
+          "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T09:36:54.000Z"
-      },
-      {
-        "id": "world-4088cb49",
-        "title": "At least 20 killed after war-damaged Gaza building collapses",
-        "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
-        "bullets": [
-          "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T11:22:51.000Z"
-      },
-      {
-        "id": "world-368ef1d1",
-        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-        "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-        "bullets": [
-          "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T20:34:12.000Z"
+        "publishedAt": "2026-09-16T14:50:26.000Z"
       }
     ]
   }
