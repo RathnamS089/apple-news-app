@@ -7734,8 +7734,34 @@
   },
   {
     "date": "2026-09-16",
-    "generatedAt": "2026-09-16T17:01:21.059Z",
+    "generatedAt": "2026-09-16T21:20:52.626Z",
     "articles": [
+      {
+        "id": "top-0ca47579",
+        "title": "Body found in search for missing three-year-old Noah Woods",
+        "summary": "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.",
+        "bullets": [
+          "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T18:50:09.000Z"
+      },
+      {
+        "id": "top-d714b9e0",
+        "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
+        "summary": "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death.",
+        "bullets": [
+          "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T20:46:30.000Z"
+      },
       {
         "id": "top-0da6f7b2",
         "title": "EU chief backs plan for Canada to become 'associate member'",
@@ -7773,33 +7799,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T16:33:56.000Z"
+        "publishedAt": "2026-09-16T18:36:16.000Z"
       },
       {
-        "id": "top-0cbf05b1",
-        "title": "How escalating Saudi oil crisis could drive up prices everywhere",
-        "summary": "BBC Verify's Ben Chu examines what impact rising energy costs could have on the global economy.",
+        "id": "tech-caf4b791",
+        "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+        "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
         "bullets": [
-          "BBC Verify's Ben Chu examines what impact rising energy costs could have on the global economy."
+          "Man wins fight to block ICE threat over off-the-cuff angry email."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T16:06:50.000Z"
+        "publishedAt": "2026-09-16T17:06:06.000Z"
       },
       {
-        "id": "top-ba4a1e83",
-        "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-        "summary": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+        "id": "tech-0728669d",
+        "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+        "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
         "bullets": [
-          "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism."
+          "War damage to data centers exceeded what AWS services are designed to withstand."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T11:50:12.000Z"
+        "publishedAt": "2026-09-16T16:40:11.000Z"
       },
       {
         "id": "tech-9cf6c0bd",
@@ -7841,30 +7867,57 @@
         "publishedAt": "2026-09-16T14:19:01.000Z"
       },
       {
-        "id": "tech-e987ec81",
-        "title": "Lawmakers target Flock cameras with a threat to highway funding",
-        "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
+        "id": "ai-152448b8",
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
         "bullets": [
-          "A bipartisan bill would restrict Flock cameras to a handful of public safety uses."
+          "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs.",
+          "Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T14:03:39.000Z"
+        "publishedAt": "2026-09-16T21:07:24.000Z"
       },
       {
-        "id": "tech-835bb6a1",
-        "title": "How chimps teach their kids tool tricks",
-        "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+        "id": "ai-51484470",
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
         "bullets": [
-          "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior."
+          "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T04:00:39.000Z"
+        "publishedAt": "2026-09-16T20:12:00.000Z"
+      },
+      {
+        "id": "ai-20293763",
+        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+        "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+        "bullets": [
+          "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T18:25:25.000Z"
+      },
+      {
+        "id": "ai-03dfbd97",
+        "title": "Your AI agents can now control your Google Home devices",
+        "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+        "bullets": [
+          "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T17:00:00.000Z"
       },
       {
         "id": "ai-12011079",
@@ -7880,60 +7933,17 @@
         "publishedAt": "2026-09-16T16:30:00.000Z"
       },
       {
-        "id": "ai-5ea3a185",
-        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-        "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+        "id": "world-c9738ac9",
+        "title": "Photos show widespread damage at US sites from Iranian attacks",
+        "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
         "bullets": [
-          "The robotics industry is still waiting for their breakthrough into day-to-day life.",
-          "Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026.",
-          "Register before September 25 to save up to $200 on your pass."
+          "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T15:00:00.000Z"
-      },
-      {
-        "id": "ai-99ffe6e5",
-        "title": "Threads’ new features let podcasters promote shows and reach listeners",
-        "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-        "bullets": [
-          "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T14:24:58.000Z"
-      },
-      {
-        "id": "ai-b3ef827b",
-        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-        "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
-        "bullets": [
-          "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026.",
-          "Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T14:15:00.000Z"
-      },
-      {
-        "id": "ai-fb5e189f",
-        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-        "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-        "bullets": [
-          "Last day to book your exhibit table at Disrupt is September 18.",
-          "Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T14:00:00.000Z"
+        "publishedAt": "2026-09-16T18:36:16.000Z"
       },
       {
         "id": "world-0da6f7b2",
@@ -7951,28 +7961,28 @@
       {
         "id": "world-782ce757",
         "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+        "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
         "bullets": [
-          "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living."
+          "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T13:28:46.000Z"
+        "publishedAt": "2026-09-16T17:16:47.000Z"
       },
       {
-        "id": "world-2f59dde8",
-        "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-        "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+        "id": "world-9172288d",
+        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+        "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
         "bullets": [
-          "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
+          "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T12:26:00.000Z"
+        "publishedAt": "2026-09-16T19:59:57.000Z"
       },
       {
         "id": "world-79aecd95",
@@ -7986,19 +7996,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-16T10:02:05.000Z"
-      },
-      {
-        "id": "world-f08ed2ba",
-        "title": "Eight German state premiers back Merz amid speculation over future",
-        "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
-        "bullets": [
-          "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T14:50:26.000Z"
       }
     ]
   }
