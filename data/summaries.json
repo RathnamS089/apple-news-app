@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-08-18",
-    "generatedAt": "2026-08-18T21:40:48.229Z",
-    "articles": [
-      {
-        "id": "top-9fa16016",
-        "title": "Three dead after family get into difficulty in sea",
-        "summary": "A man, a woman and a teenage girl have died and a younger girl is in critical condition after getting into difficulty off the Sussex coast.",
-        "bullets": [
-          "A man, a woman and a teenage girl have died and a younger girl is in critical condition after getting into difficulty off the Sussex coast."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T21:30:56.000Z"
-      },
-      {
-        "id": "top-3143c37d",
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "bullets": [
-          "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T12:36:11.000Z"
-      },
-      {
-        "id": "top-015163eb",
-        "title": "British couple on honeymoon killed in helicopter crash on Greek island",
-        "summary": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
-        "bullets": [
-          "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T15:30:13.000Z"
-      },
-      {
-        "id": "top-3fb1ed2e",
-        "title": "PM says he's not embarrassed about hoax message exchange",
-        "summary": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
-        "bullets": [
-          "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T12:22:58.000Z"
-      },
-      {
-        "id": "top-72ebc180",
-        "title": "How soon will the drought be over?",
-        "summary": "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?",
-        "bullets": [
-          "Rain has returned to parts of the UK this week but is it enough to end the drought some regions are facing?"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T12:26:05.000Z"
-      },
-      {
-        "id": "tech-59ba44ea",
-        "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
-        "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
-        "bullets": [
-          "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T19:01:09.000Z"
-      },
-      {
-        "id": "tech-139917d0",
-        "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-        "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
-        "bullets": [
-          "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T18:11:26.000Z"
-      },
-      {
-        "id": "tech-6929ab1e",
-        "title": "Peacock raises prices by 18 percent after becoming profitable",
-        "summary": "Peacock's quarterly profitability isn't guaranteed.",
-        "bullets": [
-          "Peacock's quarterly profitability isn't guaranteed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T16:42:30.000Z"
-      },
-      {
-        "id": "tech-d9bea286",
-        "title": "The United States is about to wake up to the threat from China's space program",
-        "summary": "One big question: Will China assert territorial rights where its rover explores?",
-        "bullets": [
-          "One big question: Will China assert territorial rights where its rover explores?"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T16:30:07.000Z"
-      },
-      {
-        "id": "tech-75ab2c4a",
-        "title": "Fairphone's latest repairable phone is finally available in the US for $650",
-        "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
-        "bullets": [
-          "Fairphone sells components like the USB port and screen, all swappable with a single torx driver."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T16:05:00.000Z"
-      },
-      {
-        "id": "ai-b0fa1ad1",
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-        "bullets": [
-          "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T18:00:00.000Z"
-      },
-      {
-        "id": "ai-f60dd684",
-        "title": "Etched’s valuation doubles to $21B in a month",
-        "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-        "bullets": [
-          "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T17:21:58.000Z"
-      },
-      {
-        "id": "ai-cf49e507",
-        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-        "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-        "bullets": [
-          "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T16:19:10.000Z"
-      },
-      {
-        "id": "ai-94b92514",
-        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-        "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-        "bullets": [
-          "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T14:00:00.000Z"
-      },
-      {
-        "id": "ai-1f90b3f4",
-        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-        "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-        "bullets": [
-          "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T13:50:30.000Z"
-      },
-      {
-        "id": "world-3143c37d",
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "bullets": [
-          "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T12:36:11.000Z"
-      },
-      {
-        "id": "world-91d3044b",
-        "title": "Earthquake rocks Spain's historic Granada, injuring three",
-        "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-        "bullets": [
-          "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T17:15:39.000Z"
-      },
-      {
-        "id": "world-098a4e16",
-        "title": "Brazil's President Lula hails oil discovery near Amazon river",
-        "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-        "bullets": [
-          "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T13:13:54.000Z"
-      },
-      {
-        "id": "world-b0f16ef3",
-        "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-        "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-        "bullets": [
-          "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T17:54:46.000Z"
-      },
-      {
-        "id": "world-7b7ac470",
-        "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-        "summary": "Recovery efforts continue in what is the country's deadliest transport disaster.",
-        "bullets": [
-          "Recovery efforts continue in what is the country's deadliest transport disaster."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-18T12:04:11.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-19",
     "generatedAt": "2026-08-19T21:43:12.982Z",
     "articles": [
@@ -7996,6 +7730,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-16T10:02:05.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "generatedAt": "2026-09-17T04:56:35.166Z",
+    "articles": [
+      {
+        "id": "top-d714b9e0",
+        "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
+        "summary": "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death.",
+        "bullets": [
+          "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T20:46:30.000Z"
+      },
+      {
+        "id": "top-4c51b3de",
+        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "summary": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+        "bullets": [
+          "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T23:15:01.000Z"
+      },
+      {
+        "id": "top-cf84493b",
+        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+        "summary": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
+        "bullets": [
+          "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T23:50:56.000Z"
+      },
+      {
+        "id": "top-e576c5fe",
+        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
+        "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
+        "bullets": [
+          "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T04:09:17.000Z"
+      },
+      {
+        "id": "top-9d105417",
+        "title": "At least seven months of relentless rain needed to end drought, research shows",
+        "summary": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
+        "bullets": [
+          "Almost 75% of England remains in drought following an exceptionally dry spring and summer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T00:01:29.000Z"
+      },
+      {
+        "id": "tech-72b1ee24",
+        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+        "bullets": [
+          "Planned 2029 debut could make this Apple’s first enterprise server in decades."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T22:02:46.000Z"
+      },
+      {
+        "id": "tech-88e571ea",
+        "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+        "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
+        "bullets": [
+          "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T21:42:09.000Z"
+      },
+      {
+        "id": "tech-6dc928fc",
+        "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+        "summary": "Group plans to be largely out of commission for several weeks.",
+        "bullets": [
+          "Group plans to be largely out of commission for several weeks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T21:08:14.000Z"
+      },
+      {
+        "id": "tech-6eb0b366",
+        "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+        "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
+        "bullets": [
+          "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T20:44:41.000Z"
+      },
+      {
+        "id": "tech-9898e732",
+        "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+        "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
+        "bullets": [
+          "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T20:23:16.000Z"
+      },
+      {
+        "id": "ai-55d5eb2b",
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at...",
+        "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026....",
+        "bullets": [
+          "Learn more at TechCrunch Disrupt 2026.",
+          "Register before September 25 to save up to $200."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T03:30:00.000Z"
+      },
+      {
+        "id": "ai-07538441",
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+        "bullets": [
+          "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T00:58:49.000Z"
+      },
+      {
+        "id": "ai-6346e924",
+        "title": "Al Gore says the real AI risk isn’t data centers",
+        "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+        "bullets": [
+          "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T23:43:09.000Z"
+      },
+      {
+        "id": "ai-152448b8",
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+        "bullets": [
+          "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs.",
+          "Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T21:07:24.000Z"
+      },
+      {
+        "id": "ai-51484470",
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+        "bullets": [
+          "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T20:12:00.000Z"
+      },
+      {
+        "id": "world-ecad7397",
+        "title": "US interest rates raised for first time in three years",
+        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "bullets": [
+          "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T00:40:17.000Z"
+      },
+      {
+        "id": "world-f7b58f34",
+        "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+        "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+        "bullets": [
+          "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T23:41:57.000Z"
+      },
+      {
+        "id": "world-c9738ac9",
+        "title": "Photos show widespread damage at US sites from Iranian attacks",
+        "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+        "bullets": [
+          "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T18:36:16.000Z"
+      },
+      {
+        "id": "world-0da6f7b2",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+        "bullets": [
+          "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T00:32:05.000Z"
+      },
+      {
+        "id": "world-9172288d",
+        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+        "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+        "bullets": [
+          "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-16T19:59:57.000Z"
       }
     ]
   }
