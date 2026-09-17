@@ -7735,37 +7735,63 @@
   },
   {
     "date": "2026-09-17",
-    "generatedAt": "2026-09-17T04:56:35.166Z",
+    "generatedAt": "2026-09-17T11:46:06.407Z",
     "articles": [
       {
-        "id": "top-d714b9e0",
-        "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
-        "summary": "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death.",
+        "id": "top-d913f23a",
+        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+        "summary": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
         "bullets": [
-          "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death."
+          "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T20:46:30.000Z"
+        "publishedAt": "2026-09-17T06:15:35.000Z"
       },
       {
-        "id": "top-4c51b3de",
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
-        "summary": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+        "id": "top-57539af4",
+        "title": "Family claims dead man was not 'Putney pusher'",
+        "summary": "The family of Nicholas Brandram have insisted he was not the so-called \"Putney pusher\".",
         "bullets": [
-          "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year."
+          "The family of Nicholas Brandram have insisted he was not the so-called \"Putney pusher\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T23:15:01.000Z"
+        "publishedAt": "2026-09-17T11:45:23.000Z"
       },
       {
-        "id": "top-cf84493b",
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+        "id": "top-db018b8c",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
+        "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+        "bullets": [
+          "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T08:22:12.000Z"
+      },
+      {
+        "id": "top-e5928e74",
+        "title": "'Everybody was as one': Rector reflects on search effort for Noah Woods",
+        "summary": "The Reverend Chris Willis says the public reaction has been a \"thread of positivity\" in the sadness.",
+        "bullets": [
+          "The Reverend Chris Willis says the public reaction has been a \"thread of positivity\" in the sadness."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T08:13:34.000Z"
+      },
+      {
+        "id": "top-756478d8",
+        "title": "'I can get more time - that's everything': Breast cancer patients get life-extending drug",
         "summary": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
         "bullets": [
           "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available."
@@ -7775,32 +7801,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-16T23:50:56.000Z"
-      },
-      {
-        "id": "top-e576c5fe",
-        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
-        "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
-        "bullets": [
-          "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T04:09:17.000Z"
-      },
-      {
-        "id": "top-9d105417",
-        "title": "At least seven months of relentless rain needed to end drought, research shows",
-        "summary": "Almost 75% of England remains in drought following an exceptionally dry spring and summer.",
-        "bullets": [
-          "Almost 75% of England remains in drought following an exceptionally dry spring and summer."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T00:01:29.000Z"
       },
       {
         "id": "tech-72b1ee24",
@@ -7868,6 +7868,19 @@
         "publishedAt": "2026-09-16T20:23:16.000Z"
       },
       {
+        "id": "ai-c0f7da96",
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+        "bullets": [
+          "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T05:00:00.000Z"
+      },
+      {
         "id": "ai-55d5eb2b",
         "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at...",
         "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026....",
@@ -7922,82 +7935,69 @@
         "publishedAt": "2026-09-16T21:07:24.000Z"
       },
       {
-        "id": "ai-51484470",
-        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-        "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+        "id": "world-c0146f11",
+        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+        "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
         "bullets": [
-          "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T20:12:00.000Z"
-      },
-      {
-        "id": "world-ecad7397",
-        "title": "US interest rates raised for first time in three years",
-        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "bullets": [
-          "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut."
+          "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T00:40:17.000Z"
+        "publishedAt": "2026-09-17T05:00:18.000Z"
       },
       {
-        "id": "world-f7b58f34",
-        "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-        "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+        "id": "world-66108047",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
         "bullets": [
-          "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC."
+          "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T23:41:57.000Z"
+        "publishedAt": "2026-09-17T08:22:12.000Z"
       },
       {
-        "id": "world-c9738ac9",
-        "title": "Photos show widespread damage at US sites from Iranian attacks",
-        "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+        "id": "world-be37cfd9",
+        "title": "Ninth woman's body found as South African police investigate string of deaths",
+        "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
         "bullets": [
-          "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News."
+          "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T18:36:16.000Z"
+        "publishedAt": "2026-09-17T10:40:31.000Z"
       },
       {
-        "id": "world-0da6f7b2",
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+        "id": "world-72bc6802",
+        "title": "EU announces plan to restrict social media access for under-15s",
+        "summary": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
         "bullets": [
-          "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal."
+          "Under the plans, only children over 15 would be able to set up their own social media accounts."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T00:32:05.000Z"
+        "publishedAt": "2026-09-17T10:00:14.000Z"
       },
       {
-        "id": "world-9172288d",
-        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-        "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+        "id": "world-0c4debdf",
+        "title": "Aztec document goes on display in Mexico after 186 years abroad",
+        "summary": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
         "bullets": [
-          "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender."
+          "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-16T19:59:57.000Z"
+        "publishedAt": "2026-09-17T11:00:41.000Z"
       }
     ]
   }
