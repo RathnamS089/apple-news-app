@@ -7735,7 +7735,7 @@
   },
   {
     "date": "2026-09-17",
-    "generatedAt": "2026-09-17T17:02:51.941Z",
+    "generatedAt": "2026-09-17T21:26:01.348Z",
     "articles": [
       {
         "id": "top-65c5ac71",
@@ -7749,6 +7749,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-17T15:08:05.000Z"
+      },
+      {
+        "id": "top-0378099a",
+        "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+        "summary": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+        "bullets": [
+          "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T18:56:31.000Z"
       },
       {
         "id": "top-f039eb20",
@@ -7788,19 +7801,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-17T14:33:12.000Z"
-      },
-      {
-        "id": "top-349130f2",
-        "title": "Watch: Is Canada about to join the EU?",
-        "summary": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
-        "bullets": [
-          "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T16:18:35.000Z"
       },
       {
         "id": "tech-72b1ee24",
@@ -7868,70 +7868,69 @@
         "publishedAt": "2026-09-16T20:23:16.000Z"
       },
       {
-        "id": "ai-d9bc1c2f",
-        "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-        "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+        "id": "ai-3b392234",
+        "title": "The fix for rogue AI agents could be more AI",
+        "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
         "bullets": [
-          "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap..."
+          "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T14:06:14.000Z"
+        "publishedAt": "2026-09-17T20:34:47.000Z"
       },
       {
-        "id": "ai-3ceb4bbe",
-        "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-        "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+        "id": "ai-7ca1492b",
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
         "bullets": [
-          "Last day to book your exhibit table at Disrupt is September 18.",
-          "Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+          "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T14:00:00.000Z"
+        "publishedAt": "2026-09-17T20:34:24.000Z"
       },
       {
-        "id": "ai-5e971218",
-        "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-        "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+        "id": "ai-6c9d95d2",
+        "title": "Is the AI safety debate about safety or control?",
+        "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
         "bullets": [
-          "People can use these assistants to make restaurant reservations and cancel subscriptions."
+          "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T13:46:16.000Z"
+        "publishedAt": "2026-09-17T20:19:37.000Z"
       },
       {
-        "id": "ai-c17a7de8",
-        "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-        "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+        "id": "ai-f03a9c5b",
+        "title": "UN turns to Google to make its global data ready for AI agents",
+        "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
         "bullets": [
-          "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
+          "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T13:38:33.000Z"
+        "publishedAt": "2026-09-17T20:00:00.000Z"
       },
       {
-        "id": "ai-c0f7da96",
-        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-        "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
+        "id": "ai-32dcdb60",
+        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
         "bullets": [
-          "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,"
+          "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T05:00:00.000Z"
+        "publishedAt": "2026-09-17T19:46:08.000Z"
       },
       {
         "id": "world-3f45bfb5",
@@ -7960,43 +7959,43 @@
         "publishedAt": "2026-09-17T13:44:07.000Z"
       },
       {
-        "id": "world-c0146f11",
-        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-        "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+        "id": "world-3b0be0e9",
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
         "bullets": [
-          "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims."
+          "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T05:00:18.000Z"
+        "publishedAt": "2026-09-17T20:34:30.000Z"
       },
       {
-        "id": "world-66108047",
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-        "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+        "id": "world-80edaac5",
+        "title": "Hyrox athlete apologises for continuing race after soiling herself",
+        "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
         "bullets": [
-          "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\"."
+          "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T08:22:12.000Z"
+        "publishedAt": "2026-09-17T15:05:13.000Z"
       },
       {
-        "id": "world-ae62ada0",
-        "title": "Swedish PM Kristersson resigns after election loss",
-        "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+        "id": "world-2999ef9d",
+        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+        "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
         "bullets": [
-          "Left-wing opposition parties led by Magdalena Andersson look set to form the next government."
+          "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-17T12:41:05.000Z"
+        "publishedAt": "2026-09-17T20:44:53.000Z"
       }
     ]
   }
