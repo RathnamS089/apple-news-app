@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-19",
-    "generatedAt": "2026-08-19T21:43:12.982Z",
-    "articles": [
-      {
-        "id": "top-d0384e5e",
-        "title": "Prince Harry and Meghan to return to UK",
-        "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
-        "bullets": [
-          "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T21:41:30.000Z"
-      },
-      {
-        "id": "top-caa8ea2e",
-        "title": "Couple and teenage daughter who died in water off Shoreham named by police",
-        "summary": "Police say the family travelled from their home in London and went into the sea for a swim.",
-        "bullets": [
-          "Police say the family travelled from their home in London and went into the sea for a swim."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T18:45:51.000Z"
-      },
-      {
-        "id": "top-6af0c4a7",
-        "title": "Track defect found on approach to site of Lewes derailment, initial report says",
-        "summary": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
-        "bullets": [
-          "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T14:06:42.000Z"
-      },
-      {
-        "id": "top-9f5ebd67",
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-        "bullets": [
-          "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T15:33:32.000Z"
-      },
-      {
-        "id": "top-00b4dbf5",
-        "title": "People smuggler exposed by BBC investigation arrested and charged",
-        "summary": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
-        "bullets": [
-          "Twana Jamal Khdir has been arrested and charged with immigration offences."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T20:54:51.000Z"
-      },
-      {
-        "id": "tech-9452727c",
-        "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-        "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-        "bullets": [
-          "Framework says it's replacing some out-of-warranty AMD mainboards."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T20:21:59.000Z"
-      },
-      {
-        "id": "tech-dfee8d29",
-        "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-        "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-        "bullets": [
-          "Bankrupt Spirit accused of selling out workers in massive data sale to Google."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T20:04:41.000Z"
-      },
-      {
-        "id": "tech-6664da13",
-        "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
-        "summary": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
-        "bullets": [
-          "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T19:45:19.000Z"
-      },
-      {
-        "id": "tech-f115ac8f",
-        "title": "The floodgates are open after another Chinese company lands a reusable rocket",
-        "summary": "\"We will put the booster back into service for another flight as soon as possible.\"",
-        "bullets": [
-          "\"We will put the booster back into service for another flight as soon as possible.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T18:41:02.000Z"
-      },
-      {
-        "id": "tech-17cc36bc",
-        "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
-        "summary": "\"I will tear apart this forest and bring back what it took from me.\"",
-        "bullets": [
-          "\"I will tear apart this forest and bring back what it took from me.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T17:06:06.000Z"
-      },
-      {
-        "id": "ai-65d49d11",
-        "title": "AI was supposed to win people over by now — it hasn’t",
-        "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-        "bullets": [
-          "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T19:11:40.000Z"
-      },
-      {
-        "id": "ai-e3d0ef46",
-        "title": "Google packs Search and Gemini with new AI study tools",
-        "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-        "bullets": [
-          "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T19:00:00.000Z"
-      },
-      {
-        "id": "ai-97b2a4f3",
-        "title": "Researchers say OpenAI revoked their access to limited cyber program",
-        "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-        "bullets": [
-          "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T18:46:14.000Z"
-      },
-      {
-        "id": "ai-d8eaec1c",
-        "title": "Meet the startup helping Wall Street put a price on AI compute",
-        "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a...",
-        "bullets": [
-          "The AI buildout shows no signs of slowing.",
-          "And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T17:26:48.000Z"
-      },
-      {
-        "id": "ai-9dc19099",
-        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-        "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-        "bullets": [
-          "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T15:44:53.000Z"
-      },
-      {
-        "id": "world-9f5ebd67",
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-        "bullets": [
-          "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T15:33:32.000Z"
-      },
-      {
-        "id": "world-547358c6",
-        "title": "Sacked Ukrainian defence minister calls for presidential election",
-        "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-        "bullets": [
-          "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T20:34:39.000Z"
-      },
-      {
-        "id": "world-7b40b1e9",
-        "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-        "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-        "bullets": [
-          "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T17:16:28.000Z"
-      },
-      {
-        "id": "world-2ee45a4c",
-        "title": "South Korea shortens war games with US, citing Washington request",
-        "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "bullets": [
-          "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T17:39:49.000Z"
-      },
-      {
-        "id": "world-96ffc8cb",
-        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-        "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-        "bullets": [
-          "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-19T16:31:48.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-20",
     "generatedAt": "2026-08-20T21:45:17.636Z",
     "articles": [
@@ -7996,6 +7729,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-17T20:44:53.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "generatedAt": "2026-09-18T04:48:06.626Z",
+    "articles": [
+      {
+        "id": "top-3b0be0e9",
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "bullets": [
+          "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T20:34:30.000Z"
+      },
+      {
+        "id": "top-0378099a",
+        "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+        "summary": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+        "bullets": [
+          "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T02:55:18.000Z"
+      },
+      {
+        "id": "top-94616e10",
+        "title": "War may be coming. Are we psychologically ready?",
+        "summary": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it",
+        "bullets": [
+          "The military and government say the risk of conflict is growing, but we may not be mentally ready for it"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T23:22:17.000Z"
+      },
+      {
+        "id": "top-c6dba342",
+        "title": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
+        "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
+        "bullets": [
+          "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T00:38:03.000Z"
+      },
+      {
+        "id": "top-acc5a26b",
+        "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
+        "summary": "The mother of two young children was kidnapped last week in the middle of the day in the main city, Blantyre.",
+        "bullets": [
+          "The mother of two young children was kidnapped last week in the middle of the day in the main city, Blantyre."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T03:59:17.000Z"
+      },
+      {
+        "id": "tech-0cb90059",
+        "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+        "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+        "bullets": [
+          "The USPSTF sets insurance coverage from preventive services, like colonoscopies."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T22:31:28.000Z"
+      },
+      {
+        "id": "tech-1c745d4e",
+        "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+        "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+        "bullets": [
+          "Scaleout deploys decentralized AI-driven learning to military bases and drones."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T22:12:58.000Z"
+      },
+      {
+        "id": "tech-5cf52e95",
+        "title": "Google announces new experimental \"CC\" AI agent for families",
+        "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+        "bullets": [
+          "Multiple family members can share data to help the agent make plans and complete tasks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T20:24:34.000Z"
+      },
+      {
+        "id": "tech-a739f5b3",
+        "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+        "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+        "bullets": [
+          "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T20:10:41.000Z"
+      },
+      {
+        "id": "tech-fc84da70",
+        "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+        "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
+        "bullets": [
+          "Bill would help rightsholders obtain court orders to block foreign piracy sites."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T19:07:28.000Z"
+      },
+      {
+        "id": "ai-64235db0",
+        "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+        "summary": "The round values the data center giant at $30.9 billion.",
+        "bullets": [
+          "The round values the data center giant at $30.9 billion."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T23:25:52.000Z"
+      },
+      {
+        "id": "ai-43d15eee",
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to...",
+        "bullets": [
+          "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI.",
+          "\"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T23:21:17.000Z"
+      },
+      {
+        "id": "ai-e6bc5e48",
+        "title": "PrismML hopes its tiny LLM will change how we all use AI",
+        "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+        "bullets": [
+          "If AI lab PrismML isn't on your radar yet, it should be."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T22:34:09.000Z"
+      },
+      {
+        "id": "ai-197d2a47",
+        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+        "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+        "bullets": [
+          "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T22:14:59.000Z"
+      },
+      {
+        "id": "ai-3b392234",
+        "title": "The fix for rogue AI agents could be more AI",
+        "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+        "bullets": [
+          "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T20:34:47.000Z"
+      },
+      {
+        "id": "world-3f45bfb5",
+        "title": "Canada welcomes EU proposal to become 'associate member'",
+        "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+        "bullets": [
+          "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T12:27:18.000Z"
+      },
+      {
+        "id": "world-be37cfd9",
+        "title": "Ninth woman's body found as South African police investigate string of deaths",
+        "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+        "bullets": [
+          "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T13:44:07.000Z"
+      },
+      {
+        "id": "world-3b0be0e9",
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+        "bullets": [
+          "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T20:34:30.000Z"
+      },
+      {
+        "id": "world-2999ef9d",
+        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+        "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+        "bullets": [
+          "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T21:41:19.000Z"
+      },
+      {
+        "id": "world-a170b901",
+        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+        "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+        "bullets": [
+          "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-17T17:08:00.000Z"
       }
     ]
   }
