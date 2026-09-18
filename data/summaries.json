@@ -7734,8 +7734,21 @@
   },
   {
     "date": "2026-09-18",
-    "generatedAt": "2026-09-18T20:56:37.192Z",
+    "generatedAt": "2026-09-18T23:19:54.083Z",
     "articles": [
+      {
+        "id": "top-52d01643",
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "bullets": [
+          "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T22:58:55.000Z"
+      },
       {
         "id": "top-f74a41ef",
         "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
@@ -7748,19 +7761,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-18T15:59:59.000Z"
-      },
-      {
-        "id": "top-7e400c40",
-        "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
-        "summary": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
-        "bullets": [
-          "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T15:59:21.000Z"
       },
       {
         "id": "top-4ab00144",
@@ -7799,7 +7799,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T20:47:49.000Z"
+        "publishedAt": "2026-09-18T23:06:59.000Z"
+      },
+      {
+        "id": "tech-39f70c0c",
+        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "summary": "But the military's overall use of AI seems to be accelerating.",
+        "bullets": [
+          "But the military's overall use of AI seems to be accelerating."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T20:26:33.000Z"
       },
       {
         "id": "tech-7ac8c3ef",
@@ -7854,17 +7867,44 @@
         "publishedAt": "2026-09-18T17:28:50.000Z"
       },
       {
-        "id": "tech-4700b0ff",
-        "title": "Meet the winner of Nikon's Small World in Motion video contest",
-        "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
+        "id": "ai-9045e073",
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
         "bullets": [
-          "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder."
+          "AI leaders have been promising that AI is the key to curing human disease.",
+          "Anthropic researchers have also been warning that AI might kill us all."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T13:56:57.000Z"
+        "publishedAt": "2026-09-18T23:13:31.000Z"
+      },
+      {
+        "id": "ai-fc8e841f",
+        "title": "AI Hallucination Nearly Triggers US Military Operation",
+        "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+        "bullets": [
+          "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T23:12:32.000Z"
+      },
+      {
+        "id": "ai-01113bb5",
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+        "bullets": [
+          "Accenture is about to take on its most high-risk consulting engagement ever."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T21:44:33.000Z"
       },
       {
         "id": "ai-165b10f9",
@@ -7893,43 +7933,17 @@
         "publishedAt": "2026-09-18T18:49:30.000Z"
       },
       {
-        "id": "ai-2ade6acc",
-        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-        "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+        "id": "world-52d01643",
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
         "bullets": [
-          "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology..."
+          "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been..."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T17:59:53.000Z"
-      },
-      {
-        "id": "ai-8506baf4",
-        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-        "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-        "bullets": [
-          "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T17:33:50.000Z"
-      },
-      {
-        "id": "ai-cf86d563",
-        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-        "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between...",
-        "bullets": [
-          "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T17:09:56.000Z"
+        "publishedAt": "2026-09-18T22:58:55.000Z"
       },
       {
         "id": "world-97d436ea",
@@ -7955,7 +7969,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T20:47:49.000Z"
+        "publishedAt": "2026-09-18T23:06:59.000Z"
       },
       {
         "id": "world-d62ee8c7",
@@ -7982,19 +7996,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-18T20:17:50.000Z"
-      },
-      {
-        "id": "world-101b8d21",
-        "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-        "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-        "bullets": [
-          "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T11:49:46.000Z"
       }
     ]
   }
