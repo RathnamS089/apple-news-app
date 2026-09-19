@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-20",
-    "generatedAt": "2026-08-20T21:45:17.636Z",
-    "articles": [
-      {
-        "id": "top-30fcc6f8",
-        "title": "Harry and Meghan's return to UK reignites questions over security",
-        "summary": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
-        "bullets": [
-          "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T18:12:59.000Z"
-      },
-      {
-        "id": "top-6ff25acb",
-        "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
-        "summary": "The brothers have had a fractured relationship for a number of years.",
-        "bullets": [
-          "The brothers have had a fractured relationship for a number of years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T16:54:51.000Z"
-      },
-      {
-        "id": "top-001339c8",
-        "title": "Five key takeaways from GCSE results day 2026",
-        "summary": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
-        "bullets": [
-          "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T14:28:32.000Z"
-      },
-      {
-        "id": "top-0be5dd22",
-        "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-        "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-        "bullets": [
-          "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T19:52:48.000Z"
-      },
-      {
-        "id": "top-62bc0de4",
-        "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-        "summary": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor.",
-        "bullets": [
-          "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T17:48:07.000Z"
-      },
-      {
-        "id": "tech-1e1ad43f",
-        "title": "Roblox must make changes after failing to block adults creeping on kids",
-        "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
-        "bullets": [
-          "Roblox is first platform to submit to independent audits under the Online Safety Act."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T17:14:08.000Z"
-      },
-      {
-        "id": "tech-c68c4c68",
-        "title": "Genesis joins the giant electric SUV club with new GV90",
-        "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
-        "bullets": [
-          "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T14:35:58.000Z"
-      },
-      {
-        "id": "tech-e143ff02",
-        "title": "SpaceX’s orbital data centers would create a new category of e-waste",
-        "summary": "The yeetcycling math resembles asteroid mining in reverse.",
-        "bullets": [
-          "The yeetcycling math resembles asteroid mining in reverse."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T13:59:50.000Z"
-      },
-      {
-        "id": "tech-f384be07",
-        "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-        "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
-        "bullets": [
-          "People-search tool ClarityCheck left database containing more than 9M image files exposed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T13:29:54.000Z"
-      },
-      {
-        "id": "tech-cd4af814",
-        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-        "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-        "bullets": [
-          "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T13:00:35.000Z"
-      },
-      {
-        "id": "ai-cdb9f706",
-        "title": "Ok, can we actually cool data centers with our pee?",
-        "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
-        "bullets": [
-          "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T20:53:13.000Z"
-      },
-      {
-        "id": "ai-1e20d1fc",
-        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-        "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-        "bullets": [
-          "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T19:18:21.000Z"
-      },
-      {
-        "id": "ai-8a208a4f",
-        "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-        "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-        "bullets": [
-          "Runlayer and Rippling have dropped their lawsuits.",
-          "Rippling celebrated by releasing a competing product."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T19:15:05.000Z"
-      },
-      {
-        "id": "ai-c2c2802d",
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-        "bullets": [
-          "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T18:20:35.000Z"
-      },
-      {
-        "id": "ai-32969eee",
-        "title": "Grok keeps sending gibberish responses to users",
-        "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-        "bullets": [
-          "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T17:32:16.000Z"
-      },
-      {
-        "id": "world-0be5dd22",
-        "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-        "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-        "bullets": [
-          "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T19:52:48.000Z"
-      },
-      {
-        "id": "world-5efa59fe",
-        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-        "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-        "bullets": [
-          "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T18:55:14.000Z"
-      },
-      {
-        "id": "world-ea44e2c0",
-        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-        "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-        "bullets": [
-          "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T17:14:55.000Z"
-      },
-      {
-        "id": "world-988e1c05",
-        "title": "Dozens dead after boat capsizes in north-western Nigeria",
-        "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
-        "bullets": [
-          "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T20:27:36.000Z"
-      },
-      {
-        "id": "world-d4ff001e",
-        "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-        "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
-        "bullets": [
-          "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T20:08:29.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-21",
     "generatedAt": "2026-08-21T21:41:32.282Z",
     "articles": [
@@ -7996,6 +7729,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-18T20:17:50.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "generatedAt": "2026-09-19T04:41:15.983Z",
+    "articles": [
+      {
+        "id": "top-52d01643",
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "bullets": [
+          "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T22:58:55.000Z"
+      },
+      {
+        "id": "top-f74a41ef",
+        "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+        "summary": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+        "bullets": [
+          "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T15:59:59.000Z"
+      },
+      {
+        "id": "top-7e400c40",
+        "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+        "summary": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+        "bullets": [
+          "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T15:59:21.000Z"
+      },
+      {
+        "id": "top-23658794",
+        "title": "Flight chaos caused by software defect in space of a millisecond, report says",
+        "summary": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+        "bullets": [
+          "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T15:48:58.000Z"
+      },
+      {
+        "id": "top-b5efae03",
+        "title": "Billionaire Man United owner says he has lost confidence in the UK",
+        "summary": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
+        "bullets": [
+          "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T23:06:16.000Z"
+      },
+      {
+        "id": "tech-39f70c0c",
+        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "summary": "But the military's overall use of AI seems to be accelerating.",
+        "bullets": [
+          "But the military's overall use of AI seems to be accelerating."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T20:26:33.000Z"
+      },
+      {
+        "id": "tech-7ac8c3ef",
+        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+        "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+        "bullets": [
+          "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T19:20:50.000Z"
+      },
+      {
+        "id": "tech-3e7ca57d",
+        "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+        "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+        "bullets": [
+          "FCC rejects concerns about repressive governments buying influence over CBS owner."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T17:57:41.000Z"
+      },
+      {
+        "id": "tech-f800787e",
+        "title": "Finding the cells that put our brain to sleep",
+        "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+        "bullets": [
+          "Rare cells with widespread connectivity seem to be able to trigger sleep."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T17:49:50.000Z"
+      },
+      {
+        "id": "tech-700f6a23",
+        "title": "US government website used Chinese model the FBI called \"malicious\"",
+        "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+        "bullets": [
+          "The Federal Register website briefly used an open source Chinese AI search tool."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T17:28:50.000Z"
+      },
+      {
+        "id": "ai-61ccc03a",
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+        "bullets": [
+          "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T01:00:00.000Z"
+      },
+      {
+        "id": "ai-54eb5a73",
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+        "bullets": [
+          "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T00:12:07.000Z"
+      },
+      {
+        "id": "ai-38e412a2",
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "bullets": [
+          "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T23:25:01.000Z"
+      },
+      {
+        "id": "ai-9045e073",
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+        "bullets": [
+          "AI leaders have been promising that AI is the key to curing human disease.",
+          "Anthropic researchers have also been warning that AI might kill us all."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T23:13:31.000Z"
+      },
+      {
+        "id": "ai-2948bdf9",
+        "title": "AI hallucination nearly triggers US military operation",
+        "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+        "bullets": [
+          "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T23:12:32.000Z"
+      },
+      {
+        "id": "world-52d01643",
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "bullets": [
+          "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T22:58:55.000Z"
+      },
+      {
+        "id": "world-0ad713af",
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+        "bullets": [
+          "The US president has had a tense and fiery relationship with the US media throughout his political career."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T23:26:48.000Z"
+      },
+      {
+        "id": "world-2e2c69b1",
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+        "bullets": [
+          "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T04:27:11.000Z"
+      },
+      {
+        "id": "world-d328cac3",
+        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+        "summary": "Residents later received the all-clear after explosions were reported in the capital.",
+        "bullets": [
+          "Residents later received the all-clear after explosions were reported in the capital."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T04:20:47.000Z"
+      },
+      {
+        "id": "world-97d436ea",
+        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+        "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+        "bullets": [
+          "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T18:04:38.000Z"
       }
     ]
   }
