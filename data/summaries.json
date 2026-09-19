@@ -7734,20 +7734,20 @@
   },
   {
     "date": "2026-09-19",
-    "generatedAt": "2026-09-19T04:41:15.983Z",
+    "generatedAt": "2026-09-19T11:04:02.897Z",
     "articles": [
       {
         "id": "top-52d01643",
         "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
         "bullets": [
-          "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been..."
+          "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T22:58:55.000Z"
+        "publishedAt": "2026-09-19T11:01:34.000Z"
       },
       {
         "id": "top-f74a41ef",
@@ -7776,19 +7776,6 @@
         "publishedAt": "2026-09-18T15:59:21.000Z"
       },
       {
-        "id": "top-23658794",
-        "title": "Flight chaos caused by software defect in space of a millisecond, report says",
-        "summary": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-        "bullets": [
-          "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T15:48:58.000Z"
-      },
-      {
         "id": "top-b5efae03",
         "title": "Billionaire Man United owner says he has lost confidence in the UK",
         "summary": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
@@ -7800,6 +7787,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-18T23:06:16.000Z"
+      },
+      {
+        "id": "top-69b70ef5",
+        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+        "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+        "bullets": [
+          "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T23:04:41.000Z"
       },
       {
         "id": "tech-39f70c0c",
@@ -7935,15 +7935,15 @@
       {
         "id": "world-52d01643",
         "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
         "bullets": [
-          "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been..."
+          "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T22:58:55.000Z"
+        "publishedAt": "2026-09-19T11:01:34.000Z"
       },
       {
         "id": "world-0ad713af",
@@ -7956,7 +7956,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T23:26:48.000Z"
+        "publishedAt": "2026-09-19T05:36:36.000Z"
       },
       {
         "id": "world-2e2c69b1",
@@ -7972,30 +7972,30 @@
         "publishedAt": "2026-09-19T04:27:11.000Z"
       },
       {
-        "id": "world-d328cac3",
-        "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-        "summary": "Residents later received the all-clear after explosions were reported in the capital.",
+        "id": "world-5a8689e4",
+        "title": "Trump signs sweeping Russia sanctions bill",
+        "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
         "bullets": [
-          "Residents later received the all-clear after explosions were reported in the capital."
+          "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T04:20:47.000Z"
+        "publishedAt": "2026-09-18T22:05:47.000Z"
       },
       {
-        "id": "world-97d436ea",
-        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-        "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+        "id": "world-263afc85",
+        "title": "Grim discoveries of murdered women spark fear in South Africa",
+        "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
         "bullets": [
-          "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
+          "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T18:04:38.000Z"
+        "publishedAt": "2026-09-18T23:04:41.000Z"
       }
     ]
   }
