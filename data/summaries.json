@@ -7734,20 +7734,20 @@
   },
   {
     "date": "2026-09-19",
-    "generatedAt": "2026-09-19T20:44:07.487Z",
+    "generatedAt": "2026-09-19T23:09:37.274Z",
     "articles": [
       {
-        "id": "top-fbe753fe",
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+        "id": "top-b540cc93",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
         "bullets": [
-          "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
+          "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T11:36:55.000Z"
+        "publishedAt": "2026-09-19T20:16:07.000Z"
       },
       {
         "id": "top-fb3a5512",
@@ -7763,17 +7763,17 @@
         "publishedAt": "2026-09-19T20:11:35.000Z"
       },
       {
-        "id": "top-b540cc93",
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+        "id": "top-fbe753fe",
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+        "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
         "bullets": [
-          "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues."
+          "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T20:16:07.000Z"
+        "publishedAt": "2026-09-19T23:00:27.000Z"
       },
       {
         "id": "top-7f31b1fd",
@@ -7789,17 +7789,17 @@
         "publishedAt": "2026-09-19T18:03:30.000Z"
       },
       {
-        "id": "top-6a784d33",
-        "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
-        "summary": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+        "id": "top-8063c56c",
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "summary": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
         "bullets": [
-          "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book."
+          "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-18T15:59:21.000Z"
+        "publishedAt": "2026-09-19T21:27:06.000Z"
       },
       {
         "id": "tech-d746bafa",
@@ -7880,8 +7880,8 @@
         "publishedAt": "2026-09-19T20:39:13.000Z"
       },
       {
-        "id": "ai-29703ebc",
-        "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+        "id": "ai-6e88f47c",
+        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
         "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
         "bullets": [
           "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
@@ -7932,6 +7932,19 @@
         "publishedAt": "2026-09-19T15:00:00.000Z"
       },
       {
+        "id": "world-b540cc93",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "bullets": [
+          "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T20:16:07.000Z"
+      },
+      {
         "id": "world-fbe753fe",
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
@@ -7942,20 +7955,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T11:36:55.000Z"
+        "publishedAt": "2026-09-19T23:00:27.000Z"
       },
       {
-        "id": "world-b540cc93",
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+        "id": "world-0d5bfb35",
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
         "bullets": [
-          "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues."
+          "Students spent years collecting evidence against their Indonesian principal, before falling in love."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T20:16:07.000Z"
+        "publishedAt": "2026-09-19T23:01:38.000Z"
       },
       {
         "id": "world-e7b4b6a9",
@@ -7982,19 +7995,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-19T14:05:01.000Z"
-      },
-      {
-        "id": "world-2e2c69b1",
-        "title": "Google's Gemini AI hacked three companies in security test",
-        "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-        "bullets": [
-          "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-19T13:39:32.000Z"
       }
     ]
   }
