@@ -7734,20 +7734,20 @@
   },
   {
     "date": "2026-09-20",
-    "generatedAt": "2026-09-20T16:10:53.489Z",
+    "generatedAt": "2026-09-20T20:52:02.431Z",
     "articles": [
       {
-        "id": "top-d7c3ab76",
-        "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
-        "summary": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+        "id": "top-bc587d68",
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
         "bullets": [
-          "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry..."
+          "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-20T12:23:05.000Z"
+        "publishedAt": "2026-09-20T20:21:40.000Z"
       },
       {
         "id": "top-3e4288f9",
@@ -7790,17 +7790,17 @@
         "publishedAt": "2026-09-20T10:45:39.000Z"
       },
       {
-        "id": "top-753da593",
-        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-        "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+        "id": "top-043f80f7",
+        "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+        "summary": "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump.",
         "bullets": [
-          "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
+          "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-20T04:49:11.000Z"
+        "publishedAt": "2026-09-20T17:25:49.000Z"
       },
       {
         "id": "tech-cfe04c48",
@@ -7868,6 +7868,59 @@
         "publishedAt": "2026-09-19T10:00:06.000Z"
       },
       {
+        "id": "ai-165b10f9",
+        "title": "World model companies are keeping a lot of secrets",
+        "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "bullets": [
+          "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T20:29:07.000Z"
+      },
+      {
+        "id": "ai-ea005370",
+        "title": "Is the AI industry really ready to slow down?",
+        "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+        "bullets": [
+          "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T18:56:04.000Z"
+      },
+      {
+        "id": "ai-f8d107e0",
+        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+        "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+        "bullets": [
+          "Vocci's lightweight ring costs $249, and might pose some privacy questions"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T18:32:52.000Z"
+      },
+      {
+        "id": "ai-8b73e417",
+        "title": "ScrollEd wants to turn textbooks into TikTok",
+        "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+        "bullets": [
+          "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes.",
+          "The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T18:00:00.000Z"
+      },
+      {
         "id": "ai-e7938598",
         "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
         "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
@@ -7882,56 +7935,17 @@
         "publishedAt": "2026-09-20T14:00:00.000Z"
       },
       {
-        "id": "ai-b835ed08",
-        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-        "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+        "id": "world-bc587d68",
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
         "bullets": [
-          "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+          "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T20:39:13.000Z"
-      },
-      {
-        "id": "ai-6e88f47c",
-        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-        "bullets": [
-          "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-19T19:57:47.000Z"
-      },
-      {
-        "id": "ai-412d984b",
-        "title": "Google’s Gemini is the latest AI model to hack other companies",
-        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-        "bullets": [
-          "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-19T17:30:00.000Z"
-      },
-      {
-        "id": "ai-9597abaa",
-        "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-        "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-        "bullets": [
-          "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-19T15:00:00.000Z"
+        "publishedAt": "2026-09-20T20:21:40.000Z"
       },
       {
         "id": "world-dbd5c776",
@@ -7960,21 +7974,8 @@
         "publishedAt": "2026-09-20T04:49:11.000Z"
       },
       {
-        "id": "world-0568ea05",
-        "title": "German elections under way which could decide fate of Chancellor Merz",
-        "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
-        "bullets": [
-          "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-20T07:57:32.000Z"
-      },
-      {
-        "id": "world-4598e9f1",
-        "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+        "id": "world-02f4cccb",
+        "title": "Trump says triumphal arch will be military complex with drones and snipers",
         "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
         "bullets": [
           "Trump said the updated plans were at the request of the US military and for national security purposes."
@@ -7983,7 +7984,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-20T13:50:51.000Z"
+        "publishedAt": "2026-09-20T16:36:43.000Z"
       },
       {
         "id": "world-b540cc93",
