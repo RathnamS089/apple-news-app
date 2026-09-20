@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-08-21",
-    "generatedAt": "2026-08-21T21:41:32.282Z",
-    "articles": [
-      {
-        "id": "top-cde65522",
-        "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
-        "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
-        "bullets": [
-          "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T17:18:41.000Z"
-      },
-      {
-        "id": "top-26aa1fb6",
-        "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-        "summary": "She is the fourth person to die after her family got into difficulty in water in Shoreham.",
-        "bullets": [
-          "She is the fourth person to die after her family got into difficulty in water in Shoreham."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T21:38:53.000Z"
-      },
-      {
-        "id": "top-865249a8",
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
-        "bullets": [
-          "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T19:49:56.000Z"
-      },
-      {
-        "id": "top-806601fa",
-        "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-        "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
-        "bullets": [
-          "This would be Meghan's first significant acting role since her marriage to Prince Harry."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T18:29:31.000Z"
-      },
-      {
-        "id": "top-3883001f",
-        "title": "Watch: How 'strongest' El Niño could affect weather around the world",
-        "summary": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.",
-        "bullets": [
-          "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T15:33:28.000Z"
-      },
-      {
-        "id": "tech-e34acb84",
-        "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-        "summary": "The private Android-based OS will expand beyond Pixels next year.",
-        "bullets": [
-          "The private Android-based OS will expand beyond Pixels next year."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T19:32:29.000Z"
-      },
-      {
-        "id": "tech-b65b1919",
-        "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-        "summary": "Logitech increased prices by up to 25 percent last year.",
-        "bullets": [
-          "Logitech increased prices by up to 25 percent last year."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T19:04:41.000Z"
-      },
-      {
-        "id": "tech-be27cd76",
-        "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
-        "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
-        "bullets": [
-          "Chinese safety regulators have cracked down on doors that don't open in a crash."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T18:07:15.000Z"
-      },
-      {
-        "id": "tech-32681cc6",
-        "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
-        "summary": "Romania blew up drone boat to protect lives of several hundred rig workers.",
-        "bullets": [
-          "Romania blew up drone boat to protect lives of several hundred rig workers."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T16:48:59.000Z"
-      },
-      {
-        "id": "tech-43eb09df",
-        "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
-        "summary": "Some Americans fear the FTC may be thinking about personalized pricing all wrong.",
-        "bullets": [
-          "Some Americans fear the FTC may be thinking about personalized pricing all wrong."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T16:38:25.000Z"
-      },
-      {
-        "id": "ai-eb34c5eb",
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-        "bullets": [
-          "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T19:43:39.000Z"
-      },
-      {
-        "id": "ai-eacc9f74",
-        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-        "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has...",
-        "bullets": [
-          "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T14:00:00.000Z"
-      },
-      {
-        "id": "ai-eac2d276",
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "summary": "There's about to be a big fight to secure access to space.",
-        "bullets": [
-          "There's about to be a big fight to secure access to space."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T14:00:00.000Z"
-      },
-      {
-        "id": "ai-43ebb463",
-        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-        "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-        "bullets": [
-          "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T00:13:44.000Z"
-      },
-      {
-        "id": "ai-69178687",
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-        "bullets": [
-          "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-20T22:36:37.000Z"
-      },
-      {
-        "id": "world-63f25b94",
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "bullets": [
-          "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T05:00:57.000Z"
-      },
-      {
-        "id": "world-865249a8",
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
-        "bullets": [
-          "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T19:49:56.000Z"
-      },
-      {
-        "id": "world-399ca126",
-        "title": "One killed in sword attack at Swedish school",
-        "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-        "bullets": [
-          "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T21:03:24.000Z"
-      },
-      {
-        "id": "world-1bb2e21e",
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-        "bullets": [
-          "Three activists were accused of inciting others to subvert state power under the China-introduced law."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T05:47:32.000Z"
-      },
-      {
-        "id": "world-40537e14",
-        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-        "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-        "bullets": [
-          "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T15:58:57.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-22",
     "generatedAt": "2026-08-22T21:38:24.551Z",
     "articles": [
@@ -7995,6 +7729,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-19T14:05:01.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "generatedAt": "2026-09-20T04:57:19.055Z",
+    "articles": [
+      {
+        "id": "top-cdf9206b",
+        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+        "bullets": [
+          "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T04:49:11.000Z"
+      },
+      {
+        "id": "top-b540cc93",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "bullets": [
+          "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T23:49:26.000Z"
+      },
+      {
+        "id": "top-fb3a5512",
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+        "summary": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "bullets": [
+          "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T20:11:35.000Z"
+      },
+      {
+        "id": "top-fbe753fe",
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+        "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+        "bullets": [
+          "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T23:00:27.000Z"
+      },
+      {
+        "id": "top-8063c56c",
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "summary": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+        "bullets": [
+          "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T21:27:06.000Z"
+      },
+      {
+        "id": "tech-d746bafa",
+        "title": "Learning another language may be one of the best ways to keep your brain healthy",
+        "summary": "Research suggests that bilingualism can offer cognitive benefits.",
+        "bullets": [
+          "Research suggests that bilingualism can offer cognitive benefits."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T11:10:43.000Z"
+      },
+      {
+        "id": "tech-9c438cd9",
+        "title": "Rings around a tiny body have changed over the past decade",
+        "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+        "bullets": [
+          "Chariklo is only about 250 km across, but it has two rings, and they're changing."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T10:00:06.000Z"
+      },
+      {
+        "id": "tech-39f70c0c",
+        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "summary": "But the military's overall use of AI seems to be accelerating.",
+        "bullets": [
+          "But the military's overall use of AI seems to be accelerating."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T20:26:33.000Z"
+      },
+      {
+        "id": "tech-7ac8c3ef",
+        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+        "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+        "bullets": [
+          "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T19:20:50.000Z"
+      },
+      {
+        "id": "tech-3e7ca57d",
+        "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+        "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+        "bullets": [
+          "FCC rejects concerns about repressive governments buying influence over CBS owner."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-18T17:57:41.000Z"
+      },
+      {
+        "id": "ai-b835ed08",
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+        "bullets": [
+          "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T20:39:13.000Z"
+      },
+      {
+        "id": "ai-6e88f47c",
+        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+        "bullets": [
+          "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T19:57:47.000Z"
+      },
+      {
+        "id": "ai-412d984b",
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+        "bullets": [
+          "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T17:30:00.000Z"
+      },
+      {
+        "id": "ai-9597abaa",
+        "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+        "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+        "bullets": [
+          "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T15:00:00.000Z"
+      },
+      {
+        "id": "ai-a1cfe222",
+        "title": "AI safety conversations have gotten unbelievable",
+        "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+        "bullets": [
+          "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T15:00:00.000Z"
+      },
+      {
+        "id": "world-cdf9206b",
+        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+        "bullets": [
+          "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T04:49:11.000Z"
+      },
+      {
+        "id": "world-b540cc93",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "bullets": [
+          "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T23:49:26.000Z"
+      },
+      {
+        "id": "world-fbe753fe",
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+        "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+        "bullets": [
+          "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T23:00:27.000Z"
+      },
+      {
+        "id": "world-0d5bfb35",
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+        "bullets": [
+          "Students spent years collecting evidence against their Indonesian principal, before falling in love."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T23:01:38.000Z"
+      },
+      {
+        "id": "world-e7b4b6a9",
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+        "bullets": [
+          "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T19:13:49.000Z"
       }
     ]
   }
