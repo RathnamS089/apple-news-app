@@ -7734,14 +7734,53 @@
   },
   {
     "date": "2026-09-20",
-    "generatedAt": "2026-09-20T04:57:19.055Z",
+    "generatedAt": "2026-09-20T11:28:45.728Z",
     "articles": [
       {
-        "id": "top-cdf9206b",
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+        "id": "top-d7c3ab76",
+        "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+        "summary": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
         "bullets": [
-          "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour."
+          "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T05:00:07.000Z"
+      },
+      {
+        "id": "top-cd45a0b9",
+        "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+        "summary": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.",
+        "bullets": [
+          "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T05:06:37.000Z"
+      },
+      {
+        "id": "top-641bfe37",
+        "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+        "summary": "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.",
+        "bullets": [
+          "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T10:45:39.000Z"
+      },
+      {
+        "id": "top-753da593",
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+        "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+        "bullets": [
+          "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
@@ -7750,56 +7789,56 @@
         "publishedAt": "2026-09-20T04:49:11.000Z"
       },
       {
-        "id": "top-b540cc93",
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "id": "top-69368a7c",
+        "title": "The deadly new drugs making Scotland's fight against addiction even harder",
+        "summary": "Experts warn potent new substances are making an already deadly crisis more dangerous.",
         "bullets": [
-          "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the..."
+          "Experts warn potent new substances are making an already deadly crisis more dangerous."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T23:49:26.000Z"
+        "publishedAt": "2026-09-20T08:04:55.000Z"
       },
       {
-        "id": "top-fb3a5512",
-        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
-        "summary": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+        "id": "tech-cfe04c48",
+        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+        "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
         "bullets": [
-          "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel."
+          "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T20:11:35.000Z"
+        "publishedAt": "2026-09-20T11:07:00.000Z"
       },
       {
-        "id": "top-fbe753fe",
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+        "id": "tech-23ddc1c5",
+        "title": "Don't call it an SUV: The Ferrari Purosangue review",
+        "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
         "bullets": [
-          "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
+          "Unlike previous Ferrari four-seaters, this one is better for humans than cargo."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T23:00:27.000Z"
+        "publishedAt": "2026-09-20T10:00:02.000Z"
       },
       {
-        "id": "top-8063c56c",
-        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
-        "summary": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman.",
+        "id": "tech-0d98d576",
+        "title": "T. rex teeth indicate it ran as warm as an elephant",
+        "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
         "bullets": [
-          "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman."
+          "Isotope ratios provide a hint that the giants were actively managing temperatures."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-19T21:27:06.000Z"
+        "publishedAt": "2026-09-20T09:00:11.000Z"
       },
       {
         "id": "tech-d746bafa",
@@ -7826,45 +7865,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-09-19T10:00:06.000Z"
-      },
-      {
-        "id": "tech-39f70c0c",
-        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-        "summary": "But the military's overall use of AI seems to be accelerating.",
-        "bullets": [
-          "But the military's overall use of AI seems to be accelerating."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T20:26:33.000Z"
-      },
-      {
-        "id": "tech-7ac8c3ef",
-        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-        "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-        "bullets": [
-          "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T19:20:50.000Z"
-      },
-      {
-        "id": "tech-3e7ca57d",
-        "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
-        "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
-        "bullets": [
-          "FCC rejects concerns about repressive governments buying influence over CBS owner."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T17:57:41.000Z"
       },
       {
         "id": "ai-b835ed08",
@@ -7932,17 +7932,43 @@
         "publishedAt": "2026-09-19T15:00:00.000Z"
       },
       {
-        "id": "world-cdf9206b",
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-        "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+        "id": "world-641bfe37",
+        "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+        "summary": "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.",
         "bullets": [
-          "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour."
+          "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T10:45:39.000Z"
+      },
+      {
+        "id": "world-753da593",
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+        "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+        "bullets": [
+          "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-20T04:49:11.000Z"
+      },
+      {
+        "id": "world-0568ea05",
+        "title": "German elections under way which could decide fate of Chancellor Merz",
+        "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+        "bullets": [
+          "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T07:57:32.000Z"
       },
       {
         "id": "world-b540cc93",
@@ -7969,32 +7995,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-19T23:00:27.000Z"
-      },
-      {
-        "id": "world-0d5bfb35",
-        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-        "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-        "bullets": [
-          "Students spent years collecting evidence against their Indonesian principal, before falling in love."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-19T23:01:38.000Z"
-      },
-      {
-        "id": "world-e7b4b6a9",
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "bullets": [
-          "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-19T19:13:49.000Z"
       }
     ]
   }
