@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "generatedAt": "2026-08-22T21:38:24.551Z",
-    "articles": [
-      {
-        "id": "top-a5943de4",
-        "title": "Two police officers among seven killed in wrong-way car crash",
-        "summary": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
-        "bullets": [
-          "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T19:28:14.000Z"
-      },
-      {
-        "id": "top-7fe1784f",
-        "title": "Video appears to show police chase minutes before fatal A66 crash",
-        "summary": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
-        "bullets": [
-          "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T20:14:04.000Z"
-      },
-      {
-        "id": "top-4f643e48",
-        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-        "bullets": [
-          "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T20:10:00.000Z"
-      },
-      {
-        "id": "top-0e1ea547",
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-        "bullets": [
-          "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T13:13:16.000Z"
-      },
-      {
-        "id": "top-679db45a",
-        "title": "How this 1960s ex-council house is managing to stay cool without air con",
-        "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-        "bullets": [
-          "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T23:56:48.000Z"
-      },
-      {
-        "id": "tech-517583a2",
-        "title": "Putting mice into hibernation causes a major loss of synapses",
-        "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-        "bullets": [
-          "Hibernation cuts down on synapses, but mice seem to retain memories anyway."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T11:22:32.000Z"
-      },
-      {
-        "id": "tech-e8c798b5",
-        "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-        "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-        "bullets": [
-          "Lands free of roads are under threat from the Trump administration’s proposed rollback."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T11:08:53.000Z"
-      },
-      {
-        "id": "tech-e17be3a7",
-        "title": "Trump's space transportation policy calls for new spaceport on federal land",
-        "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-        "bullets": [
-          "\"We probably need another site that's capable of heavy and super heavy launch capability.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T23:32:17.000Z"
-      },
-      {
-        "id": "tech-8de8aa2c",
-        "title": "Thunder + fiber-optic cabling used for seismic imaging",
-        "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
-        "bullets": [
-          "Thunderstorms make seismic waves that can be used to find sub-surface features."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T20:26:46.000Z"
-      },
-      {
-        "id": "tech-808e8676",
-        "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-        "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
-        "bullets": [
-          "Renters say hidden Zillow listings make it harder to afford living in New York City."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T20:10:50.000Z"
-      },
-      {
-        "id": "ai-1e26df9f",
-        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating...",
-        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-        "bullets": [
-          "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T19:00:00.000Z"
-      },
-      {
-        "id": "ai-41dec09d",
-        "title": "OpenAI says California should strengthen its AI safety bill",
-        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-        "bullets": [
-          "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T16:30:34.000Z"
-      },
-      {
-        "id": "ai-1c9cef7d",
-        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-        "bullets": [
-          "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T16:00:00.000Z"
-      },
-      {
-        "id": "ai-ca49835f",
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-        "bullets": [
-          "Anthropic forbids its Claude models from generating sexually explicit content.",
-          "But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T23:07:25.000Z"
-      },
-      {
-        "id": "ai-2136bce0",
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-        "bullets": [
-          "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T22:37:38.000Z"
-      },
-      {
-        "id": "world-ba3722a9",
-        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-        "bullets": [
-          "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T20:10:00.000Z"
-      },
-      {
-        "id": "world-438687a3",
-        "title": "Carney faces crucial test after walking away from Trump's deal",
-        "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-        "bullets": [
-          "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T20:02:46.000Z"
-      },
-      {
-        "id": "world-49a6c34f",
-        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-        "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-        "bullets": [
-          "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T22:36:12.000Z"
-      },
-      {
-        "id": "world-805d4a26",
-        "title": "Fourteen killed in strike on Myanmar monastery",
-        "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-        "bullets": [
-          "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T13:48:06.000Z"
-      },
-      {
-        "id": "world-0e1ea547",
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-        "bullets": [
-          "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T13:13:16.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-23",
     "generatedAt": "2026-08-23T21:37:28.192Z",
     "articles": [
@@ -7946,6 +7679,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-20T20:21:40.000Z"
+      },
+      {
+        "id": "world-dbd5c776",
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+        "bullets": [
+          "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T10:45:39.000Z"
+      },
+      {
+        "id": "world-753da593",
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+        "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+        "bullets": [
+          "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T04:49:11.000Z"
+      },
+      {
+        "id": "world-02f4cccb",
+        "title": "Trump says triumphal arch will be military complex with drones and snipers",
+        "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+        "bullets": [
+          "Trump said the updated plans were at the request of the US military and for national security purposes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T16:36:43.000Z"
+      },
+      {
+        "id": "world-f831db52",
+        "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+        "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+        "bullets": [
+          "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T21:17:22.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "generatedAt": "2026-09-21T05:00:39.371Z",
+    "articles": [
+      {
+        "id": "top-8734095c",
+        "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+        "summary": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
+        "bullets": [
+          "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T22:43:31.000Z"
+      },
+      {
+        "id": "top-bc587d68",
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+        "bullets": [
+          "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T03:22:44.000Z"
+      },
+      {
+        "id": "top-efca01e8",
+        "title": "Union calls for halt to graded Ofsted inspections over health concerns",
+        "summary": "The National Association of Head Teachers says inspections in England may pose a \"risk to life\" for school leaders.",
+        "bullets": [
+          "The National Association of Head Teachers says inspections in England may pose a \"risk to life\" for school leaders."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T23:02:05.000Z"
+      },
+      {
+        "id": "top-b2425aa2",
+        "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+        "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+        "bullets": [
+          "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T04:00:38.000Z"
+      },
+      {
+        "id": "top-b032b11b",
+        "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+        "summary": "Speaking exclusively to the BBC, Prof Fonagy says being young is much harder now than it was.",
+        "bullets": [
+          "Speaking exclusively to the BBC, Prof Fonagy says being young is much harder now than it was."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T04:00:05.000Z"
+      },
+      {
+        "id": "tech-cfe04c48",
+        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+        "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+        "bullets": [
+          "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T11:07:00.000Z"
+      },
+      {
+        "id": "tech-23ddc1c5",
+        "title": "Don't call it an SUV: The Ferrari Purosangue review",
+        "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
+        "bullets": [
+          "Unlike previous Ferrari four-seaters, this one is better for humans than cargo."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T10:00:02.000Z"
+      },
+      {
+        "id": "tech-0d98d576",
+        "title": "T. rex teeth indicate it ran as warm as an elephant",
+        "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+        "bullets": [
+          "Isotope ratios provide a hint that the giants were actively managing temperatures."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T09:00:11.000Z"
+      },
+      {
+        "id": "tech-d746bafa",
+        "title": "Learning another language may be one of the best ways to keep your brain healthy",
+        "summary": "Research suggests that bilingualism can offer cognitive benefits.",
+        "bullets": [
+          "Research suggests that bilingualism can offer cognitive benefits."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T11:10:43.000Z"
+      },
+      {
+        "id": "tech-9c438cd9",
+        "title": "Rings around a tiny body have changed over the past decade",
+        "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+        "bullets": [
+          "Chariklo is only about 250 km across, but it has two rings, and they're changing."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-19T10:00:06.000Z"
+      },
+      {
+        "id": "ai-0e7fb401",
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+        "bullets": [
+          "Current ticket pricing ends in 6 days on Sept.",
+          "Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T21:41:08.000Z"
+      },
+      {
+        "id": "ai-165b10f9",
+        "title": "World model companies are keeping a lot of secrets",
+        "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "bullets": [
+          "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T20:29:07.000Z"
+      },
+      {
+        "id": "ai-ea005370",
+        "title": "Is the AI industry really ready to slow down?",
+        "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+        "bullets": [
+          "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T18:56:04.000Z"
+      },
+      {
+        "id": "ai-f8d107e0",
+        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+        "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+        "bullets": [
+          "Vocci's lightweight ring costs $249, and might pose some privacy questions"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T18:32:52.000Z"
+      },
+      {
+        "id": "ai-8b73e417",
+        "title": "ScrollEd wants to turn textbooks into TikTok",
+        "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+        "bullets": [
+          "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes.",
+          "The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-20T18:00:00.000Z"
+      },
+      {
+        "id": "world-bc587d68",
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+        "bullets": [
+          "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T03:22:44.000Z"
       },
       {
         "id": "world-dbd5c776",
