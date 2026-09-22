@@ -7741,8 +7741,21 @@
   },
   {
     "date": "2026-09-22",
-    "generatedAt": "2026-09-22T16:59:48.550Z",
+    "generatedAt": "2026-09-22T21:22:15.590Z",
     "articles": [
+      {
+        "id": "top-24ce2610",
+        "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+        "summary": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+        "bullets": [
+          "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T19:15:57.000Z"
+      },
       {
         "id": "top-8cf55143",
         "title": "Plot targeting Manchester's Jewish community disrupted, say police",
@@ -7754,20 +7767,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T16:52:09.000Z"
-      },
-      {
-        "id": "top-77508867",
-        "title": "New EU industry rules would damage UK, warns Burnham",
-        "summary": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
-        "bullets": [
-          "The prime minister says he will raise his concerns when he meets the European Commission President later."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T13:10:23.000Z"
+        "publishedAt": "2026-09-22T20:54:49.000Z"
       },
       {
         "id": "top-ccf5f23f",
@@ -7783,6 +7783,20 @@
         "publishedAt": "2026-09-22T14:29:31.000Z"
       },
       {
+        "id": "top-bbe7b440",
+        "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+        "summary": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
+        "bullets": [
+          "Princess Diana's brother apologised to Morgan for a factual error in his memoir.",
+          "Morgan said he is \"pursuing legal action\" against Spencer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T20:08:52.000Z"
+      },
+      {
         "id": "top-61c9934c",
         "title": "Father admits causing death of his son in hotel fall",
         "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
@@ -7796,82 +7810,108 @@
         "publishedAt": "2026-09-22T15:52:35.000Z"
       },
       {
-        "id": "top-52e0f72e",
-        "title": "Earl Spencer apologises to Piers Morgan over factual error in Diana book",
-        "summary": "The BBC understands the book's publisher, Penguin, will be amending the inaccuracy in future editions of the book.",
+        "id": "tech-8f14a253",
+        "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+        "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
         "bullets": [
-          "The BBC understands the book's publisher, Penguin, will be amending the inaccuracy in future editions of the book."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T16:13:17.000Z"
-      },
-      {
-        "id": "tech-8972c466",
-        "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
-        "summary": "Activision gets Halo, Obsidian becomes part of Bethesda, and more internal shake-ups.",
-        "bullets": [
-          "Activision gets Halo, Obsidian becomes part of Bethesda, and more internal shake-ups."
+          "Cities defend permit requirements, say ISPs aren't building networks fast enough."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T15:30:53.000Z"
+        "publishedAt": "2026-09-22T20:38:30.000Z"
       },
       {
-        "id": "tech-54e34ffd",
-        "title": "Protests for Germany’s car industry as job losses loom",
-        "summary": "A combination of Chinese competition and US tariffs is causing problems in Germany.",
+        "id": "tech-ded38962",
+        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+        "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
         "bullets": [
-          "A combination of Chinese competition and US tariffs is causing problems in Germany."
+          "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T14:40:47.000Z"
+        "publishedAt": "2026-09-22T19:45:47.000Z"
       },
       {
-        "id": "tech-ae7a0d7f",
-        "title": "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent",
-        "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals.",
+        "id": "tech-13495c3f",
+        "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+        "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
         "bullets": [
-          "Trump adopts Scalia’s ire for feds protecting populations of endangered animals."
+          "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T14:29:15.000Z"
+        "publishedAt": "2026-09-22T19:28:23.000Z"
       },
       {
-        "id": "tech-caacdec1",
-        "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
-        "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
+        "id": "tech-1ee465f8",
+        "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+        "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
         "bullets": [
-          "Dyson admits a component issue but won't say what's failing in its $500 toothbrush."
+          "You don't even need a Creative Cloud login to edit clips, but AI features cost extra."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T13:33:16.000Z"
+        "publishedAt": "2026-09-22T19:08:58.000Z"
       },
       {
-        "id": "tech-bc97108e",
-        "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
-        "summary": "\"There was absolutely a time where we were trying to make everyone happy.\"",
+        "id": "tech-f60e35eb",
+        "title": "Review: Resident Evil might just be the best gaming adaptation yet",
+        "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
         "bullets": [
-          "\"There was absolutely a time where we were trying to make everyone happy.\""
+          "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+        "sourceUrl": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T11:00:37.000Z"
+        "publishedAt": "2026-09-22T17:30:07.000Z"
+      },
+      {
+        "id": "ai-b8d00f6c",
+        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+        "bullets": [
+          "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T20:00:00.000Z"
+      },
+      {
+        "id": "ai-cfaf4ac1",
+        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+        "bullets": [
+          "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T19:09:11.000Z"
+      },
+      {
+        "id": "ai-c784929c",
+        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+        "bullets": [
+          "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T18:00:00.000Z"
       },
       {
         "id": "ai-f486c306",
@@ -7900,47 +7940,30 @@
         "publishedAt": "2026-09-22T15:00:00.000Z"
       },
       {
-        "id": "ai-dd58f635",
-        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-        "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+        "id": "world-6b6792ad",
+        "title": "US to build two military bases in Greenland under new deal with Denmark",
+        "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
         "bullets": [
-          "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS,...",
-          "Register before September 25 to save up to $200."
+          "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T15:00:00.000Z"
+        "publishedAt": "2026-09-22T18:43:29.000Z"
       },
       {
-        "id": "ai-4aac5fa0",
-        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-        "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+        "id": "world-1755e836",
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
+        "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
         "bullets": [
-          "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026.",
-          "Register before September 25 to save up to $200, plus get a second pass at 50% off."
+          "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T14:30:00.000Z"
-      },
-      {
-        "id": "ai-0238aa28",
-        "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-        "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-        "bullets": [
-          "We have reopened our exhibitor program for 1 more week.",
-          "Book your exhibit table by September 30 at 11:59 p.m.",
-          "PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T14:15:00.000Z"
+        "publishedAt": "2026-09-22T20:59:00.000Z"
       },
       {
         "id": "world-e70fddbe",
@@ -7953,7 +7976,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T14:03:20.000Z"
+        "publishedAt": "2026-09-22T19:47:44.000Z"
       },
       {
         "id": "world-f39f4a3d",
@@ -7969,43 +7992,17 @@
         "publishedAt": "2026-09-22T12:54:14.000Z"
       },
       {
-        "id": "world-b01ba0e2",
-        "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-        "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+        "id": "world-b879b38b",
+        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
         "bullets": [
-          "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked."
+          "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T13:49:22.000Z"
-      },
-      {
-        "id": "world-f3a798c4",
-        "title": "Eleven injured in shooting outside Turkish school",
-        "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
-        "bullets": [
-          "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T10:42:47.000Z"
-      },
-      {
-        "id": "world-2585359a",
-        "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-        "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
-        "bullets": [
-          "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T13:58:42.000Z"
+        "publishedAt": "2026-09-22T19:06:06.000Z"
       }
     ]
   }
