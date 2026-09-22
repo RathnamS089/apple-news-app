@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "generatedAt": "2026-08-23T21:37:28.192Z",
-    "articles": [
-      {
-        "id": "top-1d34b81c",
-        "title": "Families of two police officers killed in crash say they were heroes",
-        "summary": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.",
-        "bullets": [
-          "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T21:22:17.000Z"
-      },
-      {
-        "id": "top-698487a5",
-        "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
-        "summary": "Officers had been pursing a car before it went the wrong way down a dual carriageway.",
-        "bullets": [
-          "Officers had been pursing a car before it went the wrong way down a dual carriageway."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T21:05:43.000Z"
-      },
-      {
-        "id": "top-b566d930",
-        "title": "CrossCountry to provide full service on Monday after major disruption",
-        "summary": "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible.",
-        "bullets": [
-          "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T19:00:31.000Z"
-      },
-      {
-        "id": "top-c08d4237",
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-        "bullets": [
-          "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T20:19:36.000Z"
-      },
-      {
-        "id": "top-256c2981",
-        "title": "Reform says it will prioritise British-born young workers for social housing",
-        "summary": "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\".",
-        "bullets": [
-          "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T21:07:47.000Z"
-      },
-      {
-        "id": "tech-914c55fb",
-        "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-        "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-        "bullets": [
-          "\"The Chang’e 7 mission does not meet the conditions for launch.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T14:30:16.000Z"
-      },
-      {
-        "id": "tech-50e2f75c",
-        "title": "Volcanoes that made history",
-        "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-        "bullets": [
-          "Enormous eruptions altered Earth’s climate and societies all over the globe."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T11:02:54.000Z"
-      },
-      {
-        "id": "tech-517583a2",
-        "title": "Putting mice into hibernation causes a major loss of synapses",
-        "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-        "bullets": [
-          "Hibernation cuts down on synapses, but mice seem to retain memories anyway."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T11:22:32.000Z"
-      },
-      {
-        "id": "tech-e8c798b5",
-        "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-        "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-        "bullets": [
-          "Lands free of roads are under threat from the Trump administration’s proposed rollback."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T11:08:53.000Z"
-      },
-      {
-        "id": "tech-e17be3a7",
-        "title": "Trump's space transportation policy calls for new spaceport on federal land",
-        "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-        "bullets": [
-          "\"We probably need another site that's capable of heavy and super heavy launch capability.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-21T23:32:17.000Z"
-      },
-      {
-        "id": "ai-c29ca7bd",
-        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-        "bullets": [
-          "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T20:01:36.000Z"
-      },
-      {
-        "id": "ai-c2c2802d",
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-        "bullets": [
-          "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T19:14:08.000Z"
-      },
-      {
-        "id": "ai-e8d3a7ca",
-        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-        "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-        "bullets": [
-          "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T15:30:00.000Z"
-      },
-      {
-        "id": "ai-8497ae17",
-        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-        "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-        "bullets": [
-          "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their...",
-          "That seems illegal, right?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T15:00:00.000Z"
-      },
-      {
-        "id": "ai-6c9117bf",
-        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-        "bullets": [
-          "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-22T21:46:56.000Z"
-      },
-      {
-        "id": "world-1fd907fc",
-        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-        "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-        "bullets": [
-          "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T12:56:43.000Z"
-      },
-      {
-        "id": "world-cc793284",
-        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-        "bullets": [
-          "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T19:11:30.000Z"
-      },
-      {
-        "id": "world-30e14d83",
-        "title": "Guinea rubbish landfill collapse kills 30",
-        "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-        "bullets": [
-          "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T18:17:37.000Z"
-      },
-      {
-        "id": "world-4399c364",
-        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-        "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-        "bullets": [
-          "Representatives met in Switzerland to work out next steps to resolve the conflict."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T12:52:08.000Z"
-      },
-      {
-        "id": "world-3588c50c",
-        "title": "France links sharp rise in drownings to heatwaves",
-        "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-        "bullets": [
-          "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-23T17:39:33.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-24",
     "generatedAt": "2026-08-24T21:45:36.452Z",
     "articles": [
@@ -8003,6 +7736,276 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-21T14:06:12.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "generatedAt": "2026-09-22T00:08:53.416Z",
+    "articles": [
+      {
+        "id": "top-8ebe26f3",
+        "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+        "summary": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+        "bullets": [
+          "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T20:21:18.000Z"
+      },
+      {
+        "id": "top-13cb390a",
+        "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+        "summary": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+        "bullets": [
+          "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T21:36:39.000Z"
+      },
+      {
+        "id": "top-fd34183a",
+        "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+        "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+        "bullets": [
+          "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T14:14:16.000Z"
+      },
+      {
+        "id": "top-02f2b04c",
+        "title": "First UK charges brought over 1994 Rwanda genocide",
+        "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+        "bullets": [
+          "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T17:48:23.000Z"
+      },
+      {
+        "id": "top-5317f430",
+        "title": "Flights at major US airports delayed after cable cut by construction workers",
+        "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+        "bullets": [
+          "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T23:25:28.000Z"
+      },
+      {
+        "id": "tech-b1e45a0d",
+        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+        "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+        "bullets": [
+          "A simple ClickFix attack is only one way to completely hijack the new agent."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T22:24:38.000Z"
+      },
+      {
+        "id": "tech-245030ea",
+        "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+        "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+        "bullets": [
+          "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T21:07:05.000Z"
+      },
+      {
+        "id": "tech-8efe72c5",
+        "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+        "summary": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
+        "bullets": [
+          "The new carmaker is a joint venture between the Saudi PIF and Foxconn."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T20:55:36.000Z"
+      },
+      {
+        "id": "tech-af233863",
+        "title": "Google confirms Gemini models hacked three companies in May 2026",
+        "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+        "bullets": [
+          "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T16:57:26.000Z"
+      },
+      {
+        "id": "tech-db76f1e4",
+        "title": "Russel Vought will reportedly be given veto power over all NIH grants",
+        "summary": "Pending move comes over the objections of the NIH director.",
+        "bullets": [
+          "Pending move comes over the objections of the NIH director."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T16:40:26.000Z"
+      },
+      {
+        "id": "ai-2c05d42e",
+        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+        "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+        "bullets": [
+          "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T23:44:28.000Z"
+      },
+      {
+        "id": "ai-0de2103e",
+        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+        "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+        "bullets": [
+          "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T20:15:58.000Z"
+      },
+      {
+        "id": "ai-4eea439b",
+        "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+        "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September...",
+        "bullets": [
+          "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one.",
+          "Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15.",
+          "Grab your ticket savings before prices go up on September 25 at 11:59 p.m."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T19:25:00.000Z"
+      },
+      {
+        "id": "ai-43ccb340",
+        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+        "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+        "bullets": [
+          "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S.",
+          "and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T19:19:21.000Z"
+      },
+      {
+        "id": "ai-73b1bf59",
+        "title": "Meta’s AI agent has been blocked from using Amazon.com",
+        "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+        "bullets": [
+          "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet.",
+          "As long as they're under no legal obligation to open the doors to Muse, why would they?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T17:55:18.000Z"
+      },
+      {
+        "id": "world-fd34183a",
+        "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+        "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+        "bullets": [
+          "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T14:14:16.000Z"
+      },
+      {
+        "id": "world-43fa7d59",
+        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+        "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+        "bullets": [
+          "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T22:48:33.000Z"
+      },
+      {
+        "id": "world-375a0acb",
+        "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+        "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+        "bullets": [
+          "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T16:54:56.000Z"
+      },
+      {
+        "id": "world-02f2b04c",
+        "title": "First UK charges brought over 1994 Rwanda genocide",
+        "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+        "bullets": [
+          "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T17:48:23.000Z"
+      },
+      {
+        "id": "world-1e391a1d",
+        "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+        "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
+        "bullets": [
+          "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-21T20:26:41.000Z"
       }
     ]
   }
