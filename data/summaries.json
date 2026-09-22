@@ -7741,219 +7741,232 @@
   },
   {
     "date": "2026-09-22",
-    "generatedAt": "2026-09-22T11:43:35.465Z",
+    "generatedAt": "2026-09-22T16:59:48.550Z",
     "articles": [
       {
-        "id": "top-e681997d",
-        "title": "Martha's Rule rolled out at every A&E department in England",
-        "summary": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+        "id": "top-8cf55143",
+        "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+        "summary": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
         "bullets": [
-          "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death."
+          "Two men were arrested in Manchester on Sunday, say counter-terror police."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T08:32:32.000Z"
+        "publishedAt": "2026-09-22T16:52:09.000Z"
       },
       {
-        "id": "top-ebd7dcc2",
-        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-        "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "id": "top-77508867",
+        "title": "New EU industry rules would damage UK, warns Burnham",
+        "summary": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
         "bullets": [
-          "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget."
+          "The prime minister says he will raise his concerns when he meets the European Commission President later."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T08:52:12.000Z"
+        "publishedAt": "2026-09-22T13:10:23.000Z"
       },
       {
-        "id": "top-f2c13c30",
-        "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-        "summary": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
+        "id": "top-ccf5f23f",
+        "title": "Tim Westwood charged with two more sexual offences",
+        "summary": "The alleged sexual offences date back to 1991 and 2004.",
         "bullets": [
-          "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda."
+          "The alleged sexual offences date back to 1991 and 2004."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T04:05:58.000Z"
+        "publishedAt": "2026-09-22T14:29:31.000Z"
       },
       {
-        "id": "top-69900d62",
-        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-        "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "id": "top-61c9934c",
+        "title": "Father admits causing death of his son in hotel fall",
+        "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
         "bullets": [
-          "Ineos said natural gas in the UK is twelve times more expensive than in the US."
+          "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T11:34:11.000Z"
+        "publishedAt": "2026-09-22T15:52:35.000Z"
       },
       {
-        "id": "top-3c2b0ced",
-        "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-        "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+        "id": "top-52e0f72e",
+        "title": "Earl Spencer apologises to Piers Morgan over factual error in Diana book",
+        "summary": "The BBC understands the book's publisher, Penguin, will be amending the inaccuracy in future editions of the book.",
         "bullets": [
-          "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House."
+          "The BBC understands the book's publisher, Penguin, will be amending the inaccuracy in future editions of the book."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T08:17:15.000Z"
+        "publishedAt": "2026-09-22T16:13:17.000Z"
       },
       {
-        "id": "tech-b1e45a0d",
-        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-        "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+        "id": "tech-8972c466",
+        "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
+        "summary": "Activision gets Halo, Obsidian becomes part of Bethesda, and more internal shake-ups.",
         "bullets": [
-          "A simple ClickFix attack is only one way to completely hijack the new agent."
+          "Activision gets Halo, Obsidian becomes part of Bethesda, and more internal shake-ups."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T22:24:38.000Z"
+        "publishedAt": "2026-09-22T15:30:53.000Z"
       },
       {
-        "id": "tech-245030ea",
-        "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-        "summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+        "id": "tech-54e34ffd",
+        "title": "Protests for Germany’s car industry as job losses loom",
+        "summary": "A combination of Chinese competition and US tariffs is causing problems in Germany.",
         "bullets": [
-          "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships."
+          "A combination of Chinese competition and US tariffs is causing problems in Germany."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T21:07:05.000Z"
+        "publishedAt": "2026-09-22T14:40:47.000Z"
       },
       {
-        "id": "tech-8efe72c5",
-        "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
-        "summary": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
+        "id": "tech-ae7a0d7f",
+        "title": "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent",
+        "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals.",
         "bullets": [
-          "The new carmaker is a joint venture between the Saudi PIF and Foxconn."
+          "Trump adopts Scalia’s ire for feds protecting populations of endangered animals."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T20:55:36.000Z"
+        "publishedAt": "2026-09-22T14:29:15.000Z"
       },
       {
-        "id": "tech-af233863",
-        "title": "Google confirms Gemini models hacked three companies in May 2026",
-        "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+        "id": "tech-caacdec1",
+        "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
+        "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
         "bullets": [
-          "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet."
+          "Dyson admits a component issue but won't say what's failing in its $500 toothbrush."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T16:57:26.000Z"
+        "publishedAt": "2026-09-22T13:33:16.000Z"
       },
       {
-        "id": "tech-db76f1e4",
-        "title": "Russel Vought will reportedly be given veto power over all NIH grants",
-        "summary": "Pending move comes over the objections of the NIH director.",
+        "id": "tech-bc97108e",
+        "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
+        "summary": "\"There was absolutely a time where we were trying to make everyone happy.\"",
         "bullets": [
-          "Pending move comes over the objections of the NIH director."
+          "\"There was absolutely a time where we were trying to make everyone happy.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T16:40:26.000Z"
+        "publishedAt": "2026-09-22T11:00:37.000Z"
       },
       {
-        "id": "ai-2c05d42e",
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+        "id": "ai-f486c306",
+        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
         "bullets": [
-          "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+          "Anthropic called it \"the strongest-performing model we've tested to date.\""
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T23:44:28.000Z"
+        "publishedAt": "2026-09-22T16:30:07.000Z"
       },
       {
-        "id": "ai-0de2103e",
-        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-        "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+        "id": "ai-798ae35c",
+        "title": "AstroForge is putting AI in command of its next spacecraft",
+        "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
         "bullets": [
-          "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+          "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T20:15:58.000Z"
+        "publishedAt": "2026-09-22T15:00:00.000Z"
       },
       {
-        "id": "ai-4eea439b",
-        "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-        "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September...",
+        "id": "ai-dd58f635",
+        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
         "bullets": [
-          "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one.",
-          "Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15.",
-          "Grab your ticket savings before prices go up on September 25 at 11:59 p.m."
+          "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS,...",
+          "Register before September 25 to save up to $200."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T19:25:00.000Z"
+        "publishedAt": "2026-09-22T15:00:00.000Z"
       },
       {
-        "id": "ai-43ccb340",
-        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-        "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+        "id": "ai-4aac5fa0",
+        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+        "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
         "bullets": [
-          "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S.",
-          "and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures."
+          "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026.",
+          "Register before September 25 to save up to $200, plus get a second pass at 50% off."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T19:19:21.000Z"
+        "publishedAt": "2026-09-22T14:30:00.000Z"
       },
       {
-        "id": "ai-73b1bf59",
-        "title": "Meta’s AI agent has been blocked from using Amazon.com",
-        "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+        "id": "ai-0238aa28",
+        "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+        "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
         "bullets": [
-          "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet.",
-          "As long as they're under no legal obligation to open the doors to Muse, why would they?"
+          "We have reopened our exhibitor program for 1 more week.",
+          "Book your exhibit table by September 30 at 11:59 p.m.",
+          "PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-21T17:55:18.000Z"
+        "publishedAt": "2026-09-22T14:15:00.000Z"
       },
       {
-        "id": "world-3c2b0ced",
-        "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-        "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+        "id": "world-e70fddbe",
+        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+        "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
         "bullets": [
-          "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House."
+          "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T08:17:15.000Z"
+        "publishedAt": "2026-09-22T14:03:20.000Z"
+      },
+      {
+        "id": "world-f39f4a3d",
+        "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+        "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+        "bullets": [
+          "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T12:54:14.000Z"
       },
       {
         "id": "world-b01ba0e2",
@@ -7966,20 +7979,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T10:45:47.000Z"
-      },
-      {
-        "id": "world-320ab516",
-        "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-        "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-        "bullets": [
-          "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T07:14:12.000Z"
+        "publishedAt": "2026-09-22T13:49:22.000Z"
       },
       {
         "id": "world-f3a798c4",
@@ -7995,17 +7995,17 @@
         "publishedAt": "2026-09-22T10:42:47.000Z"
       },
       {
-        "id": "world-cbe8d021",
-        "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-        "summary": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.",
+        "id": "world-2585359a",
+        "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+        "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
         "bullets": [
-          "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019."
+          "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T10:01:29.000Z"
+        "publishedAt": "2026-09-22T13:58:42.000Z"
       }
     ]
   }
