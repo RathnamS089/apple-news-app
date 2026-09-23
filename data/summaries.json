@@ -7741,27 +7741,27 @@
   },
   {
     "date": "2026-09-23",
-    "generatedAt": "2026-09-23T17:05:38.535Z",
+    "generatedAt": "2026-09-23T21:32:21.649Z",
     "articles": [
       {
-        "id": "top-6d7d1ff0",
-        "title": "Home secretary says undetected migrant landings 'unacceptable'",
-        "summary": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
+        "id": "top-a1b74d7b",
+        "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+        "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
         "bullets": [
-          "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025."
+          "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T16:42:23.000Z"
+        "publishedAt": "2026-09-23T21:01:06.000Z"
       },
       {
-        "id": "top-26f70a38",
-        "title": "UK military jamming other nation's satellites to defend itself, BBC told",
-        "summary": "The RAF has already been using a ground-based system for the past year, a source has said",
+        "id": "top-bc163b36",
+        "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+        "summary": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
         "bullets": [
-          "The RAF has already been using a ground-based system for the past year, a source has said"
+          "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
@@ -7783,95 +7783,122 @@
         "publishedAt": "2026-09-23T15:23:49.000Z"
       },
       {
-        "id": "top-7d55d4de",
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+        "id": "top-6d7d1ff0",
+        "title": "Home secretary says undetected migrant landings 'unacceptable'",
+        "summary": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
         "bullets": [
-          "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
+          "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T15:58:13.000Z"
+        "publishedAt": "2026-09-23T17:18:49.000Z"
       },
       {
-        "id": "top-54ab7546",
-        "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
-        "summary": "Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident.",
+        "id": "top-cf70ead2",
+        "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
+        "summary": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
         "bullets": [
-          "Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident."
+          "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T11:47:17.000Z"
+        "publishedAt": "2026-09-23T21:01:16.000Z"
       },
       {
-        "id": "tech-27865181",
-        "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-        "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+        "id": "tech-c8a6773f",
+        "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+        "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
         "bullets": [
-          "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles."
+          "$11M competition showed wildfire detection is still easier than stopping fires."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T14:20:23.000Z"
+        "publishedAt": "2026-09-23T20:28:42.000Z"
       },
       {
-        "id": "tech-be44146d",
-        "title": "America gave up its rare earth edge. China took full advantage.",
-        "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
+        "id": "tech-308725f4",
+        "title": "Discord age verification rolls out today with changes spurred by user backlash",
+        "summary": "Discord will try to automatically estimate ages, require verification when it can't.",
         "bullets": [
-          "Decades of cheaper imports left US dependent on China for crucial rare earth processing."
+          "Discord will try to automatically estimate ages, require verification when it can't."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T13:37:05.000Z"
+        "publishedAt": "2026-09-23T20:05:13.000Z"
       },
       {
-        "id": "tech-5b65f07f",
-        "title": "Small undersea volcanoes may unleash outsized tsunamis",
-        "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
+        "id": "tech-b2fb0084",
+        "title": "YouTube promises custom feeds and a lot more AI later this year",
+        "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
         "bullets": [
-          "Post-eruption imaging of the Hunga caldera gives new details of its collapse."
+          "YouTube's next year could change the content you see with a big focus on AI and livestreams."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T11:15:30.000Z"
+        "publishedAt": "2026-09-23T19:35:53.000Z"
       },
       {
-        "id": "tech-53e7a5b2",
-        "title": "A new report from Europe raises serious alarms about orbital collisions",
-        "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
+        "id": "tech-59bd7047",
+        "title": "Contrary to some reports, you don't have two brains",
+        "summary": "A bad press release makes a good excuse to look at how developmental biology works.",
         "bullets": [
-          "\"I think we are going to lose the ability to use certain orbits.\""
+          "A bad press release makes a good excuse to look at how developmental biology works."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T11:00:17.000Z"
+        "publishedAt": "2026-09-23T18:47:36.000Z"
       },
       {
-        "id": "tech-01ae7433",
-        "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-        "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+        "id": "tech-e9cd9970",
+        "title": "Netflix releases trailer for Brad Bird's Ray Gunn",
+        "summary": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\"",
         "bullets": [
-          "There is no single definitive test for these worms, but the tail is fairly convincing."
+          "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+        "sourceUrl": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T21:42:14.000Z"
+        "publishedAt": "2026-09-23T18:26:50.000Z"
+      },
+      {
+        "id": "ai-d4e366f9",
+        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+        "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+        "bullets": [
+          "The round valued the AI biotech at $2 billion.",
+          "It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T19:31:28.000Z"
+      },
+      {
+        "id": "ai-6a3719fe",
+        "title": "ChatGPT mobile app gets voice-based agentic features",
+        "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+        "bullets": [
+          "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T17:00:00.000Z"
       },
       {
         "id": "ai-d9eea4c6",
@@ -7913,34 +7940,6 @@
         "publishedAt": "2026-09-23T14:30:00.000Z"
       },
       {
-        "id": "ai-857a93d8",
-        "title": "YouTube releases new AI features for creators within its Studio app",
-        "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-        "bullets": [
-          "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T14:30:00.000Z"
-      },
-      {
-        "id": "ai-01b821a8",
-        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-        "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-        "bullets": [
-          "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI.",
-          "Get your Investor Pass to join these exclusive sessions.",
-          "Save $200 before September 25 at 11:59 p.m."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T14:30:00.000Z"
-      },
-      {
         "id": "world-7d55d4de",
         "title": "Iran's president tells Trump it will never 'bend the knee'",
         "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
@@ -7951,7 +7950,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T15:58:13.000Z"
+        "publishedAt": "2026-09-23T18:15:31.000Z"
       },
       {
         "id": "world-6063da47",
@@ -7967,17 +7966,17 @@
         "publishedAt": "2026-09-23T16:53:37.000Z"
       },
       {
-        "id": "world-a4c06d66",
-        "title": "White House rolling out red carpet for historic Xi Jinping visit",
-        "summary": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
+        "id": "world-2a621599",
+        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+        "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
         "bullets": [
-          "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington."
+          "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T14:32:37.000Z"
+        "publishedAt": "2026-09-23T21:26:14.000Z"
       },
       {
         "id": "world-9ee74343",
@@ -7993,17 +7992,17 @@
         "publishedAt": "2026-09-23T12:31:31.000Z"
       },
       {
-        "id": "world-aac46220",
-        "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-        "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+        "id": "world-9f0ecea4",
+        "title": "UK survivor of Canadian poison seller says he exploited her despair",
+        "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
         "bullets": [
-          "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate."
+          "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T12:22:53.000Z"
+        "publishedAt": "2026-09-23T21:16:00.000Z"
       }
     ]
   }
