@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-08-24",
-    "generatedAt": "2026-08-24T21:45:36.452Z",
-    "articles": [
-      {
-        "id": "top-4cd7e0e2",
-        "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-        "summary": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
-        "bullets": [
-          "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T17:53:40.000Z"
-      },
-      {
-        "id": "top-7b427fe5",
-        "title": "How the deadly A66 crash unfolded leaving seven dead",
-        "summary": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
-        "bullets": [
-          "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T16:55:42.000Z"
-      },
-      {
-        "id": "top-4fd971b3",
-        "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-        "bullets": [
-          "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T17:29:59.000Z"
-      },
-      {
-        "id": "top-eaa95fb6",
-        "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-        "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
-        "bullets": [
-          "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T15:14:14.000Z"
-      },
-      {
-        "id": "top-582d2fca",
-        "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
-        "summary": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.",
-        "bullets": [
-          "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T19:43:51.000Z"
-      },
-      {
-        "id": "tech-6d88dde8",
-        "title": "GM vehicles under federal scrutiny after hundreds of reports",
-        "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
-        "bullets": [
-          "The eBoost brake-by-wire system is responsible for at least 22 crashes now."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T19:42:50.000Z"
-      },
-      {
-        "id": "tech-ffcd1579",
-        "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-        "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-        "bullets": [
-          "Is the technique outdated?"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T19:19:21.000Z"
-      },
-      {
-        "id": "tech-0d3e56b7",
-        "title": "Buyer beware: Those mummified remains might carry toxic spores",
-        "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
-        "bullets": [
-          "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T16:59:07.000Z"
-      },
-      {
-        "id": "tech-153a6559",
-        "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-        "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-        "bullets": [
-          "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T16:41:45.000Z"
-      },
-      {
-        "id": "tech-61a08510",
-        "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
-        "summary": "Formula 1 returned from its summer break with this weekend's Dutch Grand Prix.",
-        "bullets": [
-          "Formula 1 returned from its summer break with this weekend's Dutch Grand Prix."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T16:02:54.000Z"
-      },
-      {
-        "id": "ai-ded7e420",
-        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-        "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-        "bullets": [
-          "The president bought when the stock was in the mid-$150 range.",
-          "SpaceX finished trading on Monday back at its IPO price of $135."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T21:24:17.000Z"
-      },
-      {
-        "id": "ai-d35178d2",
-        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-        "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-        "bullets": [
-          "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T19:54:19.000Z"
-      },
-      {
-        "id": "ai-c87daf12",
-        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-        "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-        "bullets": [
-          "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T18:03:55.000Z"
-      },
-      {
-        "id": "ai-08758c97",
-        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-        "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures,...",
-        "bullets": [
-          "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T15:24:18.000Z"
-      },
-      {
-        "id": "ai-c1308037",
-        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-        "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-        "bullets": [
-          "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T15:00:00.000Z"
-      },
-      {
-        "id": "world-9b5d30b4",
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-        "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-        "bullets": [
-          "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T19:12:35.000Z"
-      },
-      {
-        "id": "world-fc22403c",
-        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-        "bullets": [
-          "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T17:29:59.000Z"
-      },
-      {
-        "id": "world-0d0a9e25",
-        "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-        "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-        "bullets": [
-          "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T10:40:22.000Z"
-      },
-      {
-        "id": "world-dc7ef320",
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "bullets": [
-          "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T13:56:22.000Z"
-      },
-      {
-        "id": "world-1a3de145",
-        "title": "King of Norway's health has worsened, palace says",
-        "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
-        "bullets": [
-          "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-24T08:31:55.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-25",
     "generatedAt": "2026-08-25T21:45:44.611Z",
     "articles": [
@@ -8003,6 +7736,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-22T19:06:06.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "generatedAt": "2026-09-23T04:48:56.909Z",
+    "articles": [
+      {
+        "id": "top-69e2339b",
+        "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+        "summary": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
+        "bullets": [
+          "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T01:08:40.000Z"
+      },
+      {
+        "id": "top-6de3bd6b",
+        "title": "Watch: Key moments from Andy Burnham's first UN speech",
+        "summary": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
+        "bullets": [
+          "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T01:25:47.000Z"
+      },
+      {
+        "id": "top-8505eead",
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+        "summary": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+        "bullets": [
+          "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T21:22:36.000Z"
+      },
+      {
+        "id": "top-1d886bd3",
+        "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
+        "summary": "Louise Nunn's daughter bought drugs from Canadian Kenneth Law, who sold toxic chemicals online.",
+        "bullets": [
+          "Louise Nunn's daughter bought drugs from Canadian Kenneth Law, who sold toxic chemicals online."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T23:20:43.000Z"
+      },
+      {
+        "id": "top-4621cb96",
+        "title": "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
+        "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+        "bullets": [
+          "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T23:01:28.000Z"
+      },
+      {
+        "id": "tech-01ae7433",
+        "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+        "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+        "bullets": [
+          "There is no single definitive test for these worms, but the tail is fairly convincing."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T21:42:14.000Z"
+      },
+      {
+        "id": "tech-8b970dbb",
+        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+        "summary": "The frontier AI model race has entered its comparison shopping phase.",
+        "bullets": [
+          "The frontier AI model race has entered its comparison shopping phase."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T21:25:18.000Z"
+      },
+      {
+        "id": "tech-8f14a253",
+        "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+        "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
+        "bullets": [
+          "Cities defend permit requirements, say ISPs aren't building networks fast enough."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T20:38:30.000Z"
+      },
+      {
+        "id": "tech-ded38962",
+        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+        "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+        "bullets": [
+          "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T19:45:47.000Z"
+      },
+      {
+        "id": "tech-13495c3f",
+        "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+        "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
+        "bullets": [
+          "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T19:28:23.000Z"
+      },
+      {
+        "id": "ai-1e9e409a",
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+        "bullets": [
+          "Founders shouldn't have to learn the hardest lessons the hardest way.",
+          "TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T23:21:49.000Z"
+      },
+      {
+        "id": "ai-2e45692e",
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+        "bullets": [
+          "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T21:56:43.000Z"
+      },
+      {
+        "id": "ai-b8d00f6c",
+        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+        "bullets": [
+          "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T20:00:00.000Z"
+      },
+      {
+        "id": "ai-cfaf4ac1",
+        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+        "bullets": [
+          "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T19:09:11.000Z"
+      },
+      {
+        "id": "ai-c784929c",
+        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+        "bullets": [
+          "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T18:00:00.000Z"
+      },
+      {
+        "id": "world-9d91e1e6",
+        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+        "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "bullets": [
+          "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T02:57:00.000Z"
+      },
+      {
+        "id": "world-fd7e8174",
+        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+        "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+        "bullets": [
+          "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T06:03:22.000Z"
+      },
+      {
+        "id": "world-6b6792ad",
+        "title": "US to build two military bases in Greenland under new deal with Denmark",
+        "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+        "bullets": [
+          "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T21:36:55.000Z"
+      },
+      {
+        "id": "world-1755e836",
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
+        "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+        "bullets": [
+          "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T20:59:00.000Z"
+      },
+      {
+        "id": "world-e70fddbe",
+        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+        "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+        "bullets": [
+          "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-22T19:47:44.000Z"
       }
     ]
   }
