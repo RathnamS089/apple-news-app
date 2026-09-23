@@ -7741,72 +7741,124 @@
   },
   {
     "date": "2026-09-23",
-    "generatedAt": "2026-09-23T11:42:13.514Z",
+    "generatedAt": "2026-09-23T17:05:38.535Z",
     "articles": [
       {
-        "id": "top-e3ee1b05",
-        "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
-        "summary": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
+        "id": "top-6d7d1ff0",
+        "title": "Home secretary says undetected migrant landings 'unacceptable'",
+        "summary": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
         "bullets": [
-          "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\"."
+          "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T10:49:44.000Z"
+        "publishedAt": "2026-09-23T16:42:23.000Z"
       },
       {
-        "id": "top-7cece19f",
-        "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
-        "summary": "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.",
+        "id": "top-26f70a38",
+        "title": "UK military jamming other nation's satellites to defend itself, BBC told",
+        "summary": "The RAF has already been using a ground-based system for the past year, a source has said",
         "bullets": [
-          "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason."
+          "The RAF has already been using a ground-based system for the past year, a source has said"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T04:32:59.000Z"
+        "publishedAt": "2026-09-23T17:01:11.000Z"
       },
       {
-        "id": "top-5ed8cbc4",
-        "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-        "summary": "A concerning number of patients are reporting problems from treatment abroad, say doctors.",
+        "id": "top-0a6afdcc",
+        "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+        "summary": "The two pilots ejected from the jet before crash and sustained minor injuries.",
         "bullets": [
-          "A concerning number of patients are reporting problems from treatment abroad, say doctors."
+          "The two pilots ejected from the jet before crash and sustained minor injuries."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T05:00:25.000Z"
+        "publishedAt": "2026-09-23T15:23:49.000Z"
       },
       {
-        "id": "top-5e87dcf7",
-        "title": "'My eyelids became infected - I was scared to sleep'",
-        "summary": "Three women describe what happened when they travelled abroad for cheap \"bleph\" eyelid surgery.",
+        "id": "top-7d55d4de",
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
         "bullets": [
-          "Three women describe what happened when they travelled abroad for cheap \"bleph\" eyelid surgery."
+          "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T05:00:32.000Z"
+        "publishedAt": "2026-09-23T15:58:13.000Z"
       },
       {
-        "id": "top-65a4d6e0",
-        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-        "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "id": "top-54ab7546",
+        "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
+        "summary": "Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident.",
         "bullets": [
-          "Higher energy prices due to the conflict in the Middle East and climate change could hit growth."
+          "Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T11:00:08.000Z"
+        "publishedAt": "2026-09-23T11:47:17.000Z"
+      },
+      {
+        "id": "tech-27865181",
+        "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+        "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+        "bullets": [
+          "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T14:20:23.000Z"
+      },
+      {
+        "id": "tech-be44146d",
+        "title": "America gave up its rare earth edge. China took full advantage.",
+        "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
+        "bullets": [
+          "Decades of cheaper imports left US dependent on China for crucial rare earth processing."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T13:37:05.000Z"
+      },
+      {
+        "id": "tech-5b65f07f",
+        "title": "Small undersea volcanoes may unleash outsized tsunamis",
+        "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
+        "bullets": [
+          "Post-eruption imaging of the Hunga caldera gives new details of its collapse."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T11:15:30.000Z"
+      },
+      {
+        "id": "tech-53e7a5b2",
+        "title": "A new report from Europe raises serious alarms about orbital collisions",
+        "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
+        "bullets": [
+          "\"I think we are going to lose the ability to use certain orbits.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-23T11:00:17.000Z"
       },
       {
         "id": "tech-01ae7433",
@@ -7822,187 +7874,136 @@
         "publishedAt": "2026-09-22T21:42:14.000Z"
       },
       {
-        "id": "tech-8b970dbb",
-        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-        "summary": "The frontier AI model race has entered its comparison shopping phase.",
+        "id": "ai-d9eea4c6",
+        "title": "Even Americans who use AI every day are worried about it",
+        "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
         "bullets": [
-          "The frontier AI model race has entered its comparison shopping phase."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T21:25:18.000Z"
-      },
-      {
-        "id": "tech-8f14a253",
-        "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-        "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
-        "bullets": [
-          "Cities defend permit requirements, say ISPs aren't building networks fast enough."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T20:38:30.000Z"
-      },
-      {
-        "id": "tech-ded38962",
-        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-        "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-        "bullets": [
-          "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:45:47.000Z"
-      },
-      {
-        "id": "tech-13495c3f",
-        "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-        "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-        "bullets": [
-          "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:28:23.000Z"
-      },
-      {
-        "id": "ai-179cd6e9",
-        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-        "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-        "bullets": [
-          "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that..."
+          "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T04:59:08.000Z"
+        "publishedAt": "2026-09-23T16:49:58.000Z"
       },
       {
-        "id": "ai-1e9e409a",
-        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-        "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+        "id": "ai-789d823e",
+        "title": "YouTube Music gets more conversational with new AI features",
+        "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
         "bullets": [
-          "Founders shouldn't have to learn the hardest lessons the hardest way.",
-          "TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
+          "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T23:21:49.000Z"
+        "publishedAt": "2026-09-23T15:19:30.000Z"
       },
       {
-        "id": "ai-2e45692e",
-        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-        "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+        "id": "ai-05572a1e",
+        "title": "YouTube will let you build your own algorithm with AI",
+        "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
         "bullets": [
-          "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+          "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T21:56:43.000Z"
+        "publishedAt": "2026-09-23T14:30:00.000Z"
       },
       {
-        "id": "ai-b8d00f6c",
-        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-        "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+        "id": "ai-857a93d8",
+        "title": "YouTube releases new AI features for creators within its Studio app",
+        "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
         "bullets": [
-          "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
+          "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T20:00:00.000Z"
+        "publishedAt": "2026-09-23T14:30:00.000Z"
       },
       {
-        "id": "ai-cfaf4ac1",
-        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+        "id": "ai-01b821a8",
+        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+        "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
         "bullets": [
-          "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames..."
+          "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI.",
+          "Get your Investor Pass to join these exclusive sessions.",
+          "Save $200 before September 25 at 11:59 p.m."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "sourceUrl": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-22T19:09:11.000Z"
+        "publishedAt": "2026-09-23T14:30:00.000Z"
       },
       {
-        "id": "world-bedfcb0e",
-        "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-        "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+        "id": "world-7d55d4de",
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
         "bullets": [
-          "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently."
+          "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T06:12:56.000Z"
+        "publishedAt": "2026-09-23T15:58:13.000Z"
       },
       {
-        "id": "world-dd56b15e",
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+        "id": "world-6063da47",
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+        "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
         "bullets": [
-          "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages."
+          "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T05:02:26.000Z"
+        "publishedAt": "2026-09-23T16:53:37.000Z"
       },
       {
-        "id": "world-647dc2a6",
-        "title": "Eleven killed in mass shooting at house in South Africa",
-        "summary": "One of those killed is believed to be a pregnant woman, police said.",
+        "id": "world-a4c06d66",
+        "title": "White House rolling out red carpet for historic Xi Jinping visit",
+        "summary": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
         "bullets": [
-          "One of those killed is believed to be a pregnant woman, police said."
+          "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T07:02:52.000Z"
+        "publishedAt": "2026-09-23T14:32:37.000Z"
       },
       {
-        "id": "world-b00356c1",
-        "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-        "summary": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
+        "id": "world-9ee74343",
+        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
         "bullets": [
-          "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security."
+          "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T06:47:49.000Z"
+        "publishedAt": "2026-09-23T12:31:31.000Z"
       },
       {
-        "id": "world-4a66b602",
-        "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-        "summary": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+        "id": "world-aac46220",
+        "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+        "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
         "bullets": [
-          "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers."
+          "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T04:20:12.000Z"
+        "publishedAt": "2026-09-23T12:22:53.000Z"
       }
     ]
   }
