@@ -7742,72 +7742,124 @@
   },
   {
     "date": "2026-09-24",
-    "generatedAt": "2026-09-24T11:50:42.079Z",
+    "generatedAt": "2026-09-24T17:14:43.379Z",
     "articles": [
       {
-        "id": "top-dd4208a7",
-        "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
-        "summary": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
+        "id": "top-5867c982",
+        "title": "Watch: Why has Trump been so eager to welcome Xi?",
+        "summary": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
         "bullets": [
-          "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care."
+          "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T11:12:59.000Z"
+        "publishedAt": "2026-09-24T15:16:27.000Z"
       },
       {
-        "id": "top-eeec36dc",
-        "title": "Anti-migrant activist arrested over video of dinghy slashing",
-        "summary": "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.",
+        "id": "top-172611e4",
+        "title": "White House restores access to media outlets banned by Trump after judge's order",
+        "summary": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
         "bullets": [
-          "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife."
+          "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T08:42:35.000Z"
+        "publishedAt": "2026-09-24T16:42:56.000Z"
       },
       {
-        "id": "top-3dd2e8a9",
-        "title": "Australia launches urgent review after OpenAI program hacks government health portal",
-        "summary": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+        "id": "top-60a4a2ed",
+        "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
+        "summary": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
         "bullets": [
-          "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T05:18:26.000Z"
-      },
-      {
-        "id": "top-a7054d7e",
-        "title": "RAF pilots who ejected moments before crash expected to make full recovery",
-        "summary": "The Hawk T2 aircraft had been flying out of the RAF Valley station when it plummeted to the ground.",
-        "bullets": [
-          "The Hawk T2 aircraft had been flying out of the RAF Valley station when it plummeted to the ground."
+          "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T11:10:17.000Z"
+        "publishedAt": "2026-09-24T12:29:39.000Z"
       },
       {
-        "id": "top-a1b74d7b",
-        "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
-        "summary": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+        "id": "top-f78275ca",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
         "bullets": [
-          "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions."
+          "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T07:10:19.000Z"
+        "publishedAt": "2026-09-24T16:00:29.000Z"
+      },
+      {
+        "id": "top-b493ccd2",
+        "title": "Man jailed for two years over throwing bottle at Portsmouth migrant protest",
+        "summary": "Del Somerville, 42, pleaded guilty to violent disorder following an overnight protest at Eastney.",
+        "bullets": [
+          "Del Somerville, 42, pleaded guilty to violent disorder following an overnight protest at Eastney."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8vgy7ww21rqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T15:57:55.000Z"
+      },
+      {
+        "id": "tech-0c4dc484",
+        "title": "NASA chief concerned China may deny access to parts of South Pole",
+        "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
+        "bullets": [
+          "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T14:57:50.000Z"
+      },
+      {
+        "id": "tech-ca84cd77",
+        "title": "Meta puts its AI assistant on a keychain",
+        "summary": "Meta says the keychain-sized Muse Charm will ship in December.",
+        "bullets": [
+          "Meta says the keychain-sized Muse Charm will ship in December."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T14:03:38.000Z"
+      },
+      {
+        "id": "tech-83ffd044",
+        "title": "There's a new way to break RSA that's faster than anything we've seen before",
+        "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+        "bullets": [
+          "Until now, cryptographers thought factoring was the only way to break RSA."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T11:15:44.000Z"
+      },
+      {
+        "id": "tech-57d09e3a",
+        "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+        "summary": "Usable local AI is a lot of fun, but how much would you pay for it?",
+        "bullets": [
+          "Usable local AI is a lot of fun, but how much would you pay for it?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T11:00:04.000Z"
       },
       {
         "id": "tech-b8688fdd",
@@ -7823,124 +7875,85 @@
         "publishedAt": "2026-09-23T22:17:25.000Z"
       },
       {
-        "id": "tech-8ccfde17",
-        "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-        "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+        "id": "ai-1e560590",
+        "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+        "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
         "bullets": [
-          "It's unclear what will happen if FBI misses ShinyHunters' deadline."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T21:46:36.000Z"
-      },
-      {
-        "id": "tech-942ce3a2",
-        "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-        "summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
-        "bullets": [
-          "The Disney+ ad-free plan is now more expensive than Netflix's."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T21:18:53.000Z"
-      },
-      {
-        "id": "tech-098266bb",
-        "title": "Here's the Torcal, the first fully electric Bentley",
-        "summary": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
-        "bullets": [
-          "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T21:06:07.000Z"
-      },
-      {
-        "id": "tech-81e87230",
-        "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-        "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
-        "bullets": [
-          "Trump focus on winning “AI race” may deter China from sharing safety intel."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T20:52:28.000Z"
-      },
-      {
-        "id": "ai-103a58d1",
-        "title": "Everything new coming to Meta’s AI agent Muse",
-        "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-        "bullets": [
-          "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going...",
-          "It's even coming to Meta's AI glasses."
+          "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T01:13:32.000Z"
+        "publishedAt": "2026-09-24T17:00:00.000Z"
       },
       {
-        "id": "ai-fa63a9db",
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+        "id": "ai-20062945",
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
         "bullets": [
-          "The tiny hardware device creates another mobile home for its AI agent Muse."
+          "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T00:46:17.000Z"
+        "publishedAt": "2026-09-24T16:46:47.000Z"
       },
       {
-        "id": "ai-85b6c150",
-        "title": "Meta introduces camera-free AI glasses",
-        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "id": "ai-76555daa",
+        "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+        "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
         "bullets": [
-          "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+          "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T23:39:44.000Z"
+        "publishedAt": "2026-09-24T16:35:13.000Z"
       },
       {
-        "id": "ai-e81a7508",
-        "title": "Anthropic says its biology lab has already found something big",
-        "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "id": "ai-485695d3",
+        "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+        "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch...",
         "bullets": [
-          "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab.",
-          "Humans are still, so far, in the loop."
+          "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026.",
+          "Register by September 25 at 11:59 p.m.",
+          "PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T22:17:39.000Z"
+        "publishedAt": "2026-09-24T16:03:36.000Z"
       },
       {
-        "id": "ai-d4e366f9",
-        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-        "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+        "id": "ai-f0987184",
+        "title": "Google tests letting Gemini call businesses for you",
+        "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
         "bullets": [
-          "The round valued the AI biotech at $2 billion.",
-          "It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+          "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S.",
+          "who pay for a Gemini subscription."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T19:31:28.000Z"
+        "publishedAt": "2026-09-24T16:00:00.000Z"
+      },
+      {
+        "id": "world-172611e4",
+        "title": "White House restores access to media outlets banned by Trump after judge's order",
+        "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+        "bullets": [
+          "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T16:42:56.000Z"
       },
       {
         "id": "world-614d6f3d",
@@ -7953,20 +7966,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T07:10:58.000Z"
+        "publishedAt": "2026-09-24T15:42:07.000Z"
       },
       {
-        "id": "world-0ddc6b34",
-        "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-        "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
+        "id": "world-cbcd3984",
+        "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+        "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
         "bullets": [
-          "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit."
+          "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T03:52:21.000Z"
+        "publishedAt": "2026-09-24T14:08:38.000Z"
       },
       {
         "id": "world-f78275ca",
@@ -7979,33 +7992,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T11:16:29.000Z"
+        "publishedAt": "2026-09-24T16:00:29.000Z"
       },
       {
-        "id": "world-6ec04490",
-        "title": "Judge temporarily overturns Trump's White House media ban",
-        "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+        "id": "world-da74605a",
+        "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+        "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
         "bullets": [
-          "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW."
+          "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T10:29:35.000Z"
-      },
-      {
-        "id": "world-6063da47",
-        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-        "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-        "bullets": [
-          "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T09:28:33.000Z"
+        "publishedAt": "2026-09-24T15:37:45.000Z"
       }
     ]
   }
