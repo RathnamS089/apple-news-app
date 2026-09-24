@@ -7742,8 +7742,60 @@
   },
   {
     "date": "2026-09-24",
-    "generatedAt": "2026-09-24T04:56:19.724Z",
+    "generatedAt": "2026-09-24T11:50:42.079Z",
     "articles": [
+      {
+        "id": "top-dd4208a7",
+        "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+        "summary": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
+        "bullets": [
+          "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T11:12:59.000Z"
+      },
+      {
+        "id": "top-eeec36dc",
+        "title": "Anti-migrant activist arrested over video of dinghy slashing",
+        "summary": "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.",
+        "bullets": [
+          "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T08:42:35.000Z"
+      },
+      {
+        "id": "top-3dd2e8a9",
+        "title": "Australia launches urgent review after OpenAI program hacks government health portal",
+        "summary": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+        "bullets": [
+          "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T05:18:26.000Z"
+      },
+      {
+        "id": "top-a7054d7e",
+        "title": "RAF pilots who ejected moments before crash expected to make full recovery",
+        "summary": "The Hawk T2 aircraft had been flying out of the RAF Valley station when it plummeted to the ground.",
+        "bullets": [
+          "The Hawk T2 aircraft had been flying out of the RAF Valley station when it plummeted to the ground."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T11:10:17.000Z"
+      },
       {
         "id": "top-a1b74d7b",
         "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
@@ -7755,59 +7807,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T21:01:06.000Z"
-      },
-      {
-        "id": "top-379dd0d6",
-        "title": "What video footage tells us about RAF training jet crash",
-        "summary": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
-        "bullets": [
-          "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T22:48:29.000Z"
-      },
-      {
-        "id": "top-0ddc6b34",
-        "title": "Trump offers warm welcome as China's Xi arrives for US visit",
-        "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-        "bullets": [
-          "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T03:52:21.000Z"
-      },
-      {
-        "id": "top-355ea661",
-        "title": "A red carpet and military flyover - How Trump welcomed Xi",
-        "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
-        "bullets": [
-          "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T23:03:56.000Z"
-      },
-      {
-        "id": "top-cf70ead2",
-        "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
-        "summary": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
-        "bullets": [
-          "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T21:01:16.000Z"
+        "publishedAt": "2026-09-24T07:10:19.000Z"
       },
       {
         "id": "tech-b8688fdd",
@@ -7943,43 +7943,56 @@
         "publishedAt": "2026-09-23T19:31:28.000Z"
       },
       {
-        "id": "world-3d250084",
-        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-        "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+        "id": "world-614d6f3d",
+        "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+        "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
         "bullets": [
-          "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June."
+          "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T03:22:54.000Z"
+        "publishedAt": "2026-09-24T07:10:58.000Z"
       },
       {
-        "id": "world-ddfcd1af",
-        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-        "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "id": "world-0ddc6b34",
+        "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+        "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
         "bullets": [
-          "The US and China are vying for AI supremacy while seeking to keep it under human control."
+          "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T22:01:17.000Z"
+        "publishedAt": "2026-09-24T03:52:21.000Z"
       },
       {
-        "id": "world-7d55d4de",
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+        "id": "world-f78275ca",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
         "bullets": [
-          "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
+          "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-23T18:15:31.000Z"
+        "publishedAt": "2026-09-24T11:16:29.000Z"
+      },
+      {
+        "id": "world-6ec04490",
+        "title": "Judge temporarily overturns Trump's White House media ban",
+        "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+        "bullets": [
+          "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T10:29:35.000Z"
       },
       {
         "id": "world-6063da47",
@@ -7992,20 +8005,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T04:37:47.000Z"
-      },
-      {
-        "id": "world-2a621599",
-        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-        "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-        "bullets": [
-          "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-23T21:26:14.000Z"
+        "publishedAt": "2026-09-24T09:28:33.000Z"
       }
     ]
   }
