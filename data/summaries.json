@@ -7743,8 +7743,21 @@
   },
   {
     "date": "2026-09-25",
-    "generatedAt": "2026-09-25T17:15:14.500Z",
+    "generatedAt": "2026-09-25T21:37:25.709Z",
     "articles": [
+      {
+        "id": "top-278baf7c",
+        "title": "Man City found guilty of majority of 115 financial rule breaches",
+        "summary": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
+        "bullets": [
+          "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T20:11:12.000Z"
+      },
       {
         "id": "top-bc1bea24",
         "title": "Watch: What could the potential sanctions for Man City be?",
@@ -7769,179 +7782,177 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T16:37:45.000Z"
+        "publishedAt": "2026-09-25T17:15:35.000Z"
       },
       {
-        "id": "top-1e38c7c9",
-        "title": "Special agents' blood and urine test results stolen in FBI hack",
-        "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+        "id": "top-cc73fed2",
+        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+        "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
         "bullets": [
-          "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+          "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T13:56:16.000Z"
+        "publishedAt": "2026-09-25T20:47:49.000Z"
       },
       {
-        "id": "top-ca1a0552",
-        "title": "Some BBC channels and radio stations may well have to close, director general says",
-        "summary": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
+        "id": "top-ba63ac02",
+        "title": "Daniel Thomas pleads not guilty after dinghy slashed",
+        "summary": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
         "bullets": [
-          "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says."
+          "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T12:00:11.000Z"
+        "publishedAt": "2026-09-25T15:01:42.000Z"
       },
       {
-        "id": "top-d849c0c0",
-        "title": "Noah Woods left playground through gap in fence, inquest hears",
-        "summary": "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\".",
+        "id": "tech-782e8abd",
+        "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+        "summary": "Better thermals and battery life make this iterative update nicer to use.",
         "bullets": [
-          "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\"."
+          "Better thermals and battery life make this iterative update nicer to use."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T19:34:42.000Z"
+      },
+      {
+        "id": "tech-0513031f",
+        "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+        "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+        "bullets": [
+          "\"There is no evidence of any significant, widespread displacement or reduction in hiring”"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T19:11:05.000Z"
+      },
+      {
+        "id": "tech-43e5887b",
+        "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+        "summary": "US judge reviews deal with California, says it must not be result of collusion.",
+        "bullets": [
+          "US judge reviews deal with California, says it must not be result of collusion."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T18:42:57.000Z"
+      },
+      {
+        "id": "tech-24c89a3b",
+        "title": "Is solar's growth finally slowing in the US?",
+        "summary": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+        "bullets": [
+          "Renewables easily cover changes in US demand, which is rising by 2% in 2026."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T18:27:18.000Z"
+      },
+      {
+        "id": "tech-a0469649",
+        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+        "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+        "bullets": [
+          "Microsoft's new Surface laptops forgo Copilot+ PC branding."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T17:57:37.000Z"
+      },
+      {
+        "id": "ai-45237025",
+        "title": "Meta opens early access program for new Muse features",
+        "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+        "bullets": [
+          "Anyone interested in joining has to ask Muse to put them on the list."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T20:34:53.000Z"
+      },
+      {
+        "id": "ai-f3593300",
+        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+        "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that...",
+        "bullets": [
+          "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T19:13:38.000Z"
+      },
+      {
+        "id": "ai-63ff3c01",
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+        "bullets": [
+          "Mark Wahlberg joins Bruce K.",
+          "Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T18:48:33.000Z"
+      },
+      {
+        "id": "ai-e641308e",
+        "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+        "bullets": [
+          "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T18:33:59.000Z"
+      },
+      {
+        "id": "ai-1584bd13",
+        "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+        "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6...",
+        "bullets": [
+          "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T18:22:47.000Z"
+      },
+      {
+        "id": "world-cc73fed2",
+        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+        "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+        "bullets": [
+          "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T12:51:48.000Z"
-      },
-      {
-        "id": "tech-f5abb326",
-        "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-        "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
-        "bullets": [
-          "Health department previously blamed delay on \"not yet finalized procurement decisions.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T22:29:48.000Z"
-      },
-      {
-        "id": "tech-cbea9b95",
-        "title": "Donald Duck's uncle was partly based on Wernher von Braun",
-        "summary": "Introducing the \"world-famous authority on outer space...\"",
-        "bullets": [
-          "Introducing the \"world-famous authority on outer space...\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T21:40:07.000Z"
-      },
-      {
-        "id": "tech-71e5e0d9",
-        "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-        "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
-        "bullets": [
-          "F-Droid's Android app store has been rebuilt from the ground up."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T19:30:42.000Z"
-      },
-      {
-        "id": "tech-0b58d47b",
-        "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
-        "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
-        "bullets": [
-          "New York sues Polymarket as Trump admin tries to override state gambling laws."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T19:07:19.000Z"
-      },
-      {
-        "id": "tech-4926fbf4",
-        "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-        "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-        "bullets": [
-          "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T18:52:23.000Z"
-      },
-      {
-        "id": "ai-f5ca4e5f",
-        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-        "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
-        "bullets": [
-          "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T16:16:52.000Z"
-      },
-      {
-        "id": "ai-6967d0f1",
-        "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-        "summary": "The latest unauthorized agent swarms were discovered by researchers.",
-        "bullets": [
-          "The latest unauthorized agent swarms were discovered by researchers."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T15:48:14.000Z"
-      },
-      {
-        "id": "ai-7fe24d55",
-        "title": "Anthropic’s founders seek voting control ahead of IPO",
-        "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-        "bullets": [
-          "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T15:40:03.000Z"
-      },
-      {
-        "id": "ai-34be988e",
-        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own...",
-        "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-        "bullets": [
-          "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the...",
-          "Save up to $200 on your pass before today ends."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T15:00:00.000Z"
-      },
-      {
-        "id": "ai-0f4dcc40",
-        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-        "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-        "bullets": [
-          "Your next opportunity could be one conversation away.",
-          "Get your Expo+ Pass for just $75.",
-          "Limited to the first 100 qualifying people."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T14:15:00.000Z"
+        "publishedAt": "2026-09-25T20:47:49.000Z"
       },
       {
         "id": "world-1e38c7c9",
@@ -7970,43 +7981,30 @@
         "publishedAt": "2026-09-25T15:06:41.000Z"
       },
       {
-        "id": "world-f801e6f3",
-        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-        "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+        "id": "world-f3db96cf",
+        "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+        "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
         "bullets": [
-          "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T03:57:09.000Z"
-      },
-      {
-        "id": "world-3fa615fc",
-        "title": "Supreme Court revives controversial US data system for citizenship checks",
-        "summary": "The system uses citizenship information and other sensitive data to filter alleged non-citizen voting.",
-        "bullets": [
-          "The system uses citizenship information and other sensitive data to filter alleged non-citizen voting."
+          "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T16:35:01.000Z"
+        "publishedAt": "2026-09-25T19:13:35.000Z"
       },
       {
-        "id": "world-6c441607",
-        "title": "Students strike across Germany in protest against military service",
-        "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
+        "id": "world-6f0c085d",
+        "title": "Trump's plans for massive arch move ahead",
+        "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
         "bullets": [
-          "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow."
+          "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T15:36:22.000Z"
+        "publishedAt": "2026-09-25T18:27:46.000Z"
       }
     ]
   }
