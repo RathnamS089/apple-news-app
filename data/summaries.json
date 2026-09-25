@@ -7743,8 +7743,60 @@
   },
   {
     "date": "2026-09-25",
-    "generatedAt": "2026-09-25T11:54:37.160Z",
+    "generatedAt": "2026-09-25T17:15:14.500Z",
     "articles": [
+      {
+        "id": "top-bc1bea24",
+        "title": "Watch: What could the potential sanctions for Man City be?",
+        "summary": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused...",
+        "bullets": [
+          "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T14:55:14.000Z"
+      },
+      {
+        "id": "top-3e524e78",
+        "title": "I'm not tempted to call an early election, Burnham says",
+        "summary": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+        "bullets": [
+          "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T16:37:45.000Z"
+      },
+      {
+        "id": "top-1e38c7c9",
+        "title": "Special agents' blood and urine test results stolen in FBI hack",
+        "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+        "bullets": [
+          "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T13:56:16.000Z"
+      },
+      {
+        "id": "top-ca1a0552",
+        "title": "Some BBC channels and radio stations may well have to close, director general says",
+        "summary": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
+        "bullets": [
+          "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T12:00:11.000Z"
+      },
       {
         "id": "top-d849c0c0",
         "title": "Noah Woods left playground through gap in fence, inquest hears",
@@ -7756,59 +7808,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T11:03:48.000Z"
-      },
-      {
-        "id": "top-186db960",
-        "title": "Families failed by decision to bail sex offender to flat near playground, victims' commissioner says",
-        "summary": "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.",
-        "bullets": [
-          "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T10:03:25.000Z"
-      },
-      {
-        "id": "top-f801e6f3",
-        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-        "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-        "bullets": [
-          "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T03:57:09.000Z"
-      },
-      {
-        "id": "top-ba63ac02",
-        "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-        "summary": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
-        "bullets": [
-          "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T11:37:17.000Z"
-      },
-      {
-        "id": "top-bc0a1caf",
-        "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-        "summary": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
-        "bullets": [
-          "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T23:45:08.000Z"
+        "publishedAt": "2026-09-25T12:51:48.000Z"
       },
       {
         "id": "tech-f5abb326",
@@ -7876,83 +7876,98 @@
         "publishedAt": "2026-09-24T18:52:23.000Z"
       },
       {
-        "id": "ai-54b51738",
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+        "id": "ai-f5ca4e5f",
+        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+        "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
         "bullets": [
-          "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+          "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T05:00:00.000Z"
+        "publishedAt": "2026-09-25T16:16:52.000Z"
       },
       {
-        "id": "ai-0a5b7d33",
-        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-        "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+        "id": "ai-6967d0f1",
+        "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+        "summary": "The latest unauthorized agent swarms were discovered by researchers.",
         "bullets": [
-          "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type.",
-          "Register before event starts on October 13 at 8 a.m."
+          "The latest unauthorized agent swarms were discovered by researchers."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T19:15:00.000Z"
+        "publishedAt": "2026-09-25T15:48:14.000Z"
       },
       {
-        "id": "ai-432d869a",
-        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-        "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+        "id": "ai-7fe24d55",
+        "title": "Anthropic’s founders seek voting control ahead of IPO",
+        "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
         "bullets": [
-          "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+          "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T19:00:42.000Z"
+        "publishedAt": "2026-09-25T15:40:03.000Z"
       },
       {
-        "id": "ai-6b593e7d",
-        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-        "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+        "id": "ai-34be988e",
+        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own...",
+        "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
         "bullets": [
-          "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
+          "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the...",
+          "Save up to $200 on your pass before today ends."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T18:11:44.000Z"
+        "publishedAt": "2026-09-25T15:00:00.000Z"
       },
       {
-        "id": "ai-ebbd2476",
-        "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-        "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+        "id": "ai-0f4dcc40",
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
         "bullets": [
-          "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and..."
+          "Your next opportunity could be one conversation away.",
+          "Get your Expo+ Pass for just $75.",
+          "Limited to the first 100 qualifying people."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-24T17:39:24.000Z"
+        "publishedAt": "2026-09-25T14:15:00.000Z"
       },
       {
-        "id": "world-5c0080b5",
-        "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-        "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+        "id": "world-1e38c7c9",
+        "title": "Special agents' blood and urine test results stolen in FBI hack",
+        "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
         "bullets": [
-          "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders."
+          "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T10:36:55.000Z"
+        "publishedAt": "2026-09-25T13:56:16.000Z"
+      },
+      {
+        "id": "world-2f61a188",
+        "title": "Pope warns against 'losing humanity' to AI machines",
+        "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+        "bullets": [
+          "The pontiff delivered the warning on the first day of his trip to France on Friday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T15:06:41.000Z"
       },
       {
         "id": "world-f801e6f3",
@@ -7968,43 +7983,30 @@
         "publishedAt": "2026-09-25T03:57:09.000Z"
       },
       {
-        "id": "world-00e3f4d9",
-        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-        "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "id": "world-3fa615fc",
+        "title": "Supreme Court revives controversial US data system for citizenship checks",
+        "summary": "The system uses citizenship information and other sensitive data to filter alleged non-citizen voting.",
         "bullets": [
-          "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\"."
+          "The system uses citizenship information and other sensitive data to filter alleged non-citizen voting."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T11:44:44.000Z"
+        "publishedAt": "2026-09-25T16:35:01.000Z"
       },
       {
-        "id": "world-518648c9",
-        "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-        "summary": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
+        "id": "world-6c441607",
+        "title": "Students strike across Germany in protest against military service",
+        "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
         "bullets": [
-          "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored."
+          "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T01:10:35.000Z"
-      },
-      {
-        "id": "world-b72170fb",
-        "title": "Hundreds of thousands expected in Paris for Pope's visit",
-        "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
-        "bullets": [
-          "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T09:35:37.000Z"
+        "publishedAt": "2026-09-25T15:36:22.000Z"
       }
     ]
   }
