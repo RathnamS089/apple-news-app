@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-08-26",
-    "generatedAt": "2026-08-26T20:05:23.020Z",
-    "articles": [
-      {
-        "id": "top-af3bb3c6",
-        "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
-        "summary": "This video has been edited by the BBC with white flashes, due to the distressing content.",
-        "bullets": [
-          "This video has been edited by the BBC with white flashes, due to the distressing content."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T12:36:04.000Z"
-      },
-      {
-        "id": "top-47dfc2ea",
-        "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-        "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-        "bullets": [
-          "The deal has been reached during a California federal court trial over claims brought by US states."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T17:44:39.000Z"
-      },
-      {
-        "id": "top-30e9f527",
-        "title": "Rocky Horror star Tim Curry dies at 80",
-        "summary": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
-        "bullets": [
-          "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T19:53:35.000Z"
-      },
-      {
-        "id": "top-df355132",
-        "title": "Murder arrests after fire kills two including child near Middlesbrough",
-        "summary": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire.",
-        "bullets": [
-          "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T16:39:37.000Z"
-      },
-      {
-        "id": "top-1ab068a7",
-        "title": "Prince Harry and Meghan land in UK days after announcing move",
-        "summary": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
-        "bullets": [
-          "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T18:44:54.000Z"
-      },
-      {
-        "id": "tech-bbd5651d",
-        "title": "The Porsche 911 GT3 Touring punches above its weight class",
-        "summary": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
-        "bullets": [
-          "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T17:25:53.000Z"
-      },
-      {
-        "id": "tech-fc11b7cd",
-        "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
-        "summary": "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed.",
-        "bullets": [
-          "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T16:59:41.000Z"
-      },
-      {
-        "id": "tech-9b3b2199",
-        "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
-        "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
-        "bullets": [
-          "Republicans demanded that parties and fundraising committees be given lowest ad rates."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T15:45:07.000Z"
-      },
-      {
-        "id": "tech-06b0e610",
-        "title": "Researchers get two genetic codes to work at the same time",
-        "summary": "Messing with the genetic code might have gotten a bit easier to do.",
-        "bullets": [
-          "Messing with the genetic code might have gotten a bit easier to do."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T15:00:34.000Z"
-      },
-      {
-        "id": "tech-00b5517e",
-        "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-        "summary": "\"We're living in this world of scarcity with the Moon.\"",
-        "bullets": [
-          "\"We're living in this world of scarcity with the Moon.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T14:14:52.000Z"
-      },
-      {
-        "id": "ai-37923aa9",
-        "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-        "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-        "bullets": [
-          "Consumer AI apps need to stop making users learn their product architecture."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T19:37:34.000Z"
-      },
-      {
-        "id": "ai-a9b3a423",
-        "title": "How do we explain OpenAI’s executive exodus?",
-        "summary": "Was Greg Brockman the right executive all along?",
-        "bullets": [
-          "Was Greg Brockman the right executive all along?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T19:34:04.000Z"
-      },
-      {
-        "id": "ai-0ca9982a",
-        "title": "OpenAI releases its official report on the Hugging Face breach",
-        "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-        "bullets": [
-          "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T19:05:22.000Z"
-      },
-      {
-        "id": "ai-5bc2993b",
-        "title": "Radar makes podcasts searchable — and usable by AI agents",
-        "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-        "bullets": [
-          "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T15:47:28.000Z"
-      },
-      {
-        "id": "ai-7f014854",
-        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-        "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-        "bullets": [
-          "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T15:00:00.000Z"
-      },
-      {
-        "id": "world-20e4a0ef",
-        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-        "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-        "bullets": [
-          "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T11:32:11.000Z"
-      },
-      {
-        "id": "world-5251aa8e",
-        "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-        "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
-        "bullets": [
-          "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T14:42:03.000Z"
-      },
-      {
-        "id": "world-7f4bcc24",
-        "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
-        "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
-        "bullets": [
-          "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T15:42:45.000Z"
-      },
-      {
-        "id": "world-7974c272",
-        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-        "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-        "bullets": [
-          "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-25T19:50:57.000Z"
-      },
-      {
-        "id": "world-f945c70c",
-        "title": "Radiation link in flight attendant's breast cancer, French court finds",
-        "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-        "bullets": [
-          "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T10:29:36.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-27",
     "generatedAt": "2026-08-27T14:15:49.461Z",
     "articles": [
@@ -8004,6 +7738,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-24T19:18:12.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "generatedAt": "2026-09-25T05:01:06.300Z",
+    "articles": [
+      {
+        "id": "top-849701f4",
+        "title": "Watch: The world’s two most powerful men just met. How did it go?",
+        "summary": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+        "bullets": [
+          "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T01:27:10.000Z"
+      },
+      {
+        "id": "top-54038dd6",
+        "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+        "summary": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
+        "bullets": [
+          "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T22:16:23.000Z"
+      },
+      {
+        "id": "top-b137d755",
+        "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
+        "summary": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
+        "bullets": [
+          "The test means patients can start treatment sooner and are spared weeks of uncertainty."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T23:44:00.000Z"
+      },
+      {
+        "id": "top-00e3f4d9",
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "bullets": [
+          "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T00:44:04.000Z"
+      },
+      {
+        "id": "top-48a84c28",
+        "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
+        "summary": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
+        "bullets": [
+          "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T23:44:38.000Z"
+      },
+      {
+        "id": "tech-f5abb326",
+        "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+        "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+        "bullets": [
+          "Health department previously blamed delay on \"not yet finalized procurement decisions.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T22:29:48.000Z"
+      },
+      {
+        "id": "tech-cbea9b95",
+        "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+        "summary": "Introducing the \"world-famous authority on outer space...\"",
+        "bullets": [
+          "Introducing the \"world-famous authority on outer space...\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T21:40:07.000Z"
+      },
+      {
+        "id": "tech-71e5e0d9",
+        "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+        "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
+        "bullets": [
+          "F-Droid's Android app store has been rebuilt from the ground up."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T19:30:42.000Z"
+      },
+      {
+        "id": "tech-0b58d47b",
+        "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+        "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
+        "bullets": [
+          "New York sues Polymarket as Trump admin tries to override state gambling laws."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T19:07:19.000Z"
+      },
+      {
+        "id": "tech-4926fbf4",
+        "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+        "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
+        "bullets": [
+          "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T18:52:23.000Z"
+      },
+      {
+        "id": "ai-0a5b7d33",
+        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+        "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+        "bullets": [
+          "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type.",
+          "Register before event starts on October 13 at 8 a.m."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T19:15:00.000Z"
+      },
+      {
+        "id": "ai-432d869a",
+        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+        "bullets": [
+          "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T19:00:42.000Z"
+      },
+      {
+        "id": "ai-6b593e7d",
+        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+        "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+        "bullets": [
+          "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T18:11:44.000Z"
+      },
+      {
+        "id": "ai-ebbd2476",
+        "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+        "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+        "bullets": [
+          "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T17:39:24.000Z"
+      },
+      {
+        "id": "ai-1e560590",
+        "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+        "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+        "bullets": [
+          "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T17:00:00.000Z"
+      },
+      {
+        "id": "world-f801e6f3",
+        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+        "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+        "bullets": [
+          "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T03:57:09.000Z"
+      },
+      {
+        "id": "world-00e3f4d9",
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "bullets": [
+          "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T00:44:04.000Z"
+      },
+      {
+        "id": "world-518648c9",
+        "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+        "summary": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+        "bullets": [
+          "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T01:10:35.000Z"
+      },
+      {
+        "id": "world-b72170fb",
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+        "bullets": [
+          "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T23:17:00.000Z"
+      },
+      {
+        "id": "world-d0c6a63d",
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+        "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+        "bullets": [
+          "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-24T18:06:40.000Z"
       }
     ]
   }
