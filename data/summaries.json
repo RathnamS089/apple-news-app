@@ -7744,11 +7744,11 @@
   },
   {
     "date": "2026-09-26",
-    "generatedAt": "2026-09-26T21:13:29.631Z",
+    "generatedAt": "2026-09-26T23:39:26.382Z",
     "articles": [
       {
-        "id": "top-1b98d1e5",
-        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "id": "top-e7d167b3",
+        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
         "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
         "bullets": [
           "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help."
@@ -7758,6 +7758,32 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-09-26T18:50:02.000Z"
+      },
+      {
+        "id": "top-f95a0962",
+        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+        "bullets": [
+          "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T23:00:42.000Z"
+      },
+      {
+        "id": "top-8c2be81d",
+        "title": "Court of Appeal overturns ban on Drumcree parade",
+        "summary": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
+        "bullets": [
+          "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T22:45:52.000Z"
       },
       {
         "id": "top-266d2a67",
@@ -7775,41 +7801,15 @@
       {
         "id": "top-cd21afd1",
         "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
         "bullets": [
-          "The US president says Tehran had only put forward the proposal because it is losing the war."
+          "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T18:17:12.000Z"
-      },
-      {
-        "id": "top-35840d73",
-        "title": "How long can Labour's feel-good factor last?",
-        "summary": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
-        "bullets": [
-          "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T11:22:03.000Z"
-      },
-      {
-        "id": "top-9e995a34",
-        "title": "Republic of Ireland to wear black armbands for Israel game",
-        "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-        "bullets": [
-          "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T19:59:00.000Z"
+        "publishedAt": "2026-09-26T22:15:59.000Z"
       },
       {
         "id": "tech-9999a955",
@@ -7944,15 +7944,15 @@
       {
         "id": "world-cd21afd1",
         "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
         "bullets": [
-          "The US president says Tehran had only put forward the proposal because it is losing the war."
+          "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T18:17:12.000Z"
+        "publishedAt": "2026-09-26T22:15:59.000Z"
       },
       {
         "id": "world-92a72d51",
@@ -7981,19 +7981,6 @@
         "publishedAt": "2026-09-26T12:47:25.000Z"
       },
       {
-        "id": "world-319de0c3",
-        "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-        "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-        "bullets": [
-          "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T15:12:25.000Z"
-      },
-      {
         "id": "world-6b825635",
         "title": "German town bans 'stumbling stone' memorials to Nazi victims",
         "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
@@ -8005,6 +7992,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-26T15:48:51.000Z"
+      },
+      {
+        "id": "world-406b6a82",
+        "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+        "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+        "bullets": [
+          "Tens of millions of people from Maine to Virginia are in the path of the powerful storm."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T22:04:26.000Z"
       }
     ]
   }
