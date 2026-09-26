@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-08-27",
-    "generatedAt": "2026-08-27T14:15:49.461Z",
-    "articles": [
-      {
-        "id": "top-d10ea27b",
-        "title": "Watch: How the collapse of a glacier caused such devastation",
-        "summary": "At least 270 people have died in the massive flash floods, while more than 800 others are missing.",
-        "bullets": [
-          "At least 270 people have died in the massive flash floods, while more than 800 others are missing."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T10:17:45.000Z"
-      },
-      {
-        "id": "top-41672a29",
-        "title": "'My family members were swept away': Survivors describe horror",
-        "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
-        "bullets": [
-          "One woman says her father, mother, sister and sister's children were carried away before her eyes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T07:09:52.000Z"
-      },
-      {
-        "id": "top-3534e072",
-        "title": "UK salmonella cases nearing 500 as egg investigations continue",
-        "summary": "Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters.",
-        "bullets": [
-          "Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T11:00:35.000Z"
-      },
-      {
-        "id": "top-aa8791fa",
-        "title": "Dame Jenni Murray died days after car crash, inquest hears",
-        "summary": "The former presenter of BBC Radio 4 Woman's Hour died earlier this year, eight days after the collision.",
-        "bullets": [
-          "The former presenter of BBC Radio 4 Woman's Hour died earlier this year, eight days after the collision."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T11:52:28.000Z"
-      },
-      {
-        "id": "top-efe14e7b",
-        "title": "In pictures: The dotty world of Japanese artist Yayoi Kusama, who has died aged 97",
-        "summary": "Kusama was known for creating extraordinary immersive worlds that delighted millions of visitors.",
-        "bullets": [
-          "Kusama was known for creating extraordinary immersive worlds that delighted millions of visitors."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T09:23:15.000Z"
-      },
-      {
-        "id": "tech-e12aad38",
-        "title": "Bentley takes us for a ride in its new EV, the Torcal",
-        "summary": "The electric Torcal will be Bentley's entry model and cost less than a Bentayga.",
-        "bullets": [
-          "The electric Torcal will be Bentley's entry model and cost less than a Bentayga."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T11:30:09.000Z"
-      },
-      {
-        "id": "tech-73a429b0",
-        "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
-        "summary": "A dashing pirate, a butler, a shapeshifting killer clown, an alien mad scientist in drag—the man had range.",
-        "bullets": [
-          "A dashing pirate, a butler, a shapeshifting killer clown, an alien mad scientist in drag—the man had range."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T22:13:15.000Z"
-      },
-      {
-        "id": "tech-aaf9e918",
-        "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-        "summary": "Report shows Meta's challenges replacing people with AI agents.",
-        "bullets": [
-          "Report shows Meta's challenges replacing people with AI agents."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T21:25:27.000Z"
-      },
-      {
-        "id": "tech-d34fb131",
-        "title": "New Twitter launches, says Musk's X gave up the name",
-        "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
-        "bullets": [
-          "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T20:49:04.000Z"
-      },
-      {
-        "id": "tech-adcd662d",
-        "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
-        "summary": "Meta to impose daily limit on child social media use in deal with nearly every state.",
-        "bullets": [
-          "Meta to impose daily limit on child social media use in deal with nearly every state."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-26T19:50:52.000Z"
-      },
-      {
-        "id": "ai-d858a769",
-        "title": "Here’s all the times AI has gone rogue and hacked other companies",
-        "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-        "bullets": [
-          "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T14:01:42.000Z"
-      },
-      {
-        "id": "ai-5c58e4f2",
-        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-        "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
-        "bullets": [
-          "Plaud's new 'agentic' earbuds are priced at $249."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T13:00:00.000Z"
-      },
-      {
-        "id": "ai-62cae3f0",
-        "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-        "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-        "bullets": [
-          "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T11:35:59.000Z"
-      },
-      {
-        "id": "ai-711c34c1",
-        "title": "Nvidia closes in on Hugging Face acquisition",
-        "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-        "bullets": [
-          "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T06:32:51.000Z"
-      },
-      {
-        "id": "ai-519e8f00",
-        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-        "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-        "bullets": [
-          "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T00:24:57.000Z"
-      },
-      {
-        "id": "world-7e52b3f6",
-        "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-        "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
-        "bullets": [
-          "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T09:50:10.000Z"
-      },
-      {
-        "id": "world-57a8c285",
-        "title": "What we know about deadly Nepal-Tibet floods",
-        "summary": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
-        "bullets": [
-          "Hundreds have died in flooding and landslides on the border of Nepal and Tibet."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T09:55:02.000Z"
-      },
-      {
-        "id": "world-fcf911cf",
-        "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-        "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95.",
-        "bullets": [
-          "He was jailed for life in 2017 for genocide, war crimes and crimes against humanity during the wars in the ex-Yugoslavia in 1992-95."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T14:11:06.000Z"
-      },
-      {
-        "id": "world-196626ac",
-        "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
-        "summary": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
-        "bullets": [
-          "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T11:20:49.000Z"
-      },
-      {
-        "id": "world-d05bb0f9",
-        "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-        "summary": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
-        "bullets": [
-          "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T11:23:28.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-28",
     "generatedAt": "2026-08-28T15:26:01.974Z",
     "articles": [
@@ -8005,6 +7739,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-25T18:27:46.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "generatedAt": "2026-09-26T05:03:27.069Z",
+    "articles": [
+      {
+        "id": "top-b363dff8",
+        "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
+        "summary": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+        "bullets": [
+          "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T20:13:53.000Z"
+      },
+      {
+        "id": "top-4d64a658",
+        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
+        "summary": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
+        "bullets": [
+          "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club.",
+          "Here's what it means."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T20:48:18.000Z"
+      },
+      {
+        "id": "top-692c9fb6",
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+        "bullets": [
+          "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T02:50:56.000Z"
+      },
+      {
+        "id": "top-32b211f2",
+        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+        "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+        "bullets": [
+          "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T04:14:30.000Z"
+      },
+      {
+        "id": "top-9f9866c2",
+        "title": "E-bikes seized by police sold on at auction, BBC finds",
+        "summary": "Thousands are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161.",
+        "bullets": [
+          "Thousands are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T23:02:42.000Z"
+      },
+      {
+        "id": "tech-40733599",
+        "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+        "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+        "bullets": [
+          "Heidi Overton faced questions focused on vaccines, birth control, and vapes."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T23:00:26.000Z"
+      },
+      {
+        "id": "tech-5970af30",
+        "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+        "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+        "bullets": [
+          "\"Overly constrained AI models\" could cause military operations to fail, judges say."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T21:36:20.000Z"
+      },
+      {
+        "id": "tech-8e4e45db",
+        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+        "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+        "bullets": [
+          "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T21:10:51.000Z"
+      },
+      {
+        "id": "tech-f3f8babe",
+        "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+        "summary": "Ads appearing all over the Internet are trying to scam people.",
+        "bullets": [
+          "Ads appearing all over the Internet are trying to scam people."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T19:38:59.000Z"
+      },
+      {
+        "id": "tech-782e8abd",
+        "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+        "summary": "Better thermals and battery life make this iterative update nicer to use.",
+        "bullets": [
+          "Better thermals and battery life make this iterative update nicer to use."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T19:34:42.000Z"
+      },
+      {
+        "id": "ai-3d7ea516",
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+        "bullets": [
+          "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T01:08:57.000Z"
+      },
+      {
+        "id": "ai-2ea1367f",
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+        "bullets": [
+          "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T23:11:10.000Z"
+      },
+      {
+        "id": "ai-8bf0476b",
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+        "bullets": [
+          "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T22:20:47.000Z"
+      },
+      {
+        "id": "ai-45237025",
+        "title": "Meta opens early access program for new Muse features",
+        "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+        "bullets": [
+          "Anyone interested in joining has to ask Muse to put them on the list."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T20:34:53.000Z"
+      },
+      {
+        "id": "ai-f3593300",
+        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+        "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that...",
+        "bullets": [
+          "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T19:13:38.000Z"
+      },
+      {
+        "id": "world-32b211f2",
+        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+        "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+        "bullets": [
+          "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T05:03:09.000Z"
+      },
+      {
+        "id": "world-692c9fb6",
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+        "bullets": [
+          "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T02:50:56.000Z"
+      },
+      {
+        "id": "world-cc73fed2",
+        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+        "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+        "bullets": [
+          "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T20:47:49.000Z"
+      },
+      {
+        "id": "world-c75fea8f",
+        "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+        "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+        "bullets": [
+          "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T23:20:48.000Z"
+      },
+      {
+        "id": "world-2e1d68a3",
+        "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+        "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+        "bullets": [
+          "Current and former agents speak to the BBC about the devastating impact of the FBI hack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T23:05:40.000Z"
       }
     ]
   }
