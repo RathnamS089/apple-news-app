@@ -7744,8 +7744,21 @@
   },
   {
     "date": "2026-09-26",
-    "generatedAt": "2026-09-26T16:26:38.660Z",
+    "generatedAt": "2026-09-26T21:13:29.631Z",
     "articles": [
+      {
+        "id": "top-1b98d1e5",
+        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+        "bullets": [
+          "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T18:50:02.000Z"
+      },
       {
         "id": "top-266d2a67",
         "title": "Heathrow Airport warns third runway could be delayed by four years",
@@ -7757,20 +7770,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T16:17:01.000Z"
+        "publishedAt": "2026-09-26T16:32:42.000Z"
       },
       {
-        "id": "top-ea055c9c",
-        "title": "Man City chairman confident club will prove innocence",
-        "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
+        "id": "top-cd21afd1",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
         "bullets": [
-          "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League."
+          "The US president says Tehran had only put forward the proposal because it is losing the war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T15:02:28.000Z"
+        "publishedAt": "2026-09-26T18:17:12.000Z"
       },
       {
         "id": "top-35840d73",
@@ -7786,30 +7799,30 @@
         "publishedAt": "2026-09-26T11:22:03.000Z"
       },
       {
-        "id": "top-cd21afd1",
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "id": "top-9e995a34",
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
         "bullets": [
-          "The US president says Tehran had only put forward the proposal because it is losing the war."
+          "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T16:16:29.000Z"
+        "publishedAt": "2026-09-26T19:59:00.000Z"
       },
       {
-        "id": "top-340b6fb8",
-        "title": "Met to re-examine CCTV from Jill Dando murder case",
-        "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
+        "id": "tech-9999a955",
+        "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+        "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
         "bullets": [
-          "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999."
+          "The 500-mile Semi arrives as charging gaps still limit electric trucking."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T13:21:27.000Z"
+        "publishedAt": "2026-09-26T10:45:09.000Z"
       },
       {
         "id": "tech-40733599",
@@ -7864,17 +7877,17 @@
         "publishedAt": "2026-09-25T19:38:59.000Z"
       },
       {
-        "id": "tech-782e8abd",
-        "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-        "summary": "Better thermals and battery life make this iterative update nicer to use.",
+        "id": "ai-5ce15d4c",
+        "title": "Insurers claim AI is already increasing healthcare costs",
+        "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
         "bullets": [
-          "Better thermals and battery life make this iterative update nicer to use."
+          "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T19:34:42.000Z"
+        "publishedAt": "2026-09-26T21:02:06.000Z"
       },
       {
         "id": "ai-bf344bb5",
@@ -7929,32 +7942,6 @@
         "publishedAt": "2026-09-25T22:20:47.000Z"
       },
       {
-        "id": "ai-45237025",
-        "title": "Meta opens early access program for new Muse features",
-        "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-        "bullets": [
-          "Anyone interested in joining has to ask Muse to put them on the list."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T20:34:53.000Z"
-      },
-      {
-        "id": "world-1f0bee6e",
-        "title": "Huge crowds greet Pope in Paris for open-air Mass",
-        "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
-        "bullets": [
-          "More than half a million people are expected to attend the event in the heart of the French capital."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T13:23:59.000Z"
-      },
-      {
         "id": "world-cd21afd1",
         "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
         "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
@@ -7965,7 +7952,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T16:16:29.000Z"
+        "publishedAt": "2026-09-26T18:17:12.000Z"
+      },
+      {
+        "id": "world-92a72d51",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+        "bullets": [
+          "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T19:48:06.000Z"
       },
       {
         "id": "world-77e17627",
@@ -7994,17 +7994,17 @@
         "publishedAt": "2026-09-26T15:12:25.000Z"
       },
       {
-        "id": "world-46a1a388",
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+        "id": "world-6b825635",
+        "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+        "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
         "bullets": [
-          "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
+          "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T07:21:30.000Z"
+        "publishedAt": "2026-09-26T15:48:51.000Z"
       }
     ]
   }
