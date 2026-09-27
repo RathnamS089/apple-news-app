@@ -7744,8 +7744,21 @@
   },
   {
     "date": "2026-09-27",
-    "generatedAt": "2026-09-27T12:06:59.282Z",
+    "generatedAt": "2026-09-27T17:00:24.849Z",
     "articles": [
+      {
+        "id": "top-cd358d82",
+        "title": "What we know about RAF base counter-terror investigation",
+        "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+        "bullets": [
+          "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T16:20:06.000Z"
+      },
       {
         "id": "top-96b87242",
         "title": "Burnham proposes NHS-style social care system for England",
@@ -7757,20 +7770,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T11:16:53.000Z"
+        "publishedAt": "2026-09-27T13:48:05.000Z"
       },
       {
-        "id": "top-d8040f2d",
-        "title": "'Broken social care will in the end break the NHS,' says Burnham",
-        "summary": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
+        "id": "top-2889b211",
+        "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+        "summary": "The dispute over the controversial parade is a reminder that the peace process is not over.",
         "bullets": [
-          "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election."
+          "The dispute over the controversial parade is a reminder that the peace process is not over."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T09:52:49.000Z"
+        "publishedAt": "2026-09-27T14:07:17.000Z"
       },
       {
         "id": "top-aca0422e",
@@ -7783,33 +7796,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T11:08:10.000Z"
+        "publishedAt": "2026-09-27T13:25:27.000Z"
       },
       {
-        "id": "top-a8fdffe4",
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "id": "top-51eb609f",
+        "title": "England win series as Banton delivers on potential",
+        "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
         "bullets": [
-          "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
+          "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T10:00:36.000Z"
+        "publishedAt": "2026-09-27T16:49:38.000Z"
       },
       {
-        "id": "top-0073b93b",
-        "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-        "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+        "id": "tech-d4232e58",
+        "title": "How the Smithsonian became the latest front in Trump’s culture war",
+        "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
         "bullets": [
-          "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France."
+          "The Smithsonian has faced withering pressure from the Trump administration."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T11:38:03.000Z"
+        "publishedAt": "2026-09-27T11:00:12.000Z"
       },
       {
         "id": "tech-9999a955",
@@ -7864,17 +7877,17 @@
         "publishedAt": "2026-09-25T21:10:51.000Z"
       },
       {
-        "id": "tech-f3f8babe",
-        "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-        "summary": "Ads appearing all over the Internet are trying to scam people.",
+        "id": "ai-7fd0af9e",
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "summary": "\"AI is the devil and I its maker.\"",
         "bullets": [
-          "Ads appearing all over the Internet are trying to scam people."
+          "\"AI is the devil and I its maker.\""
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T19:38:59.000Z"
+        "publishedAt": "2026-09-27T16:30:00.000Z"
       },
       {
         "id": "ai-ee5444f1",
@@ -7929,19 +7942,6 @@
         "publishedAt": "2026-09-26T01:08:57.000Z"
       },
       {
-        "id": "ai-2ea1367f",
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-        "bullets": [
-          "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T23:11:10.000Z"
-      },
-      {
         "id": "world-f10dc02c",
         "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
         "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
@@ -7955,19 +7955,6 @@
         "publishedAt": "2026-09-27T07:44:11.000Z"
       },
       {
-        "id": "world-8314a4b9",
-        "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-        "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-        "bullets": [
-          "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-27T11:38:03.000Z"
-      },
-      {
         "id": "world-a8fdffe4",
         "title": "Two mass shootings in South Africa leave 27 dead",
         "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
@@ -7978,11 +7965,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T10:00:36.000Z"
+        "publishedAt": "2026-09-27T14:09:22.000Z"
       },
       {
-        "id": "world-32c6bc3b",
-        "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
+        "id": "world-490ea81e",
+        "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
         "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
         "bullets": [
           "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today."
@@ -7992,6 +7979,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-26T23:04:08.000Z"
+      },
+      {
+        "id": "world-120128c6",
+        "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+        "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+        "bullets": [
+          "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T16:22:37.000Z"
       },
       {
         "id": "world-bc4d7764",
