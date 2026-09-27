@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "generatedAt": "2026-08-28T15:26:01.974Z",
-    "articles": [
-      {
-        "id": "top-841c50c6",
-        "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-        "summary": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
-        "bullets": [
-          "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T10:35:06.000Z"
-      },
-      {
-        "id": "top-24707731",
-        "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
-        "summary": "Footage shows cars being set on fire during an event for one of the young men who died in A66 crash.",
-        "bullets": [
-          "Footage shows cars being set on fire during an event for one of the young men who died in A66 crash."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T15:04:27.000Z"
-      },
-      {
-        "id": "top-a15bb055",
-        "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-        "summary": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
-        "bullets": [
-          "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T14:06:13.000Z"
-      },
-      {
-        "id": "top-c8ffc795",
-        "title": "Celtic and Rangers ordered to play Scottish Cup ties behind closed doors after fan disorder",
-        "summary": "Celtic and Rangers are ordered to play their next home Scottish Cup ties behind closed doors after fan disorder last season.",
-        "bullets": [
-          "Celtic and Rangers are ordered to play their next home Scottish Cup ties behind closed doors after fan disorder last season."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T13:14:17.000Z"
-      },
-      {
-        "id": "top-1c4fad9b",
-        "title": "Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse",
-        "summary": "Some parts of the globe had a chance to see the rare event when the Sun, Earth and Moon line up in the night sky.",
-        "bullets": [
-          "Some parts of the globe had a chance to see the rare event when the Sun, Earth and Moon line up in the night sky."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ce3rykzvevno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T12:49:55.000Z"
-      },
-      {
-        "id": "tech-7e7f4f5d",
-        "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-        "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-        "bullets": [
-          "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T11:15:05.000Z"
-      },
-      {
-        "id": "tech-366aba7f",
-        "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-        "summary": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
-        "bullets": [
-          "\"From here on, Starlink missions out of Florida will fly on Starship.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T11:00:39.000Z"
-      },
-      {
-        "id": "tech-608cbb0c",
-        "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-        "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
-        "bullets": [
-          "Standardized driver interface aims to let devices talk to AI and each other."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T22:15:43.000Z"
-      },
-      {
-        "id": "tech-2668b854",
-        "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-        "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
-        "bullets": [
-          "xAI accused of training Grok on real and AI-generated child pornography."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T20:52:31.000Z"
-      },
-      {
-        "id": "tech-321404cd",
-        "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
-        "summary": "GOP campaign committees want quick ruling before election ads ramp up next week.",
-        "bullets": [
-          "GOP campaign committees want quick ruling before election ads ramp up next week."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T20:06:10.000Z"
-      },
-      {
-        "id": "ai-92292280",
-        "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-        "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-        "bullets": [
-          "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T12:46:12.000Z"
-      },
-      {
-        "id": "ai-d7a3c5e0",
-        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-        "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-        "bullets": [
-          "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T12:21:06.000Z"
-      },
-      {
-        "id": "ai-03dff577",
-        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-        "bullets": [
-          "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T23:16:45.000Z"
-      },
-      {
-        "id": "ai-448201be",
-        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-        "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-        "bullets": [
-          "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T19:52:52.000Z"
-      },
-      {
-        "id": "ai-8117bd72",
-        "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-        "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-        "bullets": [
-          "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-27T17:43:24.000Z"
-      },
-      {
-        "id": "world-841c50c6",
-        "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-        "summary": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
-        "bullets": [
-          "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T10:35:06.000Z"
-      },
-      {
-        "id": "world-2d9a64a9",
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-        "bullets": [
-          "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T13:50:34.000Z"
-      },
-      {
-        "id": "world-363fda89",
-        "title": "Trump signs order to rename Lake Ontario as Lake America",
-        "summary": "Canada has rejected the new name of the lake, which straddles both countries, as their row deepens.",
-        "bullets": [
-          "Canada has rejected the new name of the lake, which straddles both countries, as their row deepens."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T08:26:09.000Z"
-      },
-      {
-        "id": "world-c22aaa11",
-        "title": "World's youngest reigning traditional monarch dies aged 34",
-        "summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
-        "bullets": [
-          "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T11:13:24.000Z"
-      },
-      {
-        "id": "world-e59dcd18",
-        "title": "Dutch court sentences man to life over Rwanda genocide",
-        "summary": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
-        "bullets": [
-          "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T12:15:46.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-29",
     "generatedAt": "2026-08-29T23:22:26.075Z",
     "articles": [
@@ -8005,6 +7739,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-26T22:04:26.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "generatedAt": "2026-09-27T05:22:09.780Z",
+    "articles": [
+      {
+        "id": "top-cb8567c0",
+        "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
+        "summary": "The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.",
+        "bullets": [
+          "The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T04:15:40.000Z"
+      },
+      {
+        "id": "top-e7d167b3",
+        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
+        "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+        "bullets": [
+          "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T05:00:42.000Z"
+      },
+      {
+        "id": "top-f95a0962",
+        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+        "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+        "bullets": [
+          "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T23:00:42.000Z"
+      },
+      {
+        "id": "top-a217b80f",
+        "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+        "summary": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\".",
+        "bullets": [
+          "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T02:16:52.000Z"
+      },
+      {
+        "id": "top-266d2a67",
+        "title": "Heathrow Airport warns third runway could be delayed by four years",
+        "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+        "bullets": [
+          "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T16:32:42.000Z"
+      },
+      {
+        "id": "tech-9999a955",
+        "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+        "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+        "bullets": [
+          "The 500-mile Semi arrives as charging gaps still limit electric trucking."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T10:45:09.000Z"
+      },
+      {
+        "id": "tech-40733599",
+        "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+        "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+        "bullets": [
+          "Heidi Overton faced questions focused on vaccines, birth control, and vapes."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T23:00:26.000Z"
+      },
+      {
+        "id": "tech-d7ed3585",
+        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+        "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+        "bullets": [
+          "\"Overly constrained AI models\" could cause military operations to fail, judges say."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T21:36:20.000Z"
+      },
+      {
+        "id": "tech-8e4e45db",
+        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+        "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+        "bullets": [
+          "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T21:10:51.000Z"
+      },
+      {
+        "id": "tech-f3f8babe",
+        "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+        "summary": "Ads appearing all over the Internet are trying to scam people.",
+        "bullets": [
+          "Ads appearing all over the Internet are trying to scam people."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T19:38:59.000Z"
+      },
+      {
+        "id": "ai-ee5444f1",
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+        "bullets": [
+          "The limited test covers select products and users, with a broader rollout planned for later in October."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T01:30:00.000Z"
+      },
+      {
+        "id": "ai-5ce15d4c",
+        "title": "Insurers claim AI is already increasing healthcare costs",
+        "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+        "bullets": [
+          "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T21:02:06.000Z"
+      },
+      {
+        "id": "ai-bf344bb5",
+        "title": "I created an interactive digital avatar of myself — and you can talk to it",
+        "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+        "bullets": [
+          "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T14:00:00.000Z"
+      },
+      {
+        "id": "ai-3d7ea516",
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+        "bullets": [
+          "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T01:08:57.000Z"
+      },
+      {
+        "id": "ai-2ea1367f",
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+        "bullets": [
+          "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T23:11:10.000Z"
+      },
+      {
+        "id": "world-cd21afd1",
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+        "bullets": [
+          "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T22:15:59.000Z"
+      },
+      {
+        "id": "world-92a72d51",
+        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+        "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+        "bullets": [
+          "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T19:48:06.000Z"
+      },
+      {
+        "id": "world-77e17627",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+        "bullets": [
+          "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T12:47:25.000Z"
+      },
+      {
+        "id": "world-6b825635",
+        "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+        "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+        "bullets": [
+          "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T15:48:51.000Z"
+      },
+      {
+        "id": "world-406b6a82",
+        "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+        "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+        "bullets": [
+          "Tens of millions of people from Maine to Virginia are in the path of the powerful storm."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T04:23:09.000Z"
       }
     ]
   }
