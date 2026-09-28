@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-08-29",
-    "generatedAt": "2026-08-29T23:22:26.075Z",
-    "articles": [
-      {
-        "id": "top-6c27b58f",
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-        "bullets": [
-          "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T20:13:16.000Z"
-      },
-      {
-        "id": "top-e5f8ef39",
-        "title": "Cleverly quits shadow cabinet to run for London mayor",
-        "summary": "The capital is not set to vote on a new mayor until 2028.",
-        "bullets": [
-          "The capital is not set to vote on a new mayor until 2028."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T16:24:39.000Z"
-      },
-      {
-        "id": "top-620be857",
-        "title": "Norway's new king remembers 'my dear father' in first speech",
-        "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-        "bullets": [
-          "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T19:06:28.000Z"
-      },
-      {
-        "id": "top-5c4e5bc3",
-        "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
-        "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
-        "bullets": [
-          "The former Duchess of York is renting a six-bed house in the Home Counties, reports say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T10:43:25.000Z"
-      },
-      {
-        "id": "top-90281768",
-        "title": "Vessel in distress with five people onboard in Channel",
-        "summary": "A vessel with five people on board is \"in distress\" in the English Channel, the coastguard says.",
-        "bullets": [
-          "A vessel with five people on board is \"in distress\" in the English Channel, the coastguard says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T20:44:49.000Z"
-      },
-      {
-        "id": "tech-a42767f1",
-        "title": "I asked 100 companies for my data. Some deleted it instead.",
-        "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
-        "bullets": [
-          "Testing 100 companies found privacy requests often led to confusion and dead ends."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T10:50:31.000Z"
-      },
-      {
-        "id": "tech-2e087c0f",
-        "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-        "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
-        "bullets": [
-          "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T22:14:52.000Z"
-      },
-      {
-        "id": "tech-5cb9ebf7",
-        "title": "Cities terminate Flock contracts at record pace in August",
-        "summary": "Cancellations have accelerated.",
-        "bullets": [
-          "Cancellations have accelerated."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T21:33:54.000Z"
-      },
-      {
-        "id": "tech-3dd29db1",
-        "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
-        "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
-        "bullets": [
-          "went to Samoa to spread vaccine fears.",
-          "The measles outbreak after killed 83."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T21:17:38.000Z"
-      },
-      {
-        "id": "tech-a7866a71",
-        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-        "bullets": [
-          "Anthropic refused to support lethal autonomous warfare and mass surveillance."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T18:07:55.000Z"
-      },
-      {
-        "id": "ai-748afcb5",
-        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-        "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-        "bullets": [
-          "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T18:41:59.000Z"
-      },
-      {
-        "id": "ai-62fad70d",
-        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-        "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still...",
-        "bullets": [
-          "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T17:36:47.000Z"
-      },
-      {
-        "id": "ai-0e71438a",
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-        "bullets": [
-          "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T13:00:00.000Z"
-      },
-      {
-        "id": "ai-90ca18b5",
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-        "bullets": [
-          "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft.",
-          "It's the latest in a string of loans, underscoring the high cost of the AI boom."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T20:24:11.000Z"
-      },
-      {
-        "id": "ai-6b75f42d",
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-        "bullets": [
-          "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-28T19:30:38.000Z"
-      },
-      {
-        "id": "world-5d9d9b77",
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-        "bullets": [
-          "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T03:54:11.000Z"
-      },
-      {
-        "id": "world-6c27b58f",
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-        "bullets": [
-          "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T20:13:16.000Z"
-      },
-      {
-        "id": "world-0ed9082c",
-        "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-        "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-        "bullets": [
-          "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T17:52:42.000Z"
-      },
-      {
-        "id": "world-620be857",
-        "title": "Norway's new king remembers 'my dear father' in first speech",
-        "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-        "bullets": [
-          "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T19:06:28.000Z"
-      },
-      {
-        "id": "world-d41d683b",
-        "title": "Former Ecuadorian president imprisoned for corruption",
-        "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-        "bullets": [
-          "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-29T19:44:54.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-08-30",
     "generatedAt": "2026-08-30T23:32:12.202Z",
     "articles": [
@@ -7992,6 +7724,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-27T17:05:26.000Z"
+      },
+      {
+        "id": "world-bc4d7764",
+        "title": "Four killed in helicopter crash near Montreal",
+        "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+        "bullets": [
+          "The victims of the crash have not yet been identified, Quebec provincial police told the BBC."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T02:43:10.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "generatedAt": "2026-09-28T05:28:21.351Z",
+    "articles": [
+      {
+        "id": "top-577064d1",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+        "bullets": [
+          "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T20:10:51.000Z"
+      },
+      {
+        "id": "top-3d0275a2",
+        "title": "What we know about RAF Fairford counter-terror probe",
+        "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+        "bullets": [
+          "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T19:47:44.000Z"
+      },
+      {
+        "id": "top-7c44a4d2",
+        "title": "Protesters disperse after blocking contentious Orange Order parade",
+        "summary": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
+        "bullets": [
+          "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-28T03:27:56.000Z"
+      },
+      {
+        "id": "top-37c5ea42",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "bullets": [
+          "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T21:16:31.000Z"
+      },
+      {
+        "id": "top-6882816c",
+        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "bullets": [
+          "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T21:00:06.000Z"
+      },
+      {
+        "id": "tech-d4232e58",
+        "title": "How the Smithsonian became the latest front in Trump’s culture war",
+        "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
+        "bullets": [
+          "The Smithsonian has faced withering pressure from the Trump administration."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T11:00:12.000Z"
+      },
+      {
+        "id": "tech-9999a955",
+        "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+        "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+        "bullets": [
+          "The 500-mile Semi arrives as charging gaps still limit electric trucking."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T10:45:09.000Z"
+      },
+      {
+        "id": "tech-40733599",
+        "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+        "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+        "bullets": [
+          "Heidi Overton faced questions focused on vaccines, birth control, and vapes."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T23:00:26.000Z"
+      },
+      {
+        "id": "tech-d7ed3585",
+        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+        "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+        "bullets": [
+          "\"Overly constrained AI models\" could cause military operations to fail, judges say."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T21:36:20.000Z"
+      },
+      {
+        "id": "tech-8e4e45db",
+        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+        "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+        "bullets": [
+          "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-25T21:10:51.000Z"
+      },
+      {
+        "id": "ai-989aa0ee",
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+        "bullets": [
+          "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T20:34:28.000Z"
+      },
+      {
+        "id": "ai-a5356b5f",
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "bullets": [
+          "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T19:57:30.000Z"
+      },
+      {
+        "id": "ai-7fd0af9e",
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "summary": "\"AI is the devil and I its maker.\"",
+        "bullets": [
+          "\"AI is the devil and I its maker.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T16:30:00.000Z"
+      },
+      {
+        "id": "ai-ee5444f1",
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+        "bullets": [
+          "The limited test covers select products and users, with a broader rollout planned for later in October."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T01:30:00.000Z"
+      },
+      {
+        "id": "ai-5ce15d4c",
+        "title": "Insurers claim AI is already increasing healthcare costs",
+        "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+        "bullets": [
+          "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-26T21:02:06.000Z"
+      },
+      {
+        "id": "world-37c5ea42",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "bullets": [
+          "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T21:16:31.000Z"
+      },
+      {
+        "id": "world-3c2a4108",
+        "title": "Embattled Serbian president resigns, paving way for early elections",
+        "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+        "bullets": [
+          "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T20:04:21.000Z"
+      },
+      {
+        "id": "world-b8aa3141",
+        "title": "Two bodies found after avalanche hits Himalayan climbing group",
+        "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+        "bullets": [
+          "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T17:05:26.000Z"
+      },
+      {
+        "id": "world-a8fdffe4",
+        "title": "Two mass shootings in South Africa leave 27 dead",
+        "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "bullets": [
+          "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-27T14:09:22.000Z"
       },
       {
         "id": "world-bc4d7764",
