@@ -7742,20 +7742,46 @@
   },
   {
     "date": "2026-09-28",
-    "generatedAt": "2026-09-28T14:01:14.304Z",
+    "generatedAt": "2026-09-28T21:15:03.891Z",
     "articles": [
       {
-        "id": "top-bb03ff4d",
-        "title": "Watch: Were the RAF Fairford arrests 'pure luck'?",
-        "summary": "Five men have been arrested on suspicion of explosive and terrorism offences after a major incident was declared at an airbase in the west of England.",
+        "id": "top-7df84f8b",
+        "title": "Five men arrested in RAF Fairford incident released on police bail",
+        "summary": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
         "bullets": [
-          "Five men have been arrested on suspicion of explosive and terrorism offences after a major incident was declared at an airbase in the west of England."
+          "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T11:44:16.000Z"
+        "publishedAt": "2026-09-28T19:16:26.000Z"
+      },
+      {
+        "id": "top-4feb61eb",
+        "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+        "summary": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
+        "bullets": [
+          "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-28T19:28:54.000Z"
+      },
+      {
+        "id": "top-32af082d",
+        "title": "UK tries to stop Trump's diesel export ban",
+        "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+        "bullets": [
+          "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-28T20:39:31.000Z"
       },
       {
         "id": "top-7c028749",
@@ -7768,176 +7794,153 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T13:32:46.000Z"
+        "publishedAt": "2026-09-28T18:07:25.000Z"
       },
       {
-        "id": "top-8c38e6db",
-        "title": "UK diesel price hits all-time high, the RAC says",
-        "summary": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+        "id": "top-0c6c4f47",
+        "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+        "summary": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
         "bullets": [
-          "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies."
+          "A thunderous lift off, rapid satellite deployments and a fiery ending.",
+          "That's how SpaceX's 14th launch of its Starship rocket panned out today."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T10:00:18.000Z"
+        "publishedAt": "2026-09-28T13:59:06.000Z"
       },
       {
-        "id": "top-b7ceecbc",
-        "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
-        "summary": "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.",
+        "id": "tech-7a9c7685",
+        "title": "To keep drug prices high, pharma has been piling up the patents",
+        "summary": "Add-on patents have increased drug patent periods from two years to over six.",
         "bullets": [
-          "Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T05:02:30.000Z"
-      },
-      {
-        "id": "top-8792fc29",
-        "title": "Police block Protestant Orange Order from controversial parade route",
-        "summary": "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.",
-        "bullets": [
-          "They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T13:05:04.000Z"
-      },
-      {
-        "id": "tech-28d7e114",
-        "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-        "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
-        "bullets": [
-          "“Microsoft claims to want to be a good neighbor, but the jury is still out.\""
+          "Add-on patents have increased drug patent periods from two years to over six."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T11:00:09.000Z"
+        "publishedAt": "2026-09-28T19:53:37.000Z"
       },
       {
-        "id": "tech-d4232e58",
-        "title": "How the Smithsonian became the latest front in Trump’s culture war",
-        "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
+        "id": "tech-a54eaa98",
+        "title": "Trump cuts fuel economy standards back to 2014 levels",
+        "summary": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
         "bullets": [
-          "The Smithsonian has faced withering pressure from the Trump administration."
+          "In 2020, Trump cut CAFE to 40 mpg.",
+          "Now he’s cut it again to just 35 mpg."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+        "sourceUrl": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T11:00:12.000Z"
+        "publishedAt": "2026-09-28T19:35:51.000Z"
       },
       {
-        "id": "tech-9999a955",
-        "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-        "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+        "id": "tech-f96b324c",
+        "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+        "summary": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
         "bullets": [
-          "The 500-mile Semi arrives as charging gaps still limit electric trucking."
+          "Kalshi's defiance of state gambling laws may be headed to Supreme Court."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-26T10:45:09.000Z"
+        "publishedAt": "2026-09-28T19:04:09.000Z"
       },
       {
-        "id": "tech-40733599",
-        "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-        "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+        "id": "tech-8ca8937b",
+        "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+        "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
         "bullets": [
-          "Heidi Overton faced questions focused on vaccines, birth control, and vapes."
+          "Google support maps out how Googlebooks can take over where ChromeOS left off."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T23:00:26.000Z"
+        "publishedAt": "2026-09-28T18:04:59.000Z"
       },
       {
-        "id": "tech-d7ed3585",
-        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-        "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+        "id": "tech-235e3dc0",
+        "title": "Scientists solve 1840s space weather mystery",
+        "summary": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo.",
         "bullets": [
-          "\"Overly constrained AI models\" could cause military operations to fail, judges say."
+          "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-25T21:36:20.000Z"
+        "publishedAt": "2026-09-28T17:56:36.000Z"
       },
       {
-        "id": "ai-a0661e9d",
-        "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-        "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+        "id": "ai-28daa699",
+        "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+        "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
         "bullets": [
-          "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
+          "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+        "sourceUrl": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T14:00:00.000Z"
+        "publishedAt": "2026-09-28T20:39:33.000Z"
       },
       {
-        "id": "ai-941640a1",
-        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-        "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+        "id": "ai-9815353f",
+        "title": "Shopify opens checkout to browser-based AI agents",
+        "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
         "bullets": [
-          "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
+          "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+        "sourceUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T13:38:48.000Z"
+        "publishedAt": "2026-09-28T19:33:57.000Z"
       },
       {
-        "id": "ai-989aa0ee",
-        "title": "Anthropic’s CEO is about to have dinner with President Trump",
-        "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+        "id": "ai-b73ff56e",
+        "title": "Nvidia launches new platform for reining in rogue AI agents",
+        "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software...",
         "bullets": [
-          "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+          "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is...",
+          "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T20:34:28.000Z"
+        "publishedAt": "2026-09-28T18:31:23.000Z"
       },
       {
-        "id": "ai-a5356b5f",
-        "title": "Can Muse overcome Meta’s trust issues?",
-        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "id": "ai-6957bf2f",
+        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+        "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
         "bullets": [
-          "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+          "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "sourceUrl": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T19:57:30.000Z"
+        "publishedAt": "2026-09-28T18:00:00.000Z"
       },
       {
-        "id": "ai-7fd0af9e",
-        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-        "summary": "\"AI is the devil and I its maker.\"",
+        "id": "ai-e8a81e92",
+        "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+        "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
         "bullets": [
-          "\"AI is the devil and I its maker.\""
+          "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "sourceUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T16:30:00.000Z"
+        "publishedAt": "2026-09-28T17:29:50.000Z"
       },
       {
         "id": "world-37c5ea42",
@@ -7953,56 +7956,56 @@
         "publishedAt": "2026-09-27T21:16:31.000Z"
       },
       {
-        "id": "world-95aa62b8",
-        "title": "Trump-Xi summit: What wasn't said might matter the most",
-        "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+        "id": "world-7fe49d70",
+        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+        "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
         "bullets": [
-          "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know."
+          "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T07:52:23.000Z"
+        "publishedAt": "2026-09-28T14:57:31.000Z"
       },
       {
-        "id": "world-c9289966",
-        "title": "Mexico's Pacific coast braces for Hurricane Polo",
-        "summary": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+        "id": "world-84b68347",
+        "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+        "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
         "bullets": [
-          "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast."
+          "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T11:05:49.000Z"
+        "publishedAt": "2026-09-28T17:26:21.000Z"
       },
       {
-        "id": "world-fb673db7",
-        "title": "Plan for controversial Sydney data centre scrapped after push-back",
-        "summary": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+        "id": "world-61bc42ef",
+        "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+        "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
         "bullets": [
-          "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\"."
+          "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T12:47:09.000Z"
+        "publishedAt": "2026-09-28T17:15:00.000Z"
       },
       {
-        "id": "world-dcb93918",
-        "title": "Two mass shootings in South Africa leave 28 dead",
-        "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "id": "world-22b1cf13",
+        "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+        "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
         "bullets": [
-          "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
+          "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T06:46:03.000Z"
+        "publishedAt": "2026-09-28T15:39:19.000Z"
       }
     ]
   }
