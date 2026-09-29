@@ -7744,72 +7744,72 @@
   },
   {
     "date": "2026-09-29",
-    "generatedAt": "2026-09-29T01:02:45.083Z",
+    "generatedAt": "2026-09-29T09:53:40.048Z",
     "articles": [
       {
-        "id": "top-7df84f8b",
-        "title": "Five men arrested in RAF Fairford incident released on police bail",
-        "summary": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+        "id": "top-532e4427",
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
         "bullets": [
-          "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved."
+          "The firm also issued an update on incidents in which its models accessed Australian government systems."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T19:16:26.000Z"
+        "publishedAt": "2026-09-29T09:14:13.000Z"
       },
       {
-        "id": "top-4feb61eb",
-        "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
-        "summary": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
+        "id": "top-6980340d",
+        "title": "Sir Ranulph Fiennes' family say it's 'very painful' not being able to visit him",
+        "summary": "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.",
         "bullets": [
-          "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist..."
+          "It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T19:28:54.000Z"
+        "publishedAt": "2026-09-29T09:13:43.000Z"
       },
       {
-        "id": "top-32af082d",
-        "title": "UK tries to stop Trump's diesel export ban",
-        "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+        "id": "top-0b8f361a",
+        "title": "'We don't know where he is': Relatives of Sir Ranulph Fiennes tell BBC",
+        "summary": "Speaking to BBC Newsnight, his former sister-in-law told the BBC that she did not know where he was, and nobody had been able to see him.",
         "bullets": [
-          "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
+          "Speaking to BBC Newsnight, his former sister-in-law told the BBC that she did not know where he was, and nobody had been able to see him."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ck8d3v9635vvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T20:39:31.000Z"
+        "publishedAt": "2026-09-29T08:42:40.000Z"
       },
       {
-        "id": "top-009e7390",
-        "title": "Burnham to unveil public body to invest in electricity grid",
-        "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+        "id": "top-4a0783d3",
+        "title": "Temperatures to hit 26C in burst of late September warmth",
+        "summary": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
         "bullets": [
-          "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader."
+          "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T00:40:29.000Z"
+        "publishedAt": "2026-09-29T04:39:26.000Z"
       },
       {
-        "id": "top-a0bd26ca",
-        "title": "Migrants using longer, more dangerous routes across Channel",
-        "summary": "The government says it is bearing down on dangerous small boat crossings.",
+        "id": "top-e50dfcec",
+        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+        "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
         "bullets": [
-          "The government says it is bearing down on dangerous small boat crossings."
+          "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T00:42:15.000Z"
+        "publishedAt": "2026-09-29T03:50:40.000Z"
       },
       {
         "id": "tech-c1dbc348",
@@ -7878,6 +7878,19 @@
         "publishedAt": "2026-09-28T20:31:06.000Z"
       },
       {
+        "id": "ai-022ceb9c",
+        "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+        "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+        "bullets": [
+          "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T05:13:43.000Z"
+      },
+      {
         "id": "ai-30298e85",
         "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
         "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
@@ -7930,34 +7943,47 @@
         "publishedAt": "2026-09-28T20:39:33.000Z"
       },
       {
-        "id": "ai-9815353f",
-        "title": "Shopify opens checkout to browser-based AI agents",
-        "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+        "id": "world-532e4427",
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
         "bullets": [
-          "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T19:33:57.000Z"
-      },
-      {
-        "id": "world-37c5ea42",
-        "title": "Inside Yemen's front-line city as Houthis battle for control",
-        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-        "bullets": [
-          "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
+          "The firm also issued an update on incidents in which its models accessed Australian government systems."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-27T21:16:31.000Z"
+        "publishedAt": "2026-09-29T09:14:13.000Z"
       },
       {
-        "id": "world-662acfc4",
-        "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+        "id": "world-56aaf0bb",
+        "title": "Evicted Spanish pensioner can move back home, lawyer says",
+        "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+        "bullets": [
+          "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T08:53:00.000Z"
+      },
+      {
+        "id": "world-e50dfcec",
+        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+        "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+        "bullets": [
+          "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T03:50:40.000Z"
+      },
+      {
+        "id": "world-30903325",
+        "title": "New York Times executive fatally shot by elderly in-laws, police say",
         "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
         "bullets": [
           "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder."
@@ -7966,46 +7992,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T20:50:03.000Z"
+        "publishedAt": "2026-09-29T04:06:43.000Z"
       },
       {
-        "id": "world-7fe49d70",
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+        "id": "world-4d4bdca7",
+        "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+        "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
         "bullets": [
-          "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret."
+          "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-28T14:57:31.000Z"
-      },
-      {
-        "id": "world-d196ad49",
-        "title": "French PM warns against escalation of school protests after 164 arrested",
-        "summary": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
-        "bullets": [
-          "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T21:46:53.000Z"
-      },
-      {
-        "id": "world-89fa240b",
-        "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
-        "summary": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
-        "bullets": [
-          "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T22:27:33.000Z"
+        "publishedAt": "2026-09-29T04:10:33.000Z"
       }
     ]
   }
