@@ -7744,20 +7744,33 @@
   },
   {
     "date": "2026-09-29",
-    "generatedAt": "2026-09-29T18:06:26.795Z",
+    "generatedAt": "2026-09-29T22:19:09.681Z",
     "articles": [
       {
-        "id": "top-2b5235ef",
-        "title": "Watch: How did Burnham's speech go down in the conference hall?",
-        "summary": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.",
+        "id": "top-aeac64e1",
+        "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+        "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
         "bullets": [
-          "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care."
+          "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T15:31:27.000Z"
+        "publishedAt": "2026-09-29T17:39:06.000Z"
+      },
+      {
+        "id": "top-ef074315",
+        "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+        "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
+        "bullets": [
+          "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T19:13:14.000Z"
       },
       {
         "id": "top-195c24c1",
@@ -7770,7 +7783,7 @@
         "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T17:27:02.000Z"
+        "publishedAt": "2026-09-29T18:12:33.000Z"
       },
       {
         "id": "top-1247739b",
@@ -7783,37 +7796,76 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T18:02:13.000Z"
+        "publishedAt": "2026-09-29T21:42:58.000Z"
       },
       {
-        "id": "top-1bd605bf",
-        "title": "Body of newborn baby found on shoreline in Wales as police search for mother",
-        "summary": "The body of the newborn was found near Siliwen Road near the Menai Strait on Sunday.",
+        "id": "top-597a26a8",
+        "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
+        "summary": "Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.",
         "bullets": [
-          "The body of the newborn was found near Siliwen Road near the Menai Strait on Sunday."
+          "Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n07lj4egn2o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T12:51:37.000Z"
+        "publishedAt": "2026-09-29T19:54:07.000Z"
       },
       {
-        "id": "top-da454847",
-        "title": "No 'deliberate' contact to stop car in A66 crash",
-        "summary": "No stinger was used by police before the fatal A66 crash, an initial investigation reveals.",
+        "id": "tech-d57c241a",
+        "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+        "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
         "bullets": [
-          "No stinger was used by police before the fatal A66 crash, an initial investigation reveals."
+          "The deal, which is expected to close by year's end, is worth $8.2 billion."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6z0zk9d31xdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T15:59:07.000Z"
+        "publishedAt": "2026-09-29T21:14:49.000Z"
       },
       {
-        "id": "tech-9da476de",
-        "title": "Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says",
+        "id": "tech-e8a3edce",
+        "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+        "summary": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
+        "bullets": [
+          "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T20:23:40.000Z"
+      },
+      {
+        "id": "tech-3e6dfebc",
+        "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+        "summary": "So is SpaceX just being selfish or what?",
+        "bullets": [
+          "So is SpaceX just being selfish or what?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T18:34:00.000Z"
+      },
+      {
+        "id": "tech-62c33531",
+        "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+        "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+        "bullets": [
+          "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T18:11:09.000Z"
+      },
+      {
+        "id": "tech-6fcd5a8f",
+        "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
         "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
         "bullets": [
           "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional."
@@ -7825,63 +7877,50 @@
         "publishedAt": "2026-09-29T17:29:14.000Z"
       },
       {
-        "id": "tech-5aa2fcdf",
-        "title": "This study looks at how and with whom connected cars share your data",
-        "summary": "Between the cars and their companion apps, you’re exposed to a lot of trackers.",
+        "id": "ai-c0e4e8ff",
+        "title": "OpenAI’s latest features take direct aim at the app store model",
+        "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
         "bullets": [
-          "Between the cars and their companion apps, you’re exposed to a lot of trackers."
+          "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T14:49:44.000Z"
+        "publishedAt": "2026-09-29T20:15:47.000Z"
       },
       {
-        "id": "tech-02d4ab39",
-        "title": "Less protein for maggots means longer lives for fruit flies",
-        "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults.",
+        "id": "ai-d90db15f",
+        "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+        "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
         "bullets": [
-          "Eating less protein as larvae may limit their ability to produce proteins as adults."
+          "The new round is anticipated to be the company's last before its delayed 2027 public debut."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T14:39:25.000Z"
+        "publishedAt": "2026-09-29T19:52:37.000Z"
       },
       {
-        "id": "tech-e7fb97c4",
-        "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-        "summary": "Similar performance, security trade-offs also seen in current public models.",
+        "id": "ai-2c21b48e",
+        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
         "bullets": [
-          "Similar performance, security trade-offs also seen in current public models."
+          "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T14:22:31.000Z"
-      },
-      {
-        "id": "tech-c1366656",
-        "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-        "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
-        "bullets": [
-          "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-29T14:10:00.000Z"
+        "publishedAt": "2026-09-29T18:35:00.000Z"
       },
       {
         "id": "ai-ae84fee4",
         "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-        "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+        "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
         "bullets": [
-          "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies."
+          "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
@@ -7901,45 +7940,6 @@
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-09-29T17:20:00.000Z"
-      },
-      {
-        "id": "ai-5a4baf89",
-        "title": "OpenAI launches Dots, its bubbly agentic avatar",
-        "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-        "bullets": [
-          "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-29T17:17:15.000Z"
-      },
-      {
-        "id": "ai-0bb62edc",
-        "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-        "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-        "bullets": [
-          "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-29T17:15:00.000Z"
-      },
-      {
-        "id": "ai-f7a0641c",
-        "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-        "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-        "bullets": [
-          "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-29T17:15:00.000Z"
       },
       {
         "id": "world-c5a1d8ad",
@@ -7981,17 +7981,17 @@
         "publishedAt": "2026-09-29T12:39:18.000Z"
       },
       {
-        "id": "world-fa1f16fe",
-        "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-        "summary": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+        "id": "world-535417f5",
+        "title": "More than 400 detained as France student protests escalate",
+        "summary": "Students have been protesting conditions and resources in high schools since last week.",
         "bullets": [
-          "The suspect, 24, was arrested before the alleged cyber attack took place."
+          "Students have been protesting conditions and resources in high schools since last week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T15:40:10.000Z"
+        "publishedAt": "2026-09-29T21:55:13.000Z"
       },
       {
         "id": "world-9979a7bd",
