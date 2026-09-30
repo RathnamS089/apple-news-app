@@ -7742,7 +7742,7 @@
   },
   {
     "date": "2026-09-30",
-    "generatedAt": "2026-09-30T05:37:02.340Z",
+    "generatedAt": "2026-09-30T12:39:46.517Z",
     "articles": [
       {
         "id": "top-ae079b16",
@@ -7755,33 +7755,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T05:00:05.000Z"
-      },
-      {
-        "id": "top-ef074315",
-        "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
-        "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
-        "bullets": [
-          "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-29T19:13:14.000Z"
-      },
-      {
-        "id": "top-7fb3c5c0",
-        "title": "Household energy bills forecast to see biggest rise in four years",
-        "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-        "bullets": [
-          "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-30T05:27:23.000Z"
+        "publishedAt": "2026-09-30T11:36:59.000Z"
       },
       {
         "id": "top-040a8774",
@@ -7797,18 +7771,56 @@
         "publishedAt": "2026-09-30T00:12:24.000Z"
       },
       {
-        "id": "top-17214b59",
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+        "id": "top-b98b5a0f",
+        "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
+        "summary": "One of the men seen outside the UK school attended by the children is understood to be an international press photographer.",
         "bullets": [
-          "Witnesses say Raseel's tent was hit by an Israeli helicopter strike.",
-          "Israel’s military says it has no record of the attack."
+          "One of the men seen outside the UK school attended by the children is understood to be an international press photographer."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T05:02:50.000Z"
+        "publishedAt": "2026-09-30T10:59:17.000Z"
+      },
+      {
+        "id": "top-4b6a8969",
+        "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
+        "summary": "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire that killed 72 people.",
+        "bullets": [
+          "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire that killed 72 people."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T12:25:34.000Z"
+      },
+      {
+        "id": "top-70948702",
+        "title": "The transfers that helped Man City dominate while breaking financial rules",
+        "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
+        "bullets": [
+          "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T06:26:34.000Z"
+      },
+      {
+        "id": "tech-c7751c08",
+        "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+        "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+        "bullets": [
+          "The move will be part of a major overhaul of the ecosystem for website authentication."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T11:15:14.000Z"
       },
       {
         "id": "tech-611c45c1",
@@ -7863,17 +7875,17 @@
         "publishedAt": "2026-09-29T20:23:40.000Z"
       },
       {
-        "id": "tech-3e6dfebc",
-        "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-        "summary": "So is SpaceX just being selfish or what?",
+        "id": "ai-9386f4be",
+        "title": "Airbnb adds AI search, more social features",
+        "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
         "bullets": [
-          "So is SpaceX just being selfish or what?"
+          "Airbnb is also launching new services such as meal delivery and laundry in select locations."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T18:34:00.000Z"
+        "publishedAt": "2026-09-30T12:00:00.000Z"
       },
       {
         "id": "ai-7a142e01",
@@ -7928,17 +7940,30 @@
         "publishedAt": "2026-09-29T19:52:37.000Z"
       },
       {
-        "id": "ai-2c21b48e",
-        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-        "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+        "id": "world-7604bb01",
+        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
         "bullets": [
-          "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+          "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T18:35:00.000Z"
+        "publishedAt": "2026-09-30T11:47:27.000Z"
+      },
+      {
+        "id": "world-a0c028d5",
+        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+        "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+        "bullets": [
+          "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T11:36:23.000Z"
       },
       {
         "id": "world-a2863385",
@@ -7952,19 +7977,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-29T23:15:29.000Z"
-      },
-      {
-        "id": "world-67ba98c9",
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-        "bullets": [
-          "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-30T04:01:52.000Z"
       },
       {
         "id": "world-17214b59",
@@ -7981,30 +7993,17 @@
         "publishedAt": "2026-09-30T05:02:50.000Z"
       },
       {
-        "id": "world-03c6507d",
-        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-        "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+        "id": "world-f925ccc3",
+        "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+        "summary": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
         "bullets": [
-          "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month."
+          "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T05:24:52.000Z"
-      },
-      {
-        "id": "world-a1561dc2",
-        "title": "South Africa to clean up high-risk areas after 12 women killed",
-        "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
-        "bullets": [
-          "The deaths sparked a national outcry about the scale of violence against women in the country."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-29T22:33:39.000Z"
+        "publishedAt": "2026-09-30T08:59:38.000Z"
       }
     ]
   }
