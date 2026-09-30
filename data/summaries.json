@@ -7742,202 +7742,255 @@
   },
   {
     "date": "2026-09-30",
-    "generatedAt": "2026-09-30T12:39:46.517Z",
+    "generatedAt": "2026-09-30T20:03:58.897Z",
     "articles": [
       {
-        "id": "top-ae079b16",
-        "title": "Move to rejoin EU among options for UK, says Burnham",
-        "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+        "id": "top-5ea40495",
+        "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+        "summary": "The man says he \"pulled the controls\" of the plane after it plummeted during the attack.",
         "bullets": [
-          "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+          "The man says he \"pulled the controls\" of the plane after it plummeted during the attack."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T11:36:59.000Z"
+        "publishedAt": "2026-09-30T18:40:36.000Z"
       },
       {
-        "id": "top-040a8774",
-        "title": "One of the five men arrested near RAF Fairford called 999 himself",
-        "summary": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas.",
+        "id": "top-c1e9b0fd",
+        "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+        "summary": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
         "bullets": [
-          "He made the call almost an hour before a farmer also called police after seeing men in balaclavas."
+          "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T00:12:24.000Z"
+        "publishedAt": "2026-09-30T15:59:51.000Z"
       },
       {
-        "id": "top-b98b5a0f",
-        "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
-        "summary": "One of the men seen outside the UK school attended by the children is understood to be an international press photographer.",
+        "id": "top-bef3c90c",
+        "title": "UK-France 'one in, one out' migrant scheme scrapped",
+        "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
         "bullets": [
-          "One of the men seen outside the UK school attended by the children is understood to be an international press photographer."
+          "Some 1,500 people have been removed to France since the scheme began just over a year ago."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T10:59:17.000Z"
+        "publishedAt": "2026-09-30T17:11:08.000Z"
       },
       {
-        "id": "top-4b6a8969",
-        "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
-        "summary": "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire that killed 72 people.",
+        "id": "top-0ea27134",
+        "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+        "summary": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
         "bullets": [
-          "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire that killed 72 people."
+          "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T12:25:34.000Z"
+        "publishedAt": "2026-09-30T18:15:15.000Z"
       },
       {
-        "id": "top-70948702",
-        "title": "The transfers that helped Man City dominate while breaking financial rules",
-        "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
+        "id": "top-0a9d1b12",
+        "title": "Teens who died in car that entered River Wear named",
+        "summary": "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the River Wear.",
         "bullets": [
-          "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules."
+          "Jackson Duke, Luke Etheridge and Zara Shaw died when the car they were in ended up in the River Wear."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T06:26:34.000Z"
+        "publishedAt": "2026-09-30T18:40:18.000Z"
       },
       {
-        "id": "tech-c7751c08",
-        "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-        "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+        "id": "tech-70df809d",
+        "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
+        "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
         "bullets": [
-          "The move will be part of a major overhaul of the ecosystem for website authentication."
+          "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T11:15:14.000Z"
+        "publishedAt": "2026-09-30T18:25:04.000Z"
       },
       {
-        "id": "tech-611c45c1",
-        "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-        "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+        "id": "tech-b4cfc05f",
+        "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+        "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
         "bullets": [
-          "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon."
+          "Russia says it has a \"promising, reusable manned transport spacecraft.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T22:30:37.000Z"
+        "publishedAt": "2026-09-30T16:48:56.000Z"
       },
       {
-        "id": "tech-2a064887",
-        "title": "Protests against OpenAI get increasingly creative",
-        "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+        "id": "tech-fdb93008",
+        "title": "Google's early attempt to pay websites for AI answers is struggling",
+        "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
         "bullets": [
-          "New sculpture depicts AI leaders escaping a sinking ship."
+          "Many sites see just one-tenth of one percent of their advertising revenue from AI payments."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+        "sourceUrl": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T21:52:58.000Z"
+        "publishedAt": "2026-09-30T16:03:48.000Z"
       },
       {
-        "id": "tech-d57c241a",
-        "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-        "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+        "id": "tech-7d6c10c0",
+        "title": "Google figures out how to watermark AI-designed proteins",
+        "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
         "bullets": [
-          "The deal, which is expected to close by year's end, is worth $8.2 billion."
+          "Intended to help with biosecurity, it works with a popular AI protein design tool."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T21:14:49.000Z"
+        "publishedAt": "2026-09-30T15:54:52.000Z"
       },
       {
-        "id": "tech-e8a3edce",
-        "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-        "summary": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
+        "id": "tech-0a2f340a",
+        "title": "The PS5 hacking scene just took a big leap forward",
+        "summary": "New exploit works on all but the most recently updated consoles.",
         "bullets": [
-          "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda."
+          "New exploit works on all but the most recently updated consoles."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T20:23:40.000Z"
+        "publishedAt": "2026-09-30T15:12:46.000Z"
       },
       {
-        "id": "ai-9386f4be",
-        "title": "Airbnb adds AI search, more social features",
-        "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+        "id": "ai-159ec25d",
+        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+        "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
         "bullets": [
-          "Airbnb is also launching new services such as meal delivery and laundry in select locations."
+          "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+        "sourceUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T12:00:00.000Z"
+        "publishedAt": "2026-09-30T19:00:57.000Z"
       },
       {
-        "id": "ai-7a142e01",
-        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-        "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+        "id": "ai-983a07bd",
+        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+        "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
         "bullets": [
-          "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+          "The $300 million employee tender was co-led by Wellington and T."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+        "sourceUrl": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T23:30:55.000Z"
+        "publishedAt": "2026-09-30T18:23:57.000Z"
       },
       {
-        "id": "ai-ffb5b908",
-        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-        "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "id": "ai-c9419e7b",
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
         "bullets": [
-          "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the..."
+          "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "sourceUrl": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T22:20:59.000Z"
+        "publishedAt": "2026-09-30T17:45:00.000Z"
       },
       {
-        "id": "ai-c0e4e8ff",
-        "title": "OpenAI’s latest features take direct aim at the app store model",
-        "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+        "id": "ai-5d05e8c8",
+        "title": "The ugly economics of consumer AI",
+        "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
         "bullets": [
-          "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered..."
+          "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+        "sourceUrl": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T20:15:47.000Z"
+        "publishedAt": "2026-09-30T17:24:45.000Z"
       },
       {
-        "id": "ai-9e097fdc",
-        "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-        "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+        "id": "ai-601f3b09",
+        "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+        "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
         "bullets": [
-          "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+          "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+        "sourceUrl": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-09-29T19:52:37.000Z"
+        "publishedAt": "2026-09-30T16:24:23.000Z"
+      },
+      {
+        "id": "world-274d1563",
+        "title": "What we know about stabbing on Flydubai flight to Israel",
+        "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+        "bullets": [
+          "The captain and first officer were injured, and one pilot has been arrested, officials say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T17:51:49.000Z"
+      },
+      {
+        "id": "world-e1c8aa12",
+        "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+        "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+        "bullets": [
+          "Thirty-one migrants died when their boat went down in November 2021.",
+          "The trial found that the guilty men were part of two smuggling networks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T17:14:03.000Z"
+      },
+      {
+        "id": "world-bef3c90c",
+        "title": "UK-France 'one in, one out' migrant scheme scrapped",
+        "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+        "bullets": [
+          "Some 1,500 people have been removed to France since the scheme began just over a year ago."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T17:11:08.000Z"
+      },
+      {
+        "id": "world-15f7da86",
+        "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+        "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+        "bullets": [
+          "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T15:29:11.000Z"
       },
       {
         "id": "world-7604bb01",
@@ -7950,60 +8003,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T11:47:27.000Z"
-      },
-      {
-        "id": "world-a0c028d5",
-        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-        "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-        "bullets": [
-          "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-30T11:36:23.000Z"
-      },
-      {
-        "id": "world-a2863385",
-        "title": "Chinese AI tool told researchers how to make bioweapons",
-        "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-        "bullets": [
-          "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-29T23:15:29.000Z"
-      },
-      {
-        "id": "world-17214b59",
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-        "bullets": [
-          "Witnesses say Raseel's tent was hit by an Israeli helicopter strike.",
-          "Israel’s military says it has no record of the attack."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-30T05:02:50.000Z"
-      },
-      {
-        "id": "world-f925ccc3",
-        "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-        "summary": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
-        "bullets": [
-          "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-30T08:59:38.000Z"
+        "publishedAt": "2026-09-30T14:53:02.000Z"
       }
     ]
   }
