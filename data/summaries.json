@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "generatedAt": "2026-08-31T20:51:39.378Z",
-    "articles": [
-      {
-        "id": "top-e66ad0ee",
-        "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
-        "summary": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
-        "bullets": [
-          "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T20:27:52.000Z"
-      },
-      {
-        "id": "top-6543397a",
-        "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-        "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-        "bullets": [
-          "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T17:30:47.000Z"
-      },
-      {
-        "id": "top-e73acab7",
-        "title": "Messi retires from international football with 'nothing left to give'",
-        "summary": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-        "bullets": [
-          "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T15:18:39.000Z"
-      },
-      {
-        "id": "top-784b216c",
-        "title": "Hundreds remember Heaton Park synagogue attack victims at memorial event",
-        "summary": "The chief rabbi and Angela Rayner are among speakers at the event, nearly a year on from the attack.",
-        "bullets": [
-          "The chief rabbi and Angela Rayner are among speakers at the event, nearly a year on from the attack."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z4wlxj04o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T20:50:31.000Z"
-      },
-      {
-        "id": "top-e0e81019",
-        "title": "AI could cause global economic downturn, Bank of England chief warns",
-        "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-        "bullets": [
-          "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T16:49:11.000Z"
-      },
-      {
-        "id": "tech-c7634bb7",
-        "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-        "summary": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
-        "bullets": [
-          "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T20:02:16.000Z"
-      },
-      {
-        "id": "tech-7d4f2e03",
-        "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-        "summary": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
-        "bullets": [
-          "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T18:39:25.000Z"
-      },
-      {
-        "id": "tech-25db3c96",
-        "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-        "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-        "bullets": [
-          "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T18:10:45.000Z"
-      },
-      {
-        "id": "tech-f2966e49",
-        "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
-        "summary": "Finding reveals an overlooked way that water can damage surfaces.",
-        "bullets": [
-          "Finding reveals an overlooked way that water can damage surfaces."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T17:11:48.000Z"
-      },
-      {
-        "id": "tech-4e5adcf6",
-        "title": "Think twice before installing this device promising free movies",
-        "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
-        "bullets": [
-          "In exchange for free stuff, devices make home connections part of a proxy network."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T16:33:38.000Z"
-      },
-      {
-        "id": "ai-d2f93f79",
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-        "bullets": [
-          "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T20:13:45.000Z"
-      },
-      {
-        "id": "ai-69d5707e",
-        "title": "Instagram puts new limits on undisclosed AI profiles",
-        "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-        "bullets": [
-          "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T19:16:59.000Z"
-      },
-      {
-        "id": "ai-3fcf2a9a",
-        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-        "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-        "bullets": [
-          "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T18:35:11.000Z"
-      },
-      {
-        "id": "ai-315a8141",
-        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-        "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-        "bullets": [
-          "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T16:00:00.000Z"
-      },
-      {
-        "id": "ai-501b6f07",
-        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-        "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-        "bullets": [
-          "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek.",
-          "The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T15:15:25.000Z"
-      },
-      {
-        "id": "world-6543397a",
-        "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-        "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-        "bullets": [
-          "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T17:30:47.000Z"
-      },
-      {
-        "id": "world-1d8aaab9",
-        "title": "US and Iran trade strikes for first time in weeks",
-        "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-        "bullets": [
-          "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T13:47:30.000Z"
-      },
-      {
-        "id": "world-38597c46",
-        "title": "Man arrested after Swiss rave shooting that killed woman",
-        "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-        "bullets": [
-          "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T13:11:35.000Z"
-      },
-      {
-        "id": "world-7a0f7f09",
-        "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-        "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
-        "bullets": [
-          "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T14:50:36.000Z"
-      },
-      {
-        "id": "world-cd70b034",
-        "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-        "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
-        "bullets": [
-          "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez.",
-          "He has pleaded not guilty."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-08-31T17:54:23.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-01",
     "generatedAt": "2026-09-01T23:20:36.865Z",
     "articles": [
@@ -8005,6 +7737,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-09-29T17:14:10.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "generatedAt": "2026-09-30T05:37:02.340Z",
+    "articles": [
+      {
+        "id": "top-ae079b16",
+        "title": "Move to rejoin EU among options for UK, says Burnham",
+        "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+        "bullets": [
+          "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T05:00:05.000Z"
+      },
+      {
+        "id": "top-ef074315",
+        "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+        "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
+        "bullets": [
+          "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T19:13:14.000Z"
+      },
+      {
+        "id": "top-7fb3c5c0",
+        "title": "Household energy bills forecast to see biggest rise in four years",
+        "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+        "bullets": [
+          "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T05:27:23.000Z"
+      },
+      {
+        "id": "top-040a8774",
+        "title": "One of the five men arrested near RAF Fairford called 999 himself",
+        "summary": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas.",
+        "bullets": [
+          "He made the call almost an hour before a farmer also called police after seeing men in balaclavas."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T00:12:24.000Z"
+      },
+      {
+        "id": "top-17214b59",
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+        "bullets": [
+          "Witnesses say Raseel's tent was hit by an Israeli helicopter strike.",
+          "Israel’s military says it has no record of the attack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T05:02:50.000Z"
+      },
+      {
+        "id": "tech-611c45c1",
+        "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+        "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+        "bullets": [
+          "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T22:30:37.000Z"
+      },
+      {
+        "id": "tech-2a064887",
+        "title": "Protests against OpenAI get increasingly creative",
+        "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+        "bullets": [
+          "New sculpture depicts AI leaders escaping a sinking ship."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T21:52:58.000Z"
+      },
+      {
+        "id": "tech-d57c241a",
+        "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+        "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+        "bullets": [
+          "The deal, which is expected to close by year's end, is worth $8.2 billion."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T21:14:49.000Z"
+      },
+      {
+        "id": "tech-e8a3edce",
+        "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+        "summary": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
+        "bullets": [
+          "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T20:23:40.000Z"
+      },
+      {
+        "id": "tech-3e6dfebc",
+        "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+        "summary": "So is SpaceX just being selfish or what?",
+        "bullets": [
+          "So is SpaceX just being selfish or what?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T18:34:00.000Z"
+      },
+      {
+        "id": "ai-7a142e01",
+        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+        "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+        "bullets": [
+          "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T23:30:55.000Z"
+      },
+      {
+        "id": "ai-ffb5b908",
+        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "bullets": [
+          "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T22:20:59.000Z"
+      },
+      {
+        "id": "ai-c0e4e8ff",
+        "title": "OpenAI’s latest features take direct aim at the app store model",
+        "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+        "bullets": [
+          "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T20:15:47.000Z"
+      },
+      {
+        "id": "ai-9e097fdc",
+        "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+        "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+        "bullets": [
+          "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T19:52:37.000Z"
+      },
+      {
+        "id": "ai-2c21b48e",
+        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+        "bullets": [
+          "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T18:35:00.000Z"
+      },
+      {
+        "id": "world-a2863385",
+        "title": "Chinese AI tool told researchers how to make bioweapons",
+        "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+        "bullets": [
+          "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T23:15:29.000Z"
+      },
+      {
+        "id": "world-67ba98c9",
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+        "bullets": [
+          "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T04:01:52.000Z"
+      },
+      {
+        "id": "world-17214b59",
+        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+        "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+        "bullets": [
+          "Witnesses say Raseel's tent was hit by an Israeli helicopter strike.",
+          "Israel’s military says it has no record of the attack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T05:02:50.000Z"
+      },
+      {
+        "id": "world-03c6507d",
+        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+        "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+        "bullets": [
+          "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T05:24:52.000Z"
+      },
+      {
+        "id": "world-a1561dc2",
+        "title": "South Africa to clean up high-risk areas after 12 women killed",
+        "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+        "bullets": [
+          "The deaths sparked a national outcry about the scale of violence against women in the country."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-09-29T22:33:39.000Z"
       }
     ]
   }
