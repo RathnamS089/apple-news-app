@@ -7743,73 +7743,72 @@
   },
   {
     "date": "2026-10-01",
-    "generatedAt": "2026-10-01T00:34:37.848Z",
+    "generatedAt": "2026-10-01T10:12:21.821Z",
     "articles": [
       {
-        "id": "top-91c7e43d",
-        "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-        "summary": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
+        "id": "top-c2a138cf",
+        "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
+        "summary": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
         "bullets": [
-          "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying."
+          "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T21:30:38.000Z"
+        "publishedAt": "2026-10-01T05:56:47.000Z"
       },
       {
-        "id": "top-bbe6cfa0",
-        "title": "Dame Esther Rantzen: A presenter who campaigned for change",
-        "summary": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.",
+        "id": "top-611e9c8f",
+        "title": "US death row inmate survives execution attempt after two lethal injections",
+        "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
         "bullets": [
-          "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-30T19:00:50.000Z"
-      },
-      {
-        "id": "top-7c6f73e4",
-        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
-        "bullets": [
-          "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
+          "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-01T00:19:20.000Z"
+        "publishedAt": "2026-10-01T09:59:59.000Z"
       },
       {
-        "id": "top-ef92fd6d",
-        "title": "Employers should teach primary-age children about work, says Milburn",
-        "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+        "id": "top-351df465",
+        "title": "Watch: The many questions raised by the failed execution of Christa Pike",
+        "summary": "Her legal team filed an emergency motion to halt the convicted murderer's execution as it was happening.",
         "bullets": [
-          "The author of a major report into youth activity in the UK says children as young as four should be learning about careers."
+          "Her legal team filed an emergency motion to halt the convicted murderer's execution as it was happening."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T21:40:31.000Z"
+        "publishedAt": "2026-10-01T06:14:24.000Z"
       },
       {
-        "id": "top-b040062f",
-        "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-        "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
+        "id": "top-ad3621c9",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+        "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
         "bullets": [
-          "Beijing has cracked down on AI chatbots that can replicate human relationships.",
-          "Experts are asking if this is the right thing to do."
+          "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T23:25:23.000Z"
+        "publishedAt": "2026-10-01T10:04:04.000Z"
+      },
+      {
+        "id": "top-07e49d52",
+        "title": "Watch: Moment Esther Rantzen reunites man with children he saved from Nazi occupation",
+        "summary": "Sir Nicholas Winton's story became national news when he appeared on That's Life! in February 1988.",
+        "bullets": [
+          "Sir Nicholas Winton's story became national news when he appeared on That's Life!"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-09-30T18:19:30.000Z"
       },
       {
         "id": "tech-59d2dad7",
@@ -7942,6 +7941,32 @@
         "publishedAt": "2026-09-30T17:45:00.000Z"
       },
       {
+        "id": "world-611e9c8f",
+        "title": "US death row inmate survives execution attempt after two lethal injections",
+        "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+        "bullets": [
+          "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T09:59:59.000Z"
+      },
+      {
+        "id": "world-ad3621c9",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+        "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
+        "bullets": [
+          "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T10:04:04.000Z"
+      },
+      {
         "id": "world-274d1563",
         "title": "What we know about stabbing on Flydubai flight to Israel",
         "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
@@ -7952,11 +7977,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-09-30T21:36:31.000Z"
+        "publishedAt": "2026-10-01T02:31:24.000Z"
       },
       {
-        "id": "world-97a35ec3",
-        "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+        "id": "world-928ef70c",
+        "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
         "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
         "bullets": [
           "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
@@ -7968,44 +7993,17 @@
         "publishedAt": "2026-09-30T23:10:06.000Z"
       },
       {
-        "id": "world-7c6f73e4",
-        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+        "id": "world-d65954ef",
+        "title": "Japan raises permanent residency fee by 20 times",
+        "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
         "bullets": [
-          "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
+          "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-01T00:19:20.000Z"
-      },
-      {
-        "id": "world-6f1ed1a3",
-        "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-        "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
-        "bullets": [
-          "Scientists say such rapid melting is no longer surprising given the pace of climate change."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T00:08:23.000Z"
-      },
-      {
-        "id": "world-e1c8aa12",
-        "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-        "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-        "bullets": [
-          "Thirty-one migrants died when their boat went down in November 2021.",
-          "The trial found that the guilty men were part of two smuggling networks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-30T17:14:03.000Z"
+        "publishedAt": "2026-10-01T02:57:43.000Z"
       }
     ]
   }
