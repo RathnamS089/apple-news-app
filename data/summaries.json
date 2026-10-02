@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-09-02",
-    "generatedAt": "2026-09-02T23:20:38.135Z",
-    "articles": [
-      {
-        "id": "top-0373f4ff",
-        "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
-        "summary": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.",
-        "bullets": [
-          "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T20:43:06.000Z"
-      },
-      {
-        "id": "top-236a9da9",
-        "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-        "summary": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
-        "bullets": [
-          "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T13:20:11.000Z"
-      },
-      {
-        "id": "top-9b5b2df2",
-        "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
-        "summary": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
-        "bullets": [
-          "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T18:57:51.000Z"
-      },
-      {
-        "id": "top-12921ce1",
-        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-        "bullets": [
-          "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T16:49:00.000Z"
-      },
-      {
-        "id": "top-45f8f149",
-        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-        "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-        "bullets": [
-          "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T21:34:27.000Z"
-      },
-      {
-        "id": "tech-7d219efd",
-        "title": "Spending deal comes with a bonus: Blocking political control of grants",
-        "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
-        "bullets": [
-          "Congress pauses the OMB's attempt to rewrite how research is funded."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T21:20:03.000Z"
-      },
-      {
-        "id": "tech-3b315c11",
-        "title": "I rented a car, and within hours, my driver's license was for sale",
-        "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
-        "bullets": [
-          "The FBI is reportedly investigating a massive data breach that is unfolding in real time."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T20:32:02.000Z"
-      },
-      {
-        "id": "tech-7f18f7a2",
-        "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
-        "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
-        "bullets": [
-          "Carrier scorecards may include call-blocking stats and data on customer complaints."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T19:54:27.000Z"
-      },
-      {
-        "id": "tech-445d0a4e",
-        "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
-        "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
-        "bullets": [
-          "\"Requirements are being adjusted to reflect near-term mission needs.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T19:37:08.000Z"
-      },
-      {
-        "id": "tech-9dc5fc71",
-        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-        "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-        "bullets": [
-          "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T18:13:54.000Z"
-      },
-      {
-        "id": "ai-81274292",
-        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-        "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-        "bullets": [
-          "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T23:01:00.000Z"
-      },
-      {
-        "id": "ai-bc6b1a48",
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-        "bullets": [
-          "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T22:44:56.000Z"
-      },
-      {
-        "id": "ai-79e6e747",
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-        "bullets": [
-          "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T22:24:09.000Z"
-      },
-      {
-        "id": "ai-0a0debc1",
-        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-        "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-        "bullets": [
-          "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T20:19:14.000Z"
-      },
-      {
-        "id": "ai-d64850e8",
-        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-        "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms...",
-        "bullets": [
-          "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T17:18:13.000Z"
-      },
-      {
-        "id": "world-ea949f1b",
-        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-        "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
-        "bullets": [
-          "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T17:33:45.000Z"
-      },
-      {
-        "id": "world-45f8f149",
-        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-        "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
-        "bullets": [
-          "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T21:34:27.000Z"
-      },
-      {
-        "id": "world-12921ce1",
-        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-        "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-        "bullets": [
-          "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T16:49:00.000Z"
-      },
-      {
-        "id": "world-c78045e3",
-        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-        "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-        "bullets": [
-          "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T11:47:11.000Z"
-      },
-      {
-        "id": "world-5b7e0690",
-        "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
-        "summary": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
-        "bullets": [
-          "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-02T20:12:32.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-03",
     "generatedAt": "2026-09-03T23:18:18.937Z",
     "articles": [
@@ -8005,6 +7739,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-01T11:37:46.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "generatedAt": "2026-10-02T00:49:28.315Z",
+    "articles": [
+      {
+        "id": "top-c74a3692",
+        "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+        "summary": "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
+        "bullets": [
+          "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-02T00:20:39.000Z"
+      },
+      {
+        "id": "top-8486f2d6",
+        "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+        "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+        "bullets": [
+          "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T23:45:06.000Z"
+      },
+      {
+        "id": "top-989e7750",
+        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+        "bullets": [
+          "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T22:21:16.000Z"
+      },
+      {
+        "id": "top-45082fbb",
+        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+        "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+        "bullets": [
+          "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T22:28:45.000Z"
+      },
+      {
+        "id": "top-143244d4",
+        "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+        "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
+        "bullets": [
+          "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T22:22:43.000Z"
+      },
+      {
+        "id": "tech-74d1d99b",
+        "title": "Venus' mysterious haze is actually cosmic dust",
+        "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
+        "bullets": [
+          "A physical model show that iron dust and sulfuric acid create the right properties."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T22:27:04.000Z"
+      },
+      {
+        "id": "tech-a578f83a",
+        "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+        "summary": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
+        "bullets": [
+          "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T22:07:33.000Z"
+      },
+      {
+        "id": "tech-1e3d2152",
+        "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+        "summary": "It has been a bad month for federal government cybersecurity.",
+        "bullets": [
+          "It has been a bad month for federal government cybersecurity."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T20:28:45.000Z"
+      },
+      {
+        "id": "tech-9c0676f2",
+        "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+        "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+        "bullets": [
+          "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T20:11:55.000Z"
+      },
+      {
+        "id": "tech-cab54793",
+        "title": "Can good design stop content creators from having sex in robotaxis?",
+        "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
+        "bullets": [
+          "Autonomous vehicle designers have to worry about riders getting frisky in public."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T19:19:42.000Z"
+      },
+      {
+        "id": "ai-89e6f600",
+        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+        "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+        "bullets": [
+          "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T21:08:11.000Z"
+      },
+      {
+        "id": "ai-3246d716",
+        "title": "ChatGPT can now virtually try on clothes for you",
+        "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+        "bullets": [
+          "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T19:21:53.000Z"
+      },
+      {
+        "id": "ai-cffb3f48",
+        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+        "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+        "bullets": [
+          "Google launched its first advanced chip into orbit to pave the way for space data centers."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T19:18:03.000Z"
+      },
+      {
+        "id": "ai-d02f4609",
+        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+        "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+        "bullets": [
+          "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T18:14:42.000Z"
+      },
+      {
+        "id": "ai-38d78178",
+        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+        "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+        "bullets": [
+          "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T17:50:19.000Z"
+      },
+      {
+        "id": "world-45082fbb",
+        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+        "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+        "bullets": [
+          "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T22:28:45.000Z"
+      },
+      {
+        "id": "world-fadc603e",
+        "title": "What happened in the failed execution of Christa Pike - and what next?",
+        "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+        "bullets": [
+          "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T22:52:19.000Z"
+      },
+      {
+        "id": "world-b86f6ae3",
+        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+        "bullets": [
+          "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T19:59:24.000Z"
+      },
+      {
+        "id": "world-56b7f344",
+        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+        "bullets": [
+          "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T19:38:30.000Z"
+      },
+      {
+        "id": "world-669d7c40",
+        "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+        "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+        "bullets": [
+          "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-01T20:30:47.000Z"
       }
     ]
   }
