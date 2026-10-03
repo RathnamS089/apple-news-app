@@ -7745,8 +7745,60 @@
   },
   {
     "date": "2026-10-03",
-    "generatedAt": "2026-10-03T05:22:35.725Z",
+    "generatedAt": "2026-10-03T11:43:18.137Z",
     "articles": [
+      {
+        "id": "top-3ba6c585",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+        "bullets": [
+          "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T11:20:21.000Z"
+      },
+      {
+        "id": "top-f1da8335",
+        "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+        "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+        "bullets": [
+          "The 25-year-old man was arrested in the London borough of Westminster on Thursday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T10:58:51.000Z"
+      },
+      {
+        "id": "top-ea9bf20e",
+        "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+        "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
+        "bullets": [
+          "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T10:27:57.000Z"
+      },
+      {
+        "id": "top-d18e5ad5",
+        "title": "Russia strikes second major bridge in Kyiv, mayor says",
+        "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "bullets": [
+          "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T09:53:16.000Z"
+      },
       {
         "id": "top-81076a3a",
         "title": "Widdecombe suspect charged with planning terror act against Farage",
@@ -7758,59 +7810,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-02T21:32:25.000Z"
-      },
-      {
-        "id": "top-b4ef8a61",
-        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-        "bullets": [
-          "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T04:38:31.000Z"
-      },
-      {
-        "id": "top-c15cd650",
-        "title": "Men charged over alleged plot to target Manchester Jewish community",
-        "summary": "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.",
-        "bullets": [
-          "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:38:05.000Z"
-      },
-      {
-        "id": "top-04eafc94",
-        "title": "Woman deceived ex-partner that she had given birth to his babies, judge rules",
-        "summary": "The man paid his ex-partner around £30,000 over two years believing she had given birth to his children.",
-        "bullets": [
-          "The man paid his ex-partner around £30,000 over two years believing she had given birth to his children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq073egz324zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T04:07:58.000Z"
-      },
-      {
-        "id": "top-56b88cb4",
-        "title": "Riot police clash with students as education protests rage in France",
-        "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "bullets": [
-          "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:13:27.000Z"
+        "publishedAt": "2026-10-03T08:44:29.000Z"
       },
       {
         "id": "tech-dbcb48cc",
@@ -7946,6 +7946,45 @@
         "publishedAt": "2026-10-02T17:56:00.000Z"
       },
       {
+        "id": "world-3ba6c585",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+        "bullets": [
+          "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T11:20:21.000Z"
+      },
+      {
+        "id": "world-d18e5ad5",
+        "title": "Russia strikes second major bridge in Kyiv, mayor says",
+        "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "bullets": [
+          "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T09:53:16.000Z"
+      },
+      {
+        "id": "world-3f1b1899",
+        "title": "Protesters across Spain demand action over housing crisis",
+        "summary": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+        "bullets": [
+          "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T11:35:48.000Z"
+      },
+      {
         "id": "world-b4ef8a61",
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
         "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
@@ -7970,45 +8009,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-02T20:32:07.000Z"
-      },
-      {
-        "id": "world-2bc679ce",
-        "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-        "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-        "bullets": [
-          "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T02:23:07.000Z"
-      },
-      {
-        "id": "world-56b88cb4",
-        "title": "Riot police clash with students as education protests rage in France",
-        "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "bullets": [
-          "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:13:27.000Z"
-      },
-      {
-        "id": "world-ec4426fc",
-        "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-        "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-        "bullets": [
-          "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T15:30:12.000Z"
       }
     ]
   }
