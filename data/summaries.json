@@ -7745,7 +7745,7 @@
   },
   {
     "date": "2026-10-03",
-    "generatedAt": "2026-10-03T11:43:18.137Z",
+    "generatedAt": "2026-10-03T16:20:25.526Z",
     "articles": [
       {
         "id": "top-3ba6c585",
@@ -7758,7 +7758,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-03T11:20:21.000Z"
+        "publishedAt": "2026-10-03T14:27:33.000Z"
       },
       {
         "id": "top-f1da8335",
@@ -7787,30 +7787,43 @@
         "publishedAt": "2026-10-03T10:27:57.000Z"
       },
       {
-        "id": "top-d18e5ad5",
-        "title": "Russia strikes second major bridge in Kyiv, mayor says",
-        "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "id": "top-3f1b1899",
+        "title": "Protesters across Spain demand action over housing crisis",
+        "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
         "bullets": [
-          "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days."
+          "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-03T09:53:16.000Z"
+        "publishedAt": "2026-10-03T13:34:11.000Z"
       },
       {
-        "id": "top-81076a3a",
-        "title": "Widdecombe suspect charged with planning terror act against Farage",
-        "summary": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+        "id": "top-2dfae7d4",
+        "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
+        "summary": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
         "bullets": [
-          "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\"."
+          "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-03T08:44:29.000Z"
+        "publishedAt": "2026-10-03T12:51:08.000Z"
+      },
+      {
+        "id": "tech-b168aee1",
+        "title": "The dawn of the age of the exoskeleton",
+        "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+        "bullets": [
+          "The devices continue to show noticeable benefits for users in various real-world tasks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T11:15:33.000Z"
       },
       {
         "id": "tech-dbcb48cc",
@@ -7866,17 +7879,17 @@
         "publishedAt": "2026-10-02T20:07:59.000Z"
       },
       {
-        "id": "tech-305b1c84",
-        "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-        "summary": "Critics say workers are still owed far more.",
+        "id": "ai-b5766596",
+        "title": "All the AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "bullets": [
-          "Critics say workers are still owed far more."
+          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-02T19:09:49.000Z"
+        "publishedAt": "2026-10-03T14:00:00.000Z"
       },
       {
         "id": "ai-d3427b7c",
@@ -7933,19 +7946,6 @@
         "publishedAt": "2026-10-02T18:11:27.000Z"
       },
       {
-        "id": "ai-87140b17",
-        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-        "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an...",
-        "bullets": [
-          "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T17:56:00.000Z"
-      },
-      {
         "id": "world-3ba6c585",
         "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
         "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
@@ -7956,33 +7956,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-03T11:20:21.000Z"
+        "publishedAt": "2026-10-03T14:27:33.000Z"
       },
       {
-        "id": "world-d18e5ad5",
-        "title": "Russia strikes second major bridge in Kyiv, mayor says",
-        "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "id": "world-06d35c0b",
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+        "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
         "bullets": [
-          "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days."
+          "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-03T09:53:16.000Z"
+        "publishedAt": "2026-10-03T16:16:49.000Z"
       },
       {
         "id": "world-3f1b1899",
         "title": "Protesters across Spain demand action over housing crisis",
-        "summary": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+        "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
         "bullets": [
-          "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament."
+          "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-03T11:35:48.000Z"
+        "publishedAt": "2026-10-03T13:34:11.000Z"
       },
       {
         "id": "world-b4ef8a61",
@@ -7998,17 +7998,17 @@
         "publishedAt": "2026-10-03T04:38:31.000Z"
       },
       {
-        "id": "world-9a9bd0d3",
-        "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-        "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+        "id": "world-11fac15a",
+        "title": "Medical plane with 6 on board missing off Massachusetts coast",
+        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
         "bullets": [
-          "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee."
+          "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-02T20:32:07.000Z"
+        "publishedAt": "2026-10-03T15:56:14.000Z"
       }
     ]
   }
