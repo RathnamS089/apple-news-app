@@ -7749,72 +7749,85 @@
   },
   {
     "date": "2026-10-05",
-    "generatedAt": "2026-10-05T05:46:25.276Z",
+    "generatedAt": "2026-10-05T14:46:30.722Z",
     "articles": [
       {
-        "id": "top-3c80e3fa",
-        "title": "US removes all bombers from RAF Fairford base",
-        "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "id": "top-cdcf90e7",
+        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
         "bullets": [
-          "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
+          "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T04:58:56.000Z"
+        "publishedAt": "2026-10-05T13:16:00.000Z"
       },
       {
-        "id": "top-041208a4",
-        "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
-        "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+        "id": "top-00f5026d",
+        "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+        "summary": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
         "bullets": [
-          "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
+          "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T05:35:36.000Z"
+        "publishedAt": "2026-10-05T13:09:42.000Z"
       },
       {
-        "id": "top-399d9ce4",
-        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "id": "top-0945909f",
+        "title": "Twelve arrests after protest over migrant boat arrival",
+        "summary": "Flares were set off and there were a few scuffles with police during the stand-off in Gosport.",
         "bullets": [
-          "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+          "Flares were set off and there were a few scuffles with police during the stand-off in Gosport."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T03:16:16.000Z"
+        "publishedAt": "2026-10-05T13:26:19.000Z"
       },
       {
-        "id": "top-d1fef861",
-        "title": "Watch: How Brazil's dramatic election unfolded",
-        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+        "id": "top-52d091c5",
+        "title": "Spanish PM Sánchez calls early election after housing protests",
+        "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
         "bullets": [
-          "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
+          "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T04:51:24.000Z"
+        "publishedAt": "2026-10-05T10:18:47.000Z"
       },
       {
-        "id": "top-b1b573c4",
-        "title": "Protesters scuffle with police as migrants brought ashore on south coast",
-        "summary": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
+        "id": "top-eb3515e2",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
         "bullets": [
-          "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent."
+          "The Omani national was a \"lone wolf\" extremist, according to the reports."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T04:23:08.000Z"
+        "publishedAt": "2026-10-05T11:34:59.000Z"
+      },
+      {
+        "id": "tech-3e127a97",
+        "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+        "summary": "Ars Technica's guide to new keyboard sensing technologies.",
+        "bullets": [
+          "Ars Technica's guide to new keyboard sensing technologies."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T11:00:41.000Z"
       },
       {
         "id": "tech-9968a710",
@@ -7869,17 +7882,58 @@
         "publishedAt": "2026-10-03T19:45:17.000Z"
       },
       {
-        "id": "tech-b168aee1",
-        "title": "The dawn of the age of the exoskeleton",
-        "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+        "id": "ai-b3b73df0",
+        "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+        "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
         "bullets": [
-          "The devices continue to show noticeable benefits for users in various real-world tasks."
+          "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-03T11:15:33.000Z"
+        "publishedAt": "2026-10-05T14:35:09.000Z"
+      },
+      {
+        "id": "ai-30562f0e",
+        "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+        "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+        "bullets": [
+          "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026.",
+          "Get your pass now to save up to $100, and get a second at 50% off."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T14:30:00.000Z"
+      },
+      {
+        "id": "ai-93ade97a",
+        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+        "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+        "bullets": [
+          "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more.",
+          "Register now to save up to $100 on your pass and get a second at 50% off."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T14:00:00.000Z"
+      },
+      {
+        "id": "ai-5af35bc1",
+        "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+        "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+        "bullets": [
+          "Safeworld is building digital humans to make sure robots don't hurt the real ones."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T12:00:00.000Z"
       },
       {
         "id": "ai-41472899",
@@ -7895,121 +7949,69 @@
         "publishedAt": "2026-10-04T20:31:07.000Z"
       },
       {
-        "id": "ai-29b88f1b",
-        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-        "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "id": "world-87d76960",
+        "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
         "bullets": [
-          "On Equity, we discussed the Trump administration's attempts to rebrand AI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-04T20:08:34.000Z"
-      },
-      {
-        "id": "ai-e6baa849",
-        "title": "Trump unveils his new Super Intelligence Force",
-        "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-        "bullets": [
-          "This new task force is Trump's latest response to the debate over AI safety."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-04T15:15:10.000Z"
-      },
-      {
-        "id": "ai-4d1a1734",
-        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-        "bullets": [
-          "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T18:43:57.000Z"
-      },
-      {
-        "id": "ai-3c56b364",
-        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-        "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-        "bullets": [
-          "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T16:30:01.000Z"
-      },
-      {
-        "id": "world-3b5e96d5",
-        "title": "US air force removes all bombers from British military base RAF Fairford",
-        "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
-        "bullets": [
-          "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
+          "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T04:58:56.000Z"
+        "publishedAt": "2026-10-05T13:16:00.000Z"
       },
       {
-        "id": "world-399d9ce4",
-        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "id": "world-52d091c5",
+        "title": "Spanish PM Sánchez calls early election after housing protests",
+        "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
         "bullets": [
-          "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+          "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T03:16:16.000Z"
+        "publishedAt": "2026-10-05T10:18:47.000Z"
       },
       {
-        "id": "world-d1fef861",
-        "title": "Watch: How Brazil's dramatic election unfolded",
-        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+        "id": "world-eb3515e2",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
         "bullets": [
-          "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
+          "The Omani national was a \"lone wolf\" extremist, according to the reports."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T04:51:24.000Z"
+        "publishedAt": "2026-10-05T11:34:59.000Z"
       },
       {
-        "id": "world-42e77a2b",
-        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-        "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+        "id": "world-c8b1e7ef",
+        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+        "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
         "bullets": [
-          "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
+          "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T03:37:41.000Z"
+        "publishedAt": "2026-10-05T14:30:31.000Z"
       },
       {
-        "id": "world-0e87ef33",
-        "title": "France closes up to 500 schools Monday over student protests",
-        "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+        "id": "world-45fbeb9a",
+        "title": "Nobel Prize awarded for revealing inner workings of the brain",
+        "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
         "bullets": [
-          "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education..."
+          "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T04:49:14.000Z"
+        "publishedAt": "2026-10-05T11:04:37.000Z"
       }
     ]
   }
