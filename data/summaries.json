@@ -7749,20 +7749,46 @@
   },
   {
     "date": "2026-10-05",
-    "generatedAt": "2026-10-05T14:46:30.722Z",
+    "generatedAt": "2026-10-05T22:02:27.753Z",
     "articles": [
       {
-        "id": "top-cdcf90e7",
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+        "id": "top-fe26f6b5",
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
         "bullets": [
-          "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
+          "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T13:16:00.000Z"
+        "publishedAt": "2026-10-05T21:46:22.000Z"
+      },
+      {
+        "id": "top-f7701d6d",
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "summary": "His last book, Adam and Eve, is set to release this month.",
+        "bullets": [
+          "His last book, Adam and Eve, is set to release this month."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T21:41:53.000Z"
+      },
+      {
+        "id": "top-2688d24f",
+        "title": "King's funding for Andrew not to be used for legal action against police",
+        "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
+        "bullets": [
+          "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T18:48:40.000Z"
       },
       {
         "id": "top-00f5026d",
@@ -7778,201 +7804,176 @@
         "publishedAt": "2026-10-05T13:09:42.000Z"
       },
       {
-        "id": "top-0945909f",
-        "title": "Twelve arrests after protest over migrant boat arrival",
-        "summary": "Flares were set off and there were a few scuffles with police during the stand-off in Gosport.",
+        "id": "top-c8b1e7ef",
+        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+        "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
         "bullets": [
-          "Flares were set off and there were a few scuffles with police during the stand-off in Gosport."
+          "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T13:26:19.000Z"
+        "publishedAt": "2026-10-05T16:32:18.000Z"
       },
       {
-        "id": "top-52d091c5",
-        "title": "Spanish PM Sánchez calls early election after housing protests",
-        "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+        "id": "tech-a12eb54f",
+        "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+        "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
         "bullets": [
-          "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis."
+          "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T20:47:48.000Z"
+      },
+      {
+        "id": "tech-d0c67403",
+        "title": "Texas city demands $2M for public records on Flock usage",
+        "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
+        "bullets": [
+          "Prices of public records tracking cops' use of Flock go up as backlash swells."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T20:31:12.000Z"
+      },
+      {
+        "id": "tech-d9a2e683",
+        "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+        "summary": "The tool can free up over 12GB of storage.",
+        "bullets": [
+          "The tool can free up over 12GB of storage."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T19:14:44.000Z"
+      },
+      {
+        "id": "tech-3d689033",
+        "title": "Controlling the brain with light earns a physiology Nobel",
+        "summary": "The entire field of optogenetics traces back to light-seeking algae.",
+        "bullets": [
+          "The entire field of optogenetics traces back to light-seeking algae."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T17:59:27.000Z"
+      },
+      {
+        "id": "tech-5f5d421a",
+        "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+        "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+        "bullets": [
+          "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T17:21:11.000Z"
+      },
+      {
+        "id": "ai-e6846dba",
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+        "bullets": [
+          "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act.",
+          "Editing can make the invisible marks harder to detect, it says."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T20:36:48.000Z"
+      },
+      {
+        "id": "ai-bed2df5e",
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own...",
+        "bullets": [
+          "Reflection is aiming Beam and future models at enterprises and sovereign nations.",
+          "The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T19:33:53.000Z"
+      },
+      {
+        "id": "ai-06793db1",
+        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal...",
+        "bullets": [
+          "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating...",
+          "The company says personal accounts remain separate, with permission required before personal agents share information or take action."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T18:54:30.000Z"
+      },
+      {
+        "id": "ai-751945dc",
+        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+        "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+        "bullets": [
+          "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T18:29:00.000Z"
+      },
+      {
+        "id": "ai-b9c02d21",
+        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+        "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+        "bullets": [
+          "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T17:29:22.000Z"
+      },
+      {
+        "id": "world-fe26f6b5",
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "bullets": [
+          "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T10:18:47.000Z"
-      },
-      {
-        "id": "top-eb3515e2",
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-        "bullets": [
-          "The Omani national was a \"lone wolf\" extremist, according to the reports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T11:34:59.000Z"
-      },
-      {
-        "id": "tech-3e127a97",
-        "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-        "summary": "Ars Technica's guide to new keyboard sensing technologies.",
-        "bullets": [
-          "Ars Technica's guide to new keyboard sensing technologies."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T11:00:41.000Z"
-      },
-      {
-        "id": "tech-9968a710",
-        "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-        "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
-        "bullets": [
-          "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T04:00:52.000Z"
-      },
-      {
-        "id": "tech-a869cb28",
-        "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-        "summary": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home",
-        "bullets": [
-          "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-04T15:34:14.000Z"
-      },
-      {
-        "id": "tech-d85c7bcd",
-        "title": "All hail electrification. But let’s talk about the hard part.",
-        "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
-        "bullets": [
-          "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-04T11:05:53.000Z"
-      },
-      {
-        "id": "tech-41735a74",
-        "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-        "summary": "\"...we were making history.\"",
-        "bullets": [
-          "\"...we were making history.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T19:45:17.000Z"
-      },
-      {
-        "id": "ai-b3b73df0",
-        "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-        "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-        "bullets": [
-          "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T14:35:09.000Z"
-      },
-      {
-        "id": "ai-30562f0e",
-        "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-        "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-        "bullets": [
-          "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026.",
-          "Get your pass now to save up to $100, and get a second at 50% off."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T14:30:00.000Z"
-      },
-      {
-        "id": "ai-93ade97a",
-        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-        "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-        "bullets": [
-          "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more.",
-          "Register now to save up to $100 on your pass and get a second at 50% off."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T14:00:00.000Z"
-      },
-      {
-        "id": "ai-5af35bc1",
-        "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-        "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-        "bullets": [
-          "Safeworld is building digital humans to make sure robots don't hurt the real ones."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T12:00:00.000Z"
-      },
-      {
-        "id": "ai-41472899",
-        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-        "summary": "AI slop seems to be overwhelming bug bounty programs.",
-        "bullets": [
-          "AI slop seems to be overwhelming bug bounty programs."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-04T20:31:07.000Z"
-      },
-      {
-        "id": "world-87d76960",
-        "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-        "bullets": [
-          "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T13:16:00.000Z"
+        "publishedAt": "2026-10-05T21:46:22.000Z"
       },
       {
-        "id": "world-52d091c5",
-        "title": "Spanish PM Sánchez calls early election after housing protests",
-        "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+        "id": "world-78a03e47",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
         "bullets": [
-          "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis."
+          "France prepares for a day of protests in support of students who’ve been demanding more investment in education."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T10:18:47.000Z"
+        "publishedAt": "2026-10-05T21:18:10.000Z"
       },
       {
         "id": "world-eb3515e2",
@@ -7988,30 +7989,30 @@
         "publishedAt": "2026-10-05T11:34:59.000Z"
       },
       {
-        "id": "world-c8b1e7ef",
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+        "id": "world-704712f6",
+        "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+        "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
         "bullets": [
-          "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident."
+          "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T14:30:31.000Z"
+        "publishedAt": "2026-10-05T15:17:23.000Z"
       },
       {
-        "id": "world-45fbeb9a",
-        "title": "Nobel Prize awarded for revealing inner workings of the brain",
-        "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+        "id": "world-e1f39161",
+        "title": "Spain PM pins hopes on housing crisis to help win snap election",
+        "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
         "bullets": [
-          "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work."
+          "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T11:04:37.000Z"
+        "publishedAt": "2026-10-05T19:30:50.000Z"
       }
     ]
   }
