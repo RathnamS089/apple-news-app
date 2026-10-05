@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-09-05",
-    "generatedAt": "2026-09-05T22:56:48.144Z",
-    "articles": [
-      {
-        "id": "top-7660ff8d",
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-        "bullets": [
-          "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T21:39:02.000Z"
-      },
-      {
-        "id": "top-6ff006d5",
-        "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-        "summary": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
-        "bullets": [
-          "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T21:29:02.000Z"
-      },
-      {
-        "id": "top-81442bf0",
-        "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
-        "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
-        "bullets": [
-          "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T14:26:37.000Z"
-      },
-      {
-        "id": "top-b57af654",
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-        "bullets": [
-          "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T22:44:07.000Z"
-      },
-      {
-        "id": "top-97dc2941",
-        "title": "Prince William to attend King Harald's funeral in Norway",
-        "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-        "bullets": [
-          "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T21:00:02.000Z"
-      },
-      {
-        "id": "tech-efcc9b53",
-        "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-        "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-        "bullets": [
-          "The US government is investigating whether the Cybercab meets vehicle safety standards."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T15:17:36.000Z"
-      },
-      {
-        "id": "tech-0531ea24",
-        "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-        "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
-        "bullets": [
-          "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T22:49:17.000Z"
-      },
-      {
-        "id": "tech-290e6aed",
-        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-        "bullets": [
-          "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T22:17:36.000Z"
-      },
-      {
-        "id": "tech-32115997",
-        "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-        "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
-        "bullets": [
-          "\"It’s long past time for RFK to stop playing games with people’s lives.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T20:22:41.000Z"
-      },
-      {
-        "id": "tech-0dec33de",
-        "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-        "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
-        "bullets": [
-          "FCC tells court it is “open-minded\" about whether ABC should lose licenses."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T19:46:34.000Z"
-      },
-      {
-        "id": "ai-9d86226a",
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-        "bullets": [
-          "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T22:49:55.000Z"
-      },
-      {
-        "id": "ai-bdc2d291",
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-        "bullets": [
-          "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T19:35:24.000Z"
-      },
-      {
-        "id": "ai-1bb8ec95",
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-        "bullets": [
-          "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T18:05:27.000Z"
-      },
-      {
-        "id": "ai-fc3db640",
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-        "bullets": [
-          "The round is being raised just months after the robot data startup exited from stealth."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T23:36:14.000Z"
-      },
-      {
-        "id": "ai-ec1c1d6b",
-        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-        "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-        "bullets": [
-          "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T23:15:11.000Z"
-      },
-      {
-        "id": "world-7660ff8d",
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-        "bullets": [
-          "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T21:39:02.000Z"
-      },
-      {
-        "id": "world-b57af654",
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-        "bullets": [
-          "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T22:44:07.000Z"
-      },
-      {
-        "id": "world-5593b862",
-        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-        "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-        "bullets": [
-          "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T22:48:38.000Z"
-      },
-      {
-        "id": "world-7dea5fd0",
-        "title": "At least two dead in blast at Bolivia military barracks",
-        "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-        "bullets": [
-          "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T15:22:41.000Z"
-      },
-      {
-        "id": "world-97dc2941",
-        "title": "Prince William to attend King Harald's funeral in Norway",
-        "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-        "bullets": [
-          "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T21:00:02.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-06",
     "generatedAt": "2026-09-06T22:54:51.077Z",
     "articles": [
@@ -8010,6 +7744,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-04T13:33:05.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "generatedAt": "2026-10-05T05:46:25.276Z",
+    "articles": [
+      {
+        "id": "top-3c80e3fa",
+        "title": "US removes all bombers from RAF Fairford base",
+        "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "bullets": [
+          "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T04:58:56.000Z"
+      },
+      {
+        "id": "top-041208a4",
+        "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
+        "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+        "bullets": [
+          "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T05:35:36.000Z"
+      },
+      {
+        "id": "top-399d9ce4",
+        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "bullets": [
+          "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T03:16:16.000Z"
+      },
+      {
+        "id": "top-d1fef861",
+        "title": "Watch: How Brazil's dramatic election unfolded",
+        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+        "bullets": [
+          "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T04:51:24.000Z"
+      },
+      {
+        "id": "top-b1b573c4",
+        "title": "Protesters scuffle with police as migrants brought ashore on south coast",
+        "summary": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
+        "bullets": [
+          "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T04:23:08.000Z"
+      },
+      {
+        "id": "tech-9968a710",
+        "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+        "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+        "bullets": [
+          "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T04:00:52.000Z"
+      },
+      {
+        "id": "tech-a869cb28",
+        "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+        "summary": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+        "bullets": [
+          "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-04T15:34:14.000Z"
+      },
+      {
+        "id": "tech-d85c7bcd",
+        "title": "All hail electrification. But let’s talk about the hard part.",
+        "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+        "bullets": [
+          "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-04T11:05:53.000Z"
+      },
+      {
+        "id": "tech-41735a74",
+        "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+        "summary": "\"...we were making history.\"",
+        "bullets": [
+          "\"...we were making history.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T19:45:17.000Z"
+      },
+      {
+        "id": "tech-b168aee1",
+        "title": "The dawn of the age of the exoskeleton",
+        "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+        "bullets": [
+          "The devices continue to show noticeable benefits for users in various real-world tasks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T11:15:33.000Z"
+      },
+      {
+        "id": "ai-41472899",
+        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "summary": "AI slop seems to be overwhelming bug bounty programs.",
+        "bullets": [
+          "AI slop seems to be overwhelming bug bounty programs."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-04T20:31:07.000Z"
+      },
+      {
+        "id": "ai-29b88f1b",
+        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "bullets": [
+          "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-04T20:08:34.000Z"
+      },
+      {
+        "id": "ai-e6baa849",
+        "title": "Trump unveils his new Super Intelligence Force",
+        "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+        "bullets": [
+          "This new task force is Trump's latest response to the debate over AI safety."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-04T15:15:10.000Z"
+      },
+      {
+        "id": "ai-4d1a1734",
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "bullets": [
+          "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T18:43:57.000Z"
+      },
+      {
+        "id": "ai-3c56b364",
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+        "bullets": [
+          "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-03T16:30:01.000Z"
+      },
+      {
+        "id": "world-3b5e96d5",
+        "title": "US air force removes all bombers from British military base RAF Fairford",
+        "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+        "bullets": [
+          "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T04:58:56.000Z"
+      },
+      {
+        "id": "world-399d9ce4",
+        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "bullets": [
+          "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T03:16:16.000Z"
+      },
+      {
+        "id": "world-d1fef861",
+        "title": "Watch: How Brazil's dramatic election unfolded",
+        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+        "bullets": [
+          "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T04:51:24.000Z"
+      },
+      {
+        "id": "world-42e77a2b",
+        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+        "bullets": [
+          "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T03:37:41.000Z"
+      },
+      {
+        "id": "world-0e87ef33",
+        "title": "France closes up to 500 schools Monday over student protests",
+        "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+        "bullets": [
+          "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-05T04:49:14.000Z"
       }
     ]
   }
