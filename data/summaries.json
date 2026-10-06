@@ -7752,72 +7752,111 @@
   },
   {
     "date": "2026-10-06",
-    "generatedAt": "2026-10-06T06:25:59.236Z",
+    "generatedAt": "2026-10-06T15:59:01.465Z",
     "articles": [
       {
-        "id": "top-fe26f6b5",
-        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "id": "top-9bacc44f",
+        "title": "Watch: At the scene of student protests in Lille",
+        "summary": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
         "bullets": [
-          "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
+          "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-06T04:25:22.000Z"
+        "publishedAt": "2026-10-06T15:02:56.000Z"
       },
       {
-        "id": "top-f7701d6d",
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "summary": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "id": "top-c4e4d1e8",
+        "title": "British national arrested in connection with RAF Fairford incident",
+        "summary": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
         "bullets": [
-          "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month."
+          "It is the seventh arrest in connection to the incident near RAF Fairford last month."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-06T03:19:57.000Z"
+        "publishedAt": "2026-10-06T15:03:58.000Z"
       },
       {
-        "id": "top-1bae08f8",
-        "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
-        "summary": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
+        "id": "top-fa1014e8",
+        "title": "Watch: How Russia responded to US after plague researcher death",
+        "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
         "bullets": [
-          "With better support, many babies may not have needed to go into care, File on 4 Investigates is told."
+          "The US and Russia have each offered to help each other tackling infectious diseases."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-06T05:00:32.000Z"
+        "publishedAt": "2026-10-06T13:32:42.000Z"
       },
       {
-        "id": "top-78a03e47",
-        "title": "France braces for national day of school protests after injuries and mass arrests",
-        "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "id": "top-c624551e",
+        "title": "PCs who used Taser and baton on amputee, 92, sacked",
+        "summary": "A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home.",
         "bullets": [
-          "France prepares for a day of protests in support of students who’ve been demanding more investment in education."
+          "A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T21:18:10.000Z"
+        "publishedAt": "2026-10-06T15:58:15.000Z"
       },
       {
-        "id": "top-33ad7cf5",
-        "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
-        "summary": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+        "id": "top-3b0c8a00",
+        "title": "Former German spy chief arrested for espionage and treason",
+        "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
         "bullets": [
-          "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest."
+          "August Hanning is accused of obtaining classified information for a foreign power."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-06T06:01:12.000Z"
+        "publishedAt": "2026-10-06T10:05:42.000Z"
+      },
+      {
+        "id": "tech-8d3e4453",
+        "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+        "summary": "Oil companies say federal law should block state climate deception claims.",
+        "bullets": [
+          "Oil companies say federal law should block state climate deception claims."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T13:29:46.000Z"
+      },
+      {
+        "id": "tech-4484ced6",
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+        "bullets": [
+          "The reports of OpenAI agents harming 3rd party sites keep coming."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T12:21:53.000Z"
+      },
+      {
+        "id": "tech-72daaf53",
+        "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+        "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+        "bullets": [
+          "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T12:00:31.000Z"
       },
       {
         "id": "tech-9de89256",
@@ -7846,43 +7885,58 @@
         "publishedAt": "2026-10-05T20:47:48.000Z"
       },
       {
-        "id": "tech-d0c67403",
-        "title": "Texas city demands $2M for public records on Flock usage",
-        "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
+        "id": "ai-eb260ee8",
+        "title": "LibreOffice says ‘no AI’ is now a software feature",
+        "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
         "bullets": [
-          "Prices of public records tracking cops' use of Flock go up as backlash swells."
+          "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T20:31:12.000Z"
+        "publishedAt": "2026-10-06T15:25:00.000Z"
       },
       {
-        "id": "tech-d9a2e683",
-        "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-        "summary": "The tool can free up over 12GB of storage.",
+        "id": "ai-0fb0fb23",
+        "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+        "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
         "bullets": [
-          "The tool can free up over 12GB of storage."
+          "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T19:14:44.000Z"
+        "publishedAt": "2026-10-06T14:33:16.000Z"
       },
       {
-        "id": "tech-3d689033",
-        "title": "Controlling the brain with light earns a physiology Nobel",
-        "summary": "The entire field of optogenetics traces back to light-seeking algae.",
+        "id": "ai-e1280e52",
+        "title": "Pinterest’s AI now turns beauty Pins into action plans",
+        "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
         "bullets": [
-          "The entire field of optogenetics traces back to light-seeking algae."
+          "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T17:59:27.000Z"
+        "publishedAt": "2026-10-06T14:00:49.000Z"
+      },
+      {
+        "id": "ai-5c5c545a",
+        "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+        "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+        "bullets": [
+          "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026.",
+          "Here's the full breakout session agenda, happening October 13-15 in San Francisco.",
+          "Register now to join and save up to $100, and get a second pass at 50% off."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T14:00:00.000Z"
       },
       {
         "id": "ai-e6846dba",
@@ -7899,123 +7953,69 @@
         "publishedAt": "2026-10-05T20:36:48.000Z"
       },
       {
-        "id": "ai-bed2df5e",
-        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own...",
+        "id": "world-3b0c8a00",
+        "title": "Former German spy chief arrested for espionage and treason",
+        "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
         "bullets": [
-          "Reflection is aiming Beam and future models at enterprises and sovereign nations.",
-          "The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T19:33:53.000Z"
-      },
-      {
-        "id": "ai-06793db1",
-        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-        "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal...",
-        "bullets": [
-          "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating...",
-          "The company says personal accounts remain separate, with permission required before personal agents share information or take action."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T18:54:30.000Z"
-      },
-      {
-        "id": "ai-751945dc",
-        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-        "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-        "bullets": [
-          "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T18:29:00.000Z"
-      },
-      {
-        "id": "ai-b9c02d21",
-        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-        "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-        "bullets": [
-          "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T17:29:22.000Z"
-      },
-      {
-        "id": "world-fe26f6b5",
-        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "bullets": [
-          "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
+          "August Hanning is accused of obtaining classified information for a foreign power."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-06T04:25:22.000Z"
+        "publishedAt": "2026-10-06T10:05:42.000Z"
       },
       {
-        "id": "world-78a03e47",
-        "title": "France braces for national day of school protests after injuries and mass arrests",
-        "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+        "id": "world-26a50727",
+        "title": "Ship sinks and crew missing after Black Sea drone attack",
+        "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
         "bullets": [
-          "France prepares for a day of protests in support of students who’ve been demanding more investment in education."
+          "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T21:18:10.000Z"
+        "publishedAt": "2026-10-06T11:53:21.000Z"
       },
       {
-        "id": "world-037178bb",
-        "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-        "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+        "id": "world-494e6564",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
         "bullets": [
-          "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment."
+          "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T22:28:02.000Z"
+        "publishedAt": "2026-10-06T14:15:06.000Z"
       },
       {
-        "id": "world-3be0e009",
-        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-        "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+        "id": "world-bdbc7ad4",
+        "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+        "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
         "bullets": [
-          "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
+          "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-06T02:37:46.000Z"
+        "publishedAt": "2026-10-06T13:36:46.000Z"
       },
       {
-        "id": "world-87e06592",
-        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-        "summary": "The city's space boom raises questions about the role of the state in backing important industries.",
+        "id": "world-735a9a75",
+        "title": "'Ghost particles' from space telescope wins physics Nobel",
+        "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
         "bullets": [
-          "The city's space boom raises questions about the role of the state in backing important industries."
+          "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-05T23:07:08.000Z"
+        "publishedAt": "2026-10-06T11:24:19.000Z"
       }
     ]
   }
