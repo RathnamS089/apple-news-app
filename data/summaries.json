@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-09-07",
-    "generatedAt": "2026-09-07T23:31:47.974Z",
-    "articles": [
-      {
-        "id": "top-b712a55d",
-        "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
-        "summary": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
-        "bullets": [
-          "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T19:04:09.000Z"
-      },
-      {
-        "id": "top-4d03f90f",
-        "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-        "summary": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
-        "bullets": [
-          "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T15:20:48.000Z"
-      },
-      {
-        "id": "top-ae0ce328",
-        "title": "King makes clear Harry and Meghan remain non-working royals",
-        "summary": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
-        "bullets": [
-          "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T18:23:31.000Z"
-      },
-      {
-        "id": "top-20269ac0",
-        "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-        "summary": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-        "bullets": [
-          "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T15:41:52.000Z"
-      },
-      {
-        "id": "top-221f9164",
-        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-        "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-        "bullets": [
-          "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T14:57:30.000Z"
-      },
-      {
-        "id": "tech-dca65797",
-        "title": "The complex corporate web behind a $3.2 billion AI data center",
-        "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-        "bullets": [
-          "When multiple companies are behind one project, who bears responsibility for problems?"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T11:00:03.000Z"
-      },
-      {
-        "id": "tech-10668864",
-        "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-        "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
-        "bullets": [
-          "\"We achieved within a few years what had taken the European space industry decades before.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-06T11:55:26.000Z"
-      },
-      {
-        "id": "tech-fbf1fd57",
-        "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-        "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
-        "bullets": [
-          "The shift in the fish’s diet is having significant downstream impacts on the environment and climate."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-06T10:00:35.000Z"
-      },
-      {
-        "id": "tech-efcc9b53",
-        "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-        "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-        "bullets": [
-          "The US government is investigating whether the Cybercab meets vehicle safety standards."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T15:17:36.000Z"
-      },
-      {
-        "id": "tech-0531ea24",
-        "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-        "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
-        "bullets": [
-          "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-04T22:49:17.000Z"
-      },
-      {
-        "id": "ai-8e9efb10",
-        "title": "Opaque recurrence, and other AI terms that you should probably know",
-        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "bullets": [
-          "The rise of AI has brought an avalanche of new terms and slang.",
-          "Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T19:24:00.000Z"
-      },
-      {
-        "id": "ai-c2e1bac4",
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-        "bullets": [
-          "Authors say publishers seem to be claiming more than their fair share of settlement payments."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-06T20:47:37.000Z"
-      },
-      {
-        "id": "ai-1dc8ac0d",
-        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-        "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-        "bullets": [
-          "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-06T16:45:00.000Z"
-      },
-      {
-        "id": "ai-9d86226a",
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-        "bullets": [
-          "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T22:49:55.000Z"
-      },
-      {
-        "id": "ai-bdc2d291",
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-        "bullets": [
-          "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-05T19:35:24.000Z"
-      },
-      {
-        "id": "world-fc232d7d",
-        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-        "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-        "bullets": [
-          "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T22:23:03.000Z"
-      },
-      {
-        "id": "world-6b9111b4",
-        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-        "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-        "bullets": [
-          "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T21:12:37.000Z"
-      },
-      {
-        "id": "world-98cc9eac",
-        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-        "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-        "bullets": [
-          "The far-right party is trying to form a government in the state after falling three seats short of a majority."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T14:04:01.000Z"
-      },
-      {
-        "id": "world-a2002e7f",
-        "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
-        "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-        "bullets": [
-          "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T14:50:50.000Z"
-      },
-      {
-        "id": "world-278ab5ef",
-        "title": "Israeli strikes in southern Lebanese village kill 12",
-        "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
-        "bullets": [
-          "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-07T13:39:23.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-08",
     "generatedAt": "2026-09-08T23:25:08.712Z",
     "articles": [
@@ -8015,6 +7748,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-06T18:05:53.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "generatedAt": "2026-10-07T06:04:45.426Z",
+    "articles": [
+      {
+        "id": "top-162c0f0a",
+        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+        "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+        "bullets": [
+          "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-07T00:56:59.000Z"
+      },
+      {
+        "id": "top-c0aa0da1",
+        "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+        "summary": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+        "bullets": [
+          "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T23:42:35.000Z"
+      },
+      {
+        "id": "top-684d39fc",
+        "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+        "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+        "bullets": [
+          "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-07T05:02:18.000Z"
+      },
+      {
+        "id": "top-42de05f2",
+        "title": "Military training sites to be investigated following rape and abuse claims at Army college",
+        "summary": "In August, four young women told the BBC they were sexually assaulted and harassed at the school in Harrogate.",
+        "bullets": [
+          "In August, four young women told the BBC they were sexually assaulted and harassed at the school in Harrogate."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e8ld3j6k53o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-07T05:00:35.000Z"
+      },
+      {
+        "id": "top-af0ede5a",
+        "title": "Battle of ideas looming in British politics, Badenoch to say",
+        "summary": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election.",
+        "bullets": [
+          "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-07T04:42:55.000Z"
+      },
+      {
+        "id": "tech-426d9a22",
+        "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+        "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+        "bullets": [
+          "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T21:31:10.000Z"
+      },
+      {
+        "id": "tech-24417dd5",
+        "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+        "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+        "bullets": [
+          "Like other solutions, it is not especially reliable, and it's easy to circumvent."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T20:50:32.000Z"
+      },
+      {
+        "id": "tech-b81e16cd",
+        "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
+        "summary": "A combined service could lead to higher prices.",
+        "bullets": [
+          "A combined service could lead to higher prices."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T20:32:12.000Z"
+      },
+      {
+        "id": "tech-dc5019a8",
+        "title": "It looks like the Atlantic storm season may finally produce a hurricane",
+        "summary": "To date, this Atlantic tropics year has been exceptionally quiet.",
+        "bullets": [
+          "To date, this Atlantic tropics year has been exceptionally quiet."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T19:55:50.000Z"
+      },
+      {
+        "id": "tech-782a6d43",
+        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+        "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+        "bullets": [
+          "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T19:21:14.000Z"
+      },
+      {
+        "id": "ai-189f402a",
+        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+        "bullets": [
+          "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T22:34:03.000Z"
+      },
+      {
+        "id": "ai-13cc7416",
+        "title": "How AI decision models could change content moderation",
+        "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+        "bullets": [
+          "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T20:35:20.000Z"
+      },
+      {
+        "id": "ai-38797dc0",
+        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+        "bullets": [
+          "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T20:00:30.000Z"
+      },
+      {
+        "id": "ai-4b2a407c",
+        "title": "The next hurdle for AI agents: getting websites to let them in",
+        "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+        "bullets": [
+          "Personal AI agents promise to shop, book flights, and make reservations for you.",
+          "But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle.",
+          "A new standard aims to help."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T19:56:50.000Z"
+      },
+      {
+        "id": "ai-e85d08e0",
+        "title": "Hark releases an AI personal assistant with a focus on privacy",
+        "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+        "bullets": [
+          "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T18:22:45.000Z"
+      },
+      {
+        "id": "world-162c0f0a",
+        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+        "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+        "bullets": [
+          "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-07T00:56:59.000Z"
+      },
+      {
+        "id": "world-684d39fc",
+        "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+        "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+        "bullets": [
+          "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-07T05:02:18.000Z"
+      },
+      {
+        "id": "world-3335ea9b",
+        "title": "What is pneumonic plague and how does it spread?",
+        "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+        "bullets": [
+          "The death of a worker from a Russian lab that researches plague has prompted questions about the disease."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T15:35:22.000Z"
+      },
+      {
+        "id": "world-29c58a25",
+        "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+        "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+        "bullets": [
+          "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T19:53:45.000Z"
+      },
+      {
+        "id": "world-f582fe95",
+        "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+        "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+        "bullets": [
+          "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-06T23:07:44.000Z"
       }
     ]
   }
