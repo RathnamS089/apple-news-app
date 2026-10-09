@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "generatedAt": "2026-09-09T23:18:08.274Z",
-    "articles": [
-      {
-        "id": "top-c4ed2c09",
-        "title": "Police launch criminal investigation into Reform UK donations",
-        "summary": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
-        "bullets": [
-          "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T20:22:00.000Z"
-      },
-      {
-        "id": "top-99fe2b0b",
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-        "bullets": [
-          "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T18:21:16.000Z"
-      },
-      {
-        "id": "top-cec74421",
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-        "bullets": [
-          "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T21:23:45.000Z"
-      },
-      {
-        "id": "top-d2ca3e53",
-        "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-        "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-        "bullets": [
-          "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T21:21:13.000Z"
-      },
-      {
-        "id": "top-bcc39d23",
-        "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
-        "summary": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
-        "bullets": [
-          "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T23:00:23.000Z"
-      },
-      {
-        "id": "tech-54d89f47",
-        "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-        "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-        "bullets": [
-          "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T20:06:28.000Z"
-      },
-      {
-        "id": "tech-17f20853",
-        "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-        "summary": "Apple's first foldable can be yours next month.",
-        "bullets": [
-          "Apple's first foldable can be yours next month."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T19:42:00.000Z"
-      },
-      {
-        "id": "tech-69b52609",
-        "title": "When it comes to Beatles references, scientists can't let it be",
-        "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
-        "bullets": [
-          "New study detects 3,200 references to Beatles song titles and lyrics in academic papers."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T19:31:55.000Z"
-      },
-      {
-        "id": "tech-1160cdb5",
-        "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
-        "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
-        "bullets": [
-          "Four women sue Amazon, say company denied basic accommodations and fired them."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T19:09:20.000Z"
-      },
-      {
-        "id": "tech-e30bef99",
-        "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-        "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-        "bullets": [
-          "AirPods 5 with noise cancellation is cheaper than its predecessor."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T18:58:24.000Z"
-      },
-      {
-        "id": "ai-0d97ce9a",
-        "title": "OpenAI adds a prominent AI doomer to its board of directors",
-        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-        "bullets": [
-          "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T22:25:22.000Z"
-      },
-      {
-        "id": "ai-ddac743d",
-        "title": "Massachusetts hits data centers with new clean power rules",
-        "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-        "bullets": [
-          "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T21:43:34.000Z"
-      },
-      {
-        "id": "ai-dbc1f6e6",
-        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-        "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-        "bullets": [
-          "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T20:24:48.000Z"
-      },
-      {
-        "id": "ai-23042010",
-        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-        "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-        "bullets": [
-          "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T20:03:43.000Z"
-      },
-      {
-        "id": "ai-4b887b36",
-        "title": "The hinge for Apple’s new foldable phone was built with AI",
-        "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-        "bullets": [
-          "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T19:21:48.000Z"
-      },
-      {
-        "id": "world-cec74421",
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-        "bullets": [
-          "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T21:23:45.000Z"
-      },
-      {
-        "id": "world-b2a90fbd",
-        "title": "Google picks Finland for its largest single investment in Europe",
-        "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-        "bullets": [
-          "The US tech giant says the €13bn data centre project will create tens of thousands of jobs."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T17:06:48.000Z"
-      },
-      {
-        "id": "world-ceb00bfd",
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-        "bullets": [
-          "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T16:46:53.000Z"
-      },
-      {
-        "id": "world-3538175f",
-        "title": "Iran referred to UN Security Council for nuclear non-compliance",
-        "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
-        "bullets": [
-          "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T20:22:51.000Z"
-      },
-      {
-        "id": "world-2a2a762f",
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-        "bullets": [
-          "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-09T13:29:33.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-10",
     "generatedAt": "2026-09-10T23:12:27.469Z",
     "articles": [
@@ -8017,6 +7751,275 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-08T12:32:12.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "generatedAt": "2026-10-09T01:14:37.063Z",
+    "articles": [
+      {
+        "id": "top-5d45cd66",
+        "title": "ADHD and autism at risk of over-diagnosis, says government review",
+        "summary": "The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.",
+        "bullets": [
+          "The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T23:01:30.000Z"
+      },
+      {
+        "id": "top-67aad4f7",
+        "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
+        "summary": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
+        "bullets": [
+          "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T23:56:16.000Z"
+      },
+      {
+        "id": "top-ce177bfc",
+        "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+        "summary": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
+        "bullets": [
+          "A criminal investigation into the former prince continues and police have retained material seized from his homes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T16:33:29.000Z"
+      },
+      {
+        "id": "top-2a95876f",
+        "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+        "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+        "bullets": [
+          "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T23:11:10.000Z"
+      },
+      {
+        "id": "top-f4b4e6eb",
+        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+        "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+        "bullets": [
+          "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T23:35:57.000Z"
+      },
+      {
+        "id": "tech-0c994999",
+        "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+        "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+        "bullets": [
+          "\"These led to conjunctions of tens of meters to hundreds of meters.",
+          "Way too close to comfort.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T21:37:32.000Z"
+      },
+      {
+        "id": "tech-55f60158",
+        "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+        "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+        "bullets": [
+          "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T20:53:01.000Z"
+      },
+      {
+        "id": "tech-745c65a5",
+        "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+        "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+        "bullets": [
+          "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T20:39:31.000Z"
+      },
+      {
+        "id": "tech-f90b8bc6",
+        "title": "Feds get ready to rewrite car headlight rules",
+        "summary": "Reducing glare and allowing modern light technologies will be two goals.",
+        "bullets": [
+          "Reducing glare and allowing modern light technologies will be two goals."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T20:26:13.000Z"
+      },
+      {
+        "id": "tech-9b7e30d0",
+        "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+        "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+        "bullets": [
+          "Hamilton also coined the term \"software engineering\" and founded two successful software companies."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T20:15:53.000Z"
+      },
+      {
+        "id": "ai-8704b3df",
+        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+        "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+        "bullets": [
+          "With over a thousand emails, slides, texts, and documents from the United States v.",
+          "Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T21:00:00.000Z"
+      },
+      {
+        "id": "ai-29fdf503",
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+        "bullets": [
+          "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T20:04:26.000Z"
+      },
+      {
+        "id": "ai-324cc55f",
+        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+        "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+        "bullets": [
+          "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights.",
+          "The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T18:20:32.000Z"
+      },
+      {
+        "id": "ai-bf7e3fd7",
+        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+        "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+        "bullets": [
+          "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T18:19:45.000Z"
+      },
+      {
+        "id": "ai-1ce82d9a",
+        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+        "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+        "bullets": [
+          "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T18:19:42.000Z"
+      },
+      {
+        "id": "world-2a95876f",
+        "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+        "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+        "bullets": [
+          "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T23:11:10.000Z"
+      },
+      {
+        "id": "world-f4b4e6eb",
+        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+        "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+        "bullets": [
+          "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T23:35:57.000Z"
+      },
+      {
+        "id": "world-173ddc6a",
+        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+        "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+        "bullets": [
+          "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T16:31:29.000Z"
+      },
+      {
+        "id": "world-5dff294a",
+        "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+        "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+        "bullets": [
+          "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T15:02:32.000Z"
+      },
+      {
+        "id": "world-382cf9e2",
+        "title": "Adidas sues Australian label White Fox over four stripes design",
+        "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+        "bullets": [
+          "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-08T18:17:28.000Z"
       }
     ]
   }
