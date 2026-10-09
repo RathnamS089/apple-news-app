@@ -7756,11 +7756,24 @@
   },
   {
     "date": "2026-10-09",
-    "generatedAt": "2026-10-09T10:38:40.401Z",
+    "generatedAt": "2026-10-09T18:23:16.012Z",
     "articles": [
       {
-        "id": "top-1b2a156e",
-        "title": "Polanski vows to stay on as Green leader as criticism mounts",
+        "id": "top-349a81f0",
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "bullets": [
+          "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T17:43:03.000Z"
+      },
+      {
+        "id": "top-03a778a6",
+        "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
         "bullets": [
           "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
@@ -7769,59 +7782,86 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T10:11:22.000Z"
+        "publishedAt": "2026-10-09T15:16:54.000Z"
       },
       {
-        "id": "top-a55a41df",
-        "title": "Chris Mason: Questions remain for Green Party leader Zack Polanski",
-        "summary": "Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism.",
+        "id": "top-8a2e0ebd",
+        "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+        "summary": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
         "bullets": [
-          "Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism."
+          "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T06:39:13.000Z"
+        "publishedAt": "2026-10-09T12:29:02.000Z"
       },
       {
-        "id": "top-3f12a2d9",
-        "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-        "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+        "id": "top-0666064f",
+        "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
+        "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
         "bullets": [
-          "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
+          "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T09:29:52.000Z"
+        "publishedAt": "2026-10-09T14:35:31.000Z"
       },
       {
-        "id": "top-6db4fa99",
-        "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
-        "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+        "id": "top-728519ba",
+        "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
+        "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
         "bullets": [
-          "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it."
+          "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed...",
+          "and are furious at this distraction.\""
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T09:43:22.000Z"
+        "publishedAt": "2026-10-09T17:14:16.000Z"
       },
       {
-        "id": "top-e4bae794",
-        "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
-        "summary": "Viewers watched to see whether Richard E Grant could save himself at the first round table of the series.",
+        "id": "tech-3a6f977b",
+        "title": "Microsoft barred from sponsoring foreign workers for US residency",
+        "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
         "bullets": [
-          "Viewers watched to see whether Richard E Grant could save himself at the first round table of the series."
+          "The US says Microsoft abused immigration rules; the company disputes the claim."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-08T23:08:09.000Z"
+        "publishedAt": "2026-10-09T13:14:33.000Z"
+      },
+      {
+        "id": "tech-5b25a9b9",
+        "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+        "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
+        "bullets": [
+          "\"I can say we’re weeks away from launching on Vulcan.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T11:00:57.000Z"
+      },
+      {
+        "id": "tech-2cbb53de",
+        "title": "Volkswagen's replacement for the ID.4 crossover is here",
+        "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+        "bullets": [
+          "The new EV’s digital cockpit can mimic instrument displays from VWs of old."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T10:00:59.000Z"
       },
       {
         "id": "tech-0c994999",
@@ -7851,110 +7891,101 @@
         "publishedAt": "2026-10-08T20:53:01.000Z"
       },
       {
-        "id": "tech-745c65a5",
-        "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-        "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+        "id": "ai-164e255a",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to...",
         "bullets": [
-          "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T20:39:31.000Z"
-      },
-      {
-        "id": "tech-f90b8bc6",
-        "title": "Feds get ready to rewrite car headlight rules",
-        "summary": "Reducing glare and allowing modern light technologies will be two goals.",
-        "bullets": [
-          "Reducing glare and allowing modern light technologies will be two goals."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T20:26:13.000Z"
-      },
-      {
-        "id": "tech-9b7e30d0",
-        "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-        "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-        "bullets": [
-          "Hamilton also coined the term \"software engineering\" and founded two successful software companies."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T20:15:53.000Z"
-      },
-      {
-        "id": "ai-8704b3df",
-        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-        "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-        "bullets": [
-          "With over a thousand emails, slides, texts, and documents from the United States v.",
-          "Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's..."
+          "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from...",
+          "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums...",
+          "Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]"
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+        "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-08T21:00:00.000Z"
+        "publishedAt": "2026-10-09T16:56:42.000Z"
       },
       {
-        "id": "ai-29fdf503",
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+        "id": "ai-eb5ee29b",
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to...",
         "bullets": [
-          "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
+          "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from...",
+          "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums...",
+          "Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]"
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-08T20:04:26.000Z"
+        "publishedAt": "2026-10-09T16:53:02.000Z"
       },
       {
-        "id": "ai-324cc55f",
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+        "id": "ai-8b57db70",
+        "title": "Danu Robotics’ fight to build a better recycling robot",
+        "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
         "bullets": [
-          "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights.",
-          "The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
+          "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-08T18:20:32.000Z"
+        "publishedAt": "2026-10-09T16:45:00.000Z"
       },
       {
-        "id": "ai-bf7e3fd7",
-        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-        "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+        "id": "ai-fd76798e",
+        "title": "We can’t help treating AI like it’s human. But should we?",
+        "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
         "bullets": [
-          "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment..."
+          "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr.",
+          "Sherry Turkle writes.",
+          "\"And we are wired to care for it in return.\""
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-08T18:19:45.000Z"
+        "publishedAt": "2026-10-09T16:40:14.000Z"
       },
       {
-        "id": "ai-1ce82d9a",
-        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-        "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+        "id": "ai-07ebcff6",
+        "title": "a16z’s Olivia Moore on the state of consumer AI",
+        "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
         "bullets": [
-          "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+          "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-08T18:19:42.000Z"
+        "publishedAt": "2026-10-09T15:43:33.000Z"
+      },
+      {
+        "id": "world-349a81f0",
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "bullets": [
+          "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T17:43:03.000Z"
+      },
+      {
+        "id": "world-fee6da49",
+        "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+        "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+        "bullets": [
+          "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T17:37:10.000Z"
       },
       {
         "id": "world-f521e2b3",
@@ -7967,37 +7998,24 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T09:29:52.000Z"
+        "publishedAt": "2026-10-09T16:29:47.000Z"
       },
       {
-        "id": "world-35cc818b",
-        "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-        "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+        "id": "world-e0a4c688",
+        "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+        "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
         "bullets": [
-          "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it."
+          "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T09:43:22.000Z"
+        "publishedAt": "2026-10-09T17:14:44.000Z"
       },
       {
-        "id": "world-1a4efaa8",
-        "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-        "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-        "bullets": [
-          "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T23:11:10.000Z"
-      },
-      {
-        "id": "world-4ef7943e",
-        "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+        "id": "world-351b82c7",
+        "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
         "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
         "bullets": [
           "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy."
@@ -8007,19 +8025,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-09T09:09:03.000Z"
-      },
-      {
-        "id": "world-27bb86e4",
-        "title": "ICE agent shoots man in New York City",
-        "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
-        "bullets": [
-          "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T04:26:19.000Z"
       }
     ]
   }
