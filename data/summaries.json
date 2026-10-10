@@ -7762,8 +7762,34 @@
   },
   {
     "date": "2026-10-10",
-    "generatedAt": "2026-10-10T09:54:37.956Z",
+    "generatedAt": "2026-10-10T17:21:57.029Z",
     "articles": [
+      {
+        "id": "top-e272ba70",
+        "title": "Man dies after tiger attack at wildlife park",
+        "summary": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.",
+        "bullets": [
+          "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T17:19:24.000Z"
+      },
+      {
+        "id": "top-eed7d74a",
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+        "bullets": [
+          "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T16:30:21.000Z"
+      },
       {
         "id": "top-e49c4beb",
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -7775,59 +7801,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T04:38:20.000Z"
+        "publishedAt": "2026-10-10T14:24:14.000Z"
       },
       {
-        "id": "top-d140de06",
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+        "id": "top-30c5e246",
+        "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
+        "summary": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
         "bullets": [
-          "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
+          "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T22:30:22.000Z"
+        "publishedAt": "2026-10-10T09:19:53.000Z"
       },
       {
-        "id": "top-ee86671b",
-        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+        "id": "top-3eac1804",
+        "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
+        "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
         "bullets": [
-          "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport."
+          "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T04:34:55.000Z"
+        "publishedAt": "2026-10-10T14:13:13.000Z"
       },
       {
-        "id": "top-0c1eb245",
-        "title": "Early release scheme prisoner jailed days after leaving",
-        "summary": "Michael Bogle had said outside prison last week that \"people like me\" should not be jailed \"for a long time\".",
+        "id": "tech-65a529e7",
+        "title": "One with the world? A new look at brains transformed by psychedelics.",
+        "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
         "bullets": [
-          "Michael Bogle had said outside prison last week that \"people like me\" should not be jailed \"for a long time\"."
+          "Participants meditated inside an MRI tube, with and without psilocybin."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c699zyyyn4y0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T20:11:36.000Z"
-      },
-      {
-        "id": "top-0354a0df",
-        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-        "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
-        "bullets": [
-          "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T04:51:57.000Z"
+        "publishedAt": "2026-10-10T11:15:35.000Z"
       },
       {
         "id": "tech-430c34e4",
@@ -7858,9 +7871,9 @@
       {
         "id": "tech-9ace2bfe",
         "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-        "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+        "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
         "bullets": [
-          "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación."
+          "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación."
         ],
         "source": "Ars Technica - All content",
         "sourceUrl": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
@@ -7882,17 +7895,33 @@
         "publishedAt": "2026-10-09T21:34:09.000Z"
       },
       {
-        "id": "tech-4fc6fade",
-        "title": "What's been driving Hawaii's lava fountains?",
-        "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+        "id": "ai-5456ef9a",
+        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+        "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to...",
         "bullets": [
-          "Before the lava fountains started, the ground was expanding by half a meter a day."
+          "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco.",
+          "Over 300 startups will show what they’ve built to 10,000 tech leaders.",
+          "Plus, 250+ speakers are ready to share insights across 200+ sessions.",
+          "Register before doors open to save up to $100 and get a second pass at 50% off."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T21:05:01.000Z"
+        "publishedAt": "2026-10-10T15:00:00.000Z"
+      },
+      {
+        "id": "ai-ab460902",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "bullets": [
+          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T14:00:00.000Z"
       },
       {
         "id": "ai-65954354",
@@ -7934,34 +7963,30 @@
         "publishedAt": "2026-10-09T19:36:56.000Z"
       },
       {
-        "id": "ai-164e255a",
-        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to...",
+        "id": "world-eed7d74a",
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
         "bullets": [
-          "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from...",
-          "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums...",
-          "Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]"
+          "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T16:56:42.000Z"
+        "publishedAt": "2026-10-10T16:30:21.000Z"
       },
       {
-        "id": "ai-eb5ee29b",
-        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to...",
+        "id": "world-39552184",
+        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
         "bullets": [
-          "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from...",
-          "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums...",
-          "Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]"
+          "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T16:53:02.000Z"
+        "publishedAt": "2026-10-10T16:56:32.000Z"
       },
       {
         "id": "world-e49c4beb",
@@ -7974,59 +7999,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T04:38:20.000Z"
+        "publishedAt": "2026-10-10T14:24:14.000Z"
       },
       {
-        "id": "world-d140de06",
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+        "id": "world-e4787cdb",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
         "bullets": [
-          "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
+          "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T22:30:22.000Z"
+        "publishedAt": "2026-10-10T14:16:50.000Z"
       },
       {
-        "id": "world-c7924e26",
-        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-        "summary": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+        "id": "world-5aaa8962",
+        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+        "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
         "bullets": [
-          "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery."
+          "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T21:55:51.000Z"
-      },
-      {
-        "id": "world-ee86671b",
-        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-        "bullets": [
-          "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T04:34:55.000Z"
-      },
-      {
-        "id": "world-0c6a6642",
-        "title": "Hurricane Isaias downgraded after making landfall in Florida",
-        "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
-        "bullets": [
-          "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T08:29:59.000Z"
+        "publishedAt": "2026-10-10T12:29:31.000Z"
       }
     ]
   }
