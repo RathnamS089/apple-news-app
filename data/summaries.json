@@ -7762,20 +7762,33 @@
   },
   {
     "date": "2026-10-10",
-    "generatedAt": "2026-10-10T17:21:57.029Z",
+    "generatedAt": "2026-10-10T21:47:30.337Z",
     "articles": [
       {
         "id": "top-e272ba70",
         "title": "Man dies after tiger attack at wildlife park",
-        "summary": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.",
+        "summary": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
         "bullets": [
-          "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend."
+          "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T17:19:24.000Z"
+        "publishedAt": "2026-10-10T19:09:59.000Z"
+      },
+      {
+        "id": "top-8dea0aeb",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "bullets": [
+          "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T19:28:28.000Z"
       },
       {
         "id": "top-eed7d74a",
@@ -7788,46 +7801,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T16:30:21.000Z"
+        "publishedAt": "2026-10-10T17:44:26.000Z"
       },
       {
-        "id": "top-e49c4beb",
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "id": "top-85141f7b",
+        "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
+        "summary": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
         "bullets": [
-          "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+          "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T14:24:14.000Z"
+        "publishedAt": "2026-10-10T14:27:43.000Z"
       },
       {
-        "id": "top-30c5e246",
-        "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
-        "summary": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
+        "id": "top-35d1a3d5",
+        "title": "King warns malicious online actors are evolving tactics",
+        "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
         "bullets": [
-          "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds."
+          "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T09:19:53.000Z"
-      },
-      {
-        "id": "top-3eac1804",
-        "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
-        "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
-        "bullets": [
-          "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T14:13:13.000Z"
+        "publishedAt": "2026-10-10T15:56:32.000Z"
       },
       {
         "id": "tech-65a529e7",
@@ -7895,6 +7895,19 @@
         "publishedAt": "2026-10-09T21:34:09.000Z"
       },
       {
+        "id": "ai-5e4621b8",
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+        "bullets": [
+          "Is Apple hoping to get into the AI-generated podcast business?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T19:50:00.000Z"
+      },
+      {
         "id": "ai-5456ef9a",
         "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
         "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to...",
@@ -7950,30 +7963,30 @@
         "publishedAt": "2026-10-09T21:41:29.000Z"
       },
       {
-        "id": "ai-7c3f9129",
-        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "id": "world-8dea0aeb",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
         "bullets": [
-          "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T19:36:56.000Z"
-      },
-      {
-        "id": "world-eed7d74a",
-        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-        "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-        "bullets": [
-          "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
+          "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T16:30:21.000Z"
+        "publishedAt": "2026-10-10T19:28:28.000Z"
+      },
+      {
+        "id": "world-25f3e6ed",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+        "bullets": [
+          "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T20:51:12.000Z"
       },
       {
         "id": "world-39552184",
@@ -7986,46 +7999,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T16:56:32.000Z"
+        "publishedAt": "2026-10-10T21:27:10.000Z"
       },
       {
-        "id": "world-e49c4beb",
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "id": "world-eed7d74a",
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
         "bullets": [
-          "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+          "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T14:24:14.000Z"
+        "publishedAt": "2026-10-10T17:44:26.000Z"
       },
       {
-        "id": "world-e4787cdb",
-        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+        "id": "world-b63e7437",
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
         "bullets": [
-          "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+          "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-10T14:16:50.000Z"
-      },
-      {
-        "id": "world-5aaa8962",
-        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-        "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-        "bullets": [
-          "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T12:29:31.000Z"
+        "publishedAt": "2026-10-10T19:08:17.000Z"
       }
     ]
   }
