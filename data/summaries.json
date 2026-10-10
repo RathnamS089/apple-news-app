@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "generatedAt": "2026-09-10T23:12:27.469Z",
-    "articles": [
-      {
-        "id": "top-97984aa3",
-        "title": "Labour mayors in England vow to cap tourist tax at 5%",
-        "summary": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-        "bullets": [
-          "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T21:22:06.000Z"
-      },
-      {
-        "id": "top-5b4e1195",
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "bullets": [
-          "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T17:38:31.000Z"
-      },
-      {
-        "id": "top-315be5ef",
-        "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
-        "summary": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
-        "bullets": [
-          "Two anti-migrant protests took place in Dover and Portsmouth last weekend."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T16:57:06.000Z"
-      },
-      {
-        "id": "top-34980744",
-        "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
-        "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-        "bullets": [
-          "Analysts question if the US president's election year offer is workable, legal or affordable."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T16:48:37.000Z"
-      },
-      {
-        "id": "top-06c3ef55",
-        "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-        "summary": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-        "bullets": [
-          "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T18:27:22.000Z"
-      },
-      {
-        "id": "tech-d9543471",
-        "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
-        "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
-        "bullets": [
-          "Laptops don't usually get hot enough to burn—but they can still be harmful."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T22:16:05.000Z"
-      },
-      {
-        "id": "tech-26ff6bd8",
-        "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-        "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
-        "bullets": [
-          "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T20:55:29.000Z"
-      },
-      {
-        "id": "tech-26d929ce",
-        "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
-        "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
-        "bullets": [
-          "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T19:09:29.000Z"
-      },
-      {
-        "id": "tech-0d7876d4",
-        "title": "Android can now securely migrate your logins between password managers",
-        "summary": "App support is slim right now, but Google says more are coming.",
-        "bullets": [
-          "App support is slim right now, but Google says more are coming."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T18:41:09.000Z"
-      },
-      {
-        "id": "tech-0ba96e3a",
-        "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-        "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
-        "bullets": [
-          "\"Bankruptcy cannot become the new land grab for AI.”"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T18:14:14.000Z"
-      },
-      {
-        "id": "ai-a410fd8c",
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-        "bullets": [
-          "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says.",
-          "But, he insists, its deals are not circular."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T21:51:59.000Z"
-      },
-      {
-        "id": "ai-63ff3c01",
-        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
-        "bullets": [
-          "Mark Wahlberg joins Bruce K.",
-          "Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T21:35:00.000Z"
-      },
-      {
-        "id": "ai-ca0e2903",
-        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-        "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-        "bullets": [
-          "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T20:59:51.000Z"
-      },
-      {
-        "id": "ai-abd8a7e3",
-        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-        "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-        "bullets": [
-          "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T20:57:30.000Z"
-      },
-      {
-        "id": "ai-5082d9f1",
-        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-        "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-        "bullets": [
-          "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T19:50:04.000Z"
-      },
-      {
-        "id": "world-8fbbc8e6",
-        "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-        "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
-        "bullets": [
-          "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T18:15:47.000Z"
-      },
-      {
-        "id": "world-140fc83d",
-        "title": "Can Trump really pay $5,000 to every American adult?",
-        "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-        "bullets": [
-          "Analysts question if the US president's election year offer is workable, legal or affordable."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T16:48:37.000Z"
-      },
-      {
-        "id": "world-49512625",
-        "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-        "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-        "bullets": [
-          "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T16:31:30.000Z"
-      },
-      {
-        "id": "world-a37f23b8",
-        "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-        "summary": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
-        "bullets": [
-          "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T15:54:17.000Z"
-      },
-      {
-        "id": "world-cc202217",
-        "title": "More than 20 children killed in DR Congo school fire",
-        "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-        "bullets": [
-          "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-10T19:16:24.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-11",
     "generatedAt": "2026-09-11T23:17:44.989Z",
     "articles": [
@@ -8025,6 +7757,276 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-09T09:09:03.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "generatedAt": "2026-10-10T00:55:08.323Z",
+    "articles": [
+      {
+        "id": "top-e49c4beb",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "bullets": [
+          "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T00:45:51.000Z"
+      },
+      {
+        "id": "top-d140de06",
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+        "bullets": [
+          "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:30:22.000Z"
+      },
+      {
+        "id": "top-940f2e9f",
+        "title": "NI secretary to ban the Drumcree parade",
+        "summary": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+        "bullets": [
+          "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T21:46:19.000Z"
+      },
+      {
+        "id": "top-eb8429ef",
+        "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+        "summary": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
+        "bullets": [
+          "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:51:57.000Z"
+      },
+      {
+        "id": "top-349a81f0",
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "bullets": [
+          "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T18:40:10.000Z"
+      },
+      {
+        "id": "tech-430c34e4",
+        "title": "Neanderthal wooden tools from Spain found preserved in stone",
+        "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+        "bullets": [
+          "Dissolved rock precipitated around the tools, which then decayed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:34:03.000Z"
+      },
+      {
+        "id": "tech-5cf84025",
+        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+        "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+        "bullets": [
+          "One damaged data center has supercomputers used for training Yandex’s AI model."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:04:07.000Z"
+      },
+      {
+        "id": "tech-9ace2bfe",
+        "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+        "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+        "bullets": [
+          "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T21:51:12.000Z"
+      },
+      {
+        "id": "tech-b3ff5735",
+        "title": "NASA issues long-awaited call to industry for private space stations",
+        "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+        "bullets": [
+          "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T21:34:09.000Z"
+      },
+      {
+        "id": "tech-4fc6fade",
+        "title": "What's been driving Hawaii's lava fountains?",
+        "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+        "bullets": [
+          "Before the lava fountains started, the ground was expanding by half a meter a day."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T21:05:01.000Z"
+      },
+      {
+        "id": "ai-65954354",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "bullets": [
+          "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T00:18:32.000Z"
+      },
+      {
+        "id": "ai-1bafea25",
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "bullets": [
+          "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T21:41:29.000Z"
+      },
+      {
+        "id": "ai-7c3f9129",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "bullets": [
+          "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T19:36:56.000Z"
+      },
+      {
+        "id": "ai-164e255a",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to...",
+        "bullets": [
+          "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from...",
+          "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums...",
+          "Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T16:56:42.000Z"
+      },
+      {
+        "id": "ai-eb5ee29b",
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to...",
+        "bullets": [
+          "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from...",
+          "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums...",
+          "Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T16:53:02.000Z"
+      },
+      {
+        "id": "world-e49c4beb",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "bullets": [
+          "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T00:45:51.000Z"
+      },
+      {
+        "id": "world-d140de06",
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+        "bullets": [
+          "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:30:22.000Z"
+      },
+      {
+        "id": "world-349a81f0",
+        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "bullets": [
+          "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T18:40:10.000Z"
+      },
+      {
+        "id": "world-e088e079",
+        "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+        "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+        "bullets": [
+          "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T23:02:07.000Z"
+      },
+      {
+        "id": "world-793c91ad",
+        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+        "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+        "bullets": [
+          "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T21:50:47.000Z"
       }
     ]
   }
