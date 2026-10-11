@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "generatedAt": "2026-09-11T23:17:44.989Z",
-    "articles": [
-      {
-        "id": "top-c0fed797",
-        "title": "MPs vote against fresh attempt to legalise assisted dying",
-        "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
-        "bullets": [
-          "The proposed law sought to introduce one of the biggest societal changes in recent years."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T17:22:39.000Z"
-      },
-      {
-        "id": "top-0dcd0f50",
-        "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-        "summary": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
-        "bullets": [
-          "Although supporters say they will try again, for now the momentum has fallen away from a change in the law."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T16:49:47.000Z"
-      },
-      {
-        "id": "top-e16a4c35",
-        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
-        "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
-        "bullets": [
-          "Patriot Platform wants to build a group of working-class voters to influence political parties on the right."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T23:06:39.000Z"
-      },
-      {
-        "id": "top-73031529",
-        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-        "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-        "bullets": [
-          "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:12:01.000Z"
-      },
-      {
-        "id": "top-9469e09f",
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-        "bullets": [
-          "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T22:17:45.000Z"
-      },
-      {
-        "id": "tech-99b7ae56",
-        "title": "Random rewards enrich classic game-theory contests",
-        "summary": "Simple games gain rich strategies in the face of noise.",
-        "bullets": [
-          "Simple games gain rich strategies in the face of noise."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T21:41:16.000Z"
-      },
-      {
-        "id": "tech-74a0254f",
-        "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-        "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-        "bullets": [
-          "The strain lurking in the inflatable structure was hypervirulent."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T21:14:26.000Z"
-      },
-      {
-        "id": "tech-5c88bad7",
-        "title": "Trump's forced coal plant extensions thrown out by judge",
-        "summary": "The Department of Energy declared an \"emergency\" when none existed.",
-        "bullets": [
-          "The Department of Energy declared an \"emergency\" when none existed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:32:59.000Z"
-      },
-      {
-        "id": "tech-88ac0974",
-        "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-        "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-        "bullets": [
-          "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T19:34:09.000Z"
-      },
-      {
-        "id": "tech-fd80f44c",
-        "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-        "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
-        "bullets": [
-          "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T18:49:39.000Z"
-      },
-      {
-        "id": "ai-f197c99e",
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-        "bullets": [
-          "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T22:58:17.000Z"
-      },
-      {
-        "id": "ai-26f50527",
-        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-        "bullets": [
-          "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
-          "a more robust set of open-weight options that aren’t Chinese."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:59:47.000Z"
-      },
-      {
-        "id": "ai-8116463f",
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-        "bullets": [
-          "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:57:36.000Z"
-      },
-      {
-        "id": "ai-21ef89ed",
-        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-        "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-        "bullets": [
-          "Only one week left to secure your exhibit table.",
-          "Tables are limited and can sell out before the September 18 deadline."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:33:18.000Z"
-      },
-      {
-        "id": "ai-6b8d5414",
-        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-        "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-        "bullets": [
-          "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:30:17.000Z"
-      },
-      {
-        "id": "world-9469e09f",
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-        "bullets": [
-          "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T22:17:45.000Z"
-      },
-      {
-        "id": "world-56061773",
-        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-        "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-        "bullets": [
-          "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T16:00:59.000Z"
-      },
-      {
-        "id": "world-895bc40c",
-        "title": "Israel says it has destroyed major underground Hezbollah base",
-        "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-        "bullets": [
-          "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T15:50:23.000Z"
-      },
-      {
-        "id": "world-b5028974",
-        "title": "Princess Diana's 'revenge dress' goes up for auction",
-        "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-        "bullets": [
-          "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T12:04:46.000Z"
-      },
-      {
-        "id": "world-7bcdf66a",
-        "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-        "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-        "bullets": [
-          "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T10:50:04.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-12",
     "generatedAt": "2026-09-12T23:04:08.211Z",
     "articles": [
@@ -8026,6 +7758,275 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-10T19:08:17.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "generatedAt": "2026-10-11T05:52:06.121Z",
+    "articles": [
+      {
+        "id": "top-2a21b4cd",
+        "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+        "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+        "bullets": [
+          "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T03:57:22.000Z"
+      },
+      {
+        "id": "top-8dea0aeb",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "bullets": [
+          "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T01:41:29.000Z"
+      },
+      {
+        "id": "top-e272ba70",
+        "title": "Man dies after tiger attack at wildlife park",
+        "summary": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+        "bullets": [
+          "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T01:05:37.000Z"
+      },
+      {
+        "id": "top-317363b2",
+        "title": "US justice department investigates TV networks over Trump pool coverage",
+        "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+        "bullets": [
+          "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T05:05:43.000Z"
+      },
+      {
+        "id": "top-2b097a3c",
+        "title": "Bid to overturn ruling which stops police being sued for failings",
+        "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
+        "bullets": [
+          "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T23:04:37.000Z"
+      },
+      {
+        "id": "tech-65a529e7",
+        "title": "One with the world? A new look at brains transformed by psychedelics.",
+        "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+        "bullets": [
+          "Participants meditated inside an MRI tube, with and without psilocybin."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T11:15:35.000Z"
+      },
+      {
+        "id": "tech-430c34e4",
+        "title": "Neanderthal wooden tools from Spain found preserved in stone",
+        "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+        "bullets": [
+          "Dissolved rock precipitated around the tools, which then decayed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:34:03.000Z"
+      },
+      {
+        "id": "tech-5cf84025",
+        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+        "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+        "bullets": [
+          "One damaged data center has supercomputers used for training Yandex’s AI model."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:04:07.000Z"
+      },
+      {
+        "id": "tech-9ace2bfe",
+        "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+        "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
+        "bullets": [
+          "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T21:51:12.000Z"
+      },
+      {
+        "id": "tech-b3ff5735",
+        "title": "NASA issues long-awaited call to industry for private space stations",
+        "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+        "bullets": [
+          "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T21:34:09.000Z"
+      },
+      {
+        "id": "ai-216fb7f6",
+        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+        "bullets": [
+          "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T21:47:51.000Z"
+      },
+      {
+        "id": "ai-5e4621b8",
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+        "bullets": [
+          "Is Apple hoping to get into the AI-generated podcast business?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T19:50:00.000Z"
+      },
+      {
+        "id": "ai-5456ef9a",
+        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+        "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to...",
+        "bullets": [
+          "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco.",
+          "Over 300 startups will show what they’ve built to 10,000 tech leaders.",
+          "Plus, 250+ speakers are ready to share insights across 200+ sessions.",
+          "Register before doors open to save up to $100 and get a second pass at 50% off."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T15:00:00.000Z"
+      },
+      {
+        "id": "ai-ab460902",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "bullets": [
+          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T14:00:00.000Z"
+      },
+      {
+        "id": "ai-65954354",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "bullets": [
+          "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T00:18:32.000Z"
+      },
+      {
+        "id": "world-8dea0aeb",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "bullets": [
+          "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T01:41:29.000Z"
+      },
+      {
+        "id": "world-2a21b4cd",
+        "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+        "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+        "bullets": [
+          "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T03:57:22.000Z"
+      },
+      {
+        "id": "world-893dcb8b",
+        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+        "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+        "bullets": [
+          "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T22:13:08.000Z"
+      },
+      {
+        "id": "world-25f3e6ed",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+        "bullets": [
+          "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T20:51:12.000Z"
+      },
+      {
+        "id": "world-eed7d74a",
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+        "bullets": [
+          "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T17:44:26.000Z"
       }
     ]
   }
