@@ -7763,33 +7763,33 @@
   },
   {
     "date": "2026-10-11",
-    "generatedAt": "2026-10-11T12:55:42.377Z",
+    "generatedAt": "2026-10-11T19:34:37.835Z",
     "articles": [
       {
-        "id": "top-c97481dd",
-        "title": "Frank Gardner: Riyadh airport attack another dangerous moment in already tense conflict",
-        "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+        "id": "top-0d278e43",
+        "title": "Saudi capital airport hit by second Houthi strike in two days",
+        "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
         "bullets": [
-          "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability..."
+          "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-11T11:32:50.000Z"
+        "publishedAt": "2026-10-11T16:41:37.000Z"
       },
       {
-        "id": "top-1167b226",
-        "title": "Buildings swept away as flash floods hit central Nepal",
-        "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+        "id": "top-08288c9b",
+        "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+        "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
         "bullets": [
-          "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country."
+          "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-11T10:34:02.000Z"
+        "publishedAt": "2026-10-11T18:00:30.000Z"
       },
       {
         "id": "top-222e723a",
@@ -7805,30 +7805,43 @@
         "publishedAt": "2026-10-11T12:38:02.000Z"
       },
       {
-        "id": "top-79e46169",
-        "title": "UK does not support Trump's Russia diesel deal, says Streeting",
-        "summary": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine.",
+        "id": "top-4b5b1baa",
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
         "bullets": [
-          "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine."
+          "Police received credible information about possible attacks against Donald Tusk and his defence minister."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-11T11:00:49.000Z"
+        "publishedAt": "2026-10-11T17:27:24.000Z"
       },
       {
-        "id": "top-2cf33f18",
-        "title": "Pope Leo to have surgery after lump found on lung",
-        "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+        "id": "top-0e4b41ff",
+        "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
+        "summary": "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests.",
         "bullets": [
-          "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
+          "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-11T12:52:38.000Z"
+        "publishedAt": "2026-10-11T10:43:17.000Z"
+      },
+      {
+        "id": "tech-f4464522",
+        "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+        "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One",
+        "bullets": [
+          "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T14:50:24.000Z"
       },
       {
         "id": "tech-65a529e7",
@@ -7883,17 +7896,45 @@
         "publishedAt": "2026-10-09T21:51:12.000Z"
       },
       {
-        "id": "tech-b3ff5735",
-        "title": "NASA issues long-awaited call to industry for private space stations",
-        "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+        "id": "ai-3100926e",
+        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+        "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
         "bullets": [
-          "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\""
+          "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West.",
+          "Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass.",
+          "Or score other deals."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-09T21:34:09.000Z"
+        "publishedAt": "2026-10-11T19:00:00.000Z"
+      },
+      {
+        "id": "ai-f604ee95",
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+        "bullets": [
+          "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T16:52:33.000Z"
+      },
+      {
+        "id": "ai-ae9322bd",
+        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+        "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+        "bullets": [
+          "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T14:00:00.000Z"
       },
       {
         "id": "ai-216fb7f6",
@@ -7922,72 +7963,43 @@
         "publishedAt": "2026-10-10T19:50:00.000Z"
       },
       {
-        "id": "ai-5456ef9a",
-        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-        "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to...",
+        "id": "world-0d278e43",
+        "title": "Saudi capital airport hit by second Houthi strike in two days",
+        "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
         "bullets": [
-          "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco.",
-          "Over 300 startups will show what they’ve built to 10,000 tech leaders.",
-          "Plus, 250+ speakers are ready to share insights across 200+ sessions.",
-          "Register before doors open to save up to $100 and get a second pass at 50% off."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T15:00:00.000Z"
-      },
-      {
-        "id": "ai-ab460902",
-        "title": "Here are the top AI agents that can live in your text messages",
-        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "bullets": [
-          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T14:00:00.000Z"
-      },
-      {
-        "id": "ai-65954354",
-        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-        "bullets": [
-          "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T00:18:32.000Z"
-      },
-      {
-        "id": "world-8dea0aeb",
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "bullets": [
-          "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+          "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-11T01:41:29.000Z"
+        "publishedAt": "2026-10-11T16:41:37.000Z"
       },
       {
-        "id": "world-2cf33f18",
-        "title": "Pope Leo to have surgery after lump found on lung",
-        "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+        "id": "world-c5190661",
+        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
         "bullets": [
-          "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
+          "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-11T12:52:38.000Z"
+        "publishedAt": "2026-10-11T14:38:10.000Z"
+      },
+      {
+        "id": "world-4b5b1baa",
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+        "bullets": [
+          "Police received credible information about possible attacks against Donald Tusk and his defence minister."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T17:27:24.000Z"
       },
       {
         "id": "world-5950c2f4",
@@ -8003,30 +8015,17 @@
         "publishedAt": "2026-10-11T12:03:52.000Z"
       },
       {
-        "id": "world-3a1aab60",
-        "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-        "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+        "id": "world-d72d8092",
+        "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+        "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
         "bullets": [
-          "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday."
+          "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-11T11:11:42.000Z"
-      },
-      {
-        "id": "world-317363b2",
-        "title": "US justice department investigates TV networks over Trump pool coverage",
-        "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-        "bullets": [
-          "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T05:05:43.000Z"
+        "publishedAt": "2026-10-11T15:18:52.000Z"
       }
     ]
   }
