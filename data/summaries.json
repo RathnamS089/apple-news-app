@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "generatedAt": "2026-09-12T23:04:08.211Z",
-    "articles": [
-      {
-        "id": "top-ae3279bb",
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "bullets": [
-          "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T21:16:47.000Z"
-      },
-      {
-        "id": "top-595042fc",
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-        "bullets": [
-          "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T17:28:53.000Z"
-      },
-      {
-        "id": "top-8b5ebdc3",
-        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
-        "summary": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
-        "bullets": [
-          "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T17:36:45.000Z"
-      },
-      {
-        "id": "top-d4720e92",
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-        "bullets": [
-          "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T21:25:28.000Z"
-      },
-      {
-        "id": "top-e25806b1",
-        "title": "Teen boy rescued after days adrift in Alaskan waters",
-        "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
-        "bullets": [
-          "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T15:03:14.000Z"
-      },
-      {
-        "id": "tech-72556e43",
-        "title": "I spent $4,000 on a robot dog from China",
-        "summary": "Unitree might be the world’s most important robotics company.",
-        "bullets": [
-          "Unitree might be the world’s most important robotics company."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T11:00:53.000Z"
-      },
-      {
-        "id": "tech-fe106729",
-        "title": "Some satellite companies still have an appetite for boutique launch services",
-        "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-        "bullets": [
-          "\"Dedicated launch is pretty essential for us for most of our missions.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T23:34:45.000Z"
-      },
-      {
-        "id": "tech-44884ff4",
-        "title": "Random rewards enrich classic game-theory insights",
-        "summary": "Simple games gain rich strategies in the face of noise.",
-        "bullets": [
-          "Simple games gain rich strategies in the face of noise."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T21:41:16.000Z"
-      },
-      {
-        "id": "tech-74a0254f",
-        "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-        "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-        "bullets": [
-          "The strain lurking in the inflatable structure was hypervirulent."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T21:14:26.000Z"
-      },
-      {
-        "id": "tech-5c88bad7",
-        "title": "Trump's forced coal plant extensions thrown out by judge",
-        "summary": "The Department of Energy declared an \"emergency\" when none existed.",
-        "bullets": [
-          "The Department of Energy declared an \"emergency\" when none existed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:32:59.000Z"
-      },
-      {
-        "id": "ai-40b8fea9",
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-        "bullets": [
-          "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T20:19:16.000Z"
-      },
-      {
-        "id": "ai-8bde5f69",
-        "title": "Anthropic CEO outlines plan to slow AI development",
-        "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-        "bullets": [
-          "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T19:34:44.000Z"
-      },
-      {
-        "id": "ai-f197c99e",
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-        "bullets": [
-          "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T22:58:17.000Z"
-      },
-      {
-        "id": "ai-26f50527",
-        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-        "bullets": [
-          "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
-          "a more robust set of open-weight options that aren’t Chinese."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:59:47.000Z"
-      },
-      {
-        "id": "ai-8116463f",
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-        "bullets": [
-          "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T20:57:36.000Z"
-      },
-      {
-        "id": "world-ae3279bb",
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "bullets": [
-          "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T21:16:47.000Z"
-      },
-      {
-        "id": "world-da6245c5",
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-        "bullets": [
-          "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T12:15:50.000Z"
-      },
-      {
-        "id": "world-d4720e92",
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-        "bullets": [
-          "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T21:25:28.000Z"
-      },
-      {
-        "id": "world-0c910155",
-        "title": "Fire at nursing home in Chile kills 16 residents",
-        "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-        "bullets": [
-          "Ten people were evacuated from the home in Araucanía region in central Chile."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T19:36:50.000Z"
-      },
-      {
-        "id": "world-ec8fb7db",
-        "title": "French officials investigate if malicious act caused train derailment",
-        "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-        "bullets": [
-          "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T15:05:53.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-13",
     "generatedAt": "2026-09-13T23:11:53.018Z",
     "articles": [
@@ -8026,6 +7759,276 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-11T15:18:52.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "generatedAt": "2026-10-12T00:35:41.833Z",
+    "articles": [
+      {
+        "id": "top-19d03cfa",
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+        "bullets": [
+          "Zelensky says Kyiv would support such a truce.",
+          "Moscow has yet to comment."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T21:36:40.000Z"
+      },
+      {
+        "id": "top-d194b774",
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+        "bullets": [
+          "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T22:45:58.000Z"
+      },
+      {
+        "id": "top-08288c9b",
+        "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+        "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+        "bullets": [
+          "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T18:00:30.000Z"
+      },
+      {
+        "id": "top-222e723a",
+        "title": "Wildlife park remains closed after fatal tiger attack",
+        "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
+        "bullets": [
+          "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T12:38:02.000Z"
+      },
+      {
+        "id": "top-4b5b1baa",
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+        "bullets": [
+          "Police received credible information about possible attacks against Donald Tusk and his defence minister."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T17:27:24.000Z"
+      },
+      {
+        "id": "tech-28208f28",
+        "title": "Review: 4-hour Musk documentary feels like two different films",
+        "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+        "bullets": [
+          "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T18:10:54.000Z"
+      },
+      {
+        "id": "tech-f4464522",
+        "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+        "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
+        "bullets": [
+          "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T14:50:24.000Z"
+      },
+      {
+        "id": "tech-65a529e7",
+        "title": "One with the world? A new look at brains transformed by psychedelics.",
+        "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+        "bullets": [
+          "Participants meditated inside an MRI tube, with and without psilocybin."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T11:15:35.000Z"
+      },
+      {
+        "id": "tech-430c34e4",
+        "title": "Neanderthal wooden tools from Spain found preserved in stone",
+        "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+        "bullets": [
+          "Dissolved rock precipitated around the tools, which then decayed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:34:03.000Z"
+      },
+      {
+        "id": "tech-5cf84025",
+        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+        "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+        "bullets": [
+          "One damaged data center has supercomputers used for training Yandex’s AI model."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-09T22:04:07.000Z"
+      },
+      {
+        "id": "ai-05cabe8b",
+        "title": "Will the HomeView be Apple’s first smart home success?",
+        "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+        "bullets": [
+          "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T21:14:40.000Z"
+      },
+      {
+        "id": "ai-3100926e",
+        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+        "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+        "bullets": [
+          "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West.",
+          "Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass.",
+          "Or score other deals."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T19:00:00.000Z"
+      },
+      {
+        "id": "ai-f604ee95",
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+        "bullets": [
+          "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T16:52:33.000Z"
+      },
+      {
+        "id": "ai-ae9322bd",
+        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+        "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+        "bullets": [
+          "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T14:00:00.000Z"
+      },
+      {
+        "id": "ai-216fb7f6",
+        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+        "bullets": [
+          "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-10T21:47:51.000Z"
+      },
+      {
+        "id": "world-19d03cfa",
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+        "bullets": [
+          "Zelensky says Kyiv would support such a truce.",
+          "Moscow has yet to comment."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T21:36:40.000Z"
+      },
+      {
+        "id": "world-d194b774",
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+        "bullets": [
+          "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T22:45:58.000Z"
+      },
+      {
+        "id": "world-4b5b1baa",
+        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+        "bullets": [
+          "Police received credible information about possible attacks against Donald Tusk and his defence minister."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T17:27:24.000Z"
+      },
+      {
+        "id": "world-3cee54df",
+        "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+        "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+        "bullets": [
+          "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T21:12:44.000Z"
+      },
+      {
+        "id": "world-5950c2f4",
+        "title": "Homes and bridges swept away as fresh floods hit Nepal",
+        "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+        "bullets": [
+          "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-11T12:03:52.000Z"
       }
     ]
   }
