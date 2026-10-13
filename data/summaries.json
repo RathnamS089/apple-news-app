@@ -7766,72 +7766,85 @@
   },
   {
     "date": "2026-10-13",
-    "generatedAt": "2026-10-13T06:49:56.010Z",
+    "generatedAt": "2026-10-13T16:58:21.547Z",
     "articles": [
       {
-        "id": "top-3039470d",
-        "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-        "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+        "id": "top-106190bf",
+        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+        "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
         "bullets": [
-          "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham."
+          "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T05:55:12.000Z"
+        "publishedAt": "2026-10-13T15:52:15.000Z"
       },
       {
-        "id": "top-62911d70",
-        "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
-        "summary": "Second tranche of prisoners will include those serving up to two and a half years for crimes.",
+        "id": "top-f87473d3",
+        "title": "Man killed in tiger attack identified as William Chapman",
+        "summary": "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.",
         "bullets": [
-          "Second tranche of prisoners will include those serving up to two and a half years for crimes."
+          "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T01:13:33.000Z"
+        "publishedAt": "2026-10-13T16:30:58.000Z"
       },
       {
-        "id": "top-74c132db",
-        "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
-        "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+        "id": "top-e32ba945",
+        "title": "Majority of English football clubs on the edge of financial disaster, report says",
+        "summary": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
         "bullets": [
-          "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris..."
+          "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T01:27:59.000Z"
+        "publishedAt": "2026-10-13T16:00:11.000Z"
       },
       {
-        "id": "top-92736ec3",
-        "title": "Heating oil customers face tough winter despite shake-up promise",
-        "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+        "id": "top-a06cb1b5",
+        "title": "Three things we've learnt about the UK economy from the IMF",
+        "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
         "bullets": [
-          "Heating oil customers facing soaring bills are promised better regulation of the sector by the government."
+          "The influential economics body has upgraded its UK growth forecast for this year, but risks remain."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-12T23:02:24.000Z"
+        "publishedAt": "2026-10-13T11:58:43.000Z"
       },
       {
-        "id": "top-4a5a23f5",
-        "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-        "summary": "Meeting travellers' expectations could be challenging, experts warn.",
+        "id": "top-b30929c2",
+        "title": "Breaking Bad actor RJ Mitte dies aged 34",
+        "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
         "bullets": [
-          "Meeting travellers' expectations could be challenging, experts warn."
+          "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-12T23:37:00.000Z"
+        "publishedAt": "2026-10-13T08:03:34.000Z"
+      },
+      {
+        "id": "tech-98b444b9",
+        "title": "High-speed video reveals how honey bee stingers pump venom",
+        "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+        "bullets": [
+          "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T13:03:45.000Z"
       },
       {
         "id": "tech-ac574081",
@@ -7886,84 +7899,73 @@
         "publishedAt": "2026-10-12T18:46:43.000Z"
       },
       {
-        "id": "tech-08af6273",
-        "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-        "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+        "id": "ai-71fcbe82",
+        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
         "bullets": [
-          "“I may have information regarding this case,\" Claude AI told Philly police."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T18:21:36.000Z"
-      },
-      {
-        "id": "ai-26eeac95",
-        "title": "Meta releases its first frontier model, Muse Wonder",
-        "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-        "bullets": [
-          "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
+          "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed,..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-12T17:56:56.000Z"
+        "publishedAt": "2026-10-13T16:30:00.000Z"
       },
       {
-        "id": "ai-c12874bb",
-        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-        "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+        "id": "ai-c26f483f",
+        "title": "TechCrunch Disrupt 2026: Day 1",
+        "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
         "bullets": [
-          "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S.",
-          "military contract worth almost $50 million."
+          "TechCrunch Disrupt 2026 officially kicks off today.",
+          "See what's in store for Day 1 (Oct.",
+          "13) at San Francisco's Moscone West.",
+          "Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-12T17:19:14.000Z"
+        "publishedAt": "2026-10-13T14:00:00.000Z"
       },
       {
-        "id": "ai-5b98ba8f",
-        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-        "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+        "id": "ai-c8ddc319",
+        "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+        "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
         "bullets": [
-          "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken.",
-          "But could AI actually make things better?"
+          "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-12T15:45:00.000Z"
+        "publishedAt": "2026-10-13T13:50:19.000Z"
       },
       {
-        "id": "ai-c0664707",
-        "title": "Microsoft president says UK is best placed to drive AI regulation",
-        "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "id": "ai-93ade97a",
+        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+        "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
         "bullets": [
-          "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+          "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more.",
+          "Register now to save up to $100 on your pass and get a second at 50% off."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-12T15:31:19.000Z"
+        "publishedAt": "2026-10-13T13:28:06.000Z"
       },
       {
-        "id": "ai-40d25bd9",
-        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-        "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+        "id": "ai-1e981744",
+        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+        "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
         "bullets": [
-          "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo,..."
+          "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-12T15:27:59.000Z"
+        "publishedAt": "2026-10-13T13:00:00.000Z"
       },
       {
         "id": "world-189492d7",
@@ -7979,6 +7981,19 @@
         "publishedAt": "2026-10-13T05:02:34.000Z"
       },
       {
+        "id": "world-1964f919",
+        "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+        "summary": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.",
+        "bullets": [
+          "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T15:38:03.000Z"
+      },
+      {
         "id": "world-b30929c2",
         "title": "Breaking Bad actor RJ Mitte dies aged 34",
         "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
@@ -7989,46 +8004,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T06:26:05.000Z"
+        "publishedAt": "2026-10-13T08:03:34.000Z"
       },
       {
-        "id": "world-1c388351",
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+        "id": "world-c84f7459",
+        "title": "Watch: Emergency calls from botched Christa Pike execution released",
+        "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
         "bullets": [
-          "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+          "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-12T21:20:51.000Z"
+        "publishedAt": "2026-10-13T12:03:51.000Z"
       },
       {
-        "id": "world-a8a1e138",
-        "title": "One dead and several hurt after rollercoaster incident at Six Flags",
-        "summary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+        "id": "world-29f11594",
+        "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+        "summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
         "bullets": [
-          "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off."
+          "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T02:26:21.000Z"
-      },
-      {
-        "id": "world-647fda9a",
-        "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-        "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-        "bullets": [
-          "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T05:00:52.000Z"
+        "publishedAt": "2026-10-13T14:51:59.000Z"
       }
     ]
   }
