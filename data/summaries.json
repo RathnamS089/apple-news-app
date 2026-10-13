@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "generatedAt": "2026-09-13T23:11:53.018Z",
-    "articles": [
-      {
-        "id": "top-e1223e73",
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "bullets": [
-          "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T19:14:21.000Z"
-      },
-      {
-        "id": "top-e65f2de2",
-        "title": "'Culture shift' needed in how UK does business, PM urges",
-        "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-        "bullets": [
-          "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T21:30:21.000Z"
-      },
-      {
-        "id": "top-a8f5cd4c",
-        "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-        "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "bullets": [
-          "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T18:49:37.000Z"
-      },
-      {
-        "id": "top-1f202984",
-        "title": "Will record donations to Reform go down as a moment of political change?",
-        "summary": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
-        "bullets": [
-          "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T17:51:19.000Z"
-      },
-      {
-        "id": "top-5b607610",
-        "title": "Deep-fried food banned under new school dinner rules in England",
-        "summary": "The government describes its new school food standards as \"once-in-a-generation changes\".",
-        "bullets": [
-          "The government describes its new school food standards as \"once-in-a-generation changes\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T21:30:29.000Z"
-      },
-      {
-        "id": "tech-4b4b954f",
-        "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-        "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
-        "bullets": [
-          "The 40-year-old unvaccinated woman reportedly had underlying health conditions."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T21:56:52.000Z"
-      },
-      {
-        "id": "tech-c542b88e",
-        "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-        "summary": "The manufacturer has a service that lets owners repair their own equipment.",
-        "bullets": [
-          "The manufacturer has a service that lets owners repair their own equipment."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T11:00:41.000Z"
-      },
-      {
-        "id": "tech-72556e43",
-        "title": "I spent $4,000 on a robot dog from China",
-        "summary": "Unitree might be the world’s most important robotics company.",
-        "bullets": [
-          "Unitree might be the world’s most important robotics company."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T11:00:53.000Z"
-      },
-      {
-        "id": "tech-fe106729",
-        "title": "Some satellite companies still have an appetite for boutique launch services",
-        "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-        "bullets": [
-          "\"Dedicated launch is pretty essential for us for most of our missions.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T23:34:45.000Z"
-      },
-      {
-        "id": "tech-44884ff4",
-        "title": "Random rewards enrich classic game-theory insights",
-        "summary": "Simple games gain rich strategies in the face of noise.",
-        "bullets": [
-          "Simple games gain rich strategies in the face of noise."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T21:41:16.000Z"
-      },
-      {
-        "id": "ai-cd1fd563",
-        "title": "What’s behind the AI industry’s latest warnings of doom?",
-        "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-        "bullets": [
-          "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T19:40:15.000Z"
-      },
-      {
-        "id": "ai-d2b55af0",
-        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-        "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-        "bullets": [
-          "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T16:30:00.000Z"
-      },
-      {
-        "id": "ai-40b8fea9",
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-        "bullets": [
-          "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T20:19:16.000Z"
-      },
-      {
-        "id": "ai-8bde5f69",
-        "title": "Anthropic CEO outlines plan to slow AI development",
-        "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-        "bullets": [
-          "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-12T19:34:44.000Z"
-      },
-      {
-        "id": "ai-f197c99e",
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-        "bullets": [
-          "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-11T22:58:17.000Z"
-      },
-      {
-        "id": "world-e1223e73",
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "bullets": [
-          "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T19:14:21.000Z"
-      },
-      {
-        "id": "world-b8f2c048",
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "bullets": [
-          "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T18:49:37.000Z"
-      },
-      {
-        "id": "world-2745edc9",
-        "title": "Questions mount over what an AI 'slowdown' would look like",
-        "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-        "bullets": [
-          "While pacing AI development might sound like a quick fix, it is far from an easy solution."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T18:20:22.000Z"
-      },
-      {
-        "id": "world-043f354a",
-        "title": "Swedish party blocs tied after Sunday vote, projections say",
-        "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
-        "bullets": [
-          "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T22:27:54.000Z"
-      },
-      {
-        "id": "world-25f472b1",
-        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-        "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-        "bullets": [
-          "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-13T13:30:38.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-14",
     "generatedAt": "2026-09-14T23:53:05.349Z",
     "articles": [
@@ -8027,6 +7761,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-12T16:46:49.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "generatedAt": "2026-10-13T06:49:56.010Z",
+    "articles": [
+      {
+        "id": "top-3039470d",
+        "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+        "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+        "bullets": [
+          "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T05:55:12.000Z"
+      },
+      {
+        "id": "top-62911d70",
+        "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+        "summary": "Second tranche of prisoners will include those serving up to two and a half years for crimes.",
+        "bullets": [
+          "Second tranche of prisoners will include those serving up to two and a half years for crimes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T01:13:33.000Z"
+      },
+      {
+        "id": "top-74c132db",
+        "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
+        "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+        "bullets": [
+          "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T01:27:59.000Z"
+      },
+      {
+        "id": "top-92736ec3",
+        "title": "Heating oil customers face tough winter despite shake-up promise",
+        "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+        "bullets": [
+          "Heating oil customers facing soaring bills are promised better regulation of the sector by the government."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T23:02:24.000Z"
+      },
+      {
+        "id": "top-4a5a23f5",
+        "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+        "summary": "Meeting travellers' expectations could be challenging, experts warn.",
+        "bullets": [
+          "Meeting travellers' expectations could be challenging, experts warn."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T23:37:00.000Z"
+      },
+      {
+        "id": "tech-ac574081",
+        "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+        "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
+        "bullets": [
+          "As of Friday, state health officials reported 1,136 cases across 41 counties."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T21:54:35.000Z"
+      },
+      {
+        "id": "tech-d3ccef5b",
+        "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+        "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+        "bullets": [
+          "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T20:59:50.000Z"
+      },
+      {
+        "id": "tech-abfd4333",
+        "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+        "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+        "bullets": [
+          "You can get a universe in your pocket if you have an iPhone 11 or later."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T20:26:14.000Z"
+      },
+      {
+        "id": "tech-3553d8a8",
+        "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+        "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
+        "bullets": [
+          "Without a cause of death, it's unclear if Russia's precautions were the right ones."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T18:46:43.000Z"
+      },
+      {
+        "id": "tech-08af6273",
+        "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+        "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+        "bullets": [
+          "“I may have information regarding this case,\" Claude AI told Philly police."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T18:21:36.000Z"
+      },
+      {
+        "id": "ai-26eeac95",
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+        "bullets": [
+          "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T17:56:56.000Z"
+      },
+      {
+        "id": "ai-c12874bb",
+        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+        "bullets": [
+          "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S.",
+          "military contract worth almost $50 million."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T17:19:14.000Z"
+      },
+      {
+        "id": "ai-5b98ba8f",
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+        "bullets": [
+          "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken.",
+          "But could AI actually make things better?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T15:45:00.000Z"
+      },
+      {
+        "id": "ai-c0664707",
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "bullets": [
+          "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T15:31:19.000Z"
+      },
+      {
+        "id": "ai-40d25bd9",
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+        "bullets": [
+          "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo,..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T15:27:59.000Z"
+      },
+      {
+        "id": "world-189492d7",
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+        "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+        "bullets": [
+          "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T05:02:34.000Z"
+      },
+      {
+        "id": "world-b30929c2",
+        "title": "Breaking Bad actor RJ Mitte dies aged 34",
+        "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+        "bullets": [
+          "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T06:26:05.000Z"
+      },
+      {
+        "id": "world-1c388351",
+        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+        "bullets": [
+          "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T21:20:51.000Z"
+      },
+      {
+        "id": "world-a8a1e138",
+        "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+        "summary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+        "bullets": [
+          "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T02:26:21.000Z"
+      },
+      {
+        "id": "world-647fda9a",
+        "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+        "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+        "bullets": [
+          "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-12T05:00:52.000Z"
       }
     ]
   }
