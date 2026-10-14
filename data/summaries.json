@@ -7768,11 +7768,24 @@
   },
   {
     "date": "2026-10-14",
-    "generatedAt": "2026-10-14T11:58:03.887Z",
+    "generatedAt": "2026-10-14T17:14:58.086Z",
     "articles": [
       {
-        "id": "top-924199cb",
-        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "id": "top-ea8a364b",
+        "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+        "summary": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+        "bullets": [
+          "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T16:22:28.000Z"
+      },
+      {
+        "id": "top-94bf2d04",
+        "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
         "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
         "bullets": [
           "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets."
@@ -7781,20 +7794,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T11:32:07.000Z"
+        "publishedAt": "2026-10-14T13:11:17.000Z"
       },
       {
-        "id": "top-2b412234",
-        "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
-        "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+        "id": "top-fd6748a7",
+        "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
+        "summary": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
         "bullets": [
-          "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes."
+          "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T09:25:03.000Z"
+        "publishedAt": "2026-10-14T14:30:48.000Z"
+      },
+      {
+        "id": "top-cc1d49e2",
+        "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+        "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
+        "bullets": [
+          "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T16:56:21.000Z"
       },
       {
         "id": "top-505e3ee4",
@@ -7807,33 +7833,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T11:45:24.000Z"
+        "publishedAt": "2026-10-14T12:44:17.000Z"
       },
       {
-        "id": "top-93de38aa",
-        "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+        "id": "tech-01d74316",
+        "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+        "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
         "bullets": [
-          "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches."
+          "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T10:06:48.000Z"
+        "publishedAt": "2026-10-14T13:56:11.000Z"
       },
       {
-        "id": "top-f00b41e2",
-        "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
-        "summary": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+        "id": "tech-19e23ebc",
+        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+        "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
         "bullets": [
-          "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals."
+          "\"Small weight-based replicators\" could usher in a new generation of computer worms."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T05:01:07.000Z"
+        "publishedAt": "2026-10-14T12:55:06.000Z"
+      },
+      {
+        "id": "tech-8c64e181",
+        "title": "The Internet’s undersea backbone is slipping into the danger zone",
+        "summary": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
+        "bullets": [
+          "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T11:15:24.000Z"
+      },
+      {
+        "id": "tech-9fef3789",
+        "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+        "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+        "bullets": [
+          "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T11:00:30.000Z"
       },
       {
         "id": "tech-09f1d1ca",
@@ -7849,126 +7901,76 @@
         "publishedAt": "2026-10-13T22:48:12.000Z"
       },
       {
-        "id": "tech-fdd42ae4",
-        "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
-        "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+        "id": "ai-d8e27e83",
+        "title": "Deezer will soon let you filter out AI-generated music",
+        "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
         "bullets": [
-          "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-13T21:55:49.000Z"
-      },
-      {
-        "id": "tech-57b32a26",
-        "title": "Topgolf saved over $11.3 million after leaving VMware",
-        "summary": "Topgolf and VMware \"ran deep\" before the migration.",
-        "bullets": [
-          "Topgolf and VMware \"ran deep\" before the migration."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-13T21:33:43.000Z"
-      },
-      {
-        "id": "tech-5f4c8db9",
-        "title": "Trump commercial railing against his enemies kept airing after court blocked it",
-        "summary": "US attorney apologized to court, said government has stopped running Trump ads.",
-        "bullets": [
-          "US attorney apologized to court, said government has stopped running Trump ads."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-13T19:50:37.000Z"
-      },
-      {
-        "id": "tech-39bb321c",
-        "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-        "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-        "bullets": [
-          "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-13T18:23:33.000Z"
-      },
-      {
-        "id": "ai-d6709a92",
-        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-        "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-        "bullets": [
-          "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S."
+          "Deezer said that the new toggle will be rolled out by the end of the year."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T11:00:00.000Z"
+        "publishedAt": "2026-10-14T15:16:04.000Z"
       },
       {
-        "id": "ai-05e4a5fa",
-        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+        "id": "ai-279c376e",
+        "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+        "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
         "bullets": [
-          "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+          "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco.",
+          "Register now and join the rest of the startup ecosystem.",
+          "Today, it's all about physical and software AI."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T23:13:31.000Z"
+        "publishedAt": "2026-10-14T15:13:24.000Z"
       },
       {
-        "id": "ai-afc8e31f",
-        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-        "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+        "id": "ai-8829e5a1",
+        "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+        "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
         "bullets": [
-          "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local..."
+          "Zenzap is used by organizations including Starbucks and Taco Bell."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T23:05:34.000Z"
+        "publishedAt": "2026-10-14T15:08:00.000Z"
       },
       {
-        "id": "ai-bc59dccd",
-        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-        "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+        "id": "ai-af963231",
+        "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+        "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
         "bullets": [
-          "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
+          "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T23:00:00.000Z"
+        "publishedAt": "2026-10-14T15:00:00.000Z"
       },
       {
-        "id": "ai-a18d1f06",
-        "title": "Cerebras CEO pushes back on AI doomsday warnings",
-        "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+        "id": "ai-a23d004e",
+        "title": "TechCrunch Disrupt 2026: Day 2",
+        "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
         "bullets": [
-          "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking?",
-          "At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+          "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more.",
+          "Register to save 50% on your pass."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T22:36:59.000Z"
+        "publishedAt": "2026-10-14T14:30:00.000Z"
       },
       {
-        "id": "world-924199cb",
-        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "id": "world-94bf2d04",
+        "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
         "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
         "bullets": [
           "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets."
@@ -7977,59 +7979,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T11:32:07.000Z"
+        "publishedAt": "2026-10-14T13:11:17.000Z"
       },
       {
-        "id": "world-fc0c5a52",
-        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+        "id": "world-a563a31a",
+        "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+        "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
         "bullets": [
-          "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
+          "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T11:17:51.000Z"
+        "publishedAt": "2026-10-14T15:12:46.000Z"
+      },
+      {
+        "id": "world-f8fb505c",
+        "title": "US inflation rises more than expected - here's what is happening with prices",
+        "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+        "bullets": [
+          "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T15:26:14.000Z"
       },
       {
         "id": "world-993879f7",
         "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-        "summary": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
         "bullets": [
-          "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany."
+          "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T09:32:54.000Z"
+        "publishedAt": "2026-10-14T13:41:51.000Z"
       },
       {
-        "id": "world-4036b0ac",
-        "title": "Saudi employee charged with planting recording device in OpenAI office",
-        "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+        "id": "world-439bc3cf",
+        "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+        "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
         "bullets": [
-          "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
+          "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T21:42:49.000Z"
-      },
-      {
-        "id": "world-3a858823",
-        "title": "Turkish police raid opposition TV station, halting live broadcasts",
-        "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
-        "bullets": [
-          "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T10:50:11.000Z"
+        "publishedAt": "2026-10-14T13:35:29.000Z"
       }
     ]
   }
