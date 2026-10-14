@@ -7768,8 +7768,34 @@
   },
   {
     "date": "2026-10-14",
-    "generatedAt": "2026-10-14T04:58:21.956Z",
+    "generatedAt": "2026-10-14T11:58:03.887Z",
     "articles": [
+      {
+        "id": "top-924199cb",
+        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+        "bullets": [
+          "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T11:32:07.000Z"
+      },
+      {
+        "id": "top-2b412234",
+        "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
+        "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+        "bullets": [
+          "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T09:25:03.000Z"
+      },
       {
         "id": "top-505e3ee4",
         "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
@@ -7781,59 +7807,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T23:58:56.000Z"
+        "publishedAt": "2026-10-14T11:45:24.000Z"
       },
       {
-        "id": "top-fc0c5a52",
-        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+        "id": "top-93de38aa",
+        "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+        "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
         "bullets": [
-          "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
+          "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T00:17:00.000Z"
+        "publishedAt": "2026-10-14T10:06:48.000Z"
       },
       {
-        "id": "top-55053ece",
-        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-        "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+        "id": "top-f00b41e2",
+        "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+        "summary": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
         "bullets": [
-          "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
+          "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T21:42:49.000Z"
-      },
-      {
-        "id": "top-cfe92c45",
-        "title": "Zelensky and Burnham to meet in Downing Street",
-        "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
-        "bullets": [
-          "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-13T21:31:30.000Z"
-      },
-      {
-        "id": "top-94f8dd35",
-        "title": "Royal Mail losing 400 postal workers a week, says union",
-        "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
-        "bullets": [
-          "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-13T23:03:59.000Z"
+        "publishedAt": "2026-10-14T05:01:07.000Z"
       },
       {
         "id": "tech-09f1d1ca",
@@ -7901,11 +7901,24 @@
         "publishedAt": "2026-10-13T18:23:33.000Z"
       },
       {
+        "id": "ai-d6709a92",
+        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+        "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+        "bullets": [
+          "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T11:00:00.000Z"
+      },
+      {
         "id": "ai-05e4a5fa",
         "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
         "bullets": [
-          "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+          "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
@@ -7954,34 +7967,47 @@
         "publishedAt": "2026-10-13T22:36:59.000Z"
       },
       {
-        "id": "ai-f432b014",
-        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-        "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+        "id": "world-924199cb",
+        "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
         "bullets": [
-          "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony..."
+          "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T20:36:44.000Z"
+        "publishedAt": "2026-10-14T11:32:07.000Z"
       },
       {
         "id": "world-fc0c5a52",
         "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+        "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
         "bullets": [
-          "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
+          "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-14T00:17:00.000Z"
+        "publishedAt": "2026-10-14T11:17:51.000Z"
       },
       {
-        "id": "world-55053ece",
-        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "id": "world-993879f7",
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "summary": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "bullets": [
+          "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T09:32:54.000Z"
+      },
+      {
+        "id": "world-4036b0ac",
+        "title": "Saudi employee charged with planting recording device in OpenAI office",
         "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
         "bullets": [
           "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
@@ -7993,43 +8019,17 @@
         "publishedAt": "2026-10-13T21:42:49.000Z"
       },
       {
-        "id": "world-993879f7",
-        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-        "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "id": "world-3a858823",
+        "title": "Turkish police raid opposition TV station, halting live broadcasts",
+        "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
         "bullets": [
-          "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
+          "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-13T23:42:22.000Z"
-      },
-      {
-        "id": "world-106190bf",
-        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-        "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-        "bullets": [
-          "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-13T15:52:15.000Z"
-      },
-      {
-        "id": "world-e5f80501",
-        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-        "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-        "bullets": [
-          "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T04:20:17.000Z"
+        "publishedAt": "2026-10-14T10:50:11.000Z"
       }
     ]
   }
