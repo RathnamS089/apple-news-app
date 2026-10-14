@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "generatedAt": "2026-09-14T23:53:05.349Z",
-    "articles": [
-      {
-        "id": "top-21b2c698",
-        "title": "Man admits drugging and raping wife over 20 years",
-        "summary": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
-        "bullets": [
-          "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T16:54:26.000Z"
-      },
-      {
-        "id": "top-d37585be",
-        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-        "summary": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
-        "bullets": [
-          "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T22:10:10.000Z"
-      },
-      {
-        "id": "top-3016ca1f",
-        "title": "Burnham cancels engagements after death of his father",
-        "summary": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
-        "bullets": [
-          "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T18:53:38.000Z"
-      },
-      {
-        "id": "top-7560f375",
-        "title": "Nato jets down drone that entered Lithuanian airspace",
-        "summary": "It is currently unknown where the drone came from, officials said.",
-        "bullets": [
-          "It is currently unknown where the drone came from, officials said."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T23:52:30.000Z"
-      },
-      {
-        "id": "top-481da3e3",
-        "title": "Row over Reform's mega donations has mileage in it yet",
-        "summary": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
-        "bullets": [
-          "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T23:51:03.000Z"
-      },
-      {
-        "id": "tech-ef85d49c",
-        "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-        "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
-        "bullets": [
-          "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T22:06:24.000Z"
-      },
-      {
-        "id": "tech-3f5b3e32",
-        "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-        "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-        "bullets": [
-          "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T21:32:22.000Z"
-      },
-      {
-        "id": "tech-79594aa6",
-        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-        "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-        "bullets": [
-          "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T21:04:32.000Z"
-      },
-      {
-        "id": "tech-0f242b7a",
-        "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-        "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-        "bullets": [
-          "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T19:45:13.000Z"
-      },
-      {
-        "id": "tech-e18d8124",
-        "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-        "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-        "bullets": [
-          "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T19:38:46.000Z"
-      },
-      {
-        "id": "ai-631b730b",
-        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-        "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-        "bullets": [
-          "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T21:51:02.000Z"
-      },
-      {
-        "id": "ai-c6598f7f",
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-        "bullets": [
-          "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T20:44:14.000Z"
-      },
-      {
-        "id": "ai-59470502",
-        "title": "With iOS 27, I’m actually using Siri again",
-        "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-        "bullets": [
-          "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T17:10:30.000Z"
-      },
-      {
-        "id": "ai-d581aefb",
-        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-        "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-        "bullets": [
-          "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T17:00:00.000Z"
-      },
-      {
-        "id": "ai-31e1127a",
-        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-        "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those...",
-        "bullets": [
-          "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T16:27:53.000Z"
-      },
-      {
-        "id": "world-21dd451e",
-        "title": "China criticises idea it is in 'malicious competition' over AI",
-        "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-        "bullets": [
-          "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T11:31:39.000Z"
-      },
-      {
-        "id": "world-e1223e73",
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-        "bullets": [
-          "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T12:18:13.000Z"
-      },
-      {
-        "id": "world-98b57f76",
-        "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-        "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
-        "bullets": [
-          "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T08:36:09.000Z"
-      },
-      {
-        "id": "world-9c29ca09",
-        "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-        "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
-        "bullets": [
-          "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T14:08:12.000Z"
-      },
-      {
-        "id": "world-45918bc7",
-        "title": "Thousands demand end to violence in Mexican cartel hotspot",
-        "summary": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-        "bullets": [
-          "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-14T11:28:36.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-15",
     "generatedAt": "2026-09-15T21:24:07.106Z",
     "articles": [
@@ -8029,6 +7763,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-13T19:51:14.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "generatedAt": "2026-10-14T04:58:21.956Z",
+    "articles": [
+      {
+        "id": "top-505e3ee4",
+        "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+        "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+        "bullets": [
+          "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T23:58:56.000Z"
+      },
+      {
+        "id": "top-fc0c5a52",
+        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+        "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+        "bullets": [
+          "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T00:17:00.000Z"
+      },
+      {
+        "id": "top-55053ece",
+        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+        "bullets": [
+          "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T21:42:49.000Z"
+      },
+      {
+        "id": "top-cfe92c45",
+        "title": "Zelensky and Burnham to meet in Downing Street",
+        "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+        "bullets": [
+          "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T21:31:30.000Z"
+      },
+      {
+        "id": "top-94f8dd35",
+        "title": "Royal Mail losing 400 postal workers a week, says union",
+        "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+        "bullets": [
+          "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T23:03:59.000Z"
+      },
+      {
+        "id": "tech-09f1d1ca",
+        "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+        "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+        "bullets": [
+          "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T22:48:12.000Z"
+      },
+      {
+        "id": "tech-fdd42ae4",
+        "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+        "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+        "bullets": [
+          "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T21:55:49.000Z"
+      },
+      {
+        "id": "tech-57b32a26",
+        "title": "Topgolf saved over $11.3 million after leaving VMware",
+        "summary": "Topgolf and VMware \"ran deep\" before the migration.",
+        "bullets": [
+          "Topgolf and VMware \"ran deep\" before the migration."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T21:33:43.000Z"
+      },
+      {
+        "id": "tech-5f4c8db9",
+        "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+        "summary": "US attorney apologized to court, said government has stopped running Trump ads.",
+        "bullets": [
+          "US attorney apologized to court, said government has stopped running Trump ads."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T19:50:37.000Z"
+      },
+      {
+        "id": "tech-39bb321c",
+        "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+        "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+        "bullets": [
+          "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T18:23:33.000Z"
+      },
+      {
+        "id": "ai-05e4a5fa",
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+        "bullets": [
+          "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T23:13:31.000Z"
+      },
+      {
+        "id": "ai-afc8e31f",
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+        "bullets": [
+          "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T23:05:34.000Z"
+      },
+      {
+        "id": "ai-bc59dccd",
+        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+        "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+        "bullets": [
+          "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T23:00:00.000Z"
+      },
+      {
+        "id": "ai-a18d1f06",
+        "title": "Cerebras CEO pushes back on AI doomsday warnings",
+        "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+        "bullets": [
+          "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking?",
+          "At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T22:36:59.000Z"
+      },
+      {
+        "id": "ai-f432b014",
+        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+        "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+        "bullets": [
+          "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T20:36:44.000Z"
+      },
+      {
+        "id": "world-fc0c5a52",
+        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+        "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+        "bullets": [
+          "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T00:17:00.000Z"
+      },
+      {
+        "id": "world-55053ece",
+        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+        "bullets": [
+          "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T21:42:49.000Z"
+      },
+      {
+        "id": "world-993879f7",
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "bullets": [
+          "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T23:42:22.000Z"
+      },
+      {
+        "id": "world-106190bf",
+        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+        "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+        "bullets": [
+          "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-13T15:52:15.000Z"
+      },
+      {
+        "id": "world-e5f80501",
+        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+        "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+        "bullets": [
+          "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T04:20:17.000Z"
       }
     ]
   }
