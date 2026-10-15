@@ -7770,59 +7770,59 @@
   },
   {
     "date": "2026-10-15",
-    "generatedAt": "2026-10-15T11:34:29.414Z",
+    "generatedAt": "2026-10-15T17:04:42.776Z",
     "articles": [
       {
-        "id": "top-9c7fe96e",
-        "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
-        "summary": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
+        "id": "top-12b248fd",
+        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+        "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
         "bullets": [
-          "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears."
+          "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T11:07:13.000Z"
+        "publishedAt": "2026-10-15T15:55:14.000Z"
       },
       {
-        "id": "top-22486704",
-        "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-        "summary": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.",
+        "id": "top-ae110b51",
+        "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+        "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
         "bullets": [
-          "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks."
+          "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T10:27:26.000Z"
+        "publishedAt": "2026-10-15T16:28:10.000Z"
       },
       {
-        "id": "top-29d72514",
-        "title": "Why Starlink internet is so important on the battlefield in Ukraine",
-        "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+        "id": "top-2e1eb157",
+        "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+        "summary": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
         "bullets": [
-          "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country."
+          "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T11:25:19.000Z"
+        "publishedAt": "2026-10-15T16:07:26.000Z"
       },
       {
-        "id": "top-591f5d16",
-        "title": "UK threatens to ban Eritreans over migrant return policy",
-        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+        "id": "top-c49588e5",
+        "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
+        "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
         "bullets": [
-          "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
+          "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T09:17:57.000Z"
+        "publishedAt": "2026-10-15T16:35:05.000Z"
       },
       {
         "id": "top-728df9a9",
@@ -7835,7 +7835,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T11:28:11.000Z"
+        "publishedAt": "2026-10-15T15:55:10.000Z"
       },
       {
         "id": "tech-eab0e4af",
@@ -7903,6 +7903,62 @@
         "publishedAt": "2026-10-14T20:15:56.000Z"
       },
       {
+        "id": "ai-a225c20c",
+        "title": "AI agents are coming to Rivian’s cars",
+        "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+        "bullets": [
+          "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T15:02:36.000Z"
+      },
+      {
+        "id": "ai-b3ae2516",
+        "title": "Google’s Universal Cart shopping tool launches in the US",
+        "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "bullets": [
+          "The new shopping tool is available in the U.S.",
+          "across Google Search and the Gemini app."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T14:29:33.000Z"
+      },
+      {
+        "id": "ai-9a8f8e99",
+        "title": "TechCrunch Disrupt 2026: Last day",
+        "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+        "bullets": [
+          "Last day to be part of TechCrunch Disrupt 2026.",
+          "Join 10,000+ tech leaders for a day of connections and insights.",
+          "Save 75% on your pass now."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T14:00:00.000Z"
+      },
+      {
+        "id": "ai-a9c571d5",
+        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate...",
+        "bullets": [
+          "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that...",
+          "The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T12:00:00.000Z"
+      },
+      {
         "id": "ai-b8b104ec",
         "title": "Figma announces new features to define how agents work on its platform",
         "summary": "Figma is also releasing its code layers feature in open beta.",
@@ -7916,71 +7972,43 @@
         "publishedAt": "2026-10-15T04:30:00.000Z"
       },
       {
-        "id": "ai-58642c69",
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+        "id": "world-ae110b51",
+        "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+        "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
         "bullets": [
-          "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+          "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T01:01:32.000Z"
+        "publishedAt": "2026-10-15T16:28:10.000Z"
       },
       {
-        "id": "ai-03131704",
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public...",
+        "id": "world-3b080754",
+        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
         "bullets": [
-          "Every day, conversations unfold across social media and websites around the world.",
-          "A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much...",
-          "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-15T00:00:00.000Z"
-      },
-      {
-        "id": "ai-446c3d2b",
-        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-        "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-        "bullets": [
-          "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T21:30:33.000Z"
-      },
-      {
-        "id": "ai-565eaad6",
-        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-        "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-        "bullets": [
-          "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T18:23:46.000Z"
-      },
-      {
-        "id": "world-22486704",
-        "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-        "summary": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.",
-        "bullets": [
-          "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks."
+          "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T10:27:26.000Z"
+        "publishedAt": "2026-10-15T16:50:18.000Z"
+      },
+      {
+        "id": "world-c0b00d02",
+        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+        "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+        "bullets": [
+          "Children were buried under the debris after the roof crashed through three classrooms, police say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T15:26:16.000Z"
       },
       {
         "id": "world-7cad1e86",
@@ -7996,8 +8024,8 @@
         "publishedAt": "2026-10-15T10:05:29.000Z"
       },
       {
-        "id": "world-db8734ec",
-        "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+        "id": "world-a64fef31",
+        "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
         "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
         "bullets": [
           "A search and rescue operation is under way in the Black Sea after the latest attack in the area."
@@ -8006,33 +8034,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T11:12:54.000Z"
-      },
-      {
-        "id": "world-26d62452",
-        "title": "White House defends new press secretary amid questions about her legal credentials",
-        "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-        "bullets": [
-          "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-15T08:41:04.000Z"
-      },
-      {
-        "id": "world-dd387f06",
-        "title": "Brazil's Congress approves shorter working week in win for Lula",
-        "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
-        "bullets": [
-          "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-15T10:05:17.000Z"
+        "publishedAt": "2026-10-15T14:51:30.000Z"
       }
     ]
   }
