@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "generatedAt": "2026-09-15T21:24:07.106Z",
-    "articles": [
-      {
-        "id": "top-f28b25a1",
-        "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-        "summary": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
-        "bullets": [
-          "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T19:47:10.000Z"
-      },
-      {
-        "id": "top-4981d564",
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-        "bullets": [
-          "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T21:07:13.000Z"
-      },
-      {
-        "id": "top-1dd0412c",
-        "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-        "summary": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
-        "bullets": [
-          "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T20:41:35.000Z"
-      },
-      {
-        "id": "top-115416ce",
-        "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-        "summary": "The former England winger crashed a Lamborghini into motorway barriers in May.",
-        "bullets": [
-          "The former England winger crashed a Lamborghini into motorway barriers in May."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T16:24:00.000Z"
-      },
-      {
-        "id": "top-aa811288",
-        "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-        "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
-        "bullets": [
-          "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T17:35:02.000Z"
-      },
-      {
-        "id": "tech-08fc1a72",
-        "title": "18-year-old dies of measles in PA from severe neurological complication",
-        "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
-        "bullets": [
-          "Teen developed acute disseminated encephalomyelitis, a known measles complication."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:58:09.000Z"
-      },
-      {
-        "id": "tech-0ff464e5",
-        "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-        "summary": "Reaching orbit would mark a significant milestone.",
-        "bullets": [
-          "Reaching orbit would mark a significant milestone."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:48:08.000Z"
-      },
-      {
-        "id": "tech-f7a488d6",
-        "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-        "summary": "Robots can start working outside physical cages and without safety barriers.",
-        "bullets": [
-          "Robots can start working outside physical cages and without safety barriers."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:33:02.000Z"
-      },
-      {
-        "id": "tech-b9c1143f",
-        "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
-        "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
-        "bullets": [
-          "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:14:11.000Z"
-      },
-      {
-        "id": "tech-1d51a9e0",
-        "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
-        "summary": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
-        "bullets": [
-          "EV growth is happening, even in the US, and those EVs will need plugs to charge."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T17:58:09.000Z"
-      },
-      {
-        "id": "ai-555b8736",
-        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-        "bullets": [
-          "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T20:12:53.000Z"
-      },
-      {
-        "id": "ai-713f4681",
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "bullets": [
-          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T19:00:00.000Z"
-      },
-      {
-        "id": "ai-32400157",
-        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-        "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-        "bullets": [
-          "The AI frenzy could push U.S.",
-          "data centers to become one of the largest consumers of natural gas in the world."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:29:20.000Z"
-      },
-      {
-        "id": "ai-4533e4f2",
-        "title": "AI agents now have a place to snitch",
-        "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-        "bullets": [
-          "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T17:42:59.000Z"
-      },
-      {
-        "id": "ai-422bcb2b",
-        "title": "Meta expands subscription push with new AI-focused plans",
-        "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-        "bullets": [
-          "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T17:05:24.000Z"
-      },
-      {
-        "id": "world-a46b5a62",
-        "title": "Denmark says Russian warship fired flares at military helicopter",
-        "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-        "bullets": [
-          "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T11:40:00.000Z"
-      },
-      {
-        "id": "world-e76c38c0",
-        "title": "What weapon could the US have put into space?",
-        "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-        "bullets": [
-          "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T14:23:14.000Z"
-      },
-      {
-        "id": "world-a8d02ea1",
-        "title": "Suspected sabotage causes major Netherlands rail disruption",
-        "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-        "bullets": [
-          "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T16:55:04.000Z"
-      },
-      {
-        "id": "world-3fc56cdd",
-        "title": "South African president vows justice as more women's bodies found near Johannesburg",
-        "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
-        "bullets": [
-          "Police have not linked the deaths to a serial killer but are investigating this possibility."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T18:01:51.000Z"
-      },
-      {
-        "id": "world-4827ceb4",
-        "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-        "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
-        "bullets": [
-          "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-15T16:13:41.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-16",
     "generatedAt": "2026-09-16T21:20:52.626Z",
     "articles": [
@@ -8032,6 +7765,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-14T13:41:51.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "generatedAt": "2026-10-15T04:44:55.626Z",
+    "articles": [
+      {
+        "id": "top-861bf1ab",
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+        "bullets": [
+          "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T04:30:08.000Z"
+      },
+      {
+        "id": "top-c33a36ba",
+        "title": "Why Zelensky's meeting with Burnham matters",
+        "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
+        "bullets": [
+          "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T20:41:03.000Z"
+      },
+      {
+        "id": "top-591f5d16",
+        "title": "UK threatens to ban Eritreans over migrant return policy",
+        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+        "bullets": [
+          "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T21:30:13.000Z"
+      },
+      {
+        "id": "top-e696deac",
+        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+        "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+        "bullets": [
+          "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T02:26:07.000Z"
+      },
+      {
+        "id": "top-5acb0e5e",
+        "title": "UK temperatures to rise to 23C before autumn chill sets in",
+        "summary": "Warm air will bring unseasonable warmth to the south and east of the UK on Thursday but chillier conditions are set to spread to all areas by the weekend.",
+        "bullets": [
+          "Warm air will bring unseasonable warmth to the south and east of the UK on Thursday but chillier conditions are set to spread to all areas by the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/c6d7qv73nldgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T04:27:23.000Z"
+      },
+      {
+        "id": "tech-eab0e4af",
+        "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+        "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+        "bullets": [
+          "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T21:35:09.000Z"
+      },
+      {
+        "id": "tech-cbee05d1",
+        "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+        "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+        "bullets": [
+          "But the new \"Preview\" app \"will have some bugs,\" Epic warns."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T21:15:56.000Z"
+      },
+      {
+        "id": "tech-241c4e75",
+        "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+        "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+        "bullets": [
+          "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T21:03:11.000Z"
+      },
+      {
+        "id": "tech-3a9a12ab",
+        "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+        "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+        "bullets": [
+          "\"This is great news for us."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T20:48:07.000Z"
+      },
+      {
+        "id": "tech-2cdadb65",
+        "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+        "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+        "bullets": [
+          "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T20:15:56.000Z"
+      },
+      {
+        "id": "ai-b8b104ec",
+        "title": "Figma announces new features to define how agents work on its platform",
+        "summary": "Figma is also releasing its code layers feature in open beta.",
+        "bullets": [
+          "Figma is also releasing its code layers feature in open beta."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T04:30:00.000Z"
+      },
+      {
+        "id": "ai-58642c69",
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+        "bullets": [
+          "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T01:01:32.000Z"
+      },
+      {
+        "id": "ai-03131704",
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public...",
+        "bullets": [
+          "Every day, conversations unfold across social media and websites around the world.",
+          "A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much...",
+          "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T00:00:00.000Z"
+      },
+      {
+        "id": "ai-446c3d2b",
+        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+        "bullets": [
+          "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T21:30:33.000Z"
+      },
+      {
+        "id": "ai-565eaad6",
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+        "bullets": [
+          "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T18:23:46.000Z"
+      },
+      {
+        "id": "world-861bf1ab",
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+        "bullets": [
+          "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T04:30:08.000Z"
+      },
+      {
+        "id": "world-5c6f343a",
+        "title": "Student protesters attack government buildings in Albania",
+        "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+        "bullets": [
+          "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-14T20:29:05.000Z"
+      },
+      {
+        "id": "world-e696deac",
+        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+        "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+        "bullets": [
+          "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T02:26:07.000Z"
+      },
+      {
+        "id": "world-26d62452",
+        "title": "White House defends new press secretary amid questions about her legal credentials",
+        "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+        "bullets": [
+          "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T03:03:16.000Z"
+      },
+      {
+        "id": "world-a8989c20",
+        "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+        "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+        "bullets": [
+          "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-15T03:26:36.000Z"
       }
     ]
   }
