@@ -7772,72 +7772,111 @@
   },
   {
     "date": "2026-10-16",
-    "generatedAt": "2026-10-16T04:36:18.281Z",
+    "generatedAt": "2026-10-16T11:29:06.052Z",
     "articles": [
       {
-        "id": "top-6f6cfce8",
-        "title": "Three children and teacher killed in US primary school shooting",
-        "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+        "id": "top-dac78ef6",
+        "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
+        "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
         "bullets": [
-          "The suspect was shot dead by a community member who followed him into the Oregon school, police said."
+          "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T10:28:56.000Z"
+      },
+      {
+        "id": "top-6204dfd3",
+        "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+        "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
+        "bullets": [
+          "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-16T03:45:09.000Z"
+        "publishedAt": "2026-10-16T10:36:50.000Z"
       },
       {
-        "id": "top-1232cd83",
-        "title": "Same-day test helps doctors detect hidden infections in critically ill children",
-        "summary": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+        "id": "top-18f961c6",
+        "title": "Community 'heartbroken and horrified' after Oregon school shooting",
+        "summary": "A 16-year-old killed three children and a teacher at a primary school in Oregon before he was killed by a bystander, police say.",
         "bullets": [
-          "Metagenomics offers a new way of detecting infections in intensive care patients."
+          "A 16-year-old killed three children and a teacher at a primary school in Oregon before he was killed by a bystander, police say."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cjy56wl6l90ro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-16T00:34:45.000Z"
+        "publishedAt": "2026-10-16T09:24:19.000Z"
       },
       {
-        "id": "top-1b26fff1",
-        "title": "Banks say Healey is planning Budget tax raid on their profits",
-        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+        "id": "top-e6f211fe",
+        "title": "Norwegian teen 'hitman' detained for UK murder plot",
+        "summary": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
         "bullets": [
-          "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
+          "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T17:14:36.000Z"
+        "publishedAt": "2026-10-16T11:22:28.000Z"
       },
       {
-        "id": "top-f2d6080a",
-        "title": "Porn showing choking or incest to be banned from early November, government says",
-        "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+        "id": "top-6bdb1591",
+        "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+        "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
         "bullets": [
-          "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
+          "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T23:27:57.000Z"
+        "publishedAt": "2026-10-16T10:37:47.000Z"
       },
       {
-        "id": "top-fbbbf779",
-        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-        "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+        "id": "tech-26682d78",
+        "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+        "summary": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
         "bullets": [
-          "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said."
+          "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T22:37:21.000Z"
+        "publishedAt": "2026-10-16T11:00:53.000Z"
+      },
+      {
+        "id": "tech-3e1d99b6",
+        "title": "Blue Origin is going all in on the New Glenn rocket",
+        "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
+        "bullets": [
+          "The infrastructure is designed to support multiple flights per week by the end of the decade."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T10:00:54.000Z"
+      },
+      {
+        "id": "tech-47aef942",
+        "title": "Googlebook review: Android on a laptop is still Android",
+        "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+        "bullets": [
+          "Android laptops are here, but Google has a lot of work ahead to make them good."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T10:00:32.000Z"
       },
       {
         "id": "tech-f52c15b0",
@@ -7864,45 +7903,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-10-15T21:22:15.000Z"
-      },
-      {
-        "id": "tech-e860ed4b",
-        "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-        "summary": "Medical experts explicitly recommend against blanket screenings.",
-        "bullets": [
-          "Medical experts explicitly recommend against blanket screenings."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-15T21:09:57.000Z"
-      },
-      {
-        "id": "tech-bca7754e",
-        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-        "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-        "bullets": [
-          "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-15T20:32:41.000Z"
-      },
-      {
-        "id": "tech-38f2333b",
-        "title": "Above the 911? Porsche previews a new mid-engined supercar.",
-        "summary": "Porsche’s turnaround plan for 2035 involves less volume but more expensive cars.",
-        "bullets": [
-          "Porsche’s turnaround plan for 2035 involves less volume but more expensive cars."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-15T20:30:02.000Z"
       },
       {
         "id": "ai-f77c2660",
@@ -7970,17 +7970,17 @@
         "publishedAt": "2026-10-15T18:56:46.000Z"
       },
       {
-        "id": "world-6f6cfce8",
-        "title": "Three children and teacher killed in US primary school shooting",
-        "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+        "id": "world-6204dfd3",
+        "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+        "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
         "bullets": [
-          "The suspect was shot dead by a community member who followed him into the Oregon school, police said."
+          "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-16T03:45:09.000Z"
+        "publishedAt": "2026-10-16T10:36:50.000Z"
       },
       {
         "id": "world-71c22073",
@@ -7993,46 +7993,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-16T01:36:45.000Z"
+        "publishedAt": "2026-10-16T08:27:16.000Z"
       },
       {
-        "id": "world-ae110b51",
-        "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-        "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+        "id": "world-cd19aaf8",
+        "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+        "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
         "bullets": [
-          "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years."
+          "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T17:47:22.000Z"
+        "publishedAt": "2026-10-16T05:00:17.000Z"
       },
       {
-        "id": "world-3b080754",
-        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+        "id": "world-6bdb1591",
+        "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+        "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
         "bullets": [
-          "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
+          "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T16:50:18.000Z"
+        "publishedAt": "2026-10-16T10:37:47.000Z"
       },
       {
-        "id": "world-fbbbf779",
-        "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-        "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+        "id": "world-6eff4f19",
+        "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+        "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
         "bullets": [
-          "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said."
+          "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-15T22:37:21.000Z"
+        "publishedAt": "2026-10-16T08:45:54.000Z"
       }
     ]
   }
