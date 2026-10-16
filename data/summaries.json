@@ -7772,7 +7772,7 @@
   },
   {
     "date": "2026-10-16",
-    "generatedAt": "2026-10-16T21:13:57.855Z",
+    "generatedAt": "2026-10-16T23:39:09.712Z",
     "articles": [
       {
         "id": "top-4ebc201b",
@@ -7906,6 +7906,20 @@
         "publishedAt": "2026-10-16T15:41:00.000Z"
       },
       {
+        "id": "ai-6a594409",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "bullets": [
+          "Masad said the decision was made for a number of different reasons, including cost.",
+          "Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T21:22:28.000Z"
+      },
+      {
         "id": "ai-30c66410",
         "title": "India becomes the latest country to report rogue AI agent activity",
         "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
@@ -7958,19 +7972,6 @@
         "publishedAt": "2026-10-16T16:01:37.000Z"
       },
       {
-        "id": "ai-ed65e84a",
-        "title": "Jev is Vercel’s fastest-adopted AI model ever",
-        "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-        "bullets": [
-          "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T15:33:49.000Z"
-      },
-      {
         "id": "world-27988ace",
         "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
         "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
@@ -7982,6 +7983,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-16T16:00:30.000Z"
+      },
+      {
+        "id": "world-7a1a07fa",
+        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+        "bullets": [
+          "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T23:07:38.000Z"
       },
       {
         "id": "world-e69ac3b1",
@@ -7997,6 +8011,19 @@
         "publishedAt": "2026-10-16T14:31:04.000Z"
       },
       {
+        "id": "world-6533be86",
+        "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+        "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+        "bullets": [
+          "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T23:07:18.000Z"
+      },
+      {
         "id": "world-413470e2",
         "title": "Trump denies limiting Ukraine access to Starlink network",
         "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
@@ -8008,32 +8035,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-16T19:33:48.000Z"
-      },
-      {
-        "id": "world-9f89969d",
-        "title": "Pope pictured for first time since surgery and cancer diagnosis",
-        "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-        "bullets": [
-          "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T14:36:39.000Z"
-      },
-      {
-        "id": "world-36dc0d8c",
-        "title": "India's 'cockroach' party founder detained ahead of protest",
-        "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-        "bullets": [
-          "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T11:44:31.000Z"
       }
     ]
   }
