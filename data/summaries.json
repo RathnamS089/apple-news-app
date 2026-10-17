@@ -7774,21 +7774,8 @@
   },
   {
     "date": "2026-10-17",
-    "generatedAt": "2026-10-17T15:38:58.247Z",
+    "generatedAt": "2026-10-17T20:39:21.407Z",
     "articles": [
-      {
-        "id": "top-004c6c53",
-        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-        "summary": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
-        "bullets": [
-          "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T12:14:52.000Z"
-      },
       {
         "id": "top-fb2895b1",
         "title": "More NHS staff sacked over attacks victims' records",
@@ -7800,7 +7787,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T13:18:32.000Z"
+        "publishedAt": "2026-10-17T16:34:39.000Z"
+      },
+      {
+        "id": "top-fd11eee1",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "bullets": [
+          "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T18:38:57.000Z"
       },
       {
         "id": "top-f3898de1",
@@ -7816,6 +7816,19 @@
         "publishedAt": "2026-10-17T12:56:09.000Z"
       },
       {
+        "id": "top-85007987",
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "summary": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+        "bullets": [
+          "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T18:11:42.000Z"
+      },
+      {
         "id": "top-12829754",
         "title": "Pope discharged from hospital days after lung cancer surgery",
         "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
@@ -7827,19 +7840,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-10-17T13:51:36.000Z"
-      },
-      {
-        "id": "top-94fdc95f",
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-        "bullets": [
-          "The Australian government hopes to protect social media users from being served content they don't want to see."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T18:11:29.000Z"
       },
       {
         "id": "tech-9da9138d",
@@ -7908,18 +7908,31 @@
         "publishedAt": "2026-10-16T19:41:18.000Z"
       },
       {
-        "id": "ai-6a594409",
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "id": "ai-206a12dc",
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
         "bullets": [
-          "Masad said the decision was made for a number of different reasons, including cost.",
-          "Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+          "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-16T21:22:28.000Z"
+        "publishedAt": "2026-10-17T20:21:19.000Z"
+      },
+      {
+        "id": "ai-6a594409",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "bullets": [
+          "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
+          "Claude will still be available to customers on the platform."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T18:48:08.000Z"
       },
       {
         "id": "ai-30c66410",
@@ -7961,19 +7974,6 @@
         "publishedAt": "2026-10-16T16:30:00.000Z"
       },
       {
-        "id": "ai-90541bf9",
-        "title": "Elorian’s first AI model wants to reason with images, not just about them",
-        "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-        "bullets": [
-          "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:01:37.000Z"
-      },
-      {
         "id": "world-ecef1769",
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
@@ -7984,7 +7984,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T11:56:06.000Z"
+        "publishedAt": "2026-10-17T19:19:19.000Z"
       },
       {
         "id": "world-fe714aa4",
