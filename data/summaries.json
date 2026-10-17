@@ -7774,72 +7774,99 @@
   },
   {
     "date": "2026-10-17",
-    "generatedAt": "2026-10-17T10:49:04.653Z",
+    "generatedAt": "2026-10-17T15:38:58.247Z",
     "articles": [
       {
-        "id": "top-ecef1769",
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "id": "top-004c6c53",
+        "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+        "summary": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
         "bullets": [
-          "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+          "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T09:42:13.000Z"
+        "publishedAt": "2026-10-17T12:14:52.000Z"
       },
       {
-        "id": "top-7a1a07fa",
-        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+        "id": "top-fb2895b1",
+        "title": "More NHS staff sacked over attacks victims' records",
+        "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
         "bullets": [
-          "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+          "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T09:58:17.000Z"
+        "publishedAt": "2026-10-17T13:18:32.000Z"
       },
       {
-        "id": "top-5f794d22",
-        "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
-        "summary": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
+        "id": "top-f3898de1",
+        "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+        "summary": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
         "bullets": [
-          "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene."
+          "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T10:47:56.000Z"
+        "publishedAt": "2026-10-17T12:56:09.000Z"
       },
       {
-        "id": "top-7b3758cb",
-        "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
-        "summary": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+        "id": "top-12829754",
+        "title": "Pope discharged from hospital days after lung cancer surgery",
+        "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
         "bullets": [
-          "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections."
+          "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-16T21:02:18.000Z"
+        "publishedAt": "2026-10-17T13:51:36.000Z"
       },
       {
-        "id": "top-425d6db3",
-        "title": "Swinney insists 'stars are aligning' for Scottish independence",
-        "summary": "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\".",
+        "id": "top-94fdc95f",
+        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+        "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
         "bullets": [
-          "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\"."
+          "The Australian government hopes to protect social media users from being served content they don't want to see."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T08:17:18.000Z"
+        "publishedAt": "2026-10-16T18:11:29.000Z"
+      },
+      {
+        "id": "tech-9da9138d",
+        "title": "Science says your boss should talk less in meetings",
+        "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+        "bullets": [
+          "Research suggests listening more while talking less.",
+          "Killing aimless meetings can help, too."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T11:15:11.000Z"
+      },
+      {
+        "id": "tech-91bced72",
+        "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+        "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+        "bullets": [
+          "The single-player is just OK, but according to the players, that doesn't matter."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T11:00:21.000Z"
       },
       {
         "id": "tech-0dfd41f0",
@@ -7879,32 +7906,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-10-16T19:41:18.000Z"
-      },
-      {
-        "id": "tech-d495bff2",
-        "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-        "summary": "The bug is fixed, but privacy concerns remain.",
-        "bullets": [
-          "The bug is fixed, but privacy concerns remain."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T19:11:50.000Z"
-      },
-      {
-        "id": "tech-7a684644",
-        "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-        "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
-        "bullets": [
-          "FDA scientists said none of the popular drugs have been proven safe or effective."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T17:05:59.000Z"
       },
       {
         "id": "ai-6a594409",
@@ -7983,11 +7984,11 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T09:42:13.000Z"
+        "publishedAt": "2026-10-17T11:56:06.000Z"
       },
       {
-        "id": "world-7a1a07fa",
-        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "id": "world-fe714aa4",
+        "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
         "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
         "bullets": [
           "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
@@ -8012,19 +8013,6 @@
         "publishedAt": "2026-10-17T03:11:10.000Z"
       },
       {
-        "id": "world-27988ace",
-        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-        "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-        "bullets": [
-          "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:00:30.000Z"
-      },
-      {
         "id": "world-36b637df",
         "title": "Brazil sees record fall in Amazon deforestation as key election looms",
         "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
@@ -8036,6 +8024,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-17T02:33:09.000Z"
+      },
+      {
+        "id": "world-80545dc2",
+        "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+        "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+        "bullets": [
+          "She and five staff members were found to have used the inedible paint in meals to make them look more appealing."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T12:11:58.000Z"
       }
     ]
   }
