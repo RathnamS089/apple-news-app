@@ -7774,8 +7774,21 @@
   },
   {
     "date": "2026-10-17",
-    "generatedAt": "2026-10-17T04:32:34.123Z",
+    "generatedAt": "2026-10-17T10:49:04.653Z",
     "articles": [
+      {
+        "id": "top-ecef1769",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "bullets": [
+          "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T09:42:13.000Z"
+      },
       {
         "id": "top-7a1a07fa",
         "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
@@ -7787,33 +7800,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T01:19:04.000Z"
+        "publishedAt": "2026-10-17T09:58:17.000Z"
       },
       {
-        "id": "top-cc7f91e8",
-        "title": "Trump waives several Russia sanctions as new US law takes effect",
-        "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+        "id": "top-5f794d22",
+        "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+        "summary": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
         "bullets": [
-          "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests."
+          "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T02:48:36.000Z"
-      },
-      {
-        "id": "top-34bf62e7",
-        "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-        "summary": "It comes after the prime minister refused to say whether he backed expansion.",
-        "bullets": [
-          "It comes after the prime minister refused to say whether he backed expansion."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T03:57:16.000Z"
+        "publishedAt": "2026-10-17T10:47:56.000Z"
       },
       {
         "id": "top-7b3758cb",
@@ -7829,17 +7829,17 @@
         "publishedAt": "2026-10-16T21:02:18.000Z"
       },
       {
-        "id": "top-897746ca",
-        "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
-        "summary": "The White House says the new press secretary is \"transitioning out\" of the role just days after taking the job.",
+        "id": "top-425d6db3",
+        "title": "Swinney insists 'stars are aligning' for Scottish independence",
+        "summary": "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\".",
         "bullets": [
-          "The White House says the new press secretary is \"transitioning out\" of the role just days after taking the job."
+          "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-16T20:28:59.000Z"
+        "publishedAt": "2026-10-17T08:17:18.000Z"
       },
       {
         "id": "tech-0dfd41f0",
@@ -7973,17 +7973,17 @@
         "publishedAt": "2026-10-16T16:01:37.000Z"
       },
       {
-        "id": "world-36b637df",
-        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-        "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "id": "world-ecef1769",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
         "bullets": [
-          "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+          "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T02:33:09.000Z"
+        "publishedAt": "2026-10-17T09:42:13.000Z"
       },
       {
         "id": "world-7a1a07fa",
@@ -7996,20 +7996,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T01:19:04.000Z"
-      },
-      {
-        "id": "world-cc7f91e8",
-        "title": "Trump waives several Russia sanctions as new US law takes effect",
-        "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-        "bullets": [
-          "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T02:48:36.000Z"
+        "publishedAt": "2026-10-17T09:58:17.000Z"
       },
       {
         "id": "world-d362ffc1",
@@ -8036,6 +8023,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-16T16:00:30.000Z"
+      },
+      {
+        "id": "world-36b637df",
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "bullets": [
+          "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T02:33:09.000Z"
       }
     ]
   }
