@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-09-17",
-    "generatedAt": "2026-09-17T21:26:01.348Z",
-    "articles": [
-      {
-        "id": "top-65c5ac71",
-        "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
-        "summary": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
-        "bullets": [
-          "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T15:08:05.000Z"
-      },
-      {
-        "id": "top-0378099a",
-        "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
-        "summary": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
-        "bullets": [
-          "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T18:56:31.000Z"
-      },
-      {
-        "id": "top-f039eb20",
-        "title": "Interest rates held but Bank signals rise if energy prices stay high",
-        "summary": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
-        "bullets": [
-          "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T14:05:38.000Z"
-      },
-      {
-        "id": "top-91441749",
-        "title": "Father's tribute to 'sweetest little boy' Noah Woods",
-        "summary": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
-        "bullets": [
-          "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T14:54:53.000Z"
-      },
-      {
-        "id": "top-583dc7ae",
-        "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-        "summary": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
-        "bullets": [
-          "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T14:33:12.000Z"
-      },
-      {
-        "id": "tech-72b1ee24",
-        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-        "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-        "bullets": [
-          "Planned 2029 debut could make this Apple’s first enterprise server in decades."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T22:02:46.000Z"
-      },
-      {
-        "id": "tech-88e571ea",
-        "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-        "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
-        "bullets": [
-          "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T21:42:09.000Z"
-      },
-      {
-        "id": "tech-6dc928fc",
-        "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-        "summary": "Group plans to be largely out of commission for several weeks.",
-        "bullets": [
-          "Group plans to be largely out of commission for several weeks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T21:08:14.000Z"
-      },
-      {
-        "id": "tech-6eb0b366",
-        "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-        "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
-        "bullets": [
-          "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T20:44:41.000Z"
-      },
-      {
-        "id": "tech-9898e732",
-        "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-        "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
-        "bullets": [
-          "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-16T20:23:16.000Z"
-      },
-      {
-        "id": "ai-3b392234",
-        "title": "The fix for rogue AI agents could be more AI",
-        "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-        "bullets": [
-          "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T20:34:47.000Z"
-      },
-      {
-        "id": "ai-7ca1492b",
-        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-        "bullets": [
-          "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T20:34:24.000Z"
-      },
-      {
-        "id": "ai-6c9d95d2",
-        "title": "Is the AI safety debate about safety or control?",
-        "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-        "bullets": [
-          "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T20:19:37.000Z"
-      },
-      {
-        "id": "ai-f03a9c5b",
-        "title": "UN turns to Google to make its global data ready for AI agents",
-        "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-        "bullets": [
-          "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T20:00:00.000Z"
-      },
-      {
-        "id": "ai-32dcdb60",
-        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-        "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-        "bullets": [
-          "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T19:46:08.000Z"
-      },
-      {
-        "id": "world-3f45bfb5",
-        "title": "Canada welcomes EU proposal to become 'associate member'",
-        "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-        "bullets": [
-          "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T12:27:18.000Z"
-      },
-      {
-        "id": "world-be37cfd9",
-        "title": "Ninth woman's body found as South African police investigate string of deaths",
-        "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-        "bullets": [
-          "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T13:44:07.000Z"
-      },
-      {
-        "id": "world-3b0be0e9",
-        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-        "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-        "bullets": [
-          "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T20:34:30.000Z"
-      },
-      {
-        "id": "world-80edaac5",
-        "title": "Hyrox athlete apologises for continuing race after soiling herself",
-        "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
-        "bullets": [
-          "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T15:05:13.000Z"
-      },
-      {
-        "id": "world-2999ef9d",
-        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-        "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
-        "bullets": [
-          "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-17T20:44:53.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-18",
     "generatedAt": "2026-09-18T23:19:54.083Z",
     "articles": [
@@ -8035,6 +7769,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-16T19:33:48.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "generatedAt": "2026-10-17T04:32:34.123Z",
+    "articles": [
+      {
+        "id": "top-7a1a07fa",
+        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+        "bullets": [
+          "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T01:19:04.000Z"
+      },
+      {
+        "id": "top-cc7f91e8",
+        "title": "Trump waives several Russia sanctions as new US law takes effect",
+        "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+        "bullets": [
+          "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T02:48:36.000Z"
+      },
+      {
+        "id": "top-34bf62e7",
+        "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+        "summary": "It comes after the prime minister refused to say whether he backed expansion.",
+        "bullets": [
+          "It comes after the prime minister refused to say whether he backed expansion."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T03:57:16.000Z"
+      },
+      {
+        "id": "top-7b3758cb",
+        "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+        "summary": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+        "bullets": [
+          "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T21:02:18.000Z"
+      },
+      {
+        "id": "top-897746ca",
+        "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
+        "summary": "The White House says the new press secretary is \"transitioning out\" of the role just days after taking the job.",
+        "bullets": [
+          "The White House says the new press secretary is \"transitioning out\" of the role just days after taking the job."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T20:28:59.000Z"
+      },
+      {
+        "id": "tech-0dfd41f0",
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+        "bullets": [
+          "The actions could have resulted in criminal charges had humans been behind the keyboard."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T20:59:01.000Z"
+      },
+      {
+        "id": "tech-8bba61ef",
+        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+        "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+        "bullets": [
+          "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T20:20:07.000Z"
+      },
+      {
+        "id": "tech-ecaba8f7",
+        "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+        "summary": "There are still significant hurdles ahead, both technical and legislative.",
+        "bullets": [
+          "There are still significant hurdles ahead, both technical and legislative."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T19:41:18.000Z"
+      },
+      {
+        "id": "tech-d495bff2",
+        "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+        "summary": "The bug is fixed, but privacy concerns remain.",
+        "bullets": [
+          "The bug is fixed, but privacy concerns remain."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T19:11:50.000Z"
+      },
+      {
+        "id": "tech-7a684644",
+        "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+        "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+        "bullets": [
+          "FDA scientists said none of the popular drugs have been proven safe or effective."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T17:05:59.000Z"
+      },
+      {
+        "id": "ai-6a594409",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "bullets": [
+          "Masad said the decision was made for a number of different reasons, including cost.",
+          "Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T21:22:28.000Z"
+      },
+      {
+        "id": "ai-30c66410",
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+        "bullets": [
+          "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T17:52:24.000Z"
+      },
+      {
+        "id": "ai-bf52bff0",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
+        "bullets": [
+          "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T16:30:00.000Z"
+      },
+      {
+        "id": "ai-ec0a1064",
+        "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
+        "bullets": [
+          "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T16:30:00.000Z"
+      },
+      {
+        "id": "ai-90541bf9",
+        "title": "Elorian’s first AI model wants to reason with images, not just about them",
+        "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+        "bullets": [
+          "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T16:01:37.000Z"
+      },
+      {
+        "id": "world-36b637df",
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+        "bullets": [
+          "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T02:33:09.000Z"
+      },
+      {
+        "id": "world-7a1a07fa",
+        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+        "bullets": [
+          "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T01:19:04.000Z"
+      },
+      {
+        "id": "world-cc7f91e8",
+        "title": "Trump waives several Russia sanctions as new US law takes effect",
+        "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+        "bullets": [
+          "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T02:48:36.000Z"
+      },
+      {
+        "id": "world-d362ffc1",
+        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+        "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+        "bullets": [
+          "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T03:11:10.000Z"
+      },
+      {
+        "id": "world-27988ace",
+        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+        "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+        "bullets": [
+          "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T16:00:30.000Z"
       }
     ]
   }
