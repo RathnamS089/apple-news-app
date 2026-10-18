@@ -7775,7 +7775,7 @@
   },
   {
     "date": "2026-10-18",
-    "generatedAt": "2026-10-18T20:48:24.967Z",
+    "generatedAt": "2026-10-18T23:16:41.336Z",
     "articles": [
       {
         "id": "top-49c01a60",
@@ -7791,6 +7791,19 @@
         "publishedAt": "2026-10-18T20:33:21.000Z"
       },
       {
+        "id": "top-06bc1f77",
+        "title": "Major fire at Canada military base leaves four dead, dozens injured",
+        "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+        "bullets": [
+          "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T23:06:09.000Z"
+      },
+      {
         "id": "top-9ab11d73",
         "title": "What we know so far about deadly fire at Canadian military base",
         "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
@@ -7801,7 +7814,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-18T19:42:37.000Z"
+        "publishedAt": "2026-10-18T21:37:56.000Z"
       },
       {
         "id": "top-4d9d6ead",
@@ -7828,19 +7841,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-10-18T05:04:31.000Z"
-      },
-      {
-        "id": "top-d1eb200c",
-        "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-        "summary": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
-        "bullets": [
-          "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T05:30:16.000Z"
       },
       {
         "id": "tech-1d691230",
@@ -7976,19 +7976,6 @@
         "publishedAt": "2026-10-17T18:48:08.000Z"
       },
       {
-        "id": "world-e89ecfb6",
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-        "bullets": [
-          "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T12:07:31.000Z"
-      },
-      {
         "id": "world-49c01a60",
         "title": "Macron calls for 'calm and order' after riots across France",
         "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
@@ -8012,7 +7999,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-18T19:42:37.000Z"
+        "publishedAt": "2026-10-18T21:37:56.000Z"
+      },
+      {
+        "id": "world-7b6f4e9d",
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+        "bullets": [
+          "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T22:10:45.000Z"
+      },
+      {
+        "id": "world-fb7fb406",
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "bullets": [
+          "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T21:00:22.000Z"
       },
       {
         "id": "world-82623a4e",
@@ -8026,19 +8039,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-18T15:46:10.000Z"
-      },
-      {
-        "id": "world-571f9a3c",
-        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-        "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-        "bullets": [
-          "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T05:04:31.000Z"
       }
     ]
   }
