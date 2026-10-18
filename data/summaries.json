@@ -7775,20 +7775,33 @@
   },
   {
     "date": "2026-10-18",
-    "generatedAt": "2026-10-18T15:54:23.099Z",
+    "generatedAt": "2026-10-18T20:48:24.967Z",
     "articles": [
       {
-        "id": "top-e89ecfb6",
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "id": "top-49c01a60",
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
         "bullets": [
-          "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+          "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-18T12:07:31.000Z"
+        "publishedAt": "2026-10-18T20:33:21.000Z"
+      },
+      {
+        "id": "top-9ab11d73",
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "bullets": [
+          "At least four people are confirmed to have died after a huge fire swept through the base."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T19:42:37.000Z"
       },
       {
         "id": "top-4d9d6ead",
@@ -7802,19 +7815,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-10-18T14:57:19.000Z"
-      },
-      {
-        "id": "top-84c526b8",
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "summary": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-        "bullets": [
-          "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T12:09:04.000Z"
       },
       {
         "id": "top-571f9a3c",
@@ -7841,6 +7841,19 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-10-18T05:30:16.000Z"
+      },
+      {
+        "id": "tech-1d691230",
+        "title": "Anthropic gives outside AI watchdog “employee-like” access",
+        "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+        "bullets": [
+          "The outside watchdog can publish its findings without Anthropic's approval."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T16:25:19.000Z"
       },
       {
         "id": "tech-9da9138d",
@@ -7896,17 +7909,31 @@
         "publishedAt": "2026-10-16T20:20:07.000Z"
       },
       {
-        "id": "tech-ecaba8f7",
-        "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-        "summary": "There are still significant hurdles ahead, both technical and legislative.",
+        "id": "ai-1dd5c11f",
+        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
         "bullets": [
-          "There are still significant hurdles ahead, both technical and legislative."
+          "Anthropic said that it will commit 5% of its shares to the fund."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-16T19:41:18.000Z"
+        "publishedAt": "2026-10-18T20:37:40.000Z"
+      },
+      {
+        "id": "ai-91e24908",
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+        "bullets": [
+          "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them.",
+          "However, this is a stalking horse bid, so another company could come forward with a higher offer."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T16:30:00.000Z"
       },
       {
         "id": "ai-f2dae098",
@@ -7949,32 +7976,6 @@
         "publishedAt": "2026-10-17T18:48:08.000Z"
       },
       {
-        "id": "ai-30c66410",
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-        "bullets": [
-          "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T17:52:24.000Z"
-      },
-      {
-        "id": "ai-bf52bff0",
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
-        "bullets": [
-          "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:30:00.000Z"
-      },
-      {
         "id": "world-e89ecfb6",
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
@@ -7986,6 +7987,32 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-18T12:07:31.000Z"
+      },
+      {
+        "id": "world-49c01a60",
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "bullets": [
+          "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T20:33:21.000Z"
+      },
+      {
+        "id": "world-9ab11d73",
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "bullets": [
+          "At least four people are confirmed to have died after a huge fire swept through the base."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T19:42:37.000Z"
       },
       {
         "id": "world-82623a4e",
@@ -8012,32 +8039,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-18T05:04:31.000Z"
-      },
-      {
-        "id": "world-fd11eee1",
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-        "bullets": [
-          "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T12:16:14.000Z"
-      },
-      {
-        "id": "world-ecef1769",
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "bullets": [
-          "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T01:10:25.000Z"
       }
     ]
   }
