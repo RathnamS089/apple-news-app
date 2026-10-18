@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-09-18",
-    "generatedAt": "2026-09-18T23:19:54.083Z",
-    "articles": [
-      {
-        "id": "top-52d01643",
-        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
-        "bullets": [
-          "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T22:58:55.000Z"
-      },
-      {
-        "id": "top-f74a41ef",
-        "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-        "summary": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
-        "bullets": [
-          "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T15:59:59.000Z"
-      },
-      {
-        "id": "top-4ab00144",
-        "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
-        "summary": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
-        "bullets": [
-          "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T12:30:16.000Z"
-      },
-      {
-        "id": "top-23658794",
-        "title": "Flight chaos caused by software defect in space of a millisecond, report says",
-        "summary": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-        "bullets": [
-          "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T15:48:58.000Z"
-      },
-      {
-        "id": "top-0ad713af",
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-        "bullets": [
-          "The US president has had a tense and fiery relationship with the US media throughout his political career."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T23:06:59.000Z"
-      },
-      {
-        "id": "tech-39f70c0c",
-        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-        "summary": "But the military's overall use of AI seems to be accelerating.",
-        "bullets": [
-          "But the military's overall use of AI seems to be accelerating."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T20:26:33.000Z"
-      },
-      {
-        "id": "tech-7ac8c3ef",
-        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-        "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-        "bullets": [
-          "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T19:20:50.000Z"
-      },
-      {
-        "id": "tech-3e7ca57d",
-        "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
-        "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
-        "bullets": [
-          "FCC rejects concerns about repressive governments buying influence over CBS owner."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T17:57:41.000Z"
-      },
-      {
-        "id": "tech-f800787e",
-        "title": "Finding the cells that put our brain to sleep",
-        "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
-        "bullets": [
-          "Rare cells with widespread connectivity seem to be able to trigger sleep."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T17:49:50.000Z"
-      },
-      {
-        "id": "tech-700f6a23",
-        "title": "US government website used Chinese model the FBI called \"malicious\"",
-        "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
-        "bullets": [
-          "The Federal Register website briefly used an open source Chinese AI search tool."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T17:28:50.000Z"
-      },
-      {
-        "id": "ai-9045e073",
-        "title": "Anthropic is operating a lab that conducts biology experiments",
-        "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-        "bullets": [
-          "AI leaders have been promising that AI is the key to curing human disease.",
-          "Anthropic researchers have also been warning that AI might kill us all."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T23:13:31.000Z"
-      },
-      {
-        "id": "ai-fc8e841f",
-        "title": "AI Hallucination Nearly Triggers US Military Operation",
-        "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-        "bullets": [
-          "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T23:12:32.000Z"
-      },
-      {
-        "id": "ai-01113bb5",
-        "title": "Anthropic’s first embedded evaluator is … Accenture?",
-        "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-        "bullets": [
-          "Accenture is about to take on its most high-risk consulting engagement ever."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T21:44:33.000Z"
-      },
-      {
-        "id": "ai-165b10f9",
-        "title": "World model companies are keeping a lot of secrets",
-        "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-        "bullets": [
-          "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T20:18:14.000Z"
-      },
-      {
-        "id": "ai-f1d78db5",
-        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-        "bullets": [
-          "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T18:49:30.000Z"
-      },
-      {
-        "id": "world-52d01643",
-        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
-        "bullets": [
-          "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T22:58:55.000Z"
-      },
-      {
-        "id": "world-97d436ea",
-        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-        "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-        "bullets": [
-          "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T18:04:38.000Z"
-      },
-      {
-        "id": "world-0ad713af",
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-        "bullets": [
-          "The US president has had a tense and fiery relationship with the US media throughout his political career."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T23:06:59.000Z"
-      },
-      {
-        "id": "world-d62ee8c7",
-        "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-        "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
-        "bullets": [
-          "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T18:56:17.000Z"
-      },
-      {
-        "id": "world-bb7a1fee",
-        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-        "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-        "bullets": [
-          "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-18T20:17:50.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-19",
     "generatedAt": "2026-09-19T23:09:37.274Z",
     "articles": [
@@ -8037,6 +7770,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-17T19:19:16.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "generatedAt": "2026-10-18T04:38:42.919Z",
+    "articles": [
+      {
+        "id": "top-eb092d41",
+        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+        "bullets": [
+          "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T20:52:17.000Z"
+      },
+      {
+        "id": "top-a6b2a18f",
+        "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+        "summary": "An historic town hall in the southern French city of Limoges was set ablaze during national protests.",
+        "bullets": [
+          "An historic town hall in the southern French city of Limoges was set ablaze during national protests."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T00:49:42.000Z"
+      },
+      {
+        "id": "top-fb2895b1",
+        "title": "More NHS staff sacked over attacks victims' records",
+        "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+        "bullets": [
+          "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T16:34:39.000Z"
+      },
+      {
+        "id": "top-fd11eee1",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "bullets": [
+          "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T23:52:38.000Z"
+      },
+      {
+        "id": "top-f03a6636",
+        "title": "Anti-government protesters battle with police in Albania",
+        "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "bullets": [
+          "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T20:53:00.000Z"
+      },
+      {
+        "id": "tech-9da9138d",
+        "title": "Science says your boss should talk less in meetings",
+        "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+        "bullets": [
+          "Research suggests listening more while talking less.",
+          "Killing aimless meetings can help, too."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T11:15:11.000Z"
+      },
+      {
+        "id": "tech-91bced72",
+        "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+        "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+        "bullets": [
+          "The single-player is just OK, but according to the players, that doesn't matter."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T11:00:21.000Z"
+      },
+      {
+        "id": "tech-0dfd41f0",
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+        "bullets": [
+          "The actions could have resulted in criminal charges had humans been behind the keyboard."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T20:59:01.000Z"
+      },
+      {
+        "id": "tech-8bba61ef",
+        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+        "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+        "bullets": [
+          "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T20:20:07.000Z"
+      },
+      {
+        "id": "tech-ecaba8f7",
+        "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+        "summary": "There are still significant hurdles ahead, both technical and legislative.",
+        "bullets": [
+          "There are still significant hurdles ahead, both technical and legislative."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T19:41:18.000Z"
+      },
+      {
+        "id": "ai-f2dae098",
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "bullets": [
+          "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T21:31:32.000Z"
+      },
+      {
+        "id": "ai-206a12dc",
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+        "bullets": [
+          "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T20:21:19.000Z"
+      },
+      {
+        "id": "ai-3487b0a6",
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "bullets": [
+          "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
+          "Claude will still be available to customers on the platform."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T18:48:08.000Z"
+      },
+      {
+        "id": "ai-30c66410",
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+        "bullets": [
+          "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T17:52:24.000Z"
+      },
+      {
+        "id": "ai-bf52bff0",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
+        "bullets": [
+          "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-16T16:30:00.000Z"
+      },
+      {
+        "id": "world-eb092d41",
+        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+        "bullets": [
+          "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T20:52:17.000Z"
+      },
+      {
+        "id": "world-fd11eee1",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "bullets": [
+          "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T23:52:38.000Z"
+      },
+      {
+        "id": "world-40d86276",
+        "title": "Deadly fire breaks out at Canada military base",
+        "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+        "bullets": [
+          "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T04:00:50.000Z"
+      },
+      {
+        "id": "world-ecef1769",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "bullets": [
+          "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-18T01:10:25.000Z"
+      },
+      {
+        "id": "world-f03a6636",
+        "title": "Anti-government protesters battle with police in Albania",
+        "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "bullets": [
+          "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-17T20:53:00.000Z"
       }
     ]
   }
