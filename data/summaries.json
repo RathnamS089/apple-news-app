@@ -7778,20 +7778,33 @@
   },
   {
     "date": "2026-10-19",
-    "generatedAt": "2026-10-19T13:23:50.514Z",
+    "generatedAt": "2026-10-19T20:36:26.750Z",
     "articles": [
       {
-        "id": "top-332c94da",
-        "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
-        "summary": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+        "id": "top-1505373c",
+        "title": "Watch: Are the French riots a warning of an intense election to come?",
+        "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
         "bullets": [
-          "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays."
+          "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-19T04:59:47.000Z"
+        "publishedAt": "2026-10-19T13:43:27.000Z"
+      },
+      {
+        "id": "top-cdc6e7c9",
+        "title": "Australian MP critically injured after being hit by car in apparent attack",
+        "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+        "bullets": [
+          "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T14:09:54.000Z"
       },
       {
         "id": "top-ed89101a",
@@ -7804,179 +7817,219 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-19T13:01:50.000Z"
+        "publishedAt": "2026-10-19T18:22:06.000Z"
       },
       {
-        "id": "top-72374c77",
-        "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-        "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+        "id": "top-56afd315",
+        "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+        "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
         "bullets": [
-          "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war."
+          "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
+          "The White House said there had been no changes to intelligence sharing."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-19T00:06:25.000Z"
+        "publishedAt": "2026-10-19T20:13:27.000Z"
       },
       {
-        "id": "top-269e3c48",
-        "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
-        "summary": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
+        "id": "top-7d14dd17",
+        "title": "Mission blasts off for Mars to grab a piece of its moon",
+        "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
         "bullets": [
-          "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil."
+          "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-19T00:28:44.000Z"
+        "publishedAt": "2026-10-19T19:45:46.000Z"
       },
       {
-        "id": "top-26cd44aa",
-        "title": "Four arrested after police officer injured in shooting",
-        "summary": "The officer was shot in the foot and remains in hospital in a stable condition, police say.",
+        "id": "tech-4654675a",
+        "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+        "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
         "bullets": [
-          "The officer was shot in the foot and remains in hospital in a stable condition, police say."
+          "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T19:27:24.000Z"
+      },
+      {
+        "id": "tech-8493c033",
+        "title": "ReactOS reaches major milestone with NTFS install support",
+        "summary": "ReactOS gains NTFS install support with new driver.",
+        "bullets": [
+          "ReactOS gains NTFS install support with new driver."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T18:30:56.000Z"
+      },
+      {
+        "id": "tech-488712d9",
+        "title": "AI game clones are making indie developers afraid to show their work",
+        "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+        "bullets": [
+          "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T16:59:22.000Z"
+      },
+      {
+        "id": "tech-4f738b2f",
+        "title": "Florida DMV hacked after police dept insecurely stored login info",
+        "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+        "bullets": [
+          "Florida issues alerts after statewide DMV data breach linked to ShinyHunters."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T16:38:13.000Z"
+      },
+      {
+        "id": "tech-14d3ebf9",
+        "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+        "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+        "bullets": [
+          "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T14:45:43.000Z"
+      },
+      {
+        "id": "ai-67489b6f",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+        "bullets": [
+          "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T20:09:24.000Z"
+      },
+      {
+        "id": "ai-51412f89",
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+        "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look...",
+        "bullets": [
+          "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor.",
+          "But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T19:28:34.000Z"
+      },
+      {
+        "id": "ai-5ce7f1c2",
+        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+        "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+        "bullets": [
+          "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T19:00:12.000Z"
+      },
+      {
+        "id": "ai-e95a6f1f",
+        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+        "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+        "bullets": [
+          "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago.",
+          "Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T18:49:04.000Z"
+      },
+      {
+        "id": "ai-8960c94e",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+        "bullets": [
+          "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-19T18:37:27.000Z"
+      },
+      {
+        "id": "world-cdc6e7c9",
+        "title": "Australian MP critically injured after being hit by car in apparent attack",
+        "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+        "bullets": [
+          "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-19T10:52:25.000Z"
+        "publishedAt": "2026-10-19T14:09:54.000Z"
       },
       {
-        "id": "tech-094d8244",
-        "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-        "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
+        "id": "world-56afd315",
+        "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+        "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
         "bullets": [
-          "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters."
+          "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
+          "The White House said there had been no changes to intelligence sharing."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
-        "category": "tech",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-19T11:05:49.000Z"
+        "publishedAt": "2026-10-19T20:13:27.000Z"
       },
       {
-        "id": "tech-1d691230",
-        "title": "Anthropic gives outside AI watchdog “employee-like” access",
-        "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+        "id": "world-a71c4727",
+        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+        "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
         "bullets": [
-          "The outside watchdog can publish its findings without Anthropic's approval."
+          "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-        "category": "tech",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-18T16:25:19.000Z"
+        "publishedAt": "2026-10-19T17:18:04.000Z"
       },
       {
-        "id": "tech-9da9138d",
-        "title": "Science says your boss should talk less in meetings",
-        "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+        "id": "world-10466e10",
+        "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+        "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
         "bullets": [
-          "Research suggests listening more while talking less.",
-          "Killing aimless meetings can help, too."
+          "The Saudi government did not immediately respond to BBC requests for comment."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-        "category": "tech",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-17T11:15:11.000Z"
-      },
-      {
-        "id": "tech-91bced72",
-        "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-        "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
-        "bullets": [
-          "The single-player is just OK, but according to the players, that doesn't matter."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T11:00:21.000Z"
-      },
-      {
-        "id": "tech-0dfd41f0",
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-        "bullets": [
-          "The actions could have resulted in criminal charges had humans been behind the keyboard."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T20:59:01.000Z"
-      },
-      {
-        "id": "ai-1dd5c11f",
-        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-        "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-        "bullets": [
-          "Anthropic said that it will commit 5% of its shares to the fund."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T20:37:40.000Z"
-      },
-      {
-        "id": "ai-91e24908",
-        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-        "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-        "bullets": [
-          "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them.",
-          "However, this is a stalking horse bid, so another company could come forward with a higher offer."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T16:30:00.000Z"
-      },
-      {
-        "id": "ai-f2dae098",
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-        "bullets": [
-          "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T21:31:32.000Z"
-      },
-      {
-        "id": "ai-206a12dc",
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-        "bullets": [
-          "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T20:21:19.000Z"
-      },
-      {
-        "id": "ai-3487b0a6",
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-        "bullets": [
-          "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
-          "Claude will still be available to customers on the platform."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T18:48:08.000Z"
+        "publishedAt": "2026-10-19T16:22:12.000Z"
       },
       {
         "id": "world-24937421",
@@ -7989,59 +8042,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-19T09:24:33.000Z"
-      },
-      {
-        "id": "world-0dc2490c",
-        "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-        "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
-        "bullets": [
-          "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T10:33:12.000Z"
-      },
-      {
-        "id": "world-04490877",
-        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-        "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-        "bullets": [
-          "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T06:00:18.000Z"
-      },
-      {
-        "id": "world-7b6f4e9d",
-        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-        "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-        "bullets": [
-          "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T23:20:15.000Z"
-      },
-      {
-        "id": "world-b9948cb3",
-        "title": "Personal attacks fire up debate before Brazil's run-off vote",
-        "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-        "bullets": [
-          "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T11:41:24.000Z"
+        "publishedAt": "2026-10-19T13:44:57.000Z"
       }
     ]
   }
