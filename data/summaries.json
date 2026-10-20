@@ -7779,27 +7779,53 @@
   },
   {
     "date": "2026-10-20",
-    "generatedAt": "2026-10-20T14:20:07.898Z",
+    "generatedAt": "2026-10-20T19:18:56.024Z",
     "articles": [
       {
-        "id": "top-e7fa58e6",
-        "title": "Key takeaways from Covid report on care homes",
-        "summary": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
+        "id": "top-1554002a",
+        "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+        "summary": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
         "bullets": [
-          "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report."
+          "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T12:16:38.000Z"
+        "publishedAt": "2026-10-20T18:32:14.000Z"
+      },
+      {
+        "id": "top-05f35a90",
+        "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+        "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+        "bullets": [
+          "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-20T15:32:36.000Z"
+      },
+      {
+        "id": "top-9b2e6e04",
+        "title": "Google resolves cloud outage affecting UK banks and websites",
+        "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+        "bullets": [
+          "Revolut was one of the hardest hit, with banking services going down for many customers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-20T18:03:19.000Z"
       },
       {
         "id": "top-b2f20c81",
         "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-        "summary": "The closurse are announced as the corporation continues to try to save £500m over two years.",
+        "summary": "The closures are announced as the corporation continues to try to save £500m over two years.",
         "bullets": [
-          "The closurse are announced as the corporation continues to try to save £500m over two years."
+          "The closures are announced as the corporation continues to try to save £500m over two years."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
@@ -7808,50 +7834,37 @@
         "publishedAt": "2026-10-20T13:10:43.000Z"
       },
       {
-        "id": "top-92a92166",
-        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-        "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+        "id": "top-4dcee1f9",
+        "title": "Harry says he wants to 'reconcile' with his family",
+        "summary": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
         "bullets": [
-          "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
+          "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T11:45:49.000Z"
+        "publishedAt": "2026-10-20T15:49:54.000Z"
       },
       {
-        "id": "top-a7cf294d",
-        "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-        "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+        "id": "tech-4f204ea2",
+        "title": "Polestar tries to quantify what it’s like to drive a performance car",
+        "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
         "bullets": [
-          "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
+          "Drivers had electrodes strapped to their heads as they tested EVs on track."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T11:25:35.000Z"
-      },
-      {
-        "id": "top-2fc44bba",
-        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-        "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
-        "bullets": [
-          "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-20T13:54:35.000Z"
+        "publishedAt": "2026-10-20T14:53:07.000Z"
       },
       {
         "id": "tech-ba9c6357",
         "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-        "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+        "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
         "bullets": [
-          "A single query is all that's required to find thousands of conversations listed by title."
+          "Meta is suspending the sharing feature while it investigates its privacy."
         ],
         "source": "Ars Technica - All content",
         "sourceUrl": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
@@ -7900,95 +7913,71 @@
         "publishedAt": "2026-10-19T22:44:26.000Z"
       },
       {
-        "id": "tech-2fe8e2d2",
-        "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-        "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+        "id": "ai-a117aa7e",
+        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+        "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
         "bullets": [
-          "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T20:54:17.000Z"
-      },
-      {
-        "id": "ai-63975654",
-        "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-        "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
-        "bullets": [
-          "Figma said it plans to support as many standards as possible without exposing all of its data"
+          "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+        "sourceUrl": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T14:13:32.000Z"
+        "publishedAt": "2026-10-20T18:38:24.000Z"
       },
       {
-        "id": "ai-daa7f277",
-        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-        "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+        "id": "ai-a6c1f406",
+        "title": "ChatGPT now lets you lock your chats",
+        "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in...",
         "bullets": [
-          "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national..."
+          "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+        "sourceUrl": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T13:07:24.000Z"
+        "publishedAt": "2026-10-20T18:36:53.000Z"
       },
       {
-        "id": "ai-56c16899",
-        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-        "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+        "id": "ai-133cf0ef",
+        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+        "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
         "bullets": [
-          "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is..."
+          "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+        "sourceUrl": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T13:00:00.000Z"
+        "publishedAt": "2026-10-20T17:55:12.000Z"
       },
       {
-        "id": "ai-7abc2e9a",
-        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-        "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend....",
+        "id": "ai-88525ec5",
+        "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+        "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
         "bullets": [
-          "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation."
+          "Meta's AI companion Muse has surpassed 10 million U.S.",
+          "downloads in its first 40 days, joining an exclusive group of apps that includes Threads.",
+          "New data also shows Muse is retaining users at higher rates than its AI rivals."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+        "sourceUrl": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T11:00:00.000Z"
+        "publishedAt": "2026-10-20T17:12:48.000Z"
       },
       {
-        "id": "ai-5bca3bb0",
-        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-        "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+        "id": "ai-87c0feb7",
+        "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+        "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
         "bullets": [
-          "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized..."
+          "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+        "sourceUrl": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T11:00:00.000Z"
-      },
-      {
-        "id": "world-02802474",
-        "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
-        "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
-        "bullets": [
-          "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-20T13:51:40.000Z"
+        "publishedAt": "2026-10-20T16:00:00.000Z"
       },
       {
         "id": "world-764e133c",
@@ -8017,6 +8006,32 @@
         "publishedAt": "2026-10-20T11:25:35.000Z"
       },
       {
+        "id": "world-d75e0ff3",
+        "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+        "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+        "bullets": [
+          "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-20T17:30:15.000Z"
+      },
+      {
+        "id": "world-d017f920",
+        "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+        "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
+        "bullets": [
+          "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-20T16:59:06.000Z"
+      },
+      {
         "id": "world-92a92166",
         "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
         "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
@@ -8028,19 +8043,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-20T11:45:49.000Z"
-      },
-      {
-        "id": "world-2662cd72",
-        "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-        "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-        "bullets": [
-          "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-20T13:23:32.000Z"
       }
     ]
   }
