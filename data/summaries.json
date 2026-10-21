@@ -7774,7 +7774,7 @@
   },
   {
     "date": "2026-10-21",
-    "generatedAt": "2026-10-21T17:15:40.226Z",
+    "generatedAt": "2026-10-21T21:45:44.950Z",
     "articles": [
       {
         "id": "top-9ce165e1",
@@ -7790,121 +7790,175 @@
         "publishedAt": "2026-10-21T15:36:31.000Z"
       },
       {
-        "id": "top-a86c04e3",
-        "title": "Google staff resign in backlash over its AI contracts with military",
-        "summary": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+        "id": "top-ccb9317c",
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
         "bullets": [
-          "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield."
+          "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T15:41:25.000Z"
+        "publishedAt": "2026-10-21T19:54:57.000Z"
       },
       {
-        "id": "top-27defe44",
-        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-        "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+        "id": "top-08cb14e4",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "bullets": [
-          "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T14:26:24.000Z"
-      },
-      {
-        "id": "top-e3d92d55",
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-        "bullets": [
-          "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
+          "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T16:38:06.000Z"
+        "publishedAt": "2026-10-21T21:27:41.000Z"
       },
       {
-        "id": "top-65ac68dd",
-        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-        "summary": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
+        "id": "top-c4dd2221",
+        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
         "bullets": [
-          "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966."
+          "Russia's President Putin does not feel under pressure right now to end the war."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T15:56:03.000Z"
+        "publishedAt": "2026-10-21T19:58:06.000Z"
       },
       {
-        "id": "tech-e0be1bf2",
-        "title": "PHP warns it plans to release 2 emergency patches imminently",
-        "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+        "id": "top-d6da308f",
+        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+        "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
         "bullets": [
-          "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+          "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-        "category": "tech",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T02:12:18.000Z"
+        "publishedAt": "2026-10-21T18:10:42.000Z"
       },
       {
-        "id": "tech-560c8cde",
-        "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-        "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+        "id": "tech-be3ad2f2",
+        "title": "The new human-crafted Apple Music brand matters in an AI world",
+        "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
         "bullets": [
-          "\"I do think there's a lot of merit to combining the companies.\""
+          "Opinion: In a world of AI slop, showing the human hands making things helps."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T22:04:54.000Z"
+        "publishedAt": "2026-10-21T19:44:40.000Z"
       },
       {
-        "id": "tech-07d9524c",
-        "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-        "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+        "id": "tech-a8044888",
+        "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+        "summary": "Next Mass Effect project canceled as parent company lays off 400.",
         "bullets": [
-          "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation."
+          "Next Mass Effect project canceled as parent company lays off 400."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T21:44:34.000Z"
+        "publishedAt": "2026-10-21T19:12:16.000Z"
       },
       {
-        "id": "tech-3644343f",
-        "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-        "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+        "id": "tech-623b7f4c",
+        "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+        "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
         "bullets": [
-          "Xbox maker is also apparently planning its own gaming handheld for next year."
+          "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+        "sourceUrl": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T21:14:33.000Z"
+        "publishedAt": "2026-10-21T18:51:42.000Z"
       },
       {
-        "id": "tech-0d1e07fb",
-        "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-        "summary": "A lifetime ad-free subscription is available.",
+        "id": "tech-cc3acd4d",
+        "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+        "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
         "bullets": [
-          "A lifetime ad-free subscription is available."
+          "Musk and Trump both denied ordering Starlink slowdown.",
+          "WSJ reports it was Musk."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-20T20:20:12.000Z"
+        "publishedAt": "2026-10-21T18:35:38.000Z"
+      },
+      {
+        "id": "tech-4ab13999",
+        "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+        "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+        "bullets": [
+          "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T18:20:40.000Z"
+      },
+      {
+        "id": "ai-20062945",
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+        "bullets": [
+          "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T21:16:20.000Z"
+      },
+      {
+        "id": "ai-b71da0c2",
+        "title": "Meta says Muse has over 10M users, with shopping a top activity",
+        "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+        "bullets": [
+          "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings.",
+          "The AI app now has over 10M users."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T21:14:19.000Z"
+      },
+      {
+        "id": "ai-5e6845c2",
+        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+        "bullets": [
+          "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T20:27:41.000Z"
+      },
+      {
+        "id": "ai-2c5e9558",
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+        "bullets": [
+          "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T19:30:00.000Z"
       },
       {
         "id": "ai-24abf82e",
@@ -7920,70 +7974,30 @@
         "publishedAt": "2026-10-21T14:00:00.000Z"
       },
       {
-        "id": "ai-8b1de91b",
-        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-        "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+        "id": "world-08cb14e4",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "bullets": [
-          "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-20T23:01:23.000Z"
-      },
-      {
-        "id": "ai-e09a0703",
-        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-        "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-        "bullets": [
-          "Before you share the Netflix documentary \"AI Gone Rogue,\" take note.",
-          "Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-20T22:24:02.000Z"
-      },
-      {
-        "id": "ai-1a9cee15",
-        "title": "Anthropic’s cloud partnerships are getting messy",
-        "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-        "bullets": [
-          "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-20T21:25:22.000Z"
-      },
-      {
-        "id": "ai-b3dec79c",
-        "title": "SpaceX’s AI business is beating expectations",
-        "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-        "bullets": [
-          "SpaceX hit profitability in the third quarter, with net income of $4.4 billion."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-20T20:40:41.000Z"
-      },
-      {
-        "id": "world-e3d92d55",
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-        "bullets": [
-          "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
+          "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the..."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T16:38:06.000Z"
+        "publishedAt": "2026-10-21T21:27:41.000Z"
+      },
+      {
+        "id": "world-c4dd2221",
+        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+        "bullets": [
+          "Russia's President Putin does not feel under pressure right now to end the war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T19:58:06.000Z"
       },
       {
         "id": "world-1b245636",
@@ -7999,43 +8013,30 @@
         "publishedAt": "2026-10-21T14:04:28.000Z"
       },
       {
-        "id": "world-29646d74",
-        "title": "Australian MP loses both legs after alleged car attack, husband says",
-        "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+        "id": "world-5ed927f1",
+        "title": "Pope does not need further treatment after lung cancer surgery",
+        "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
         "bullets": [
-          "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
+          "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T07:56:30.000Z"
+        "publishedAt": "2026-10-21T20:09:10.000Z"
       },
       {
-        "id": "world-56a60f4f",
-        "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-        "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+        "id": "world-d6da308f",
+        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+        "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
         "bullets": [
-          "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+          "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T08:42:49.000Z"
-      },
-      {
-        "id": "world-261a91b4",
-        "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-        "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
-        "bullets": [
-          "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T05:46:33.000Z"
+        "publishedAt": "2026-10-21T18:10:42.000Z"
       }
     ]
   }
