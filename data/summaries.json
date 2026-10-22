@@ -7775,20 +7775,33 @@
   },
   {
     "date": "2026-10-22",
-    "generatedAt": "2026-10-22T17:13:58.807Z",
+    "generatedAt": "2026-10-22T21:39:51.144Z",
     "articles": [
       {
         "id": "top-06e3ef0b",
         "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
-        "summary": "The defence secretary warned the public and businesses needed to think about how they would cope with natural disasters and cyber attacks.",
+        "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
         "bullets": [
-          "The defence secretary warned the public and businesses needed to think about how they would cope with natural disasters and cyber attacks."
+          "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T16:40:38.000Z"
+        "publishedAt": "2026-10-22T21:29:44.000Z"
+      },
+      {
+        "id": "top-9dfd9e6e",
+        "title": "Race to update services' computer systems after cyber-security flaw found",
+        "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+        "bullets": [
+          "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T17:12:51.000Z"
       },
       {
         "id": "top-a2c462f1",
@@ -7814,7 +7827,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T17:02:33.000Z"
+        "publishedAt": "2026-10-22T17:14:04.000Z"
       },
       {
         "id": "top-7667fbda",
@@ -7830,82 +7843,123 @@
         "publishedAt": "2026-10-22T16:45:09.000Z"
       },
       {
-        "id": "top-6e816929",
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+        "id": "tech-6a02bbba",
+        "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+        "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
         "bullets": [
-          "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T15:56:36.000Z"
-      },
-      {
-        "id": "tech-f7018d3a",
-        "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
-        "summary": "General Motors' plans will require quite a lot of customers' trust.",
-        "bullets": [
-          "General Motors' plans will require quite a lot of customers' trust."
+          "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T13:04:32.000Z"
+        "publishedAt": "2026-10-22T20:17:52.000Z"
       },
       {
-        "id": "tech-2314fabd",
-        "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-        "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+        "id": "tech-c95b4b95",
+        "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+        "summary": "We can't have nice things, but at least we can get trailers for them.",
         "bullets": [
-          "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data."
+          "We can't have nice things, but at least we can get trailers for them."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T11:30:33.000Z"
+        "publishedAt": "2026-10-22T19:59:37.000Z"
       },
       {
-        "id": "tech-da0364f9",
-        "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
-        "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+        "id": "tech-21543e6e",
+        "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+        "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
         "bullets": [
-          "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal."
+          "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T11:15:36.000Z"
+        "publishedAt": "2026-10-22T19:34:40.000Z"
       },
       {
-        "id": "tech-58df7578",
-        "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-        "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+        "id": "tech-38ca1495",
+        "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
+        "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
         "bullets": [
-          "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship."
+          "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T22:17:50.000Z"
+        "publishedAt": "2026-10-22T19:04:06.000Z"
       },
       {
-        "id": "tech-93d6d5ec",
-        "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-        "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+        "id": "tech-1901c5fd",
+        "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
+        "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get.",
         "bullets": [
-          "Time-based a la carte charges come on top of the purchase price for the games themselves."
+          "460 kW charging and 450 miles of range are among the reasons the EV is the one to get."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+        "sourceUrl": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T22:06:07.000Z"
+        "publishedAt": "2026-10-22T19:01:23.000Z"
+      },
+      {
+        "id": "ai-4e009f9e",
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+        "bullets": [
+          "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T19:07:09.000Z"
+      },
+      {
+        "id": "ai-e1c195a4",
+        "title": "Canva releases its first image generation model",
+        "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "bullets": [
+          "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T19:00:00.000Z"
+      },
+      {
+        "id": "ai-027ad3e8",
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+        "bullets": [
+          "OpenAI is launching its decision model to the world.",
+          "Can it compete with the original Jev?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T19:00:00.000Z"
+      },
+      {
+        "id": "ai-e14a5481",
+        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+        "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+        "bullets": [
+          "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science.",
+          "But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T18:43:53.000Z"
       },
       {
         "id": "ai-b4bf7499",
@@ -7921,56 +7975,30 @@
         "publishedAt": "2026-10-22T16:47:17.000Z"
       },
       {
-        "id": "ai-f9dd3a95",
-        "title": "Uber puts all 30,000 employees on ChatGPT Work",
-        "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+        "id": "world-6e816929",
+        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
         "bullets": [
-          "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
+          "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T16:00:00.000Z"
+        "publishedAt": "2026-10-22T15:56:36.000Z"
       },
       {
-        "id": "ai-e662ecb4",
-        "title": "Spotify’s current AI bet is about being the music service that agents choose",
-        "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+        "id": "world-9dfd9e6e",
+        "title": "Race to update services' computer systems after cyber-security flaw found",
+        "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
         "bullets": [
-          "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
+          "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T15:03:58.000Z"
-      },
-      {
-        "id": "ai-82b5b273",
-        "title": "Claude Duet app is Anthropic’s bet on agents",
-        "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-        "bullets": [
-          "Claude Duet is available through waitlist for Pro and Max plan users."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T13:53:26.000Z"
-      },
-      {
-        "id": "ai-e3b388fe",
-        "title": "Nirva raises $33M for a pendant that only listens to you",
-        "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-        "bullets": [
-          "Nirva will ship its $249 ambient AI pendant by the end of the year."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T13:26:52.000Z"
+        "publishedAt": "2026-10-22T17:12:51.000Z"
       },
       {
         "id": "world-4f6fa756",
@@ -7983,20 +8011,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T17:02:33.000Z"
-      },
-      {
-        "id": "world-6e816929",
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "bullets": [
-          "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T15:56:36.000Z"
+        "publishedAt": "2026-10-22T17:14:04.000Z"
       },
       {
         "id": "world-51bb747f",
@@ -8012,30 +8027,17 @@
         "publishedAt": "2026-10-22T16:15:25.000Z"
       },
       {
-        "id": "world-6289a69b",
-        "title": "At least four dead after storm brings flooding to southern France",
-        "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+        "id": "world-a00a0e89",
+        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+        "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
         "bullets": [
-          "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region."
+          "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T11:23:16.000Z"
-      },
-      {
-        "id": "world-112228a8",
-        "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-        "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "bullets": [
-          "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T16:16:49.000Z"
+        "publishedAt": "2026-10-22T17:07:03.000Z"
       }
     ]
   }
