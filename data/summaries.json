@@ -7775,33 +7775,46 @@
   },
   {
     "date": "2026-10-22",
-    "generatedAt": "2026-10-22T11:57:56.443Z",
+    "generatedAt": "2026-10-22T17:13:58.807Z",
     "articles": [
       {
-        "id": "top-2ba578b1",
-        "title": "What is PHP and why did it spark an international cyber-security alert?",
-        "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+        "id": "top-06e3ef0b",
+        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+        "summary": "The defence secretary warned the public and businesses needed to think about how they would cope with natural disasters and cyber attacks.",
         "bullets": [
-          "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+          "The defence secretary warned the public and businesses needed to think about how they would cope with natural disasters and cyber attacks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T11:15:58.000Z"
+        "publishedAt": "2026-10-22T16:40:38.000Z"
       },
       {
-        "id": "top-e0890511",
-        "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-        "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+        "id": "top-a2c462f1",
+        "title": "AI discovered a massive cyber-security flaw - here's what happened",
+        "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
         "bullets": [
-          "The bank says it is using more AI leading to a 5% reduction in its workforce."
+          "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T09:37:58.000Z"
+        "publishedAt": "2026-10-22T12:17:44.000Z"
+      },
+      {
+        "id": "top-4f6fa756",
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+        "bullets": [
+          "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T17:02:33.000Z"
       },
       {
         "id": "top-7667fbda",
@@ -7814,33 +7827,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T11:00:35.000Z"
+        "publishedAt": "2026-10-22T16:45:09.000Z"
       },
       {
-        "id": "top-f2227bd1",
-        "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
-        "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim.",
+        "id": "top-6e816929",
+        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
         "bullets": [
-          "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
+          "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T09:28:04.000Z"
+        "publishedAt": "2026-10-22T15:56:36.000Z"
       },
       {
-        "id": "top-57443ab2",
-        "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-        "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+        "id": "tech-f7018d3a",
+        "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
+        "summary": "General Motors' plans will require quite a lot of customers' trust.",
         "bullets": [
-          "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\"."
+          "General Motors' plans will require quite a lot of customers' trust."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T09:47:54.000Z"
+        "publishedAt": "2026-10-22T13:04:32.000Z"
       },
       {
         "id": "tech-2314fabd",
@@ -7895,96 +7908,108 @@
         "publishedAt": "2026-10-21T22:06:07.000Z"
       },
       {
-        "id": "tech-9cced9d8",
-        "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-        "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+        "id": "ai-b4bf7499",
+        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+        "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
         "bullets": [
-          "Survey of 2,018 IT heads at big firms points to a lack of leverage."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T21:48:52.000Z"
-      },
-      {
-        "id": "ai-5410ba5c",
-        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-        "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-        "bullets": [
-          "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+          "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T22:51:22.000Z"
+        "publishedAt": "2026-10-22T16:47:17.000Z"
       },
       {
-        "id": "ai-20062945",
-        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-        "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+        "id": "ai-f9dd3a95",
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
         "bullets": [
-          "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
+          "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T21:16:20.000Z"
+        "publishedAt": "2026-10-22T16:00:00.000Z"
       },
       {
-        "id": "ai-b71da0c2",
-        "title": "Meta says Muse has over 10M users, with shopping a top activity",
-        "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+        "id": "ai-e662ecb4",
+        "title": "Spotify’s current AI bet is about being the music service that agents choose",
+        "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
         "bullets": [
-          "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call.",
-          "The AI app now has over 10M users."
+          "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T21:14:19.000Z"
+        "publishedAt": "2026-10-22T15:03:58.000Z"
       },
       {
-        "id": "ai-5e6845c2",
-        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-        "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+        "id": "ai-82b5b273",
+        "title": "Claude Duet app is Anthropic’s bet on agents",
+        "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
         "bullets": [
-          "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that..."
+          "Claude Duet is available through waitlist for Pro and Max plan users."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T20:27:41.000Z"
+        "publishedAt": "2026-10-22T13:53:26.000Z"
       },
       {
-        "id": "ai-2c5e9558",
-        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-        "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+        "id": "ai-e3b388fe",
+        "title": "Nirva raises $33M for a pendant that only listens to you",
+        "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
         "bullets": [
-          "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+          "Nirva will ship its $249 ambient AI pendant by the end of the year."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-21T19:30:00.000Z"
+        "publishedAt": "2026-10-22T13:26:52.000Z"
       },
       {
-        "id": "world-57443ab2",
-        "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-        "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+        "id": "world-4f6fa756",
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
         "bullets": [
-          "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\"."
+          "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T09:47:54.000Z"
+        "publishedAt": "2026-10-22T17:02:33.000Z"
+      },
+      {
+        "id": "world-6e816929",
+        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+        "bullets": [
+          "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T15:56:36.000Z"
+      },
+      {
+        "id": "world-51bb747f",
+        "title": "Crowd of 50 beats foreigner to death in South Africa",
+        "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+        "bullets": [
+          "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T16:15:25.000Z"
       },
       {
         "id": "world-6289a69b",
@@ -8000,43 +8025,17 @@
         "publishedAt": "2026-10-22T11:23:16.000Z"
       },
       {
-        "id": "world-4f6c84a9",
-        "title": "El Salvador's president threatens Haitian gangs over military hostages",
-        "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+        "id": "world-112228a8",
+        "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+        "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
         "bullets": [
-          "Four members of the so-called Gang Suppression Force have been missing since Sunday."
+          "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-22T10:17:48.000Z"
-      },
-      {
-        "id": "world-dad8be6d",
-        "title": "Two European women held captive for more than a year in Niger freed in Libya",
-        "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
-        "bullets": [
-          "The Swiss government told the BBC that the freed national was on her way back to Switzerland."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T11:13:12.000Z"
-      },
-      {
-        "id": "world-bcbd9651",
-        "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-        "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-        "bullets": [
-          "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T10:16:35.000Z"
+        "publishedAt": "2026-10-22T16:16:49.000Z"
       }
     ]
   }
