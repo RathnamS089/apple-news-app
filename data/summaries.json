@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-09-22",
-    "generatedAt": "2026-09-22T21:22:15.590Z",
-    "articles": [
-      {
-        "id": "top-24ce2610",
-        "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
-        "summary": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
-        "bullets": [
-          "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:15:57.000Z"
-      },
-      {
-        "id": "top-8cf55143",
-        "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-        "summary": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
-        "bullets": [
-          "Two men were arrested in Manchester on Sunday, say counter-terror police."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T20:54:49.000Z"
-      },
-      {
-        "id": "top-ccf5f23f",
-        "title": "Tim Westwood charged with two more sexual offences",
-        "summary": "The alleged sexual offences date back to 1991 and 2004.",
-        "bullets": [
-          "The alleged sexual offences date back to 1991 and 2004."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T14:29:31.000Z"
-      },
-      {
-        "id": "top-bbe7b440",
-        "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-        "summary": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
-        "bullets": [
-          "Princess Diana's brother apologised to Morgan for a factual error in his memoir.",
-          "Morgan said he is \"pursuing legal action\" against Spencer."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T20:08:52.000Z"
-      },
-      {
-        "id": "top-61c9934c",
-        "title": "Father admits causing death of his son in hotel fall",
-        "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-        "bullets": [
-          "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T15:52:35.000Z"
-      },
-      {
-        "id": "tech-8f14a253",
-        "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-        "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
-        "bullets": [
-          "Cities defend permit requirements, say ISPs aren't building networks fast enough."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T20:38:30.000Z"
-      },
-      {
-        "id": "tech-ded38962",
-        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-        "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-        "bullets": [
-          "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:45:47.000Z"
-      },
-      {
-        "id": "tech-13495c3f",
-        "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-        "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-        "bullets": [
-          "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:28:23.000Z"
-      },
-      {
-        "id": "tech-1ee465f8",
-        "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-        "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-        "bullets": [
-          "You don't even need a Creative Cloud login to edit clips, but AI features cost extra."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:08:58.000Z"
-      },
-      {
-        "id": "tech-f60e35eb",
-        "title": "Review: Resident Evil might just be the best gaming adaptation yet",
-        "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
-        "bullets": [
-          "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T17:30:07.000Z"
-      },
-      {
-        "id": "ai-b8d00f6c",
-        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-        "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-        "bullets": [
-          "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T20:00:00.000Z"
-      },
-      {
-        "id": "ai-cfaf4ac1",
-        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-        "bullets": [
-          "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:09:11.000Z"
-      },
-      {
-        "id": "ai-c784929c",
-        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-        "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-        "bullets": [
-          "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T18:00:00.000Z"
-      },
-      {
-        "id": "ai-f486c306",
-        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-        "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-        "bullets": [
-          "Anthropic called it \"the strongest-performing model we've tested to date.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T16:30:07.000Z"
-      },
-      {
-        "id": "ai-798ae35c",
-        "title": "AstroForge is putting AI in command of its next spacecraft",
-        "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-        "bullets": [
-          "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T15:00:00.000Z"
-      },
-      {
-        "id": "world-6b6792ad",
-        "title": "US to build two military bases in Greenland under new deal with Denmark",
-        "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-        "bullets": [
-          "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T18:43:29.000Z"
-      },
-      {
-        "id": "world-1755e836",
-        "title": "How Ceuta, football and Israel are shaping Morocco's election",
-        "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-        "bullets": [
-          "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T20:59:00.000Z"
-      },
-      {
-        "id": "world-e70fddbe",
-        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-        "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-        "bullets": [
-          "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:47:44.000Z"
-      },
-      {
-        "id": "world-f39f4a3d",
-        "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-        "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-        "bullets": [
-          "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T12:54:14.000Z"
-      },
-      {
-        "id": "world-b879b38b",
-        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-        "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-        "bullets": [
-          "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-22T19:06:06.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-23",
     "generatedAt": "2026-09-23T21:32:21.649Z",
     "articles": [
@@ -8037,6 +7770,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-21T18:10:42.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "generatedAt": "2026-10-22T04:54:11.634Z",
+    "articles": [
+      {
+        "id": "top-0483c58a",
+        "title": "UK working to identify exposure after global cyber-security warning",
+        "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+        "bullets": [
+          "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T04:38:16.000Z"
+      },
+      {
+        "id": "top-c4dd2221",
+        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+        "bullets": [
+          "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T19:58:06.000Z"
+      },
+      {
+        "id": "top-9e2c6202",
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+        "bullets": [
+          "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T01:17:25.000Z"
+      },
+      {
+        "id": "top-b822d0f8",
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+        "bullets": [
+          "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T23:02:30.000Z"
+      },
+      {
+        "id": "top-77c151ea",
+        "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+        "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region.",
+        "bullets": [
+          "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T02:09:21.000Z"
+      },
+      {
+        "id": "tech-58df7578",
+        "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+        "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+        "bullets": [
+          "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T22:17:50.000Z"
+      },
+      {
+        "id": "tech-93d6d5ec",
+        "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+        "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+        "bullets": [
+          "Time-based a la carte charges come on top of the purchase price for the games themselves."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T22:06:07.000Z"
+      },
+      {
+        "id": "tech-9cced9d8",
+        "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+        "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+        "bullets": [
+          "Survey of 2,018 IT heads at big firms points to a lack of leverage."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T21:48:52.000Z"
+      },
+      {
+        "id": "tech-ec472c82",
+        "title": "Tesla profits drop 43% in Q3",
+        "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+        "bullets": [
+          "Tesla’s once-booming energy storage business also shrunk in Q3 2026."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T21:35:07.000Z"
+      },
+      {
+        "id": "tech-be3ad2f2",
+        "title": "The new human-crafted Apple Music brand matters in an AI world",
+        "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+        "bullets": [
+          "Opinion: In a world of AI slop, showing the human hands making things helps."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T19:44:40.000Z"
+      },
+      {
+        "id": "ai-5410ba5c",
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+        "bullets": [
+          "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T22:51:22.000Z"
+      },
+      {
+        "id": "ai-20062945",
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+        "bullets": [
+          "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T21:16:20.000Z"
+      },
+      {
+        "id": "ai-b71da0c2",
+        "title": "Meta says Muse has over 10M users, with shopping a top activity",
+        "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+        "bullets": [
+          "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings.",
+          "The AI app now has over 10M users."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T21:14:19.000Z"
+      },
+      {
+        "id": "ai-5e6845c2",
+        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+        "bullets": [
+          "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T20:27:41.000Z"
+      },
+      {
+        "id": "ai-2c5e9558",
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+        "bullets": [
+          "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T19:30:00.000Z"
+      },
+      {
+        "id": "world-ccb9317c",
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "bullets": [
+          "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T19:54:57.000Z"
+      },
+      {
+        "id": "world-8797f1fb",
+        "title": "What is PHP and why did it spark a global cyber-security scramble?",
+        "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+        "bullets": [
+          "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T03:48:50.000Z"
+      },
+      {
+        "id": "world-08cb14e4",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+        "bullets": [
+          "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T21:27:41.000Z"
+      },
+      {
+        "id": "world-c4dd2221",
+        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+        "bullets": [
+          "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-21T19:58:06.000Z"
+      },
+      {
+        "id": "world-682439b5",
+        "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+        "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+        "bullets": [
+          "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-22T01:07:34.000Z"
       }
     ]
   }
