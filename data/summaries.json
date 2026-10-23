@@ -7776,7 +7776,7 @@
   },
   {
     "date": "2026-10-23",
-    "generatedAt": "2026-10-23T11:43:43.378Z",
+    "generatedAt": "2026-10-23T17:12:01.521Z",
     "articles": [
       {
         "id": "top-012bcf70",
@@ -7789,59 +7789,111 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T11:24:32.000Z"
+        "publishedAt": "2026-10-23T15:35:28.000Z"
       },
       {
-        "id": "top-79589245",
-        "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
-        "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+        "id": "top-168ef312",
+        "title": "Watch: Moment part of Brighton's historic West Pier collapses",
+        "summary": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
         "bullets": [
-          "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives."
+          "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T08:26:47.000Z"
+        "publishedAt": "2026-10-23T13:03:29.000Z"
       },
       {
-        "id": "top-6909ff43",
-        "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-        "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
+        "id": "top-08210fa6",
+        "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+        "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
         "bullets": [
-          "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election."
+          "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T10:26:06.000Z"
+        "publishedAt": "2026-10-23T16:17:02.000Z"
       },
       {
-        "id": "top-c46754ca",
-        "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-        "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+        "id": "top-cdaef2d9",
+        "title": "Burnham suggests stocking up on tinned food and bottled water",
+        "summary": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
         "bullets": [
-          "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month."
+          "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T10:14:37.000Z"
+        "publishedAt": "2026-10-23T12:41:10.000Z"
       },
       {
-        "id": "top-ce17e55f",
-        "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
-        "summary": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+        "id": "top-26cb2e26",
+        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
         "bullets": [
-          "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women."
+          "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T05:00:05.000Z"
+        "publishedAt": "2026-10-23T16:59:51.000Z"
+      },
+      {
+        "id": "tech-a71d2467",
+        "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+        "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
+        "bullets": [
+          "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T13:43:21.000Z"
+      },
+      {
+        "id": "tech-23695b73",
+        "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+        "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+        "bullets": [
+          "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T11:30:22.000Z"
+      },
+      {
+        "id": "tech-d64032bd",
+        "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+        "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+        "bullets": [
+          "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T11:15:03.000Z"
+      },
+      {
+        "id": "tech-9b2b5658",
+        "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+        "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
+        "bullets": [
+          "\"We believe Canada should be able to reach orbit on its own terms.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T11:00:57.000Z"
       },
       {
         "id": "tech-9aa7c1f6",
@@ -7857,63 +7909,11 @@
         "publishedAt": "2026-10-22T22:25:33.000Z"
       },
       {
-        "id": "tech-917b691e",
-        "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-        "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
+        "id": "ai-76ea3d90",
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+        "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
         "bullets": [
-          "Markers released top-line results today after previously reporting the trial succeeded."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T22:12:19.000Z"
-      },
-      {
-        "id": "tech-7c892d4c",
-        "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-        "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
-        "bullets": [
-          "\"We need to keep our eyes on numerous required fuelings for the lander.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T21:52:31.000Z"
-      },
-      {
-        "id": "tech-c12403c0",
-        "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-        "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-        "bullets": [
-          "Comcast plans job cuts and more AI agents for its shrinking cable customer base."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T21:07:09.000Z"
-      },
-      {
-        "id": "tech-6a02bbba",
-        "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-        "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-        "bullets": [
-          "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T20:17:52.000Z"
-      },
-      {
-        "id": "ai-9bb201b5",
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-        "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-        "bullets": [
-          "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+          "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
         "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
@@ -7961,82 +7961,83 @@
         "publishedAt": "2026-10-22T19:07:09.000Z"
       },
       {
-        "id": "ai-e1c195a4",
-        "title": "Canva releases its first image generation model",
-        "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "id": "ai-027ad3e8",
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
         "bullets": [
-          "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+          "OpenAI is launching its decision model to the world.",
+          "Can it compete with the original Jev?"
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-10-22T19:00:00.000Z"
       },
       {
-        "id": "world-2df88fd0",
-        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-        "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+        "id": "world-08210fa6",
+        "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+        "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
         "bullets": [
-          "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T11:01:08.000Z"
-      },
-      {
-        "id": "world-6909ff43",
-        "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-        "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
-        "bullets": [
-          "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T10:26:06.000Z"
-      },
-      {
-        "id": "world-ac4f08c6",
-        "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-        "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
-        "bullets": [
-          "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T08:45:58.000Z"
-      },
-      {
-        "id": "world-2d7e44e2",
-        "title": "At least one dead and four injured in Paris suburb shooting",
-        "summary": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes.",
-        "bullets": [
-          "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes."
+          "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T11:09:36.000Z"
+        "publishedAt": "2026-10-23T16:17:02.000Z"
       },
       {
-        "id": "world-c46754ca",
-        "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-        "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+        "id": "world-fa3f69d2",
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
         "bullets": [
-          "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month."
+          "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T10:14:37.000Z"
+        "publishedAt": "2026-10-23T16:33:11.000Z"
+      },
+      {
+        "id": "world-9ee0530d",
+        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+        "bullets": [
+          "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T15:37:07.000Z"
+      },
+      {
+        "id": "world-26cb2e26",
+        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+        "bullets": [
+          "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T16:59:51.000Z"
+      },
+      {
+        "id": "world-2df88fd0",
+        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+        "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+        "bullets": [
+          "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T16:19:36.000Z"
       }
     ]
   }
