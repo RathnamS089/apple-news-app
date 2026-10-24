@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "generatedAt": "2026-09-24T21:33:21.722Z",
-    "articles": [
-      {
-        "id": "top-5867c982",
-        "title": "Watch: Why has Trump been so eager to welcome Xi?",
-        "summary": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
-        "bullets": [
-          "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T15:16:27.000Z"
-      },
-      {
-        "id": "top-54038dd6",
-        "title": "Anti-migrant activist charged after dinghy slashed in Channel",
-        "summary": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
-        "bullets": [
-          "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T21:14:07.000Z"
-      },
-      {
-        "id": "top-172611e4",
-        "title": "White House restores access to media outlets banned by Trump after judge's order",
-        "summary": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
-        "bullets": [
-          "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T17:49:20.000Z"
-      },
-      {
-        "id": "top-7980ee52",
-        "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
-        "summary": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\".",
-        "bullets": [
-          "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T21:21:47.000Z"
-      },
-      {
-        "id": "top-f78275ca",
-        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-        "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-        "bullets": [
-          "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T16:00:29.000Z"
-      },
-      {
-        "id": "tech-71e5e0d9",
-        "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-        "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
-        "bullets": [
-          "F-Droid's Android app store has been rebuilt from the ground up."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T19:30:42.000Z"
-      },
-      {
-        "id": "tech-0b58d47b",
-        "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
-        "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
-        "bullets": [
-          "New York sues Polymarket as Trump admin tries to override state gambling laws."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T19:07:19.000Z"
-      },
-      {
-        "id": "tech-4926fbf4",
-        "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-        "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-        "bullets": [
-          "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T18:52:23.000Z"
-      },
-      {
-        "id": "tech-e9918f5d",
-        "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-        "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-        "bullets": [
-          "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T18:39:47.000Z"
-      },
-      {
-        "id": "tech-20ca4359",
-        "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-        "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-        "bullets": [
-          "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T18:20:58.000Z"
-      },
-      {
-        "id": "ai-0a5b7d33",
-        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-        "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-        "bullets": [
-          "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type.",
-          "Register before event starts on October 13 at 8 a.m."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T19:15:00.000Z"
-      },
-      {
-        "id": "ai-432d869a",
-        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-        "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-        "bullets": [
-          "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T19:00:42.000Z"
-      },
-      {
-        "id": "ai-6b593e7d",
-        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-        "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-        "bullets": [
-          "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T18:11:44.000Z"
-      },
-      {
-        "id": "ai-ebbd2476",
-        "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-        "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-        "bullets": [
-          "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T17:39:24.000Z"
-      },
-      {
-        "id": "ai-1e560590",
-        "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-        "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-        "bullets": [
-          "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T17:00:00.000Z"
-      },
-      {
-        "id": "world-7980ee52",
-        "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
-        "summary": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\".",
-        "bullets": [
-          "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T21:21:47.000Z"
-      },
-      {
-        "id": "world-172611e4",
-        "title": "White House restores access to media outlets banned by Trump after judge's order",
-        "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-        "bullets": [
-          "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T17:49:20.000Z"
-      },
-      {
-        "id": "world-d0c6a63d",
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "bullets": [
-          "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T18:06:40.000Z"
-      },
-      {
-        "id": "world-121d2682",
-        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-        "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-        "bullets": [
-          "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T19:02:36.000Z"
-      },
-      {
-        "id": "world-6cbb91d9",
-        "title": "Priest killed and four injured in knife attack at Polish abbey",
-        "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-        "bullets": [
-          "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-24T19:18:12.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-25",
     "generatedAt": "2026-09-25T21:37:25.709Z",
     "articles": [
@@ -8024,6 +7757,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-23T15:37:07.000Z"
+      },
+      {
+        "id": "world-60baccae",
+        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+        "bullets": [
+          "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T19:30:19.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "generatedAt": "2026-10-24T04:41:23.299Z",
+    "articles": [
+      {
+        "id": "top-37800c6d",
+        "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+        "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+        "bullets": [
+          "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T02:25:54.000Z"
+      },
+      {
+        "id": "top-39318d88",
+        "title": "France prepares for day of protest a week after nationwide riots",
+        "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+        "bullets": [
+          "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T04:03:46.000Z"
+      },
+      {
+        "id": "top-9b4f3fab",
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+        "bullets": [
+          "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T00:05:45.000Z"
+      },
+      {
+        "id": "top-339981b6",
+        "title": "Australian MP's condition improves after alleged car attack",
+        "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+        "bullets": [
+          "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T01:55:15.000Z"
+      },
+      {
+        "id": "top-09dfa8c3",
+        "title": "Met investigates reports of letter detailing claims about Meghan's father",
+        "summary": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"disturbing allegations\".",
+        "bullets": [
+          "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"disturbing allegations\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T03:17:24.000Z"
+      },
+      {
+        "id": "tech-bff231e3",
+        "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+        "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+        "bullets": [
+          "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T22:48:25.000Z"
+      },
+      {
+        "id": "tech-df92bc23",
+        "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+        "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
+        "bullets": [
+          "Pentagon memo: Insider trading gives US enemies key intel on military operations."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T20:28:43.000Z"
+      },
+      {
+        "id": "tech-e2f8ffe4",
+        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+        "bullets": [
+          "Turning on Personal Intelligence gives the company more data for ad targeting."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T20:19:55.000Z"
+      },
+      {
+        "id": "tech-ea5cab2a",
+        "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
+        "summary": "Space Force considering options: public-private, federal installation, state land.",
+        "bullets": [
+          "Space Force considering options: public-private, federal installation, state land."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T19:33:58.000Z"
+      },
+      {
+        "id": "tech-4c7e4d0e",
+        "title": "Spotify ramps up policy enforcement on family plans",
+        "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
+        "bullets": [
+          "If you share Spotify sub with family, you may need to scan QR code to prove it."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T19:20:27.000Z"
+      },
+      {
+        "id": "ai-763952a9",
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "bullets": [
+          "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T23:05:49.000Z"
+      },
+      {
+        "id": "ai-74717294",
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+        "bullets": [
+          "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T21:59:19.000Z"
+      },
+      {
+        "id": "ai-9cc44706",
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling...",
+        "bullets": [
+          "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T19:06:23.000Z"
+      },
+      {
+        "id": "ai-76ea3d90",
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+        "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "bullets": [
+          "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T04:00:00.000Z"
+      },
+      {
+        "id": "ai-e1d446f0",
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "bullets": [
+          "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T00:45:37.000Z"
+      },
+      {
+        "id": "world-39318d88",
+        "title": "France prepares for day of protest a week after nationwide riots",
+        "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+        "bullets": [
+          "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T04:03:46.000Z"
+      },
+      {
+        "id": "world-d4df9e4d",
+        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+        "bullets": [
+          "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T00:05:43.000Z"
+      },
+      {
+        "id": "world-4e149fa2",
+        "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+        "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "bullets": [
+          "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T03:51:25.000Z"
+      },
+      {
+        "id": "world-fa3f69d2",
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+        "bullets": [
+          "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T19:46:30.000Z"
       },
       {
         "id": "world-60baccae",
