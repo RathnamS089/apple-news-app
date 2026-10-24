@@ -7775,8 +7775,21 @@
   },
   {
     "date": "2026-10-24",
-    "generatedAt": "2026-10-24T20:53:23.807Z",
+    "generatedAt": "2026-10-24T23:18:04.530Z",
     "articles": [
+      {
+        "id": "top-f1b96b05",
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "bullets": [
+          "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T21:09:27.000Z"
+      },
       {
         "id": "top-3232de3e",
         "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
@@ -7791,6 +7804,32 @@
         "publishedAt": "2026-10-24T19:37:35.000Z"
       },
       {
+        "id": "top-fdc3686b",
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+        "bullets": [
+          "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T22:44:36.000Z"
+      },
+      {
+        "id": "top-cdba2c37",
+        "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+        "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+        "bullets": [
+          "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T23:00:08.000Z"
+      },
+      {
         "id": "top-120c3bee",
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "summary": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
@@ -7802,45 +7841,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-10-24T12:59:49.000Z"
-      },
-      {
-        "id": "top-fdc3686b",
-        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-        "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-        "bullets": [
-          "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T20:30:43.000Z"
-      },
-      {
-        "id": "top-f88b696a",
-        "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
-        "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-        "bullets": [
-          "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T17:11:56.000Z"
-      },
-      {
-        "id": "top-5a62bf39",
-        "title": "Between quick wins and big dreams lies Burnham's biggest test",
-        "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
-        "bullets": [
-          "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T11:03:57.000Z"
       },
       {
         "id": "tech-fd58275f",
@@ -7973,6 +7973,19 @@
         "publishedAt": "2026-10-23T23:05:49.000Z"
       },
       {
+        "id": "world-f1b96b05",
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+        "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+        "bullets": [
+          "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T21:09:27.000Z"
+      },
+      {
         "id": "world-468d6581",
         "title": "Ukraine says Starlink connection 'now stable' after network limits",
         "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
@@ -7996,7 +8009,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T17:21:42.000Z"
+        "publishedAt": "2026-10-24T23:02:06.000Z"
       },
       {
         "id": "world-a90b9f08",
@@ -8023,19 +8036,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-23T22:47:07.000Z"
-      },
-      {
-        "id": "world-c71fff6d",
-        "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-        "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-        "bullets": [
-          "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T17:11:56.000Z"
       }
     ]
   }
