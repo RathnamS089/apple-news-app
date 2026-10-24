@@ -7775,20 +7775,46 @@
   },
   {
     "date": "2026-10-24",
-    "generatedAt": "2026-10-24T11:06:42.195Z",
+    "generatedAt": "2026-10-24T15:59:35.577Z",
     "articles": [
       {
-        "id": "top-6bdc0156",
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "summary": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
+        "id": "top-120c3bee",
+        "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+        "summary": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
         "bullets": [
-          "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle."
+          "The Met said it passed information to the duchess but did not share it with other law enforcement agencies."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T10:30:08.000Z"
+        "publishedAt": "2026-10-24T12:59:49.000Z"
+      },
+      {
+        "id": "top-c96b4176",
+        "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+        "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+        "bullets": [
+          "The full feasibility study will look in detail at how hosting the Games in northern England could work."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T15:45:46.000Z"
+      },
+      {
+        "id": "top-5a62bf39",
+        "title": "Between quick wins and big dreams lies Burnham's biggest test",
+        "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+        "bullets": [
+          "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T11:03:57.000Z"
       },
       {
         "id": "top-33c94b82",
@@ -7804,43 +7830,43 @@
         "publishedAt": "2026-10-24T09:45:47.000Z"
       },
       {
-        "id": "top-c96b4176",
-        "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-        "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+        "id": "top-6bdc0156",
+        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+        "summary": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
         "bullets": [
-          "The full feasibility study will look in detail at how hosting the Games in northern England could work."
+          "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T11:00:48.000Z"
+        "publishedAt": "2026-10-24T10:30:08.000Z"
       },
       {
-        "id": "top-54433ad6",
-        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-        "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "id": "tech-fd58275f",
+        "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+        "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
         "bullets": [
-          "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+          "A new model suggests Mars may host ice-forming physics never directly observed before."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T10:22:34.000Z"
+        "publishedAt": "2026-10-24T11:50:28.000Z"
       },
       {
-        "id": "top-6af0235f",
-        "title": "Watch: The rise of AI election ads in US midterms campaign",
-        "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
+        "id": "tech-bc0bcbfb",
+        "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+        "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
         "bullets": [
-          "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
+          "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T05:03:44.000Z"
+        "publishedAt": "2026-10-24T11:00:09.000Z"
       },
       {
         "id": "tech-bff231e3",
@@ -7882,30 +7908,30 @@
         "publishedAt": "2026-10-23T20:19:55.000Z"
       },
       {
-        "id": "tech-ea5cab2a",
-        "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
-        "summary": "Space Force considering options: public-private, federal installation, state land.",
+        "id": "ai-71d3646c",
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
         "bullets": [
-          "Space Force considering options: public-private, federal installation, state land."
+          "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T19:33:58.000Z"
+        "publishedAt": "2026-10-24T15:00:00.000Z"
       },
       {
-        "id": "tech-4c7e4d0e",
-        "title": "Spotify ramps up policy enforcement on family plans",
-        "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
+        "id": "ai-ab460902",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "bullets": [
-          "If you share Spotify sub with family, you may need to scan QR code to prove it."
+          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T19:20:27.000Z"
+        "publishedAt": "2026-10-24T14:00:00.000Z"
       },
       {
         "id": "ai-763952a9",
@@ -7947,43 +7973,30 @@
         "publishedAt": "2026-10-23T19:06:23.000Z"
       },
       {
-        "id": "ai-76ea3d90",
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-        "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "id": "world-468d6581",
+        "title": "Ukraine says Starlink connection 'now stable' after network limits",
+        "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
         "bullets": [
-          "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+          "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-23T04:00:00.000Z"
+        "publishedAt": "2026-10-24T12:12:40.000Z"
       },
       {
-        "id": "ai-e1d446f0",
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "id": "world-a90b9f08",
+        "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
         "bullets": [
-          "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T00:45:37.000Z"
-      },
-      {
-        "id": "world-54433ad6",
-        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-        "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-        "bullets": [
-          "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+          "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T10:22:34.000Z"
+        "publishedAt": "2026-10-24T15:21:44.000Z"
       },
       {
         "id": "world-9ce5967c",
@@ -7999,6 +8012,19 @@
         "publishedAt": "2026-10-23T22:47:07.000Z"
       },
       {
+        "id": "world-c71fff6d",
+        "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+        "summary": "The children were subsequently rescued from the water, police say.",
+        "bullets": [
+          "The children were subsequently rescued from the water, police say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T09:45:47.000Z"
+      },
+      {
         "id": "world-8a1ad3f9",
         "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
         "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
@@ -8010,32 +8036,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-23T23:08:23.000Z"
-      },
-      {
-        "id": "world-7c1d5623",
-        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-        "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-        "bullets": [
-          "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T00:36:47.000Z"
-      },
-      {
-        "id": "world-339981b6",
-        "title": "Australian MP's condition improves after alleged car attack",
-        "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-        "bullets": [
-          "The independent MP is now in a serious but stable condition, according to the Melbourne hospital."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T01:55:15.000Z"
       }
     ]
   }
