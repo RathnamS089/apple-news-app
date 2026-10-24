@@ -7775,8 +7775,21 @@
   },
   {
     "date": "2026-10-24",
-    "generatedAt": "2026-10-24T15:59:35.577Z",
+    "generatedAt": "2026-10-24T20:53:23.807Z",
     "articles": [
+      {
+        "id": "top-3232de3e",
+        "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+        "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+        "bullets": [
+          "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T19:37:35.000Z"
+      },
       {
         "id": "top-120c3bee",
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
@@ -7791,17 +7804,30 @@
         "publishedAt": "2026-10-24T12:59:49.000Z"
       },
       {
-        "id": "top-c96b4176",
-        "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-        "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+        "id": "top-fdc3686b",
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
         "bullets": [
-          "The full feasibility study will look in detail at how hosting the Games in northern England could work."
+          "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T15:45:46.000Z"
+        "publishedAt": "2026-10-24T20:30:43.000Z"
+      },
+      {
+        "id": "top-f88b696a",
+        "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
+        "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+        "bullets": [
+          "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T17:11:56.000Z"
       },
       {
         "id": "top-5a62bf39",
@@ -7815,32 +7841,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-10-24T11:03:57.000Z"
-      },
-      {
-        "id": "top-33c94b82",
-        "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
-        "summary": "The children were subsequently rescued from the water, police say.",
-        "bullets": [
-          "The children were subsequently rescued from the water, police say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T09:45:47.000Z"
-      },
-      {
-        "id": "top-6bdc0156",
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "summary": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-        "bullets": [
-          "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T10:30:08.000Z"
       },
       {
         "id": "tech-fd58275f",
@@ -7908,6 +7908,32 @@
         "publishedAt": "2026-10-23T20:19:55.000Z"
       },
       {
+        "id": "ai-713f4681",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "bullets": [
+          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T19:00:00.000Z"
+      },
+      {
+        "id": "ai-cd6ee5fe",
+        "title": "Block’s new voice model sounds eerily human",
+        "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+        "bullets": [
+          "Block said that the voice model can run locally on a MacBook M4 Max"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T16:00:00.000Z"
+      },
+      {
         "id": "ai-71d3646c",
         "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
         "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
@@ -7947,32 +7973,6 @@
         "publishedAt": "2026-10-23T23:05:49.000Z"
       },
       {
-        "id": "ai-74717294",
-        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-        "bullets": [
-          "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T21:59:19.000Z"
-      },
-      {
-        "id": "ai-9cc44706",
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling...",
-        "bullets": [
-          "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T19:06:23.000Z"
-      },
-      {
         "id": "world-468d6581",
         "title": "Ukraine says Starlink connection 'now stable' after network limits",
         "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
@@ -7984,6 +7984,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-24T12:12:40.000Z"
+      },
+      {
+        "id": "world-cc22e0f3",
+        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+        "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+        "bullets": [
+          "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T17:21:42.000Z"
       },
       {
         "id": "world-a90b9f08",
@@ -8014,28 +8027,15 @@
       {
         "id": "world-c71fff6d",
         "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-        "summary": "The children were subsequently rescued from the water, police say.",
+        "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
         "bullets": [
-          "The children were subsequently rescued from the water, police say."
+          "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T09:45:47.000Z"
-      },
-      {
-        "id": "world-8a1ad3f9",
-        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-        "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-        "bullets": [
-          "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T23:08:23.000Z"
+        "publishedAt": "2026-10-24T17:11:56.000Z"
       }
     ]
   }
