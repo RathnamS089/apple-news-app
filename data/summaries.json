@@ -7774,33 +7774,46 @@
   },
   {
     "date": "2026-10-25",
-    "generatedAt": "2026-10-25T20:54:09.954Z",
+    "generatedAt": "2026-10-25T23:18:10.924Z",
     "articles": [
       {
-        "id": "top-35790a76",
-        "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
-        "summary": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+        "id": "top-9824c0a9",
+        "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+        "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
         "bullets": [
-          "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
+          "An amber wind warning has now expired after severe weather sweeps across the UK."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T20:32:27.000Z"
+        "publishedAt": "2026-10-25T22:24:16.000Z"
       },
       {
-        "id": "top-ee4cb71b",
-        "title": "Burnham open to 'honest discussion' on EU free movement",
-        "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+        "id": "top-6937c36b",
+        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
         "bullets": [
-          "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+          "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T12:11:23.000Z"
+        "publishedAt": "2026-10-25T22:54:57.000Z"
+      },
+      {
+        "id": "top-de05ec3e",
+        "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+        "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+        "bullets": [
+          "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T22:37:36.000Z"
       },
       {
         "id": "top-ccf4a815",
@@ -7817,30 +7830,17 @@
         "publishedAt": "2026-10-25T18:38:17.000Z"
       },
       {
-        "id": "top-478fe98d",
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+        "id": "top-3c0ecb6d",
+        "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+        "summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
         "bullets": [
-          "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+          "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T18:29:00.000Z"
-      },
-      {
-        "id": "top-6900c2fc",
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-        "bullets": [
-          "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T19:55:15.000Z"
+        "publishedAt": "2026-10-25T21:24:21.000Z"
       },
       {
         "id": "tech-fd58275f",
@@ -7908,6 +7908,19 @@
         "publishedAt": "2026-10-23T20:19:55.000Z"
       },
       {
+        "id": "ai-8aca6dbe",
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "bullets": [
+          "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T21:31:16.000Z"
+      },
+      {
         "id": "ai-74700e7f",
         "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
         "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
@@ -7960,30 +7973,30 @@
         "publishedAt": "2026-10-24T16:00:00.000Z"
       },
       {
-        "id": "ai-71d3646c",
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+        "id": "world-6937c36b",
+        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
         "bullets": [
-          "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T15:00:00.000Z"
-      },
-      {
-        "id": "world-d5bf3493",
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-        "bullets": [
-          "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+          "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T09:00:00.000Z"
+        "publishedAt": "2026-10-25T22:54:57.000Z"
+      },
+      {
+        "id": "world-9ecc3fe8",
+        "title": "Deeply divided Israel braces for pivotal election",
+        "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+        "bullets": [
+          "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T22:11:13.000Z"
       },
       {
         "id": "world-478fe98d",
@@ -7999,17 +8012,17 @@
         "publishedAt": "2026-10-25T18:29:00.000Z"
       },
       {
-        "id": "world-6900c2fc",
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+        "id": "world-d5bf3493",
+        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
         "bullets": [
-          "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
+          "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T19:55:15.000Z"
+        "publishedAt": "2026-10-25T09:00:00.000Z"
       },
       {
         "id": "world-bdf4e859",
@@ -8023,19 +8036,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-25T15:32:51.000Z"
-      },
-      {
-        "id": "world-a110a0d5",
-        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-        "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-        "bullets": [
-          "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T05:15:52.000Z"
       }
     ]
   }
