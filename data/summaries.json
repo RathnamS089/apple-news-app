@@ -7774,8 +7774,21 @@
   },
   {
     "date": "2026-10-25",
-    "generatedAt": "2026-10-25T16:27:18.635Z",
+    "generatedAt": "2026-10-25T20:54:09.954Z",
     "articles": [
+      {
+        "id": "top-35790a76",
+        "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+        "summary": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+        "bullets": [
+          "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T20:32:27.000Z"
+      },
       {
         "id": "top-ee4cb71b",
         "title": "Burnham open to 'honest discussion' on EU free movement",
@@ -7790,57 +7803,44 @@
         "publishedAt": "2026-10-25T12:11:23.000Z"
       },
       {
-        "id": "top-d6a00c18",
-        "title": "Couple were celebrating anniversary before Bahamas tragedy",
-        "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+        "id": "top-ccf4a815",
+        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+        "summary": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
         "bullets": [
-          "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea."
+          "Roslyn Loveless, who has since died, divorced Meghan's father in 1975.",
+          "Meghan said she had been informed about the \"disturbing allegations\" in 2018."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T14:38:51.000Z"
+        "publishedAt": "2026-10-25T18:38:17.000Z"
       },
       {
-        "id": "top-d5bf3493",
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+        "id": "top-478fe98d",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
         "bullets": [
-          "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+          "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T09:00:00.000Z"
+        "publishedAt": "2026-10-25T18:29:00.000Z"
       },
       {
-        "id": "top-1f277c50",
-        "title": "Why the charts are full of old songs - and so are your playlists",
-        "summary": "The chart is full of old music and classic songs are dominating streaming services. But why?",
+        "id": "top-6900c2fc",
+        "title": "Early reports suggest record high turnout in Serbia elections",
+        "summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
         "bullets": [
-          "The chart is full of old music and classic songs are dominating streaming services."
+          "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-24T23:05:41.000Z"
-      },
-      {
-        "id": "top-2e538284",
-        "title": "The bitter row over military service that could shape Israel's future",
-        "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
-        "bullets": [
-          "The ultra-Orthodox community is resisting being drafted into the Israeli army.",
-          "But will they now bring down the Netanyahu government?"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T23:03:21.000Z"
+        "publishedAt": "2026-10-25T19:55:15.000Z"
       },
       {
         "id": "tech-fd58275f",
@@ -7908,6 +7908,19 @@
         "publishedAt": "2026-10-23T20:19:55.000Z"
       },
       {
+        "id": "ai-74700e7f",
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "bullets": [
+          "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T16:57:32.000Z"
+      },
+      {
         "id": "ai-e00c120f",
         "title": "The hottest AI wearables and gadgets you should know about",
         "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
@@ -7960,45 +7973,6 @@
         "publishedAt": "2026-10-24T15:00:00.000Z"
       },
       {
-        "id": "ai-ab460902",
-        "title": "Here are the top AI agents that can live in your text messages",
-        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "bullets": [
-          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T14:00:00.000Z"
-      },
-      {
-        "id": "world-a110a0d5",
-        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-        "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-        "bullets": [
-          "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T05:15:52.000Z"
-      },
-      {
-        "id": "world-6900c2fc",
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-        "bullets": [
-          "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T16:05:15.000Z"
-      },
-      {
         "id": "world-d5bf3493",
         "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
         "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
@@ -8010,6 +7984,32 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-25T09:00:00.000Z"
+      },
+      {
+        "id": "world-478fe98d",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+        "bullets": [
+          "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T18:29:00.000Z"
+      },
+      {
+        "id": "world-6900c2fc",
+        "title": "Early reports suggest record high turnout in Serbia elections",
+        "summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+        "bullets": [
+          "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T19:55:15.000Z"
       },
       {
         "id": "world-bdf4e859",
@@ -8025,17 +8025,17 @@
         "publishedAt": "2026-10-25T15:32:51.000Z"
       },
       {
-        "id": "world-f23d7d75",
-        "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-        "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+        "id": "world-a110a0d5",
+        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+        "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
         "bullets": [
-          "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week."
+          "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T10:55:33.000Z"
+        "publishedAt": "2026-10-25T05:15:52.000Z"
       }
     ]
   }
