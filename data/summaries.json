@@ -7774,20 +7774,33 @@
   },
   {
     "date": "2026-10-25",
-    "generatedAt": "2026-10-25T11:37:00.582Z",
+    "generatedAt": "2026-10-25T16:27:18.635Z",
     "articles": [
       {
-        "id": "top-594cc018",
-        "title": "Meghan broke contact with father in letter citing abuse claims",
-        "summary": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+        "id": "top-ee4cb71b",
+        "title": "Burnham open to 'honest discussion' on EU free movement",
+        "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
         "bullets": [
-          "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren."
+          "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T08:05:31.000Z"
+        "publishedAt": "2026-10-25T12:11:23.000Z"
+      },
+      {
+        "id": "top-d6a00c18",
+        "title": "Couple were celebrating anniversary before Bahamas tragedy",
+        "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+        "bullets": [
+          "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T14:38:51.000Z"
       },
       {
         "id": "top-d5bf3493",
@@ -7803,43 +7816,31 @@
         "publishedAt": "2026-10-25T09:00:00.000Z"
       },
       {
-        "id": "top-ee4cb71b",
-        "title": "Burnham open to 'honest discussion' on EU free movement",
-        "summary": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+        "id": "top-1f277c50",
+        "title": "Why the charts are full of old songs - and so are your playlists",
+        "summary": "The chart is full of old music and classic songs are dominating streaming services. But why?",
         "bullets": [
-          "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+          "The chart is full of old music and classic songs are dominating streaming services."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T00:33:19.000Z"
+        "publishedAt": "2026-10-24T23:05:41.000Z"
       },
       {
-        "id": "top-46703222",
-        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-        "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+        "id": "top-2e538284",
+        "title": "The bitter row over military service that could shape Israel's future",
+        "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
         "bullets": [
-          "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
+          "The ultra-Orthodox community is resisting being drafted into the Israeli army.",
+          "But will they now bring down the Netanyahu government?"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T10:38:15.000Z"
-      },
-      {
-        "id": "top-e5d48ba7",
-        "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-        "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-        "bullets": [
-          "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T11:00:26.000Z"
+        "publishedAt": "2026-10-24T23:03:21.000Z"
       },
       {
         "id": "tech-fd58275f",
@@ -7907,6 +7908,19 @@
         "publishedAt": "2026-10-23T20:19:55.000Z"
       },
       {
+        "id": "ai-e00c120f",
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+        "bullets": [
+          "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T14:10:00.000Z"
+      },
+      {
         "id": "ai-713f4681",
         "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
         "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -7959,32 +7973,6 @@
         "publishedAt": "2026-10-24T14:00:00.000Z"
       },
       {
-        "id": "ai-763952a9",
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "bullets": [
-          "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T23:05:49.000Z"
-      },
-      {
-        "id": "world-46703222",
-        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-        "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-        "bullets": [
-          "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T10:38:15.000Z"
-      },
-      {
         "id": "world-a110a0d5",
         "title": "Israel to close West Bank crossings on election day as crackdown escalates",
         "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
@@ -7998,17 +7986,17 @@
         "publishedAt": "2026-10-25T05:15:52.000Z"
       },
       {
-        "id": "world-e5d48ba7",
-        "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-        "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+        "id": "world-6900c2fc",
+        "title": "Early reports suggest record high turnout in Serbia elections",
+        "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
         "bullets": [
-          "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office."
+          "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T11:00:26.000Z"
+        "publishedAt": "2026-10-25T16:05:15.000Z"
       },
       {
         "id": "world-d5bf3493",
@@ -8024,17 +8012,30 @@
         "publishedAt": "2026-10-25T09:00:00.000Z"
       },
       {
-        "id": "world-3794dcfb",
-        "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-        "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+        "id": "world-bdf4e859",
+        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+        "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
         "bullets": [
-          "Police are searching for other casualties, with officials warning the actual death toll could rise further."
+          "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-25T03:20:16.000Z"
+        "publishedAt": "2026-10-25T15:32:51.000Z"
+      },
+      {
+        "id": "world-f23d7d75",
+        "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+        "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+        "bullets": [
+          "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T10:55:33.000Z"
       }
     ]
   }
