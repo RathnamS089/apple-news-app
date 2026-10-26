@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "generatedAt": "2026-09-26T23:39:26.382Z",
-    "articles": [
-      {
-        "id": "top-e7d167b3",
-        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-        "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-        "bullets": [
-          "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T18:50:02.000Z"
-      },
-      {
-        "id": "top-f95a0962",
-        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
-        "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-        "bullets": [
-          "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T23:00:42.000Z"
-      },
-      {
-        "id": "top-8c2be81d",
-        "title": "Court of Appeal overturns ban on Drumcree parade",
-        "summary": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
-        "bullets": [
-          "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T22:45:52.000Z"
-      },
-      {
-        "id": "top-266d2a67",
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-        "bullets": [
-          "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T16:32:42.000Z"
-      },
-      {
-        "id": "top-cd21afd1",
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "bullets": [
-          "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T22:15:59.000Z"
-      },
-      {
-        "id": "tech-9999a955",
-        "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-        "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-        "bullets": [
-          "The 500-mile Semi arrives as charging gaps still limit electric trucking."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T10:45:09.000Z"
-      },
-      {
-        "id": "tech-40733599",
-        "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-        "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
-        "bullets": [
-          "Heidi Overton faced questions focused on vaccines, birth control, and vapes."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T23:00:26.000Z"
-      },
-      {
-        "id": "tech-d7ed3585",
-        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-        "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-        "bullets": [
-          "\"Overly constrained AI models\" could cause military operations to fail, judges say."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T21:36:20.000Z"
-      },
-      {
-        "id": "tech-8e4e45db",
-        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-        "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
-        "bullets": [
-          "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T21:10:51.000Z"
-      },
-      {
-        "id": "tech-f3f8babe",
-        "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-        "summary": "Ads appearing all over the Internet are trying to scam people.",
-        "bullets": [
-          "Ads appearing all over the Internet are trying to scam people."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T19:38:59.000Z"
-      },
-      {
-        "id": "ai-5ce15d4c",
-        "title": "Insurers claim AI is already increasing healthcare costs",
-        "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-        "bullets": [
-          "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T21:02:06.000Z"
-      },
-      {
-        "id": "ai-bf344bb5",
-        "title": "I created an interactive digital avatar of myself — and you can talk to it",
-        "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-        "bullets": [
-          "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T14:00:00.000Z"
-      },
-      {
-        "id": "ai-3d7ea516",
-        "title": "At Meta Connect, the company’s smart glasses were everywhere",
-        "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-        "bullets": [
-          "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T01:08:57.000Z"
-      },
-      {
-        "id": "ai-2ea1367f",
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-        "bullets": [
-          "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T23:11:10.000Z"
-      },
-      {
-        "id": "ai-8bf0476b",
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-        "bullets": [
-          "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-25T22:20:47.000Z"
-      },
-      {
-        "id": "world-cd21afd1",
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-        "bullets": [
-          "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T22:15:59.000Z"
-      },
-      {
-        "id": "world-92a72d51",
-        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-        "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-        "bullets": [
-          "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T19:48:06.000Z"
-      },
-      {
-        "id": "world-77e17627",
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-        "bullets": [
-          "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T12:47:25.000Z"
-      },
-      {
-        "id": "world-6b825635",
-        "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-        "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-        "bullets": [
-          "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T15:48:51.000Z"
-      },
-      {
-        "id": "world-406b6a82",
-        "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-        "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-        "bullets": [
-          "Tens of millions of people from Maine to Virginia are in the path of the powerful storm."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-26T22:04:26.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-27",
     "generatedAt": "2026-09-27T21:23:36.609Z",
     "articles": [
@@ -8010,6 +7744,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-25T18:29:00.000Z"
+      },
+      {
+        "id": "world-d5bf3493",
+        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+        "bullets": [
+          "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T09:00:00.000Z"
+      },
+      {
+        "id": "world-bdf4e859",
+        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+        "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+        "bullets": [
+          "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T15:32:51.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "generatedAt": "2026-10-26T04:52:23.987Z",
+    "articles": [
+      {
+        "id": "top-5056cebd",
+        "title": "Lula wins but faces hostile Congress and divided country",
+        "summary": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+        "bullets": [
+          "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-26T03:55:13.000Z"
+      },
+      {
+        "id": "top-4a76337f",
+        "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+        "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+        "bullets": [
+          "An amber wind warning has now expired after severe weather sweeps across the UK."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-26T04:41:36.000Z"
+      },
+      {
+        "id": "top-a342e879",
+        "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+        "bullets": [
+          "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-26T01:07:05.000Z"
+      },
+      {
+        "id": "top-96ccc74b",
+        "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+        "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+        "bullets": [
+          "The economic is positive now but come January things could become trickier for the Labour government"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-26T00:26:49.000Z"
+      },
+      {
+        "id": "top-de05ec3e",
+        "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+        "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+        "bullets": [
+          "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T22:37:36.000Z"
+      },
+      {
+        "id": "tech-fd58275f",
+        "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+        "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+        "bullets": [
+          "A new model suggests Mars may host ice-forming physics never directly observed before."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T11:50:28.000Z"
+      },
+      {
+        "id": "tech-bc0bcbfb",
+        "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+        "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+        "bullets": [
+          "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T11:00:09.000Z"
+      },
+      {
+        "id": "tech-bff231e3",
+        "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+        "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+        "bullets": [
+          "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T22:48:25.000Z"
+      },
+      {
+        "id": "tech-df92bc23",
+        "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+        "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
+        "bullets": [
+          "Pentagon memo: Insider trading gives US enemies key intel on military operations."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T20:28:43.000Z"
+      },
+      {
+        "id": "tech-e2f8ffe4",
+        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+        "bullets": [
+          "Turning on Personal Intelligence gives the company more data for ad targeting."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-23T20:19:55.000Z"
+      },
+      {
+        "id": "ai-8aca6dbe",
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "bullets": [
+          "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T21:31:16.000Z"
+      },
+      {
+        "id": "ai-74700e7f",
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "bullets": [
+          "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T16:57:32.000Z"
+      },
+      {
+        "id": "ai-e00c120f",
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+        "bullets": [
+          "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T14:10:00.000Z"
+      },
+      {
+        "id": "ai-713f4681",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "bullets": [
+          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T19:00:00.000Z"
+      },
+      {
+        "id": "ai-cd6ee5fe",
+        "title": "Block’s new voice model sounds eerily human",
+        "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+        "bullets": [
+          "Block said that the voice model can run locally on a MacBook M4 Max"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-24T16:00:00.000Z"
+      },
+      {
+        "id": "world-a342e879",
+        "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+        "bullets": [
+          "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-26T01:07:05.000Z"
+      },
+      {
+        "id": "world-9ecc3fe8",
+        "title": "Deeply divided Israel braces for pivotal election",
+        "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+        "bullets": [
+          "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-25T22:11:13.000Z"
+      },
+      {
+        "id": "world-478fe98d",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+        "bullets": [
+          "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-26T03:05:22.000Z"
       },
       {
         "id": "world-d5bf3493",
