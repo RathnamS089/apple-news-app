@@ -7777,8 +7777,34 @@
   },
   {
     "date": "2026-10-27",
-    "generatedAt": "2026-10-27T00:28:42.801Z",
+    "generatedAt": "2026-10-27T09:03:55.316Z",
     "articles": [
+      {
+        "id": "top-a0996d69",
+        "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+        "summary": "The BBC understands the government will also freeze fuel duty again in the Budget.",
+        "bullets": [
+          "The BBC understands the government will also freeze fuel duty again in the Budget."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T08:53:59.000Z"
+      },
+      {
+        "id": "top-25bbb4b0",
+        "title": "Israel heads to polls for pivotal election defined by security and democracy",
+        "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+        "bullets": [
+          "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T05:45:08.000Z"
+      },
       {
         "id": "top-f3334db3",
         "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
@@ -7793,57 +7819,30 @@
         "publishedAt": "2026-10-26T23:10:59.000Z"
       },
       {
-        "id": "top-c8cd8de4",
-        "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
-        "summary": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+        "id": "top-4dbf02ce",
+        "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
+        "summary": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
         "bullets": [
-          "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking."
+          "It's the first time an English player has lifted the trophy since Michael Owen in 2001."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-26T23:03:14.000Z"
+        "publishedAt": "2026-10-27T07:22:41.000Z"
       },
       {
-        "id": "top-6d788224",
-        "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-        "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+        "id": "top-075fd587",
+        "title": "Ex-FBI chief James Comey faces federal charges for third time",
+        "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
         "bullets": [
-          "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
+          "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-26T22:30:02.000Z"
-      },
-      {
-        "id": "top-5e6bc1a9",
-        "title": "Israel and the US are both going to the polls - the consequences will be global",
-        "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-        "bullets": [
-          "The next fortnight sees two elections on different continents.",
-          "The outcomes will shape geopolitics and the global economy, writes James Landale"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T16:30:34.000Z"
-      },
-      {
-        "id": "top-072686e7",
-        "title": "Drivers who killed mum and girl while racing jailed",
-        "summary": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
-        "bullets": [
-          "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T15:39:39.000Z"
+        "publishedAt": "2026-10-27T02:01:27.000Z"
       },
       {
         "id": "tech-11166710",
@@ -7911,6 +7910,32 @@
         "publishedAt": "2026-10-26T19:04:40.000Z"
       },
       {
+        "id": "ai-3cef96e3",
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+        "bullets": [
+          "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T02:00:00.000Z"
+      },
+      {
+        "id": "ai-ed5db626",
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+        "bullets": [
+          "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T01:12:21.000Z"
+      },
+      {
         "id": "ai-b4d2e136",
         "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
         "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
@@ -7950,95 +7975,69 @@
         "publishedAt": "2026-10-26T14:35:22.000Z"
       },
       {
-        "id": "ai-8aca6dbe",
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "id": "world-25bbb4b0",
+        "title": "Israel heads to polls for pivotal election defined by security and democracy",
+        "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
         "bullets": [
-          "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T21:31:16.000Z"
-      },
-      {
-        "id": "ai-74700e7f",
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-        "bullets": [
-          "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T16:57:32.000Z"
-      },
-      {
-        "id": "world-3203560f",
-        "title": "Lula wins fourth term in dramatic Brazil election comeback",
-        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-        "bullets": [
-          "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
+          "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-26T21:02:47.000Z"
+        "publishedAt": "2026-10-27T05:45:08.000Z"
       },
       {
-        "id": "world-73d7119e",
-        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+        "id": "world-0ce7732e",
+        "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+        "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
         "bullets": [
-          "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+          "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-26T14:34:52.000Z"
+        "publishedAt": "2026-10-27T01:46:38.000Z"
       },
       {
-        "id": "world-6719f8a7",
-        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+        "id": "world-b8e60881",
+        "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+        "summary": "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
         "bullets": [
-          "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+          "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-26T19:27:21.000Z"
+        "publishedAt": "2026-10-27T08:01:22.000Z"
       },
       {
-        "id": "world-c10e419f",
-        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-        "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+        "id": "world-4847c6cf",
+        "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+        "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
         "bullets": [
-          "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+          "The attack on a village in Syria killed five people, including women and children, Syrian health officials said."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-26T16:27:17.000Z"
+        "publishedAt": "2026-10-27T02:40:17.000Z"
       },
       {
-        "id": "world-043d4d1d",
-        "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-        "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+        "id": "world-075fd587",
+        "title": "Ex-FBI chief James Comey faces federal charges for third time",
+        "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
         "bullets": [
-          "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
+          "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-26T15:46:31.000Z"
+        "publishedAt": "2026-10-27T02:01:27.000Z"
       }
     ]
   }
