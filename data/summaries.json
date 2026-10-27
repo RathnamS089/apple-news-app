@@ -7777,7 +7777,7 @@
   },
   {
     "date": "2026-10-27",
-    "generatedAt": "2026-10-27T15:23:10.273Z",
+    "generatedAt": "2026-10-27T22:18:18.786Z",
     "articles": [
       {
         "id": "top-4a0a0b95",
@@ -7793,47 +7793,47 @@
         "publishedAt": "2026-10-27T15:01:27.000Z"
       },
       {
-        "id": "top-2ba4ff53",
-        "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
-        "summary": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.",
+        "id": "top-222636ad",
+        "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+        "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
         "bullets": [
-          "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday."
+          "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T19:41:05.000Z"
+      },
+      {
+        "id": "top-545ff80d",
+        "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+        "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+        "bullets": [
+          "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T12:50:14.000Z"
+        "publishedAt": "2026-10-27T18:32:54.000Z"
       },
       {
-        "id": "top-233a38e5",
-        "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-        "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+        "id": "top-5ad62697",
+        "title": "King to acknowledge 'suffering of the past' as Caribbean tour begins",
+        "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
         "bullets": [
-          "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
+          "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T11:11:33.000Z"
+        "publishedAt": "2026-10-27T22:13:37.000Z"
       },
       {
-        "id": "top-4e9837de",
-        "title": "What does Israel's election mean for Gaza and the wider world?",
-        "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-        "bullets": [
-          "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T10:17:36.000Z"
-      },
-      {
-        "id": "top-08dc229e",
-        "title": "Men abused woman advertised by husband, court told",
+        "id": "top-7bd03f3f",
+        "title": "Men abused woman after her husband drugged and advertised her online, court told",
         "summary": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.",
         "bullets": [
           "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her."
@@ -7842,191 +7842,163 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T14:28:16.000Z"
+        "publishedAt": "2026-10-27T17:34:27.000Z"
       },
       {
-        "id": "tech-3cdc8a2c",
-        "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-        "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+        "id": "tech-e8546e96",
+        "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+        "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
         "bullets": [
-          "I respect Apple's first crack at a foldable phone, but I'm not sure I like it."
+          "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T14:20:26.000Z"
+        "publishedAt": "2026-10-27T20:25:55.000Z"
       },
       {
-        "id": "tech-869095d6",
-        "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-        "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+        "id": "tech-0e345101",
+        "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+        "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
         "bullets": [
-          "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens."
+          "Easier app installs are coming to third-party stores, pending Google's stamp of approval."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T14:00:49.000Z"
+        "publishedAt": "2026-10-27T19:32:07.000Z"
       },
       {
-        "id": "tech-3891d682",
-        "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
-        "summary": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
+        "id": "tech-e5398111",
+        "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+        "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
         "bullets": [
-          "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe."
+          "You can apparently now tell AI tools what sort of protein you want them to make."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T13:32:35.000Z"
+        "publishedAt": "2026-10-27T18:49:08.000Z"
       },
       {
-        "id": "tech-9973679f",
-        "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-        "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+        "id": "tech-ea66325c",
+        "title": "Warner Bros. drops final trailer for Dune: Part Three",
+        "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
         "bullets": [
-          "Senators say officials hid a ruling on warrantless searches past its release deadline."
+          "\"After years of combat, I've become the oppressor Chani had sworn to fight.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T13:22:16.000Z"
+        "publishedAt": "2026-10-27T18:05:55.000Z"
       },
       {
-        "id": "tech-11166710",
-        "title": "Microsoft offers to buy out a quarter of its workforce",
-        "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+        "id": "tech-37b7dbe7",
+        "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+        "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
         "bullets": [
-          "Employees in the US, Canada, India, and the UK may receive offers to leave MS today."
+          "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+        "sourceUrl": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-10-26T22:36:06.000Z"
+        "publishedAt": "2026-10-27T16:17:58.000Z"
       },
       {
-        "id": "ai-08e0599f",
-        "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-        "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+        "id": "ai-3e311572",
+        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+        "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
         "bullets": [
-          "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned.",
-          "His startup, Ndoc, aims to take on Microsoft Office Suite."
+          "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T14:59:09.000Z"
+        "publishedAt": "2026-10-27T21:44:34.000Z"
       },
       {
-        "id": "ai-484c579d",
-        "title": "Japan internet giant GMO says hackers posted stolen customer data",
-        "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+        "id": "ai-0fb5680d",
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
         "bullets": [
-          "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
+          "Here's a clear explanation of Anthropic's incredibly complex governance structure."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T13:32:57.000Z"
+        "publishedAt": "2026-10-27T21:38:28.000Z"
       },
       {
-        "id": "ai-8336a489",
-        "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-        "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+        "id": "ai-2f3e2d85",
+        "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+        "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
         "bullets": [
-          "The new standard, WebAI, is designed to work with a variety of AI models."
+          "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T13:00:00.000Z"
+        "publishedAt": "2026-10-27T18:55:35.000Z"
       },
       {
-        "id": "ai-ee22b8c3",
-        "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-        "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+        "id": "ai-aa1922cb",
+        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+        "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
         "bullets": [
-          "General Compute is betting on inference chips from outside the Nvidia ecosystem."
+          "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T13:00:00.000Z"
+        "publishedAt": "2026-10-27T17:08:08.000Z"
       },
       {
-        "id": "ai-238042ec",
-        "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-        "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+        "id": "ai-64963883",
+        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
         "bullets": [
-          "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S.",
-          "accounting for more than half its revenue."
+          "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T11:00:00.000Z"
-      },
-      {
-        "id": "world-233a38e5",
-        "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-        "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
-        "bullets": [
-          "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T11:11:33.000Z"
+        "publishedAt": "2026-10-27T16:30:57.000Z"
       },
       {
         "id": "world-ca800bd7",
         "title": "Norway and Finland leaders hold rare call with Putin",
-        "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
+        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
         "bullets": [
-          "This is the first time European leaders have had direct communication with Russia's president in more than a year."
+          "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T14:23:05.000Z"
+        "publishedAt": "2026-10-27T18:28:23.000Z"
       },
       {
-        "id": "world-b8e60881",
-        "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-        "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+        "id": "world-a8599f0c",
+        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
         "bullets": [
-          "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get..."
+          "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-27T15:13:24.000Z"
-      },
-      {
-        "id": "world-0bf0ebbf",
-        "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-        "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
-        "bullets": [
-          "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T14:29:39.000Z"
+        "publishedAt": "2026-10-27T22:11:08.000Z"
       },
       {
         "id": "world-3945fc6f",
@@ -8040,6 +8012,32 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-27T13:25:54.000Z"
+      },
+      {
+        "id": "world-0ce7732e",
+        "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+        "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+        "bullets": [
+          "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T01:46:38.000Z"
+      },
+      {
+        "id": "world-5a87c0ed",
+        "title": "Dutch zookeeper dies after being mauled by leopard",
+        "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+        "bullets": [
+          "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T19:30:37.000Z"
       }
     ]
   }
