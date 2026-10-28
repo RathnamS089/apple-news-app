@@ -1,274 +1,5 @@
 [
   {
-    "date": "2026-09-28",
-    "generatedAt": "2026-09-28T21:15:03.891Z",
-    "articles": [
-      {
-        "id": "top-7df84f8b",
-        "title": "Five men arrested in RAF Fairford incident released on police bail",
-        "summary": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
-        "bullets": [
-          "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T19:16:26.000Z"
-      },
-      {
-        "id": "top-4feb61eb",
-        "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
-        "summary": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
-        "bullets": [
-          "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T19:28:54.000Z"
-      },
-      {
-        "id": "top-32af082d",
-        "title": "UK tries to stop Trump's diesel export ban",
-        "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
-        "bullets": [
-          "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T20:39:31.000Z"
-      },
-      {
-        "id": "top-7c028749",
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
-        "bullets": [
-          "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T18:07:25.000Z"
-      },
-      {
-        "id": "top-0c6c4f47",
-        "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
-        "summary": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
-        "bullets": [
-          "A thunderous lift off, rapid satellite deployments and a fiery ending.",
-          "That's how SpaceX's 14th launch of its Starship rocket panned out today."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T13:59:06.000Z"
-      },
-      {
-        "id": "tech-7a9c7685",
-        "title": "To keep drug prices high, pharma has been piling up the patents",
-        "summary": "Add-on patents have increased drug patent periods from two years to over six.",
-        "bullets": [
-          "Add-on patents have increased drug patent periods from two years to over six."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T19:53:37.000Z"
-      },
-      {
-        "id": "tech-a54eaa98",
-        "title": "Trump cuts fuel economy standards back to 2014 levels",
-        "summary": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
-        "bullets": [
-          "In 2020, Trump cut CAFE to 40 mpg.",
-          "Now he’s cut it again to just 35 mpg."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T19:35:51.000Z"
-      },
-      {
-        "id": "tech-f96b324c",
-        "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
-        "summary": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
-        "bullets": [
-          "Kalshi's defiance of state gambling laws may be headed to Supreme Court."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T19:04:09.000Z"
-      },
-      {
-        "id": "tech-8ca8937b",
-        "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-        "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
-        "bullets": [
-          "Google support maps out how Googlebooks can take over where ChromeOS left off."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T18:04:59.000Z"
-      },
-      {
-        "id": "tech-235e3dc0",
-        "title": "Scientists solve 1840s space weather mystery",
-        "summary": "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo.",
-        "bullets": [
-          "19th century Nature account of 1841 train delayed by geomagnetic storm got year wrong—due to a typo."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T17:56:36.000Z"
-      },
-      {
-        "id": "ai-28daa699",
-        "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-        "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-        "bullets": [
-          "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T20:39:33.000Z"
-      },
-      {
-        "id": "ai-9815353f",
-        "title": "Shopify opens checkout to browser-based AI agents",
-        "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-        "bullets": [
-          "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T19:33:57.000Z"
-      },
-      {
-        "id": "ai-b73ff56e",
-        "title": "Nvidia launches new platform for reining in rogue AI agents",
-        "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software...",
-        "bullets": [
-          "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is...",
-          "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T18:31:23.000Z"
-      },
-      {
-        "id": "ai-6957bf2f",
-        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-        "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-        "bullets": [
-          "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T18:00:00.000Z"
-      },
-      {
-        "id": "ai-e8a81e92",
-        "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-        "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-        "bullets": [
-          "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T17:29:50.000Z"
-      },
-      {
-        "id": "world-37c5ea42",
-        "title": "Inside Yemen's front-line city as Houthis battle for control",
-        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-        "bullets": [
-          "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-27T21:16:31.000Z"
-      },
-      {
-        "id": "world-7fe49d70",
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
-        "bullets": [
-          "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T14:57:31.000Z"
-      },
-      {
-        "id": "world-84b68347",
-        "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-        "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-        "bullets": [
-          "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T17:26:21.000Z"
-      },
-      {
-        "id": "world-61bc42ef",
-        "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-        "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-        "bullets": [
-          "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T17:15:00.000Z"
-      },
-      {
-        "id": "world-22b1cf13",
-        "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
-        "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
-        "bullets": [
-          "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-09-28T15:39:19.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-09-29",
     "generatedAt": "2026-09-29T22:19:09.681Z",
     "articles": [
@@ -7973,6 +7704,272 @@
         "category": "ai",
         "imageUrl": null,
         "publishedAt": "2026-10-27T16:30:57.000Z"
+      },
+      {
+        "id": "world-ca800bd7",
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+        "bullets": [
+          "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T18:28:23.000Z"
+      },
+      {
+        "id": "world-a8599f0c",
+        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+        "bullets": [
+          "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T22:11:08.000Z"
+      },
+      {
+        "id": "world-3945fc6f",
+        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+        "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+        "bullets": [
+          "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T13:25:54.000Z"
+      },
+      {
+        "id": "world-0ce7732e",
+        "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+        "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+        "bullets": [
+          "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T01:46:38.000Z"
+      },
+      {
+        "id": "world-5a87c0ed",
+        "title": "Dutch zookeeper dies after being mauled by leopard",
+        "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+        "bullets": [
+          "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T19:30:37.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "generatedAt": "2026-10-28T05:46:49.193Z",
+    "articles": [
+      {
+        "id": "top-861e7c4d",
+        "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+        "summary": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+        "bullets": [
+          "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-28T02:09:11.000Z"
+      },
+      {
+        "id": "top-de4b69ce",
+        "title": "Watch: What happens now after close vote in Israeli election?",
+        "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+        "bullets": [
+          "Polls have closed in the Israeli election, but there is no clear winner."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-28T04:22:59.000Z"
+      },
+      {
+        "id": "top-222636ad",
+        "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+        "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+        "bullets": [
+          "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T22:30:09.000Z"
+      },
+      {
+        "id": "top-e2e222e3",
+        "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+        "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+        "bullets": [
+          "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-28T02:47:45.000Z"
+      },
+      {
+        "id": "top-cf64ff16",
+        "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+        "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+        "bullets": [
+          "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-28T04:32:36.000Z"
+      },
+      {
+        "id": "tech-dc0d0a63",
+        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+        "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+        "bullets": [
+          "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T22:37:30.000Z"
+      },
+      {
+        "id": "tech-1fb862bb",
+        "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+        "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+        "bullets": [
+          "International travel used to be the main risk of measles cases in the US—not anymore."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T22:22:32.000Z"
+      },
+      {
+        "id": "tech-cff4becb",
+        "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+        "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+        "bullets": [
+          "The DIA's threat assessment suggests China may soon place directed energy weapons in space."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T22:04:50.000Z"
+      },
+      {
+        "id": "tech-bc91594c",
+        "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+        "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+        "bullets": [
+          "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T21:50:04.000Z"
+      },
+      {
+        "id": "tech-16796f8f",
+        "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+        "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+        "bullets": [
+          "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T21:31:14.000Z"
+      },
+      {
+        "id": "ai-23c3461e",
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+        "bullets": [
+          "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-28T01:15:28.000Z"
+      },
+      {
+        "id": "ai-d6ef472e",
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+        "bullets": [
+          "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T23:34:27.000Z"
+      },
+      {
+        "id": "ai-9bc805f0",
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+        "bullets": [
+          "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T22:55:41.000Z"
+      },
+      {
+        "id": "ai-3e311572",
+        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+        "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+        "bullets": [
+          "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T21:44:34.000Z"
+      },
+      {
+        "id": "ai-0fb5680d",
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+        "bullets": [
+          "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-27T21:38:28.000Z"
       },
       {
         "id": "world-ca800bd7",
