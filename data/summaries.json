@@ -7778,59 +7778,59 @@
   },
   {
     "date": "2026-10-30",
-    "generatedAt": "2026-10-30T01:03:57.320Z",
+    "generatedAt": "2026-10-30T10:06:02.691Z",
     "articles": [
       {
-        "id": "top-6bdbef94",
-        "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
-        "summary": "Over seven decades, Sir Patrick received multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II.",
+        "id": "top-f8d623ee",
+        "title": "What we know about Binance's $6.3bn hack",
+        "summary": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
         "bullets": [
-          "Over seven decades, Sir Patrick received multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth..."
+          "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T08:02:02.000Z"
+      },
+      {
+        "id": "top-bee4daef",
+        "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+        "summary": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+        "bullets": [
+          "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T08:55:01.000Z"
+      },
+      {
+        "id": "top-40ee0499",
+        "title": "Watch: Iconic moments from Sir Patrick Stewart's career",
+        "summary": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
+        "bullets": [
+          "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-29T21:57:04.000Z"
+        "publishedAt": "2026-10-30T08:59:45.000Z"
       },
       {
-        "id": "top-37cacb31",
-        "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
-        "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+        "id": "top-147fb15d",
+        "title": "Foreign defence contractors will need to invest in UK under new rules",
+        "summary": "Foreign firms awarded large defence contracts will need to invest an equal value back into the UK, Wes Streeting announces.",
         "bullets": [
-          "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled..."
+          "Foreign firms awarded large defence contracts will need to invest an equal value back into the UK, Wes Streeting announces."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-29T20:50:25.000Z"
-      },
-      {
-        "id": "top-ccf77e82",
-        "title": "What are the government's options for reducing welfare spending?",
-        "summary": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.",
-        "bullets": [
-          "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T17:59:57.000Z"
-      },
-      {
-        "id": "top-4a4a6259",
-        "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-        "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-        "bullets": [
-          "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T22:17:52.000Z"
+        "publishedAt": "2026-10-30T08:27:19.000Z"
       },
       {
         "id": "top-b6f70f4a",
@@ -7911,8 +7911,21 @@
         "publishedAt": "2026-10-29T18:29:12.000Z"
       },
       {
-        "id": "ai-080c7901",
-        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "id": "ai-31e5c0dc",
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "bullets": [
+          "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T01:20:48.000Z"
+      },
+      {
+        "id": "ai-c368359d",
+        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
         "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
         "bullets": [
           "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business.",
@@ -7964,43 +7977,56 @@
         "publishedAt": "2026-10-29T19:56:19.000Z"
       },
       {
-        "id": "ai-4beb5009",
-        "title": "Meta quietly launches an AI fashion app called Style Sketch",
-        "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+        "id": "world-07980d10",
+        "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+        "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
         "bullets": [
-          "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T19:14:36.000Z"
-      },
-      {
-        "id": "world-c2ac193c",
-        "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-        "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-        "bullets": [
-          "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
+          "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-29T20:21:54.000Z"
+        "publishedAt": "2026-10-30T01:35:40.000Z"
       },
       {
-        "id": "world-6150fb85",
-        "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-        "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+        "id": "world-85a6b33b",
+        "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+        "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
         "bullets": [
-          "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
+          "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-29T11:07:35.000Z"
+        "publishedAt": "2026-10-30T03:24:12.000Z"
+      },
+      {
+        "id": "world-7941b50c",
+        "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+        "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+        "bullets": [
+          "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T06:02:23.000Z"
+      },
+      {
+        "id": "world-55d6bb81",
+        "title": "How Kenyans got caught in $130m US ghost student scam",
+        "summary": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
+        "bullets": [
+          "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T08:32:35.000Z"
       },
       {
         "id": "world-14940a8f",
@@ -8014,32 +8040,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-29T20:05:57.000Z"
-      },
-      {
-        "id": "world-e3b1d87a",
-        "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-        "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-        "bullets": [
-          "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T14:17:35.000Z"
-      },
-      {
-        "id": "world-695ffe42",
-        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-        "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-        "bullets": [
-          "The defeated presidential candidate says he will lead the opposition from the US."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T14:58:28.000Z"
       }
     ]
   }
