@@ -7778,7 +7778,7 @@
   },
   {
     "date": "2026-10-30",
-    "generatedAt": "2026-10-30T18:02:08.084Z",
+    "generatedAt": "2026-10-30T22:24:26.482Z",
     "articles": [
       {
         "id": "top-ead820e3",
@@ -7791,7 +7791,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T17:39:43.000Z"
+        "publishedAt": "2026-10-30T21:13:14.000Z"
       },
       {
         "id": "top-f8d623ee",
@@ -7807,19 +7807,6 @@
         "publishedAt": "2026-10-30T12:27:28.000Z"
       },
       {
-        "id": "top-cb11760f",
-        "title": "Driver guilty of hitting cyclist and dragging him to death under car",
-        "summary": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
-        "bullets": [
-          "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T15:27:40.000Z"
-      },
-      {
         "id": "top-c9ef350e",
         "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
         "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
@@ -7833,17 +7820,82 @@
         "publishedAt": "2026-10-30T16:26:11.000Z"
       },
       {
-        "id": "top-04244594",
-        "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
-        "summary": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
+        "id": "top-ffaca031",
+        "title": "Celebrity Traitors comes to a climax in nail-biting final",
+        "summary": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers.",
         "bullets": [
-          "The force said it had received information and stressed its inquiries were at \"an early stage\"."
+          "The second series of the hit series reached its climax on Friday after attracting 15 million viewers."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T15:39:49.000Z"
+        "publishedAt": "2026-10-30T22:00:39.000Z"
+      },
+      {
+        "id": "top-cb11760f",
+        "title": "Driver guilty of hitting cyclist and dragging him to death under car",
+        "summary": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+        "bullets": [
+          "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T15:27:40.000Z"
+      },
+      {
+        "id": "tech-5a1a0c7b",
+        "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "summary": "People who love AI don't always love telling others they used it.",
+        "bullets": [
+          "People who love AI don't always love telling others they used it."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T20:40:13.000Z"
+      },
+      {
+        "id": "tech-3d1a3d3c",
+        "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+        "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
+        "bullets": [
+          "Faked symptoms still point to infections that antibiotics don't treat."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T20:17:50.000Z"
+      },
+      {
+        "id": "tech-e8e8f660",
+        "title": "Basically no one is using AI agents for their DoorDash orders",
+        "summary": "But it's still early days for the relatively new e-commerce use case.",
+        "bullets": [
+          "But it's still early days for the relatively new e-commerce use case."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T19:30:52.000Z"
+      },
+      {
+        "id": "tech-579163b8",
+        "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+        "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+        "bullets": [
+          "A meteorite found in the Sahara is a rare piece of Mars' ancient crust."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T18:13:42.000Z"
       },
       {
         "id": "tech-0209e76a",
@@ -7859,56 +7911,57 @@
         "publishedAt": "2026-10-30T17:38:19.000Z"
       },
       {
-        "id": "tech-04fcec3d",
-        "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-        "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+        "id": "ai-4b92c717",
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
         "bullets": [
-          "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up."
+          "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T16:53:49.000Z"
+        "publishedAt": "2026-10-30T21:54:34.000Z"
       },
       {
-        "id": "tech-eb744a4b",
-        "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-        "summary": "There's no evidence that Starship will launch traditional satellites, either.",
+        "id": "ai-a453c51b",
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+        "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
         "bullets": [
-          "There's no evidence that Starship will launch traditional satellites, either."
+          "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T16:12:59.000Z"
+        "publishedAt": "2026-10-30T21:52:03.000Z"
       },
       {
-        "id": "tech-b91ceabf",
-        "title": "GM to pay $220 million after selling customer Smart Driver data",
-        "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
+        "id": "ai-afe84d14",
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
         "bullets": [
-          "Owners of GM cars found their driving data had been sold to insurance companies."
+          "No Halloween costume?",
+          "Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T13:53:20.000Z"
+        "publishedAt": "2026-10-30T21:26:59.000Z"
       },
       {
-        "id": "tech-ae575c6b",
-        "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-        "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+        "id": "ai-05dfa4ed",
+        "title": "Cracks are emerging in the AI spending boom",
+        "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
         "bullets": [
-          "Binance scrambles to freeze billions after record-breaking hack linked to North Korea."
+          "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions..."
         ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T13:46:39.000Z"
+        "publishedAt": "2026-10-30T21:17:40.000Z"
       },
       {
         "id": "ai-81f3d23e",
@@ -7925,58 +7978,6 @@
         "publishedAt": "2026-10-30T17:47:12.000Z"
       },
       {
-        "id": "ai-625a60b6",
-        "title": "Google’s first data center satellite is online and writing poetry",
-        "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-        "bullets": [
-          "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T17:00:00.000Z"
-      },
-      {
-        "id": "ai-d3c3fc3d",
-        "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-        "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-        "bullets": [
-          "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T16:03:45.000Z"
-      },
-      {
-        "id": "ai-12b164aa",
-        "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-        "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before...",
-        "bullets": [
-          "Register before the event starts to save up to $100 on your pass, plus get a second for free."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T14:00:00.000Z"
-      },
-      {
-        "id": "ai-be44848d",
-        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-        "summary": "DoorDash said that it is open to working with third-party agent makers.",
-        "bullets": [
-          "DoorDash said that it is open to working with third-party agent makers."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T13:54:25.000Z"
-      },
-      {
         "id": "world-ead820e3",
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
         "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
@@ -7987,7 +7988,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T17:39:43.000Z"
+        "publishedAt": "2026-10-30T21:13:14.000Z"
       },
       {
         "id": "world-be8c3e2e",
@@ -8016,30 +8017,30 @@
         "publishedAt": "2026-10-30T16:26:11.000Z"
       },
       {
-        "id": "world-ba797877",
-        "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-        "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+        "id": "world-f683977e",
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
         "bullets": [
-          "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
+          "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T11:23:06.000Z"
+        "publishedAt": "2026-10-30T22:20:52.000Z"
       },
       {
-        "id": "world-a019acce",
-        "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-        "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+        "id": "world-5454a1b2",
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
         "bullets": [
-          "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
+          "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-30T15:03:39.000Z"
+        "publishedAt": "2026-10-30T20:52:01.000Z"
       }
     ]
   }
