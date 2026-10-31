@@ -7779,33 +7779,33 @@
   },
   {
     "date": "2026-10-31",
-    "generatedAt": "2026-10-31T05:49:44.809Z",
+    "generatedAt": "2026-10-31T12:39:22.846Z",
     "articles": [
-      {
-        "id": "top-f683977e",
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-        "bullets": [
-          "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T00:40:43.000Z"
-      },
       {
         "id": "top-faf7c670",
         "title": "Burnham 'open' to calls for slavery apology but not reparations",
-        "summary": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
+        "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
         "bullets": [
-          "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\"."
+          "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T03:12:08.000Z"
+        "publishedAt": "2026-10-31T09:52:52.000Z"
+      },
+      {
+        "id": "top-228c0306",
+        "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+        "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+        "bullets": [
+          "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T12:05:04.000Z"
       },
       {
         "id": "top-6226fac3",
@@ -7821,19 +7821,6 @@
         "publishedAt": "2026-10-31T02:12:19.000Z"
       },
       {
-        "id": "top-94929741",
-        "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
-        "summary": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.",
-        "bullets": [
-          "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T05:16:01.000Z"
-      },
-      {
         "id": "top-ffaca031",
         "title": "Celebrity Traitors comes to a climax in nail-biting final",
         "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
@@ -7844,7 +7831,47 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T02:18:59.000Z"
+        "publishedAt": "2026-10-31T10:54:56.000Z"
+      },
+      {
+        "id": "top-b52a25a3",
+        "title": "Watch: Traitor or faithful? Celebrities reveal their allegiances",
+        "summary": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
+        "bullets": [
+          "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T02:20:46.000Z"
+      },
+      {
+        "id": "tech-effa2d4d",
+        "title": "Seabirds racing home over the ocean can get jet-lagged",
+        "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+        "bullets": [
+          "A long flight home from feeding grounds messes with birds' internal clocks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T11:15:26.000Z"
+      },
+      {
+        "id": "tech-856c70c6",
+        "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+        "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+        "bullets": [
+          "The regulator says Tavneos was approved on the basis of manipulated study data.",
+          "Should patients still have access to it?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T11:02:34.000Z"
       },
       {
         "id": "tech-01e28768",
@@ -7885,32 +7912,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-10-30T22:21:05.000Z"
-      },
-      {
-        "id": "tech-935630a2",
-        "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-        "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-        "bullets": [
-          "Boom’s airliner may be delayed, and its data center power business lost a customer."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T21:41:54.000Z"
-      },
-      {
-        "id": "tech-e03d4014",
-        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-        "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-        "bullets": [
-          "It's still unknown how attackers got access to Anthropic's verified Cursor account."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T21:09:54.000Z"
       },
       {
         "id": "ai-3a2d1c0c",
@@ -7979,6 +7980,19 @@
         "publishedAt": "2026-10-30T21:26:59.000Z"
       },
       {
+        "id": "world-228c0306",
+        "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+        "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+        "bullets": [
+          "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T12:05:04.000Z"
+      },
+      {
         "id": "world-f683977e",
         "title": "US approves sale of 500 Patriot missiles to Ukraine",
         "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
@@ -7989,20 +8003,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T00:40:43.000Z"
-      },
-      {
-        "id": "world-ead820e3",
-        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-        "bullets": [
-          "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T21:13:14.000Z"
+        "publishedAt": "2026-10-31T12:21:25.000Z"
       },
       {
         "id": "world-6226fac3",
