@@ -7779,72 +7779,72 @@
   },
   {
     "date": "2026-10-31",
-    "generatedAt": "2026-10-31T12:39:22.846Z",
+    "generatedAt": "2026-10-31T19:20:20.223Z",
     "articles": [
       {
-        "id": "top-faf7c670",
-        "title": "Burnham 'open' to calls for slavery apology but not reparations",
-        "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
+        "id": "top-339ae7ef",
+        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+        "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
         "bullets": [
-          "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T09:52:52.000Z"
-      },
-      {
-        "id": "top-228c0306",
-        "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-        "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-        "bullets": [
-          "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
+          "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T12:05:04.000Z"
+        "publishedAt": "2026-10-31T17:53:35.000Z"
       },
       {
-        "id": "top-6226fac3",
-        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+        "id": "top-3fd62aa9",
+        "title": "Emotional reunions with loved ones for Oleshky evacuees",
+        "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
         "bullets": [
-          "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+          "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T02:12:19.000Z"
+        "publishedAt": "2026-10-31T16:55:47.000Z"
       },
       {
-        "id": "top-ffaca031",
-        "title": "Celebrity Traitors comes to a climax in nail-biting final",
-        "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
+        "id": "top-f0ad8dd1",
+        "title": "Healey risks breaking minimum wage promise for younger workers",
+        "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
         "bullets": [
-          "The second series of the hit show reached its climax on Friday after attracting 15 million viewers."
+          "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T10:54:56.000Z"
+        "publishedAt": "2026-10-31T17:26:29.000Z"
       },
       {
-        "id": "top-b52a25a3",
-        "title": "Watch: Traitor or faithful? Celebrities reveal their allegiances",
-        "summary": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
+        "id": "top-e4899a1d",
+        "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
+        "summary": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
         "bullets": [
-          "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven..."
+          "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T02:20:46.000Z"
+        "publishedAt": "2026-10-31T16:49:18.000Z"
+      },
+      {
+        "id": "top-db2cd644",
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+        "bullets": [
+          "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T16:32:08.000Z"
       },
       {
         "id": "tech-effa2d4d",
@@ -7914,6 +7914,19 @@
         "publishedAt": "2026-10-30T22:21:05.000Z"
       },
       {
+        "id": "ai-45229ca6",
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "bullets": [
+          "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T16:12:55.000Z"
+      },
+      {
         "id": "ai-3a2d1c0c",
         "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
         "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
@@ -7966,57 +7979,43 @@
         "publishedAt": "2026-10-30T21:52:03.000Z"
       },
       {
-        "id": "ai-afe84d14",
-        "title": "Last-minute Halloween costumes for tech nerds",
-        "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+        "id": "world-339ae7ef",
+        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+        "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
         "bullets": [
-          "No Halloween costume?",
-          "Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T21:26:59.000Z"
-      },
-      {
-        "id": "world-228c0306",
-        "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-        "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-        "bullets": [
-          "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
+          "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T12:05:04.000Z"
+        "publishedAt": "2026-10-31T17:53:35.000Z"
       },
       {
-        "id": "world-f683977e",
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "id": "world-db2cd644",
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
         "bullets": [
-          "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+          "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T12:21:25.000Z"
+        "publishedAt": "2026-10-31T16:32:08.000Z"
       },
       {
-        "id": "world-6226fac3",
-        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+        "id": "world-56c51663",
+        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
         "bullets": [
-          "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+          "Government data shows that more than 10,000 people have contracted the rare virus."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T02:12:19.000Z"
+        "publishedAt": "2026-10-31T15:16:20.000Z"
       },
       {
         "id": "world-5454a1b2",
@@ -8032,17 +8031,17 @@
         "publishedAt": "2026-10-31T01:11:43.000Z"
       },
       {
-        "id": "world-98e9dac4",
-        "title": "Spain train disaster clouds Sánchez chances of re-election",
-        "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+        "id": "world-ab758071",
+        "title": "Ethiopian PM puts ministers through military training",
+        "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
         "bullets": [
-          "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+          "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T05:44:21.000Z"
+        "publishedAt": "2026-10-31T14:28:15.000Z"
       }
     ]
   }
