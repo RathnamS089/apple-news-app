@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "generatedAt": "2026-10-01T18:26:48.175Z",
-    "articles": [
-      {
-        "id": "top-c74a3692",
-        "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-        "summary": "The 27-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
-        "bullets": [
-          "The 27-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T17:51:23.000Z"
-      },
-      {
-        "id": "top-c6d4a6c7",
-        "title": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'",
-        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-        "bullets": [
-          "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T18:19:14.000Z"
-      },
-      {
-        "id": "top-5c969592",
-        "title": "Hundreds of criminals start leaving prison under new early release scheme",
-        "summary": "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full.",
-        "bullets": [
-          "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T15:18:22.000Z"
-      },
-      {
-        "id": "top-a77fe0ac",
-        "title": "HMRC urged to scrutinise tax implications of Man City case",
-        "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
-        "bullets": [
-          "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T18:21:22.000Z"
-      },
-      {
-        "id": "top-73c87887",
-        "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-        "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
-        "bullets": [
-          "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T17:26:40.000Z"
-      },
-      {
-        "id": "tech-2fb66de6",
-        "title": "With most information hidden, the game Stratego",
-        "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-        "bullets": [
-          "Adding in a second neural network that guesses the identity of hidden pieces was key."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T16:28:04.000Z"
-      },
-      {
-        "id": "tech-0d780766",
-        "title": "As US relations fray, Canada gets serious about its own launch industry",
-        "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
-        "bullets": [
-          "The Canada Rocket Company gets serious about medium-lift launch."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T15:30:49.000Z"
-      },
-      {
-        "id": "tech-33ae09d1",
-        "title": "PS5 emulation is suddenly making big strides on PC",
-        "summary": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
-        "bullets": [
-          "Games like Astro Bot and Demon’s Souls are running ably without a console."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T11:30:41.000Z"
-      },
-      {
-        "id": "tech-7c233e9e",
-        "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
-        "summary": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
-        "bullets": [
-          "\"We did some really, really cool stuff.",
-          "I'm absolutely gutted we weren't able to get further.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T11:15:15.000Z"
-      },
-      {
-        "id": "tech-59d2dad7",
-        "title": "Dinosaur-killing impact crater might have been teeming with life",
-        "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
-        "bullets": [
-          "Hot, nutrient water might have lasted for over 5 million years after the impact."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-09-30T21:54:12.000Z"
-      },
-      {
-        "id": "ai-d02f4609",
-        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-        "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-        "bullets": [
-          "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T18:14:42.000Z"
-      },
-      {
-        "id": "ai-38d78178",
-        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-        "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-        "bullets": [
-          "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T17:50:19.000Z"
-      },
-      {
-        "id": "ai-0d52cfb7",
-        "title": "Amazon releases its own Jev clone as decision models flood the web",
-        "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-        "bullets": [
-          "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T16:49:22.000Z"
-      },
-      {
-        "id": "ai-3cb77720",
-        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-        "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-        "bullets": [
-          "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T16:44:35.000Z"
-      },
-      {
-        "id": "ai-f16320b4",
-        "title": "Brian Chesky interview: AI agents need their own operating system",
-        "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-        "bullets": [
-          "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T15:12:00.000Z"
-      },
-      {
-        "id": "world-14cc31a4",
-        "title": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
-        "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
-        "bullets": [
-          "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T16:45:35.000Z"
-      },
-      {
-        "id": "world-fadc603e",
-        "title": "What happened in the failed execution of Christa Pike - and what next?",
-        "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-        "bullets": [
-          "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T17:31:06.000Z"
-      },
-      {
-        "id": "world-b86f6ae3",
-        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-        "bullets": [
-          "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T18:19:14.000Z"
-      },
-      {
-        "id": "world-56b7f344",
-        "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-        "summary": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
-        "bullets": [
-          "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T18:09:03.000Z"
-      },
-      {
-        "id": "world-f83357b8",
-        "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-        "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-        "bullets": [
-          "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-01T11:37:46.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-02",
     "generatedAt": "2026-10-02T22:16:53.976Z",
     "articles": [
@@ -8041,6 +7774,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-30T20:52:01.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "generatedAt": "2026-10-31T05:49:44.809Z",
+    "articles": [
+      {
+        "id": "top-f683977e",
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "bullets": [
+          "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T00:40:43.000Z"
+      },
+      {
+        "id": "top-faf7c670",
+        "title": "Burnham 'open' to calls for slavery apology but not reparations",
+        "summary": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
+        "bullets": [
+          "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T03:12:08.000Z"
+      },
+      {
+        "id": "top-6226fac3",
+        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+        "bullets": [
+          "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T02:12:19.000Z"
+      },
+      {
+        "id": "top-94929741",
+        "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
+        "summary": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.",
+        "bullets": [
+          "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T05:16:01.000Z"
+      },
+      {
+        "id": "top-ffaca031",
+        "title": "Celebrity Traitors comes to a climax in nail-biting final",
+        "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
+        "bullets": [
+          "The second series of the hit show reached its climax on Friday after attracting 15 million viewers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T02:18:59.000Z"
+      },
+      {
+        "id": "tech-01e28768",
+        "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+        "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+        "bullets": [
+          "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T00:07:22.000Z"
+      },
+      {
+        "id": "tech-e3e2e2f9",
+        "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+        "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+        "bullets": [
+          "USDA has identified 74 animal cases in US since parasitic flies invaded in June."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T22:36:41.000Z"
+      },
+      {
+        "id": "tech-50537cf5",
+        "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+        "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+        "bullets": [
+          "\"For huge numbers of people, I will always be Jean-Luc Picard.",
+          "We created an admirable individual.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T22:21:05.000Z"
+      },
+      {
+        "id": "tech-935630a2",
+        "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+        "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+        "bullets": [
+          "Boom’s airliner may be delayed, and its data center power business lost a customer."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T21:41:54.000Z"
+      },
+      {
+        "id": "tech-e03d4014",
+        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+        "bullets": [
+          "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T21:09:54.000Z"
+      },
+      {
+        "id": "ai-3a2d1c0c",
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "bullets": [
+          "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T01:20:05.000Z"
+      },
+      {
+        "id": "ai-518611ce",
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+        "bullets": [
+          "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T22:56:13.000Z"
+      },
+      {
+        "id": "ai-4b92c717",
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "bullets": [
+          "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T21:54:34.000Z"
+      },
+      {
+        "id": "ai-db99b9da",
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+        "bullets": [
+          "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T21:52:03.000Z"
+      },
+      {
+        "id": "ai-afe84d14",
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+        "bullets": [
+          "No Halloween costume?",
+          "Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T21:26:59.000Z"
+      },
+      {
+        "id": "world-f683977e",
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "bullets": [
+          "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T00:40:43.000Z"
+      },
+      {
+        "id": "world-ead820e3",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "bullets": [
+          "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T21:13:14.000Z"
+      },
+      {
+        "id": "world-6226fac3",
+        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+        "bullets": [
+          "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T02:12:19.000Z"
+      },
+      {
+        "id": "world-5454a1b2",
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+        "bullets": [
+          "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T01:11:43.000Z"
+      },
+      {
+        "id": "world-98e9dac4",
+        "title": "Spain train disaster clouds Sánchez chances of re-election",
+        "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+        "bullets": [
+          "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T05:44:21.000Z"
       }
     ]
   }
