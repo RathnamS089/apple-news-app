@@ -7779,20 +7779,20 @@
   },
   {
     "date": "2026-11-01",
-    "generatedAt": "2026-11-01T00:09:45.625Z",
+    "generatedAt": "2026-11-01T06:13:13.747Z",
     "articles": [
       {
-        "id": "top-2f26a3d7",
-        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-        "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+        "id": "top-6401c193",
+        "title": "Shops looted as German cost of living protests turn violent",
+        "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
         "bullets": [
-          "One evacuated couple says they crossed minefields in Oleshky in search of food."
+          "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T19:22:26.000Z"
+        "publishedAt": "2026-11-01T01:59:57.000Z"
       },
       {
         "id": "top-68103570",
@@ -7808,43 +7808,43 @@
         "publishedAt": "2026-10-31T17:26:29.000Z"
       },
       {
-        "id": "top-f2b6ce20",
-        "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-        "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+        "id": "top-2f26a3d7",
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+        "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
         "bullets": [
-          "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour."
+          "One evacuated couple says they crossed minefields in Oleshky in search of food."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T22:56:15.000Z"
+        "publishedAt": "2026-10-31T19:22:26.000Z"
       },
       {
-        "id": "top-e5367006",
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+        "id": "top-b70c6f5e",
+        "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+        "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
         "bullets": [
-          "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters..."
+          "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T21:29:01.000Z"
+        "publishedAt": "2026-11-01T06:03:57.000Z"
       },
       {
-        "id": "top-fce1f033",
-        "title": "Who are the real winners of Celebrity Traitors?",
-        "summary": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
+        "id": "top-5ec18092",
+        "title": "Reeves says UK's future should be inside the EU",
+        "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
         "bullets": [
-          "Certain stars have been tipped by industry experts as getting the biggest career boost after the show."
+          "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T00:06:01.000Z"
+        "publishedAt": "2026-11-01T02:57:34.000Z"
       },
       {
         "id": "tech-effa2d4d",
@@ -7979,6 +7979,19 @@
         "publishedAt": "2026-10-31T01:20:05.000Z"
       },
       {
+        "id": "world-6401c193",
+        "title": "Shops looted as German cost of living protests turn violent",
+        "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+        "bullets": [
+          "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T01:59:57.000Z"
+      },
+      {
         "id": "world-2f26a3d7",
         "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
         "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
@@ -8005,19 +8018,6 @@
         "publishedAt": "2026-10-31T17:53:35.000Z"
       },
       {
-        "id": "world-e5367006",
-        "title": "Thousands demonstrate in Paris as protests spread across Europe",
-        "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-        "bullets": [
-          "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T21:29:01.000Z"
-      },
-      {
         "id": "world-db2cd644",
         "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
         "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
@@ -8031,17 +8031,17 @@
         "publishedAt": "2026-10-31T22:11:45.000Z"
       },
       {
-        "id": "world-56c51663",
-        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-        "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+        "id": "world-c3f43c67",
+        "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+        "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
         "bullets": [
-          "Government data shows that more than 10,000 people have contracted the rare virus."
+          "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T15:16:20.000Z"
+        "publishedAt": "2026-11-01T00:12:07.000Z"
       }
     ]
   }
