@@ -7779,24 +7779,24 @@
   },
   {
     "date": "2026-11-01",
-    "generatedAt": "2026-11-01T06:13:13.747Z",
+    "generatedAt": "2026-11-01T13:30:35.809Z",
     "articles": [
       {
         "id": "top-6401c193",
         "title": "Shops looted as German cost of living protests turn violent",
-        "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+        "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
         "bullets": [
-          "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
+          "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T01:59:57.000Z"
+        "publishedAt": "2026-11-01T11:57:48.000Z"
       },
       {
-        "id": "top-68103570",
-        "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+        "id": "top-f0ad8dd1",
+        "title": "Healey risks breaking minimum wage promise for younger workers",
         "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
         "bullets": [
           "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election."
@@ -7805,20 +7805,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-10-31T17:26:29.000Z"
-      },
-      {
-        "id": "top-2f26a3d7",
-        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-        "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-        "bullets": [
-          "One evacuated couple says they crossed minefields in Oleshky in search of food."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T19:22:26.000Z"
+        "publishedAt": "2026-11-01T11:05:40.000Z"
       },
       {
         "id": "top-b70c6f5e",
@@ -7844,7 +7831,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T02:57:34.000Z"
+        "publishedAt": "2026-11-01T10:47:03.000Z"
+      },
+      {
+        "id": "top-338eb38d",
+        "title": "University of Cambridge scientist among those who died in Spanish train crash",
+        "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+        "bullets": [
+          "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T13:06:00.000Z"
       },
       {
         "id": "tech-effa2d4d",
@@ -7981,15 +7981,41 @@
       {
         "id": "world-6401c193",
         "title": "Shops looted as German cost of living protests turn violent",
-        "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+        "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
         "bullets": [
-          "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
+          "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T01:59:57.000Z"
+        "publishedAt": "2026-11-01T11:57:48.000Z"
+      },
+      {
+        "id": "world-8d271cae",
+        "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+        "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+        "bullets": [
+          "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T00:41:24.000Z"
+      },
+      {
+        "id": "world-cd4dc6c9",
+        "title": "India's opposition holds mega rally seeking election chief's resignation",
+        "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+        "bullets": [
+          "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T07:00:55.000Z"
       },
       {
         "id": "world-2f26a3d7",
@@ -8016,32 +8042,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-31T17:53:35.000Z"
-      },
-      {
-        "id": "world-db2cd644",
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-        "bullets": [
-          "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T22:11:45.000Z"
-      },
-      {
-        "id": "world-c3f43c67",
-        "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-        "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-        "bullets": [
-          "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-01T00:12:07.000Z"
       }
     ]
   }
