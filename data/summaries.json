@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "generatedAt": "2026-10-02T22:16:53.976Z",
-    "articles": [
-      {
-        "id": "top-81076a3a",
-        "title": "Widdecombe suspect charged with planning terror act against Farage",
-        "summary": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
-        "bullets": [
-          "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:32:25.000Z"
-      },
-      {
-        "id": "top-b10740f9",
-        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-        "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-        "bullets": [
-          "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T20:25:19.000Z"
-      },
-      {
-        "id": "top-0b9fd5df",
-        "title": "Watch: Why has UK diesel price hit an all time high?",
-        "summary": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
-        "bullets": [
-          "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T16:58:30.000Z"
-      },
-      {
-        "id": "top-c15cd650",
-        "title": "Men charged over alleged plot to target Manchester Jewish community",
-        "summary": "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.",
-        "bullets": [
-          "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:38:05.000Z"
-      },
-      {
-        "id": "top-56b88cb4",
-        "title": "Riot police clash with students as education protests rage in France",
-        "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "bullets": [
-          "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:13:27.000Z"
-      },
-      {
-        "id": "tech-319cba7f",
-        "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-        "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
-        "bullets": [
-          "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T20:30:27.000Z"
-      },
-      {
-        "id": "tech-c4c8ccbb",
-        "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-        "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-        "bullets": [
-          "Actors with makeup and fake symptoms staggered into 73 healthcare facilities."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T20:07:59.000Z"
-      },
-      {
-        "id": "tech-305b1c84",
-        "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-        "summary": "Critics say workers are still owed far more.",
-        "bullets": [
-          "Critics say workers are still owed far more."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T19:09:49.000Z"
-      },
-      {
-        "id": "tech-95565b0f",
-        "title": "The 2008 economic crisis changed the US's relationship with energy",
-        "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
-        "bullets": [
-          "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T18:56:21.000Z"
-      },
-      {
-        "id": "tech-d19b1f14",
-        "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-        "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-        "bullets": [
-          "Nvidia’s chip-smuggling problem won’t go away as arrests continue."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T18:39:36.000Z"
-      },
-      {
-        "id": "ai-d764cfd9",
-        "title": "Sean Parker is rebuilding Stability AI around music",
-        "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-        "bullets": [
-          "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:09:14.000Z"
-      },
-      {
-        "id": "ai-0f4dcc40",
-        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-        "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-        "bullets": [
-          "Your next opportunity could be one conversation away.",
-          "Get your Expo+ Pass for just $75.",
-          "Limited to the first 100 qualifying people."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T19:15:51.000Z"
-      },
-      {
-        "id": "ai-91661490",
-        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-        "bullets": [
-          "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T18:11:27.000Z"
-      },
-      {
-        "id": "ai-87140b17",
-        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-        "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an...",
-        "bullets": [
-          "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T17:56:00.000Z"
-      },
-      {
-        "id": "ai-e0f9da78",
-        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-        "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an...",
-        "bullets": [
-          "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T17:48:16.000Z"
-      },
-      {
-        "id": "world-b10740f9",
-        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-        "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-        "bullets": [
-          "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T20:25:19.000Z"
-      },
-      {
-        "id": "world-56b88cb4",
-        "title": "Riot police clash with students as education protests rage in France",
-        "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-        "bullets": [
-          "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:13:27.000Z"
-      },
-      {
-        "id": "world-9a9bd0d3",
-        "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-        "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-        "bullets": [
-          "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T20:32:07.000Z"
-      },
-      {
-        "id": "world-98e378cb",
-        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-        "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-        "bullets": [
-          "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T17:44:08.000Z"
-      },
-      {
-        "id": "world-cd1ceb1a",
-        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-        "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-        "bullets": [
-          "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T15:26:37.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-03",
     "generatedAt": "2026-10-03T21:20:54.879Z",
     "articles": [
@@ -8042,6 +7774,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-10-31T14:28:15.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-01",
+    "generatedAt": "2026-11-01T00:09:45.625Z",
+    "articles": [
+      {
+        "id": "top-2f26a3d7",
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+        "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+        "bullets": [
+          "One evacuated couple says they crossed minefields in Oleshky in search of food."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T19:22:26.000Z"
+      },
+      {
+        "id": "top-68103570",
+        "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+        "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+        "bullets": [
+          "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T17:26:29.000Z"
+      },
+      {
+        "id": "top-f2b6ce20",
+        "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+        "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+        "bullets": [
+          "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T22:56:15.000Z"
+      },
+      {
+        "id": "top-e5367006",
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
+        "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+        "bullets": [
+          "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T21:29:01.000Z"
+      },
+      {
+        "id": "top-fce1f033",
+        "title": "Who are the real winners of Celebrity Traitors?",
+        "summary": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
+        "bullets": [
+          "Certain stars have been tipped by industry experts as getting the biggest career boost after the show."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T00:06:01.000Z"
+      },
+      {
+        "id": "tech-effa2d4d",
+        "title": "Seabirds racing home over the ocean can get jet-lagged",
+        "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+        "bullets": [
+          "A long flight home from feeding grounds messes with birds' internal clocks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T11:15:26.000Z"
+      },
+      {
+        "id": "tech-856c70c6",
+        "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+        "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+        "bullets": [
+          "The regulator says Tavneos was approved on the basis of manipulated study data.",
+          "Should patients still have access to it?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T11:02:34.000Z"
+      },
+      {
+        "id": "tech-01e28768",
+        "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+        "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+        "bullets": [
+          "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T00:07:22.000Z"
+      },
+      {
+        "id": "tech-e3e2e2f9",
+        "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+        "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+        "bullets": [
+          "USDA has identified 74 animal cases in US since parasitic flies invaded in June."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T22:36:41.000Z"
+      },
+      {
+        "id": "tech-50537cf5",
+        "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+        "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+        "bullets": [
+          "\"For huge numbers of people, I will always be Jean-Luc Picard.",
+          "We created an admirable individual.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T22:21:05.000Z"
+      },
+      {
+        "id": "ai-5fae58eb",
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "bullets": [
+          "Apple's new CEO defended the company's current position in the AI landscape."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T21:41:00.000Z"
+      },
+      {
+        "id": "ai-288410ba",
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up...",
+        "bullets": [
+          "Register before all prices go up at the door."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T21:36:07.000Z"
+      },
+      {
+        "id": "ai-f5cbb874",
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "bullets": [
+          "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T21:17:03.000Z"
+      },
+      {
+        "id": "ai-45229ca6",
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "bullets": [
+          "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T16:12:55.000Z"
+      },
+      {
+        "id": "ai-3a2d1c0c",
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "bullets": [
+          "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T01:20:05.000Z"
+      },
+      {
+        "id": "world-2f26a3d7",
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+        "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+        "bullets": [
+          "One evacuated couple says they crossed minefields in Oleshky in search of food."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T19:22:26.000Z"
+      },
+      {
+        "id": "world-339ae7ef",
+        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+        "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+        "bullets": [
+          "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T17:53:35.000Z"
+      },
+      {
+        "id": "world-e5367006",
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
+        "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+        "bullets": [
+          "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T21:29:01.000Z"
+      },
+      {
+        "id": "world-db2cd644",
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+        "bullets": [
+          "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T22:11:45.000Z"
+      },
+      {
+        "id": "world-56c51663",
+        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+        "bullets": [
+          "Government data shows that more than 10,000 people have contracted the rare virus."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T15:16:20.000Z"
       }
     ]
   }
