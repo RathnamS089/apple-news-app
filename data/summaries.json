@@ -1,274 +1,5 @@
 [
   {
-    "date": "2026-10-03",
-    "generatedAt": "2026-10-03T21:20:54.879Z",
-    "articles": [
-      {
-        "id": "top-3ba6c585",
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "bullets": [
-          "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T14:27:33.000Z"
-      },
-      {
-        "id": "top-0b1d2b61",
-        "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
-        "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
-        "bullets": [
-          "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T21:03:22.000Z"
-      },
-      {
-        "id": "top-f1da8335",
-        "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
-        "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-        "bullets": [
-          "The 25-year-old man was arrested in the London borough of Westminster on Thursday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T10:58:51.000Z"
-      },
-      {
-        "id": "top-aa62ee1e",
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-        "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-        "bullets": [
-          "Pike's lawyers said the failure \"goes far beyond any one person\".",
-          "Pike is in critical condition after surviving two lethal injections."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T17:48:42.000Z"
-      },
-      {
-        "id": "top-c1546dca",
-        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-        "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-        "bullets": [
-          "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T13:34:11.000Z"
-      },
-      {
-        "id": "tech-41735a74",
-        "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-        "summary": "\"...we were making history.\"",
-        "bullets": [
-          "\"...we were making history.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T19:45:17.000Z"
-      },
-      {
-        "id": "tech-b168aee1",
-        "title": "The dawn of the age of the exoskeleton",
-        "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-        "bullets": [
-          "The devices continue to show noticeable benefits for users in various real-world tasks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T11:15:33.000Z"
-      },
-      {
-        "id": "tech-dbcb48cc",
-        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-        "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-        "bullets": [
-          "Meta says FDA isn't sufficient to Muse reading messages.",
-          "Apple begs to differ."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T23:03:16.000Z"
-      },
-      {
-        "id": "tech-df568cef",
-        "title": "Someone got Doom in an SQL database",
-        "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-        "bullets": [
-          "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:19:05.000Z"
-      },
-      {
-        "id": "tech-319cba7f",
-        "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-        "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
-        "bullets": [
-          "Amazon praised for ending NDAs but slammed for downplaying data center pollution."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T20:30:27.000Z"
-      },
-      {
-        "id": "ai-4d1a1734",
-        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-        "bullets": [
-          "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T18:43:57.000Z"
-      },
-      {
-        "id": "ai-3c56b364",
-        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-        "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-        "bullets": [
-          "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T16:30:01.000Z"
-      },
-      {
-        "id": "ai-b5766596",
-        "title": "All the AI agents that can live in your text messages",
-        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "bullets": [
-          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T14:00:00.000Z"
-      },
-      {
-        "id": "ai-d3427b7c",
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-        "bullets": [
-          "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T00:45:39.000Z"
-      },
-      {
-        "id": "ai-d764cfd9",
-        "title": "Sean Parker is rebuilding Stability AI around music",
-        "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-        "bullets": [
-          "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-02T21:09:14.000Z"
-      },
-      {
-        "id": "world-aa62ee1e",
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-        "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-        "bullets": [
-          "Pike's lawyers said the failure \"goes far beyond any one person\".",
-          "Pike is in critical condition after surviving two lethal injections."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T17:48:42.000Z"
-      },
-      {
-        "id": "world-3ba6c585",
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-        "bullets": [
-          "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T14:27:33.000Z"
-      },
-      {
-        "id": "world-06d35c0b",
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "bullets": [
-          "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T16:16:49.000Z"
-      },
-      {
-        "id": "world-c1546dca",
-        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-        "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-        "bullets": [
-          "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T13:34:11.000Z"
-      },
-      {
-        "id": "world-b4ef8a61",
-        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-        "bullets": [
-          "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-03T04:38:31.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-04",
     "generatedAt": "2026-10-04T23:58:02.624Z",
     "articles": [
@@ -8042,6 +7773,275 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-01T19:17:34.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T00:47:42.946Z",
+    "articles": [
+      {
+        "id": "top-05f5c806",
+        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+        "bullets": [
+          "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T22:38:24.000Z"
+      },
+      {
+        "id": "top-14afcfc0",
+        "title": "Five teenagers stabbed at Halloween party",
+        "summary": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+        "bullets": [
+          "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T15:01:31.000Z"
+      },
+      {
+        "id": "top-ea9e0ae6",
+        "title": "Thousands of jobs at Virgin Media O2 to be cut",
+        "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+        "bullets": [
+          "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T16:57:14.000Z"
+      },
+      {
+        "id": "top-2095c7c6",
+        "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+        "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+        "bullets": [
+          "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T23:15:56.000Z"
+      },
+      {
+        "id": "top-b1929d4a",
+        "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
+        "summary": "His family describe the night police told them of his death, and watching him being handcuffed.",
+        "bullets": [
+          "His family describe the night police told them of his death, and watching him being handcuffed."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T17:53:55.000Z"
+      },
+      {
+        "id": "tech-effa2d4d",
+        "title": "Seabirds racing home over the ocean can get jet-lagged",
+        "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+        "bullets": [
+          "A long flight home from feeding grounds messes with birds' internal clocks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T11:15:26.000Z"
+      },
+      {
+        "id": "tech-856c70c6",
+        "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+        "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+        "bullets": [
+          "The regulator says Tavneos was approved on the basis of manipulated study data.",
+          "Should patients still have access to it?"
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T11:02:34.000Z"
+      },
+      {
+        "id": "tech-01e28768",
+        "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+        "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+        "bullets": [
+          "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T00:07:22.000Z"
+      },
+      {
+        "id": "tech-e3e2e2f9",
+        "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+        "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+        "bullets": [
+          "USDA has identified 74 animal cases in US since parasitic flies invaded in June."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T22:36:41.000Z"
+      },
+      {
+        "id": "tech-50537cf5",
+        "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+        "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+        "bullets": [
+          "\"For huge numbers of people, I will always be Jean-Luc Picard.",
+          "We created an admirable individual.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-10-30T22:21:05.000Z"
+      },
+      {
+        "id": "ai-b99d43a4",
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+        "bullets": [
+          "Data centers are deeply unpopular.",
+          "But what if we called them something else?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T21:55:23.000Z"
+      },
+      {
+        "id": "ai-b0b0207f",
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+        "bullets": [
+          "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T20:57:58.000Z"
+      },
+      {
+        "id": "ai-5fae58eb",
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "bullets": [
+          "Apple's new CEO defended the company's current position in the AI landscape."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T21:41:00.000Z"
+      },
+      {
+        "id": "ai-288410ba",
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up...",
+        "bullets": [
+          "Register before all prices go up at the door."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T21:36:07.000Z"
+      },
+      {
+        "id": "ai-f5cbb874",
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "bullets": [
+          "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-10-31T21:17:03.000Z"
+      },
+      {
+        "id": "world-05f5c806",
+        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+        "bullets": [
+          "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T22:38:24.000Z"
+      },
+      {
+        "id": "world-53b11fff",
+        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+        "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+        "bullets": [
+          "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T21:55:01.000Z"
+      },
+      {
+        "id": "world-0adc8a8d",
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "bullets": [
+          "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T00:02:15.000Z"
+      },
+      {
+        "id": "world-a35b0e94",
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+        "bullets": [
+          "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-01T17:06:32.000Z"
+      },
+      {
+        "id": "world-21914c79",
+        "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+        "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+        "bullets": [
+          "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T00:15:30.000Z"
       }
     ]
   }
