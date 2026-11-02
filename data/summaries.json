@@ -7778,50 +7778,24 @@
   },
   {
     "date": "2026-11-02",
-    "generatedAt": "2026-11-02T00:47:42.946Z",
+    "generatedAt": "2026-11-02T11:17:00.552Z",
     "articles": [
       {
-        "id": "top-05f5c806",
-        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-        "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+        "id": "top-2978df03",
+        "title": "Mother told to book appointment to give birth to her dead baby",
+        "summary": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
         "bullets": [
-          "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
+          "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T22:38:24.000Z"
+        "publishedAt": "2026-11-02T06:18:34.000Z"
       },
       {
-        "id": "top-14afcfc0",
-        "title": "Five teenagers stabbed at Halloween party",
-        "summary": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
-        "bullets": [
-          "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-01T15:01:31.000Z"
-      },
-      {
-        "id": "top-ea9e0ae6",
-        "title": "Thousands of jobs at Virgin Media O2 to be cut",
-        "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
-        "bullets": [
-          "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-01T16:57:14.000Z"
-      },
-      {
-        "id": "top-2095c7c6",
-        "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+        "id": "top-cb692e7c",
+        "title": "Nine killed as small jet crashes on Florida street",
         "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
         "bullets": [
           "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
@@ -7830,20 +7804,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T23:15:56.000Z"
+        "publishedAt": "2026-11-02T09:10:19.000Z"
       },
       {
-        "id": "top-b1929d4a",
-        "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
-        "summary": "His family describe the night police told them of his death, and watching him being handcuffed.",
+        "id": "top-29d01e40",
+        "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+        "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
         "bullets": [
-          "His family describe the night police told them of his death, and watching him being handcuffed."
+          "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T17:53:55.000Z"
+        "publishedAt": "2026-11-02T06:00:54.000Z"
+      },
+      {
+        "id": "top-6222992d",
+        "title": "Democrats have high hopes for US midterms - but are the polls right?",
+        "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+        "bullets": [
+          "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T00:25:12.000Z"
+      },
+      {
+        "id": "top-1452881a",
+        "title": "What Americans are voting for in this election",
+        "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+        "bullets": [
+          "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T09:22:55.000Z"
       },
       {
         "id": "tech-effa2d4d",
@@ -7979,69 +7979,69 @@
         "publishedAt": "2026-10-31T21:17:03.000Z"
       },
       {
-        "id": "world-05f5c806",
-        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-        "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+        "id": "world-59c6df12",
+        "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+        "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
         "bullets": [
-          "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
+          "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T22:38:24.000Z"
+        "publishedAt": "2026-11-02T04:40:00.000Z"
       },
       {
-        "id": "world-53b11fff",
-        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-        "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+        "id": "world-02ce8cbd",
+        "title": "Trump makes final campaign push in final weekend before election",
+        "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
         "bullets": [
-          "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
+          "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T21:55:01.000Z"
+        "publishedAt": "2026-11-02T04:04:28.000Z"
       },
       {
-        "id": "world-0adc8a8d",
-        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "id": "world-cb692e7c",
+        "title": "Nine killed as small jet crashes on Florida street",
+        "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
         "bullets": [
-          "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
+          "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T00:02:15.000Z"
+        "publishedAt": "2026-11-02T09:10:19.000Z"
       },
       {
-        "id": "world-a35b0e94",
-        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-        "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+        "id": "world-3465c550",
+        "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+        "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
         "bullets": [
-          "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+          "The exchange froze transactions following the incident which has been linked to a North Korean group."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-01T17:06:32.000Z"
+        "publishedAt": "2026-11-02T07:42:33.000Z"
       },
       {
-        "id": "world-21914c79",
-        "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-        "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+        "id": "world-974345ab",
+        "title": "Ryanair says it may freeze workers' pay and raise airfares",
+        "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
         "bullets": [
-          "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
+          "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T00:15:30.000Z"
+        "publishedAt": "2026-11-02T11:10:52.000Z"
       }
     ]
   }
