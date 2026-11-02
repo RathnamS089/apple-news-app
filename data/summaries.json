@@ -7778,270 +7778,267 @@
   },
   {
     "date": "2026-11-02",
-    "generatedAt": "2026-11-02T11:17:00.552Z",
+    "generatedAt": "2026-11-02T21:44:17.706Z",
     "articles": [
       {
-        "id": "top-2978df03",
-        "title": "Mother told to book appointment to give birth to her dead baby",
-        "summary": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
+        "id": "top-32110467",
+        "title": "Mahmood scraps settlement plans for migrant care workers",
+        "summary": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
         "bullets": [
-          "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected."
+          "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T06:18:34.000Z"
+        "publishedAt": "2026-11-02T21:10:12.000Z"
       },
       {
-        "id": "top-cb692e7c",
-        "title": "Nine killed as small jet crashes on Florida street",
-        "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+        "id": "top-4f5bc21d",
+        "title": "Shop freezers in seven European countries hit by cyber-attack",
+        "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
         "bullets": [
-          "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
+          "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T17:38:11.000Z"
+      },
+      {
+        "id": "top-8f643c30",
+        "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+        "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+        "bullets": [
+          "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T17:34:58.000Z"
+      },
+      {
+        "id": "top-83a458e9",
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+        "bullets": [
+          "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T21:10:04.000Z"
+      },
+      {
+        "id": "top-b25b5f79",
+        "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+        "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+        "bullets": [
+          "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\""
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T09:10:19.000Z"
+        "publishedAt": "2026-11-02T19:58:34.000Z"
       },
       {
-        "id": "top-29d01e40",
-        "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-        "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+        "id": "tech-a71d94f0",
+        "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+        "summary": "\"The flow of time is always cruel.\"",
         "bullets": [
-          "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January."
+          "\"The flow of time is always cruel.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T19:52:23.000Z"
+      },
+      {
+        "id": "tech-ea0b7ed2",
+        "title": "Most of our measures of a key cognitive process don't agree",
+        "summary": "A big study with very little beyond negative results still gets published.",
+        "bullets": [
+          "A big study with very little beyond negative results still gets published."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T19:13:26.000Z"
+      },
+      {
+        "id": "tech-fe520f9e",
+        "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+        "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+        "bullets": [
+          "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T18:32:21.000Z"
+      },
+      {
+        "id": "tech-7e90504b",
+        "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+        "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+        "bullets": [
+          "The tsunami of imitators is way bigger than any one model maker can stem."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T18:05:31.000Z"
+      },
+      {
+        "id": "tech-69ec7271",
+        "title": "China publicly discloses plan for a lunar landing within three years",
+        "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
+        "bullets": [
+          "The plan does not include a mission similar to Apollo 8 or Artemis II."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T17:09:13.000Z"
+      },
+      {
+        "id": "ai-75bdad3b",
+        "title": "Web host Squarespace lays off 19% of its employees",
+        "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+        "bullets": [
+          "The website builder said that the job losses are part of a broader restructuring of its organization."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T19:25:59.000Z"
+      },
+      {
+        "id": "ai-84616a81",
+        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+        "bullets": [
+          "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T19:19:17.000Z"
+      },
+      {
+        "id": "ai-f282ddf4",
+        "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+        "bullets": [
+          "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T16:30:00.000Z"
+      },
+      {
+        "id": "ai-d0324cea",
+        "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+        "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+        "bullets": [
+          "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T16:23:21.000Z"
+      },
+      {
+        "id": "ai-fcdd9e81",
+        "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+        "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+        "bullets": [
+          "Two startups tackling the data center water problem are joining forces in a $16 million deal."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T15:00:00.000Z"
+      },
+      {
+        "id": "world-83a458e9",
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+        "bullets": [
+          "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T06:00:54.000Z"
-      },
-      {
-        "id": "top-6222992d",
-        "title": "Democrats have high hopes for US midterms - but are the polls right?",
-        "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
-        "bullets": [
-          "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T00:25:12.000Z"
-      },
-      {
-        "id": "top-1452881a",
-        "title": "What Americans are voting for in this election",
-        "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-        "bullets": [
-          "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T09:22:55.000Z"
-      },
-      {
-        "id": "tech-effa2d4d",
-        "title": "Seabirds racing home over the ocean can get jet-lagged",
-        "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
-        "bullets": [
-          "A long flight home from feeding grounds messes with birds' internal clocks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T11:15:26.000Z"
-      },
-      {
-        "id": "tech-856c70c6",
-        "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-        "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-        "bullets": [
-          "The regulator says Tavneos was approved on the basis of manipulated study data.",
-          "Should patients still have access to it?"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T11:02:34.000Z"
-      },
-      {
-        "id": "tech-01e28768",
-        "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-        "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-        "bullets": [
-          "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T00:07:22.000Z"
-      },
-      {
-        "id": "tech-e3e2e2f9",
-        "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-        "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-        "bullets": [
-          "USDA has identified 74 animal cases in US since parasitic flies invaded in June."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T22:36:41.000Z"
-      },
-      {
-        "id": "tech-50537cf5",
-        "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-        "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
-        "bullets": [
-          "\"For huge numbers of people, I will always be Jean-Luc Picard.",
-          "We created an admirable individual.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-30T22:21:05.000Z"
-      },
-      {
-        "id": "ai-b99d43a4",
-        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-        "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-        "bullets": [
-          "Data centers are deeply unpopular.",
-          "But what if we called them something else?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-01T21:55:23.000Z"
-      },
-      {
-        "id": "ai-b0b0207f",
-        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-        "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-        "bullets": [
-          "On Equity, we discuss why tech CEO statements can seem so tone deaf."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-01T20:57:58.000Z"
-      },
-      {
-        "id": "ai-5fae58eb",
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-        "bullets": [
-          "Apple's new CEO defended the company's current position in the AI landscape."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T21:41:00.000Z"
-      },
-      {
-        "id": "ai-288410ba",
-        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-        "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up...",
-        "bullets": [
-          "Register before all prices go up at the door."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T21:36:07.000Z"
-      },
-      {
-        "id": "ai-f5cbb874",
-        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-        "bullets": [
-          "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-31T21:17:03.000Z"
-      },
-      {
-        "id": "world-59c6df12",
-        "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-        "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-        "bullets": [
-          "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T04:40:00.000Z"
+        "publishedAt": "2026-11-02T21:10:04.000Z"
       },
       {
-        "id": "world-02ce8cbd",
-        "title": "Trump makes final campaign push in final weekend before election",
-        "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
+        "id": "world-b25b5f79",
+        "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+        "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
         "bullets": [
-          "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T04:04:28.000Z"
-      },
-      {
-        "id": "world-cb692e7c",
-        "title": "Nine killed as small jet crashes on Florida street",
-        "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-        "bullets": [
-          "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
+          "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\""
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T09:10:19.000Z"
+        "publishedAt": "2026-11-02T19:58:34.000Z"
       },
       {
-        "id": "world-3465c550",
-        "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-        "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+        "id": "world-4f5bc21d",
+        "title": "Shop freezers in seven European countries hit by cyber-attack",
+        "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
         "bullets": [
-          "The exchange froze transactions following the incident which has been linked to a North Korean group."
+          "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T07:42:33.000Z"
+        "publishedAt": "2026-11-02T17:38:11.000Z"
       },
       {
-        "id": "world-974345ab",
-        "title": "Ryanair says it may freeze workers' pay and raise airfares",
-        "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+        "id": "world-c89a2c83",
+        "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+        "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
         "bullets": [
-          "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
+          "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T11:10:52.000Z"
+        "publishedAt": "2026-11-02T17:33:19.000Z"
+      },
+      {
+        "id": "world-a48803ca",
+        "title": "Legal challenge to Australia's social media ban to start in High Court",
+        "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+        "bullets": [
+          "A rights group will argue the world-leading policy robs under-16s of their right to free communication."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-02T19:12:59.000Z"
       }
     ]
   }
