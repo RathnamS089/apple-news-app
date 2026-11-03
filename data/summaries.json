@@ -7777,8 +7777,34 @@
   },
   {
     "date": "2026-11-03",
-    "generatedAt": "2026-11-03T17:06:27.299Z",
+    "generatedAt": "2026-11-03T23:26:49.065Z",
     "articles": [
+      {
+        "id": "top-fd2f1632",
+        "title": "A simple guide to the midterms",
+        "summary": "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.",
+        "bullets": [
+          "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T10:15:35.000Z"
+      },
+      {
+        "id": "top-944386fd",
+        "title": "When will we know the results?",
+        "summary": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks",
+        "bullets": [
+          "Once polls close, it is possible the results will not be projected for several hours, days or even weeks"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T07:56:09.000Z"
+      },
       {
         "id": "top-36983c33",
         "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
@@ -7793,214 +7819,214 @@
         "publishedAt": "2026-11-03T10:32:56.000Z"
       },
       {
-        "id": "top-0dd4faed",
-        "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
-        "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
+        "id": "top-fe1d2485",
+        "title": "The key US Senate races to watch",
+        "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
         "bullets": [
-          "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him."
+          "All eyes are on a handful of Senate races that will decide control of the prized upper chamber.",
+          "Here's a quick guide."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T16:34:33.000Z"
+        "publishedAt": "2026-11-03T10:16:56.000Z"
       },
       {
-        "id": "top-8d5a7181",
-        "title": "Spanish footballer dies after collision with goalkeeper during match",
-        "summary": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
+        "id": "top-3dee5f2f",
+        "title": "The elections that could define Trump's closing chapter",
+        "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
         "bullets": [
-          "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match."
+          "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T09:09:18.000Z"
+        "publishedAt": "2026-11-03T09:29:32.000Z"
       },
       {
-        "id": "top-3cb693df",
-        "title": "Watch: Why is 'Mogging' the word of the year?",
-        "summary": "The slang word has become popular among members of Generations Z and Alpha - both online and in everyday conversation.",
+        "id": "tech-c9b77522",
+        "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+        "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
         "bullets": [
-          "The slang word has become popular among members of Generations Z and Alpha - both online and in everyday conversation."
+          "Russia tries to fix exposed digital infrastructure as data center war backfires."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T20:39:55.000Z"
+      },
+      {
+        "id": "tech-affb26fe",
+        "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+        "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+        "bullets": [
+          "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T18:30:27.000Z"
+      },
+      {
+        "id": "tech-35913186",
+        "title": "Buttons are back and storage is king when it comes to car interiors",
+        "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
+        "bullets": [
+          "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T18:19:31.000Z"
+      },
+      {
+        "id": "tech-ce1c70da",
+        "title": "Google will let schools skip AI tools, but they have to give up search, too",
+        "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+        "bullets": [
+          "Google will offer schools AI tools that purportedly don't give away the answers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T17:54:43.000Z"
+      },
+      {
+        "id": "tech-58005759",
+        "title": "Another child dies of measles as CDC reportedly holds up health alert",
+        "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+        "bullets": [
+          "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T17:21:29.000Z"
+      },
+      {
+        "id": "ai-dd46e92e",
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "bullets": [
+          "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T22:41:03.000Z"
+      },
+      {
+        "id": "ai-50c17586",
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "bullets": [
+          "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T22:19:53.000Z"
+      },
+      {
+        "id": "ai-1c69bd5a",
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "bullets": [
+          "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T21:43:08.000Z"
+      },
+      {
+        "id": "ai-6b3e7cae",
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+        "bullets": [
+          "commercial revenue surpassed U.S.",
+          "government revenue for the first time ever."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T21:05:55.000Z"
+      },
+      {
+        "id": "ai-4716114f",
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+        "bullets": [
+          "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T19:34:43.000Z"
+      },
+      {
+        "id": "world-85e85eb9",
+        "title": "Spanish transport minister resigns days after deadly train crash",
+        "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+        "bullets": [
+          "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm3wv029jlxyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T14:03:57.000Z"
-      },
-      {
-        "id": "top-63b54a42",
-        "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-        "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-        "bullets": [
-          "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T16:57:41.000Z"
-      },
-      {
-        "id": "tech-7198c9b8",
-        "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-        "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-        "bullets": [
-          "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T16:03:13.000Z"
-      },
-      {
-        "id": "tech-7e58f196",
-        "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-        "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
-        "bullets": [
-          "Meta faces pressure to protect No Kings Instagram on election day."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T15:39:30.000Z"
-      },
-      {
-        "id": "tech-3dcdf739",
-        "title": "EPA throws in the towel on policing air pollution from factory farms",
-        "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
-        "bullets": [
-          "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T14:49:00.000Z"
-      },
-      {
-        "id": "tech-42c9bd8f",
-        "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
-        "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
-        "bullets": [
-          "After pioneering the passenger screen, Mercedes has designs on the windshield."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T14:00:07.000Z"
-      },
-      {
-        "id": "tech-319ce282",
-        "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-        "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
-        "bullets": [
-          "The Smithsonian's National Air and Space Museum has all of its \"space\" back open."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T23:30:16.000Z"
-      },
-      {
-        "id": "ai-a8491486",
-        "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-        "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-        "bullets": [
-          "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T16:30:34.000Z"
-      },
-      {
-        "id": "ai-d8870c0a",
-        "title": "Apple restricts dating apps and AI companions to users 18 and up",
-        "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-        "bullets": [
-          "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T15:38:27.000Z"
-      },
-      {
-        "id": "ai-fa341de4",
-        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-        "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-        "bullets": [
-          "4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections.",
-          "Register before prices increase at the door."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T14:30:00.000Z"
-      },
-      {
-        "id": "ai-1093fb58",
-        "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-        "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-        "bullets": [
-          "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m.",
-          "Save up to $100 on your pass, and get a second for free."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T14:00:00.000Z"
-      },
-      {
-        "id": "ai-da5de18c",
-        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-        "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-        "bullets": [
-          "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T07:20:00.000Z"
-      },
-      {
-        "id": "world-e88b398d",
-        "title": "US strikes Iranian island ahead of midterm elections",
-        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-        "bullets": [
-          "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T11:33:33.000Z"
+        "publishedAt": "2026-11-03T22:45:59.000Z"
       },
       {
-        "id": "world-200ef00c",
-        "title": "Tenerife striker De Miguel dies after on-field collision",
-        "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+        "id": "world-8a00bea7",
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
+        "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
         "bullets": [
-          "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
+          "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T09:09:18.000Z"
+        "publishedAt": "2026-11-03T20:42:47.000Z"
+      },
+      {
+        "id": "world-2876e306",
+        "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+        "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+        "bullets": [
+          "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T16:19:29.000Z"
+      },
+      {
+        "id": "world-9d6bcb62",
+        "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+        "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+        "bullets": [
+          "The NTSB said because the parts were found far from the accident site, they fell off before the crash."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T21:53:38.000Z"
       },
       {
         "id": "world-54b51cd9",
@@ -8014,32 +8040,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-03T14:56:46.000Z"
-      },
-      {
-        "id": "world-4a21a1a5",
-        "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-        "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
-        "bullets": [
-          "The two aircraft crashed just metres from the ground after trying to land at the same spot."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T11:51:08.000Z"
-      },
-      {
-        "id": "world-34757a2e",
-        "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-        "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-        "bullets": [
-          "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-03T13:55:47.000Z"
       }
     ]
   }
