@@ -7777,72 +7777,124 @@
   },
   {
     "date": "2026-11-03",
-    "generatedAt": "2026-11-03T06:53:38.305Z",
+    "generatedAt": "2026-11-03T17:06:27.299Z",
     "articles": [
       {
-        "id": "top-94e650d4",
-        "title": "Americans head to the polls for elections that could define Trump's closing chapter",
-        "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+        "id": "top-36983c33",
+        "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+        "summary": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
         "bullets": [
-          "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like..."
+          "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T05:00:43.000Z"
+        "publishedAt": "2026-11-03T10:32:56.000Z"
       },
       {
-        "id": "top-0ed67e8a",
-        "title": "US strikes Iran ahead of midterm elections",
-        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+        "id": "top-0dd4faed",
+        "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+        "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
         "bullets": [
-          "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+          "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T03:39:08.000Z"
+        "publishedAt": "2026-11-03T16:34:33.000Z"
       },
       {
-        "id": "top-2a5be666",
-        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-        "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+        "id": "top-8d5a7181",
+        "title": "Spanish footballer dies after collision with goalkeeper during match",
+        "summary": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
         "bullets": [
-          "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+          "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T02:11:13.000Z"
+        "publishedAt": "2026-11-03T09:09:18.000Z"
       },
       {
-        "id": "top-410d57c5",
-        "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
-        "summary": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year.",
+        "id": "top-3cb693df",
+        "title": "Watch: Why is 'Mogging' the word of the year?",
+        "summary": "The slang word has become popular among members of Generations Z and Alpha - both online and in everyday conversation.",
         "bullets": [
-          "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year."
+          "The slang word has become popular among members of Generations Z and Alpha - both online and in everyday conversation."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm3wv029jlxyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T00:26:04.000Z"
+        "publishedAt": "2026-11-03T14:03:57.000Z"
       },
       {
-        "id": "top-a0abf0c0",
-        "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-        "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+        "id": "top-63b54a42",
+        "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+        "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
         "bullets": [
-          "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+          "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T00:07:05.000Z"
+        "publishedAt": "2026-11-03T16:57:41.000Z"
+      },
+      {
+        "id": "tech-7198c9b8",
+        "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+        "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+        "bullets": [
+          "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T16:03:13.000Z"
+      },
+      {
+        "id": "tech-7e58f196",
+        "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+        "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
+        "bullets": [
+          "Meta faces pressure to protect No Kings Instagram on election day."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T15:39:30.000Z"
+      },
+      {
+        "id": "tech-3dcdf739",
+        "title": "EPA throws in the towel on policing air pollution from factory farms",
+        "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+        "bullets": [
+          "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T14:49:00.000Z"
+      },
+      {
+        "id": "tech-42c9bd8f",
+        "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+        "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
+        "bullets": [
+          "After pioneering the passenger screen, Mercedes has designs on the windshield."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T14:00:07.000Z"
       },
       {
         "id": "tech-319ce282",
@@ -7858,127 +7910,75 @@
         "publishedAt": "2026-11-02T23:30:16.000Z"
       },
       {
-        "id": "tech-9a8fcc72",
-        "title": "Why large dogs age faster than small ones, and other October research highlights",
-        "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
+        "id": "ai-a8491486",
+        "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+        "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
         "bullets": [
-          "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T22:54:35.000Z"
-      },
-      {
-        "id": "tech-c1e7caed",
-        "title": "Third person dies of bird flu since virus started jumping to livestock",
-        "summary": "The threat is still considered to be low, but the virus continues to spread.",
-        "bullets": [
-          "The threat is still considered to be low, but the virus continues to spread."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T21:21:43.000Z"
-      },
-      {
-        "id": "tech-a71d94f0",
-        "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-        "summary": "\"The flow of time is always cruel.\"",
-        "bullets": [
-          "\"The flow of time is always cruel.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T19:52:23.000Z"
-      },
-      {
-        "id": "tech-ea0b7ed2",
-        "title": "Most of our measures of a key cognitive process don't agree",
-        "summary": "A big study with very little beyond negative results still gets published.",
-        "bullets": [
-          "A big study with very little beyond negative results still gets published."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-02T19:13:26.000Z"
-      },
-      {
-        "id": "ai-b2ea45b1",
-        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-        "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-        "bullets": [
-          "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+          "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T03:30:00.000Z"
+        "publishedAt": "2026-11-03T16:30:34.000Z"
       },
       {
-        "id": "ai-03e2e4cc",
-        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-        "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "id": "ai-d8870c0a",
+        "title": "Apple restricts dating apps and AI companions to users 18 and up",
+        "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
         "bullets": [
-          "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+          "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T01:49:52.000Z"
+        "publishedAt": "2026-11-03T15:38:27.000Z"
       },
       {
-        "id": "ai-f16256b1",
-        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-        "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price...",
+        "id": "ai-fa341de4",
+        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+        "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
         "bullets": [
-          "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be...",
-          "On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
+          "4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections.",
+          "Register before prices increase at the door."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T00:35:52.000Z"
+        "publishedAt": "2026-11-03T14:30:00.000Z"
       },
       {
-        "id": "ai-560372c9",
-        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-        "summary": "The one-year-old startup is now valued at $300 million.",
+        "id": "ai-1093fb58",
+        "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+        "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
         "bullets": [
-          "The one-year-old startup is now valued at $300 million."
+          "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m.",
+          "Save up to $100 on your pass, and get a second for free."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T23:13:53.000Z"
+        "publishedAt": "2026-11-03T14:00:00.000Z"
       },
       {
-        "id": "ai-577e8922",
-        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-        "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+        "id": "ai-da5de18c",
+        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+        "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
         "bullets": [
-          "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities.",
-          "To the AI doomers, RSI represents the cataclysm from which there is no return."
+          "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-02T22:14:50.000Z"
+        "publishedAt": "2026-11-03T07:20:00.000Z"
       },
       {
-        "id": "world-0ed67e8a",
-        "title": "US strikes Iran ahead of midterm elections",
+        "id": "world-e88b398d",
+        "title": "US strikes Iranian island ahead of midterm elections",
         "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
         "bullets": [
           "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
@@ -7987,59 +7987,59 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T03:39:08.000Z"
+        "publishedAt": "2026-11-03T11:33:33.000Z"
       },
       {
-        "id": "world-483c1c81",
-        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+        "id": "world-200ef00c",
+        "title": "Tenerife striker De Miguel dies after on-field collision",
+        "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
         "bullets": [
-          "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+          "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T03:32:36.000Z"
+        "publishedAt": "2026-11-03T09:09:18.000Z"
       },
       {
-        "id": "world-83a458e9",
-        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+        "id": "world-54b51cd9",
+        "title": "Libya's top religious authority rules against wearing Nike clothes",
+        "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
         "bullets": [
-          "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+          "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T01:56:27.000Z"
+        "publishedAt": "2026-11-03T14:56:46.000Z"
       },
       {
-        "id": "world-a0abf0c0",
-        "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-        "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+        "id": "world-4a21a1a5",
+        "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+        "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
         "bullets": [
-          "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+          "The two aircraft crashed just metres from the ground after trying to land at the same spot."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T00:07:05.000Z"
+        "publishedAt": "2026-11-03T11:51:08.000Z"
       },
       {
-        "id": "world-f4b3b926",
-        "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-        "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+        "id": "world-34757a2e",
+        "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+        "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
         "bullets": [
-          "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the..."
+          "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-03T00:08:14.000Z"
+        "publishedAt": "2026-11-03T13:55:47.000Z"
       }
     ]
   }
