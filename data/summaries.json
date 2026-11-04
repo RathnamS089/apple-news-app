@@ -1,274 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "generatedAt": "2026-10-05T22:02:27.753Z",
-    "articles": [
-      {
-        "id": "top-fe26f6b5",
-        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "bullets": [
-          "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T21:46:22.000Z"
-      },
-      {
-        "id": "top-f7701d6d",
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "summary": "His last book, Adam and Eve, is set to release this month.",
-        "bullets": [
-          "His last book, Adam and Eve, is set to release this month."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T21:41:53.000Z"
-      },
-      {
-        "id": "top-2688d24f",
-        "title": "King's funding for Andrew not to be used for legal action against police",
-        "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-        "bullets": [
-          "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T18:48:40.000Z"
-      },
-      {
-        "id": "top-00f5026d",
-        "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-        "summary": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-        "bullets": [
-          "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T13:09:42.000Z"
-      },
-      {
-        "id": "top-c8b1e7ef",
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-        "bullets": [
-          "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T16:32:18.000Z"
-      },
-      {
-        "id": "tech-a12eb54f",
-        "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
-        "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
-        "bullets": [
-          "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T20:47:48.000Z"
-      },
-      {
-        "id": "tech-d0c67403",
-        "title": "Texas city demands $2M for public records on Flock usage",
-        "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
-        "bullets": [
-          "Prices of public records tracking cops' use of Flock go up as backlash swells."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T20:31:12.000Z"
-      },
-      {
-        "id": "tech-d9a2e683",
-        "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-        "summary": "The tool can free up over 12GB of storage.",
-        "bullets": [
-          "The tool can free up over 12GB of storage."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T19:14:44.000Z"
-      },
-      {
-        "id": "tech-3d689033",
-        "title": "Controlling the brain with light earns a physiology Nobel",
-        "summary": "The entire field of optogenetics traces back to light-seeking algae.",
-        "bullets": [
-          "The entire field of optogenetics traces back to light-seeking algae."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T17:59:27.000Z"
-      },
-      {
-        "id": "tech-5f5d421a",
-        "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
-        "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
-        "bullets": [
-          "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T17:21:11.000Z"
-      },
-      {
-        "id": "ai-e6846dba",
-        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-        "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-        "bullets": [
-          "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act.",
-          "Editing can make the invisible marks harder to detect, it says."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T20:36:48.000Z"
-      },
-      {
-        "id": "ai-bed2df5e",
-        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own...",
-        "bullets": [
-          "Reflection is aiming Beam and future models at enterprises and sovereign nations.",
-          "The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T19:33:53.000Z"
-      },
-      {
-        "id": "ai-06793db1",
-        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-        "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal...",
-        "bullets": [
-          "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating...",
-          "The company says personal accounts remain separate, with permission required before personal agents share information or take action."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T18:54:30.000Z"
-      },
-      {
-        "id": "ai-751945dc",
-        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-        "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-        "bullets": [
-          "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T18:29:00.000Z"
-      },
-      {
-        "id": "ai-b9c02d21",
-        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-        "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-        "bullets": [
-          "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T17:29:22.000Z"
-      },
-      {
-        "id": "world-fe26f6b5",
-        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "bullets": [
-          "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T21:46:22.000Z"
-      },
-      {
-        "id": "world-78a03e47",
-        "title": "France braces for national day of school protests after injuries and mass arrests",
-        "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-        "bullets": [
-          "France prepares for a day of protests in support of students who’ve been demanding more investment in education."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T21:18:10.000Z"
-      },
-      {
-        "id": "world-eb3515e2",
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-        "bullets": [
-          "The Omani national was a \"lone wolf\" extremist, according to the reports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T11:34:59.000Z"
-      },
-      {
-        "id": "world-704712f6",
-        "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-        "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
-        "bullets": [
-          "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T15:17:23.000Z"
-      },
-      {
-        "id": "world-e1f39161",
-        "title": "Spain PM pins hopes on housing crisis to help win snap election",
-        "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
-        "bullets": [
-          "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-05T19:30:50.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-06",
     "generatedAt": "2026-10-06T22:40:25.144Z",
     "articles": [
@@ -8040,6 +7771,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-03T14:56:46.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T06:30:46.292Z",
+    "articles": [
+      {
+        "id": "top-cd6b62f1",
+        "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+        "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+        "bullets": [
+          "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T06:13:09.000Z"
+      },
+      {
+        "id": "top-0cbdf508",
+        "title": "How America voted in maps and charts",
+        "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+        "bullets": [
+          "See the maps and charts that show how America voted in the US midterm elections."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T04:47:08.000Z"
+      },
+      {
+        "id": "top-75260cb2",
+        "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+        "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+        "bullets": [
+          "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T06:14:20.000Z"
+      },
+      {
+        "id": "top-9d111060",
+        "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+        "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+        "bullets": [
+          "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T05:39:36.000Z"
+      },
+      {
+        "id": "top-4f44d50f",
+        "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+        "summary": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
+        "bullets": [
+          "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T02:14:45.000Z"
+      },
+      {
+        "id": "tech-0aabc91b",
+        "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+        "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+        "bullets": [
+          "State tries to obtain broadband funds despite rejecting Trump admin condition."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T22:39:37.000Z"
+      },
+      {
+        "id": "tech-c9b77522",
+        "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+        "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+        "bullets": [
+          "Russia tries to fix exposed digital infrastructure as data center war backfires."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T20:39:55.000Z"
+      },
+      {
+        "id": "tech-affb26fe",
+        "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+        "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+        "bullets": [
+          "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T18:30:27.000Z"
+      },
+      {
+        "id": "tech-35913186",
+        "title": "Buttons are back and storage is king when it comes to car interiors",
+        "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
+        "bullets": [
+          "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T18:19:31.000Z"
+      },
+      {
+        "id": "tech-ce1c70da",
+        "title": "Google will let schools skip AI tools, but they have to give up search, too",
+        "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+        "bullets": [
+          "Google will offer schools AI tools that purportedly don't give away the answers."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T17:54:43.000Z"
+      },
+      {
+        "id": "ai-dd46e92e",
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "bullets": [
+          "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T22:41:03.000Z"
+      },
+      {
+        "id": "ai-50c17586",
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "bullets": [
+          "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T22:19:53.000Z"
+      },
+      {
+        "id": "ai-1c69bd5a",
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "bullets": [
+          "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T21:43:08.000Z"
+      },
+      {
+        "id": "ai-6b3e7cae",
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+        "bullets": [
+          "commercial revenue surpassed U.S.",
+          "government revenue for the first time ever."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T21:05:55.000Z"
+      },
+      {
+        "id": "ai-4716114f",
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+        "bullets": [
+          "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T19:34:43.000Z"
+      },
+      {
+        "id": "world-8f521ccb",
+        "title": "South Carolina elects Democratic senator for first time in almost three decades",
+        "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+        "bullets": [
+          "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T03:24:34.000Z"
+      },
+      {
+        "id": "world-a2dc2295",
+        "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+        "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+        "bullets": [
+          "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T02:38:07.000Z"
+      },
+      {
+        "id": "world-85e85eb9",
+        "title": "Spanish transport minister resigns days after deadly train crash",
+        "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+        "bullets": [
+          "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T22:45:59.000Z"
+      },
+      {
+        "id": "world-8a00bea7",
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
+        "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+        "bullets": [
+          "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-03T20:42:47.000Z"
+      },
+      {
+        "id": "world-5d01064c",
+        "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+        "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+        "bullets": [
+          "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T03:46:10.000Z"
       }
     ]
   }
