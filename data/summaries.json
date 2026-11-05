@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-06",
-    "generatedAt": "2026-10-06T22:40:25.144Z",
-    "articles": [
-      {
-        "id": "top-d2be82ec",
-        "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
-        "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
-        "bullets": [
-          "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T19:25:08.000Z"
-      },
-      {
-        "id": "top-15488de1",
-        "title": "Watch: Police raid on gang behind fake gay asylum claims",
-        "summary": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
-        "bullets": [
-          "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T19:01:17.000Z"
-      },
-      {
-        "id": "top-162c0f0a",
-        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-        "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
-        "bullets": [
-          "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T22:00:43.000Z"
-      },
-      {
-        "id": "top-79a5d56a",
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-        "bullets": [
-          "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T18:03:19.000Z"
-      },
-      {
-        "id": "top-402f0047",
-        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
-        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
-        "bullets": [
-          "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T21:18:45.000Z"
-      },
-      {
-        "id": "tech-426d9a22",
-        "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-        "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
-        "bullets": [
-          "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T21:31:10.000Z"
-      },
-      {
-        "id": "tech-24417dd5",
-        "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-        "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-        "bullets": [
-          "Like other solutions, it is not especially reliable, and it's easy to circumvent."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T20:50:32.000Z"
-      },
-      {
-        "id": "tech-b81e16cd",
-        "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-        "summary": "A combined service could lead to higher prices.",
-        "bullets": [
-          "A combined service could lead to higher prices."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T20:32:12.000Z"
-      },
-      {
-        "id": "tech-dc5019a8",
-        "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-        "summary": "To date, this Atlantic tropics year has been exceptionally quiet.",
-        "bullets": [
-          "To date, this Atlantic tropics year has been exceptionally quiet."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T19:55:50.000Z"
-      },
-      {
-        "id": "tech-782a6d43",
-        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-        "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-        "bullets": [
-          "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T19:21:14.000Z"
-      },
-      {
-        "id": "ai-189f402a",
-        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-        "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
-        "bullets": [
-          "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T22:34:03.000Z"
-      },
-      {
-        "id": "ai-13cc7416",
-        "title": "How AI decision models could change content moderation",
-        "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-        "bullets": [
-          "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T20:35:20.000Z"
-      },
-      {
-        "id": "ai-38797dc0",
-        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-        "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-        "bullets": [
-          "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T20:00:30.000Z"
-      },
-      {
-        "id": "ai-4b2a407c",
-        "title": "The next hurdle for AI agents: getting websites to let them in",
-        "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-        "bullets": [
-          "Personal AI agents promise to shop, book flights, and make reservations for you.",
-          "But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle.",
-          "A new standard aims to help."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T19:56:50.000Z"
-      },
-      {
-        "id": "ai-e85d08e0",
-        "title": "Hark releases an AI personal assistant with a focus on privacy",
-        "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-        "bullets": [
-          "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T18:22:45.000Z"
-      },
-      {
-        "id": "world-162c0f0a",
-        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-        "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
-        "bullets": [
-          "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T22:00:43.000Z"
-      },
-      {
-        "id": "world-79a5d56a",
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-        "bullets": [
-          "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T18:03:19.000Z"
-      },
-      {
-        "id": "world-3b0c8a00",
-        "title": "Former German spy chief arrested for espionage and treason",
-        "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-        "bullets": [
-          "August Hanning is accused of obtaining classified information for a foreign power."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T10:05:42.000Z"
-      },
-      {
-        "id": "world-26a50727",
-        "title": "Ship sinks and crew missing after Black Sea drone attack",
-        "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-        "bullets": [
-          "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T11:53:21.000Z"
-      },
-      {
-        "id": "world-bdbc7ad4",
-        "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-        "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-        "bullets": [
-          "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-06T18:05:53.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-07",
     "generatedAt": "2026-10-07T20:39:01.719Z",
     "articles": [
@@ -8039,6 +7771,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-04T16:40:38.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "generatedAt": "2026-11-05T06:53:41.898Z",
+    "articles": [
+      {
+        "id": "top-b32ab454",
+        "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+        "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+        "bullets": [
+          "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T03:47:56.000Z"
+      },
+      {
+        "id": "top-1ced2180",
+        "title": "Interest rates expected to rise for first time in over three years",
+        "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+        "bullets": [
+          "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T00:00:09.000Z"
+      },
+      {
+        "id": "top-c4f39a6f",
+        "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+        "summary": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+        "bullets": [
+          "Is it symptom a health service at breaking point - or a positive way of involving the public?"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T00:12:30.000Z"
+      },
+      {
+        "id": "top-60434d1c",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+        "bullets": [
+          "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T06:35:25.000Z"
+      },
+      {
+        "id": "top-ca0ca618",
+        "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+        "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+        "bullets": [
+          "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T23:12:47.000Z"
+      },
+      {
+        "id": "tech-f3a39617",
+        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "summary": "And what that could mean for physical Switch game costs.",
+        "bullets": [
+          "And what that could mean for physical Switch game costs."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T22:47:51.000Z"
+      },
+      {
+        "id": "tech-dda2f6fd",
+        "title": "Hackers exploited iOS and Android flaws to infect phones",
+        "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+        "bullets": [
+          "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T22:26:49.000Z"
+      },
+      {
+        "id": "tech-587ba3db",
+        "title": "Uranium cubes reveal why the German nuclear project failed",
+        "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+        "bullets": [
+          "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T21:56:29.000Z"
+      },
+      {
+        "id": "tech-966723f8",
+        "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+        "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
+        "bullets": [
+          "“We started listening to a lot of our lower-end customers,\" VMware exec says."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T21:38:49.000Z"
+      },
+      {
+        "id": "tech-713f6746",
+        "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+        "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+        "bullets": [
+          "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T21:29:46.000Z"
+      },
+      {
+        "id": "ai-8cf085d7",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "bullets": [
+          "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T01:26:22.000Z"
+      },
+      {
+        "id": "ai-64729d11",
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+        "bullets": [
+          "Data center opposition crossed party lines in Tuesday’s midterms."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T01:02:14.000Z"
+      },
+      {
+        "id": "ai-23dbcbf1",
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+        "bullets": [
+          "AI industry PACs spent millions influencing the 2026 midterms, with mixed results.",
+          "Political groups are already looking toward the next election cycle."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T22:45:09.000Z"
+      },
+      {
+        "id": "ai-118d4ac9",
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+        "bullets": [
+          "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T22:13:16.000Z"
+      },
+      {
+        "id": "ai-787e6b9b",
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+        "bullets": [
+          "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T21:56:01.000Z"
+      },
+      {
+        "id": "world-7f3f31c6",
+        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+        "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+        "bullets": [
+          "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T03:47:56.000Z"
+      },
+      {
+        "id": "world-ee4d7d92",
+        "title": "What Democrats can and can't do with their new power after taking Congress",
+        "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+        "bullets": [
+          "Democrats can vote legislation through.",
+          "But Trump still has veto power."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T18:01:27.000Z"
+      },
+      {
+        "id": "world-60434d1c",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+        "bullets": [
+          "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T06:35:25.000Z"
+      },
+      {
+        "id": "world-efc4d74e",
+        "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+        "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+        "bullets": [
+          "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T16:26:15.000Z"
+      },
+      {
+        "id": "world-ca0ca618",
+        "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+        "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+        "bullets": [
+          "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-04T23:12:47.000Z"
       }
     ]
   }
