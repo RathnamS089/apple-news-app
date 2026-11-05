@@ -7776,8 +7776,21 @@
   },
   {
     "date": "2026-11-05",
-    "generatedAt": "2026-11-05T17:26:47.577Z",
+    "generatedAt": "2026-11-05T23:40:44.234Z",
     "articles": [
+      {
+        "id": "top-f948612a",
+        "title": "Russell Brand found guilty of rape and sexual assault",
+        "summary": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
+        "bullets": [
+          "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T18:28:35.000Z"
+      },
       {
         "id": "top-90f2eb28",
         "title": "Watch: Met Police release Brand interview footage",
@@ -7792,214 +7805,225 @@
         "publishedAt": "2026-11-05T16:01:56.000Z"
       },
       {
-        "id": "top-c8e2b892",
-        "title": "Russell Brand is being investigated over two new rape complaints, police say",
-        "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+        "id": "top-61726ecf",
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
         "bullets": [
-          "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts."
+          "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-05T15:44:49.000Z"
+        "publishedAt": "2026-11-05T23:21:34.000Z"
       },
       {
-        "id": "top-3760f993",
-        "title": "Interest rates hiked to 4% in first increase in over three years",
-        "summary": "Most analysts expected the increase from 3.75% to 4%.",
+        "id": "top-a2fdda02",
+        "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
+        "summary": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.",
         "bullets": [
-          "Most analysts expected the increase from 3.75% to 4%."
+          "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-05T17:09:55.000Z"
+        "publishedAt": "2026-11-05T18:53:47.000Z"
       },
       {
-        "id": "top-b9e4e011",
-        "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
-        "summary": "Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested in \"distinctive new programming\".",
+        "id": "top-e9fe5194",
+        "title": "California governor commutes sentences for state's 548 death row inmates",
+        "summary": "California has historically had the largest population of people on death row in the US.",
         "bullets": [
-          "Three women made allegations about the men they were partnered with.",
-          "Channel 4 has apologised and said the show's budget would be reinvested in \"distinctive new programming\"."
+          "California has historically had the largest population of people on death row in the US."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-05T12:26:24.000Z"
+        "publishedAt": "2026-11-05T23:09:33.000Z"
       },
       {
-        "id": "top-544dc265",
-        "title": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
-        "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+        "id": "tech-ac93f6de",
+        "title": "Sony revives the original Walkman headphones, adds USB-C",
+        "summary": "Orange ear cushions included.",
         "bullets": [
-          "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend."
+          "Orange ear cushions included."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T21:56:36.000Z"
+      },
+      {
+        "id": "tech-fe37a5fd",
+        "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+        "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+        "bullets": [
+          "Google is technically offering schools more choice but not the choices anyone wants."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T21:40:36.000Z"
+      },
+      {
+        "id": "tech-0e616732",
+        "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+        "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+        "bullets": [
+          "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T21:39:40.000Z"
+      },
+      {
+        "id": "tech-85e64583",
+        "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+        "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+        "bullets": [
+          "BMW has updated its flagship sedan with the newest EV and infotainment tech."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T20:45:50.000Z"
+      },
+      {
+        "id": "tech-cfb946c2",
+        "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+        "summary": "Software optimizes a physical model of the telescope to reduce noise.",
+        "bullets": [
+          "Software optimizes a physical model of the telescope to reduce noise."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T19:59:22.000Z"
+      },
+      {
+        "id": "ai-b0ef8d8a",
+        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+        "bullets": [
+          "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T22:40:55.000Z"
+      },
+      {
+        "id": "ai-0b520b8b",
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+        "bullets": [
+          "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T19:48:28.000Z"
+      },
+      {
+        "id": "ai-94530d76",
+        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+        "bullets": [
+          "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T19:12:39.000Z"
+      },
+      {
+        "id": "ai-7a333a00",
+        "title": "OpenAI released a new cybersecurity model. Is that enough?",
+        "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+        "bullets": [
+          "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T19:06:12.000Z"
+      },
+      {
+        "id": "ai-c9351a52",
+        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+        "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+        "bullets": [
+          "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T18:02:27.000Z"
+      },
+      {
+        "id": "world-61726ecf",
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+        "bullets": [
+          "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms"
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T14:29:40.000Z"
-      },
-      {
-        "id": "tech-bf720596",
-        "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-        "summary": "It has all the bells and whistles (and cameras).",
-        "bullets": [
-          "It has all the bells and whistles (and cameras)."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T13:00:56.000Z"
-      },
-      {
-        "id": "tech-7caf2423",
-        "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-        "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-        "bullets": [
-          "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T12:00:41.000Z"
-      },
-      {
-        "id": "tech-e41772f6",
-        "title": "2026 iPad mini review: Maximizing the mini",
-        "summary": "It's more compelling than ever, but also more expensive.",
-        "bullets": [
-          "It's more compelling than ever, but also more expensive."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T12:00:01.000Z"
-      },
-      {
-        "id": "tech-f849ee57",
-        "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
-        "summary": "The spirit of AMG is alive via three axial flux electric motors.",
-        "bullets": [
-          "The spirit of AMG is alive via three axial flux electric motors."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T09:00:13.000Z"
-      },
-      {
-        "id": "tech-f3a39617",
-        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-        "summary": "And what that could mean for physical Switch game costs.",
-        "bullets": [
-          "And what that could mean for physical Switch game costs."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-04T22:47:51.000Z"
-      },
-      {
-        "id": "ai-b0f83c76",
-        "title": "Axiom Math wants to keep AI slop out of mathematics",
-        "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-        "bullets": [
-          "As AI floods math with unchecked proofs, Axiom Math is betting on verification.",
-          "The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T16:16:45.000Z"
-      },
-      {
-        "id": "ai-23c3c6ac",
-        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-        "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-        "bullets": [
-          "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T15:19:05.000Z"
-      },
-      {
-        "id": "ai-b5c823bc",
-        "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
-        "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-        "bullets": [
-          "Aina's ring can also take calls and help you dictate notes on your Mac."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T14:42:00.000Z"
-      },
-      {
-        "id": "ai-6b070bc4",
-        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-        "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-        "bullets": [
-          "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T14:00:00.000Z"
-      },
-      {
-        "id": "ai-3ff81161",
-        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-        "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-        "bullets": [
-          "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T13:00:00.000Z"
-      },
-      {
-        "id": "world-7f3f31c6",
-        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-        "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-        "bullets": [
-          "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-05T03:47:56.000Z"
+        "publishedAt": "2026-11-05T23:21:34.000Z"
       },
       {
-        "id": "world-fe0ee03c",
-        "title": "France holds new strikes and protests as unions demand immediate answers",
-        "summary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+        "id": "world-0189657d",
+        "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+        "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
         "bullets": [
-          "Five of France's unions join a wave of strikes and protests in a national day of action."
+          "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T17:39:48.000Z"
+      },
+      {
+        "id": "world-e9fe5194",
+        "title": "California governor commutes sentences for state's 548 death row inmates",
+        "summary": "California has historically had the largest population of people on death row in the US.",
+        "bullets": [
+          "California has historically had the largest population of people on death row in the US."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T23:09:33.000Z"
+      },
+      {
+        "id": "world-b9d80696",
+        "title": "French protests see numbers surge as unions join strikes over high cost of living",
+        "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+        "bullets": [
+          "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-05T15:43:15.000Z"
+        "publishedAt": "2026-11-05T17:59:53.000Z"
       },
       {
         "id": "world-d2f9358e",
@@ -8012,33 +8036,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-05T17:14:41.000Z"
-      },
-      {
-        "id": "world-e35fddb8",
-        "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-        "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-        "bullets": [
-          "The chef had stated that putting pineapple on pizza was \"offensive to his culture\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T10:33:21.000Z"
-      },
-      {
-        "id": "world-3d6b99ee",
-        "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-        "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-        "bullets": [
-          "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-05T11:21:35.000Z"
+        "publishedAt": "2026-11-05T17:40:40.000Z"
       }
     ]
   }
