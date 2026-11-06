@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-10-07",
-    "generatedAt": "2026-10-07T20:39:01.719Z",
-    "articles": [
-      {
-        "id": "top-97681f63",
-        "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-        "summary": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
-        "bullets": [
-          "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T14:33:11.000Z"
-      },
-      {
-        "id": "top-86a55f2c",
-        "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
-        "summary": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
-        "bullets": [
-          "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T16:31:06.000Z"
-      },
-      {
-        "id": "top-93946d09",
-        "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-        "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-        "bullets": [
-          "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T19:54:24.000Z"
-      },
-      {
-        "id": "top-0c69328f",
-        "title": "Boots sold in £7bn deal to Canadian billionaire family",
-        "summary": "The sale of the High Street chain was announced on Wednesday.",
-        "bullets": [
-          "The sale of the High Street chain was announced on Wednesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T17:18:30.000Z"
-      },
-      {
-        "id": "top-18d1130a",
-        "title": "Man charged with 13 attempted murders including British child after Alps attack",
-        "summary": "Abdalmasih Hanoun, accused of carrying out an attack at a French park in 2023, is set to face trial.",
-        "bullets": [
-          "Abdalmasih Hanoun, accused of carrying out an attack at a French park in 2023, is set to face trial."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g47zll517zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T18:32:02.000Z"
-      },
-      {
-        "id": "tech-2bbe0ec7",
-        "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
-        "summary": "Altering molecular handedness has implications for the origins of life.",
-        "bullets": [
-          "Altering molecular handedness has implications for the origins of life."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T18:48:18.000Z"
-      },
-      {
-        "id": "tech-da7ce1dc",
-        "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
-        "summary": "In renewed policy, pediatricians review the benefits of heating milk to kill germs.",
-        "bullets": [
-          "In renewed policy, pediatricians review the benefits of heating milk to kill germs."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T18:24:39.000Z"
-      },
-      {
-        "id": "tech-5ba66cd1",
-        "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-        "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-        "bullets": [
-          "Man gets 18 months for AI scheme stealing $8M in music streaming royalties."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T17:57:39.000Z"
-      },
-      {
-        "id": "tech-fe488091",
-        "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-        "summary": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
-        "bullets": [
-          "Car design sure riles people up on the Internet these days."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T15:48:01.000Z"
-      },
-      {
-        "id": "tech-38a3ba4f",
-        "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-        "summary": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
-        "bullets": [
-          "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T15:19:05.000Z"
-      },
-      {
-        "id": "ai-98ae756a",
-        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-        "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-        "bullets": [
-          "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T20:22:37.000Z"
-      },
-      {
-        "id": "ai-b42451c1",
-        "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-        "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-        "bullets": [
-          "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T18:30:57.000Z"
-      },
-      {
-        "id": "ai-a6583c6c",
-        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-        "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-        "bullets": [
-          "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T18:15:28.000Z"
-      },
-      {
-        "id": "ai-a5bcf38a",
-        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-        "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-        "bullets": [
-          "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T18:00:19.000Z"
-      },
-      {
-        "id": "ai-22dd6d97",
-        "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-        "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-        "bullets": [
-          "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T16:53:46.000Z"
-      },
-      {
-        "id": "world-4ec69b1a",
-        "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-        "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-        "bullets": [
-          "The step comes after several groups complained of police using disproportionate force towards teenagers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T17:47:31.000Z"
-      },
-      {
-        "id": "world-26d46c71",
-        "title": "Israelis demand accountability over 7 October failures three years after attacks",
-        "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
-        "bullets": [
-          "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T16:00:18.000Z"
-      },
-      {
-        "id": "world-a1bb4600",
-        "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-        "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-        "bullets": [
-          "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T19:30:51.000Z"
-      },
-      {
-        "id": "world-fa291ba7",
-        "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-        "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-        "bullets": [
-          "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T18:27:40.000Z"
-      },
-      {
-        "id": "world-5ab4420f",
-        "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-        "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
-        "bullets": [
-          "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-07T18:12:58.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-08",
     "generatedAt": "2026-10-08T18:52:32.930Z",
     "articles": [
@@ -8037,6 +7771,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-05T17:40:40.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "generatedAt": "2026-11-06T06:53:37.599Z",
+    "articles": [
+      {
+        "id": "top-f4e82a24",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "bullets": [
+          "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T06:00:59.000Z"
+      },
+      {
+        "id": "top-c016b399",
+        "title": "Met chief warns policing 'heading for failure' without reform",
+        "summary": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+        "bullets": [
+          "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T01:13:53.000Z"
+      },
+      {
+        "id": "top-c8e2b892",
+        "title": "Russell Brand is being investigated over two new rape complaints, police say",
+        "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+        "bullets": [
+          "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T15:44:49.000Z"
+      },
+      {
+        "id": "top-90f2eb28",
+        "title": "Watch: Met Police release Brand interview footage",
+        "summary": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
+        "bullets": [
+          "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T16:01:56.000Z"
+      },
+      {
+        "id": "top-697fb042",
+        "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+        "summary": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+        "bullets": [
+          "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T06:06:36.000Z"
+      },
+      {
+        "id": "tech-f6eebcde",
+        "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+        "summary": "\"This is going to be a game-changer.\"",
+        "bullets": [
+          "\"This is going to be a game-changer.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T00:17:06.000Z"
+      },
+      {
+        "id": "tech-36f02cb7",
+        "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+        "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+        "bullets": [
+          "Certain configurations of Alpine are affected.",
+          "Other distros may be as well."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T23:09:36.000Z"
+      },
+      {
+        "id": "tech-01123432",
+        "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+        "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+        "bullets": [
+          "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T22:49:03.000Z"
+      },
+      {
+        "id": "tech-ac93f6de",
+        "title": "Sony revives the original Walkman headphones, adds USB-C",
+        "summary": "Orange ear cushions included.",
+        "bullets": [
+          "Orange ear cushions included."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T21:56:36.000Z"
+      },
+      {
+        "id": "tech-fe37a5fd",
+        "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+        "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+        "bullets": [
+          "Google is technically offering schools more choice but not the choices anyone wants."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T21:40:36.000Z"
+      },
+      {
+        "id": "ai-65bdcaae",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+        "bullets": [
+          "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T06:28:32.000Z"
+      },
+      {
+        "id": "ai-b0ef8d8a",
+        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+        "bullets": [
+          "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T22:40:55.000Z"
+      },
+      {
+        "id": "ai-0b520b8b",
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+        "bullets": [
+          "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T19:48:28.000Z"
+      },
+      {
+        "id": "ai-94530d76",
+        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+        "bullets": [
+          "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T19:12:39.000Z"
+      },
+      {
+        "id": "ai-7a333a00",
+        "title": "OpenAI released a new cybersecurity model. Is that enough?",
+        "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+        "bullets": [
+          "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T19:06:12.000Z"
+      },
+      {
+        "id": "world-f4e82a24",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+        "bullets": [
+          "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T06:00:59.000Z"
+      },
+      {
+        "id": "world-c23ad23c",
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+        "bullets": [
+          "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T02:08:57.000Z"
+      },
+      {
+        "id": "world-cf23b759",
+        "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+        "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+        "bullets": [
+          "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T00:02:57.000Z"
+      },
+      {
+        "id": "world-d04406bc",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+        "bullets": [
+          "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T04:29:25.000Z"
+      },
+      {
+        "id": "world-e9fe5194",
+        "title": "California governor commutes sentences for state's 548 death row inmates",
+        "summary": "California has historically had the largest population of people on death row in the US.",
+        "bullets": [
+          "California has historically had the largest population of people on death row in the US."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-05T23:09:33.000Z"
       }
     ]
   }
