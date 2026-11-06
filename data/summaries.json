@@ -7776,8 +7776,21 @@
   },
   {
     "date": "2026-11-06",
-    "generatedAt": "2026-11-06T16:48:19.762Z",
+    "generatedAt": "2026-11-06T23:13:20.701Z",
     "articles": [
+      {
+        "id": "top-091ec191",
+        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+        "summary": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+        "bullets": [
+          "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T21:26:56.000Z"
+      },
       {
         "id": "top-42505e95",
         "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
@@ -7789,20 +7802,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T16:09:54.000Z"
+        "publishedAt": "2026-11-06T16:49:31.000Z"
       },
       {
-        "id": "top-d9531b43",
-        "title": "AI stocks climb after trillions wiped from market values",
-        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+        "id": "top-e511a3b2",
+        "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+        "summary": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
         "bullets": [
-          "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+          "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T16:23:16.000Z"
+        "publishedAt": "2026-11-06T12:16:44.000Z"
+      },
+      {
+        "id": "top-8902f9cf",
+        "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
+        "summary": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
+        "bullets": [
+          "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T20:11:45.000Z"
       },
       {
         "id": "top-5c85c1b3",
@@ -7818,162 +7844,141 @@
         "publishedAt": "2026-11-06T15:25:35.000Z"
       },
       {
-        "id": "top-db5289da",
-        "title": "How unprecedented changes to the polar vortex may impact the UK's weather",
-        "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+        "id": "tech-79f76099",
+        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+        "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
         "bullets": [
-          "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T01:22:39.000Z"
-      },
-      {
-        "id": "top-fd63310c",
-        "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-        "summary": "Two schools went into lockdown following the incident and one woman has been arrested.",
-        "bullets": [
-          "Two schools went into lockdown following the incident and one woman has been arrested."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T16:31:15.000Z"
-      },
-      {
-        "id": "tech-e074f509",
-        "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-        "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-        "bullets": [
-          "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset."
+          "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T14:13:32.000Z"
+        "publishedAt": "2026-11-06T20:56:41.000Z"
       },
       {
-        "id": "tech-fc5a273f",
-        "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
-        "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
+        "id": "tech-03d6c540",
+        "title": "Earth's churning mantle may have created the Great Unconformity",
+        "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
         "bullets": [
-          "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful."
+          "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T13:50:20.000Z"
+        "publishedAt": "2026-11-06T20:24:20.000Z"
       },
       {
-        "id": "tech-1e67e498",
-        "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
-        "summary": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
+        "id": "tech-f8cc4159",
+        "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+        "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
         "bullets": [
-          "Interstellar Technologies announces more government funding for the Japanese Zero rocket."
+          "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T13:33:20.000Z"
+        "publishedAt": "2026-11-06T20:05:30.000Z"
       },
       {
-        "id": "tech-f6eebcde",
-        "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-        "summary": "\"This is going to be a game-changer.\"",
+        "id": "tech-71afb82b",
+        "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+        "summary": "Developer: “I can’t be part of the Fox world.”",
         "bullets": [
-          "\"This is going to be a game-changer.\""
+          "Developer: “I can’t be part of the Fox world.”"
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T00:17:06.000Z"
+        "publishedAt": "2026-11-06T19:50:18.000Z"
       },
       {
-        "id": "tech-36f02cb7",
-        "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-        "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+        "id": "tech-1e4fa00a",
+        "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+        "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
         "bullets": [
-          "Certain configurations of Alpine are affected.",
-          "Other distros may be as well."
+          "FAA information display systems to be floppy-free at 435 sites by end of 2028."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-05T23:09:36.000Z"
+        "publishedAt": "2026-11-06T19:12:28.000Z"
       },
       {
-        "id": "ai-27e005b6",
-        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-        "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+        "id": "ai-4fbd5678",
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
         "bullets": [
-          "AI usage keeps climbing, but spending has stalled.",
-          "Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+          "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T15:54:47.000Z"
+        "publishedAt": "2026-11-06T22:53:46.000Z"
       },
       {
-        "id": "ai-8bacb69b",
-        "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-        "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+        "id": "ai-d69f63c2",
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
         "bullets": [
-          "Amazon said that the feature will roll out to millions of users in coming weeks."
+          "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the..."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T14:10:00.000Z"
+        "publishedAt": "2026-11-06T18:44:38.000Z"
       },
       {
-        "id": "ai-ad3b04d1",
-        "title": "Underdog shows off a 32MB speech model in new demo",
-        "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+        "id": "ai-7066086b",
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
         "bullets": [
-          "Despite its small size, Underdog's new model can generate both speech and music."
+          "Meta's Muse agents continue to get new features and integrations.",
+          "Spaces promises to be a new way to interact with the AI helpers."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T13:02:16.000Z"
+        "publishedAt": "2026-11-06T18:44:20.000Z"
       },
       {
-        "id": "ai-69b3000d",
-        "title": "Physicl raises $10M to make the digital world real enough for robots",
-        "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+        "id": "ai-63450cd7",
+        "title": "How a Blue Wave midterm might reshape the AI industry",
+        "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on...",
         "bullets": [
-          "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+          "Democrats’ historic victories in this week’s U.S.",
+          "midterm elections could also transform the tech industry.",
+          "The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center...",
+          "And even when data centers weren’t on the ballot directly, they were a [&#8230;]"
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+        "sourceUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T13:00:00.000Z"
+        "publishedAt": "2026-11-06T18:00:00.000Z"
       },
       {
-        "id": "ai-65bdcaae",
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+        "id": "ai-081a8791",
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on...",
         "bullets": [
-          "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+          "Democrats’ historic victories in this week’s U.S.",
+          "midterm elections could also transform the tech industry.",
+          "The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center...",
+          "And even when data centers weren’t on the ballot directly, they were a [&#8230;]"
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "sourceUrl": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T06:28:32.000Z"
+        "publishedAt": "2026-11-06T17:23:52.000Z"
       },
       {
         "id": "world-d9531b43",
@@ -7986,33 +7991,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T16:23:16.000Z"
+        "publishedAt": "2026-11-06T21:06:25.000Z"
       },
       {
-        "id": "world-c23ad23c",
-        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-        "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+        "id": "world-8d1ef285",
+        "title": "Four midterms takeaways for 2028 White House race",
+        "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
         "bullets": [
-          "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a..."
+          "The buzz about the presidential election is already under way - here's what we learned this week."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T02:08:57.000Z"
-      },
-      {
-        "id": "world-6a028220",
-        "title": "Trump signs order to preserve Oval Office as national monument",
-        "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-        "bullets": [
-          "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T09:19:57.000Z"
+        "publishedAt": "2026-11-06T16:12:22.000Z"
       },
       {
         "id": "world-5c7933bd",
@@ -8026,6 +8018,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-06T15:33:52.000Z"
+      },
+      {
+        "id": "world-5c85c1b3",
+        "title": "New wave of bomb threats hit European airlines",
+        "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+        "bullets": [
+          "No link has been established between the threats against the airlines and those against the media outlets."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T15:25:35.000Z"
       },
       {
         "id": "world-86453510",
