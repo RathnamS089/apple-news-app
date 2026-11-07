@@ -7779,8 +7779,21 @@
   },
   {
     "date": "2026-11-07",
-    "generatedAt": "2026-11-07T13:08:42.198Z",
+    "generatedAt": "2026-11-07T19:27:50.847Z",
     "articles": [
+      {
+        "id": "top-05aaa751",
+        "title": "What we know about Krakow mass shooting so far",
+        "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+        "bullets": [
+          "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T18:22:11.000Z"
+      },
       {
         "id": "top-896862f6",
         "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -7792,64 +7805,50 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T13:02:21.000Z"
+        "publishedAt": "2026-11-07T15:19:35.000Z"
       },
       {
-        "id": "top-8e37af57",
-        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-        "summary": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
+        "id": "top-f07223c6",
+        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+        "summary": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
         "bullets": [
-          "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\"."
+          "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T11:04:28.000Z"
+        "publishedAt": "2026-11-07T17:32:42.000Z"
       },
       {
-        "id": "top-ca11763f",
-        "title": "Two men arrested after boy injured in sword attack",
-        "summary": "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday.",
+        "id": "top-ec9d3556",
+        "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+        "summary": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
         "bullets": [
-          "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday."
+          "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T10:38:21.000Z"
+        "publishedAt": "2026-11-07T16:25:55.000Z"
       },
       {
-        "id": "top-07568184",
-        "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-        "summary": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+        "id": "top-b717ec7f",
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "summary": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
         "bullets": [
-          "A Black Sky event could leave millions without power, water and communications.",
-          "So how prepared is the UK?"
+          "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T00:31:54.000Z"
+        "publishedAt": "2026-11-07T19:06:45.000Z"
       },
       {
-        "id": "top-fb7ebbed",
-        "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-        "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-        "bullets": [
-          "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-07T12:49:36.000Z"
-      },
-      {
-        "id": "tech-fc2c6a17",
-        "title": "The migration that transformed Africa's languages, genes, and cultures",
+        "id": "tech-cd7b91da",
+        "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
         "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
         "bullets": [
           "Genes and archaeology are revealing how Bantu speakers spread across much of Africa."
@@ -7982,69 +7981,69 @@
         "publishedAt": "2026-11-06T18:00:00.000Z"
       },
       {
-        "id": "world-3e1f1b1c",
-        "title": "With Stephen Miller pick, Trump readies for a battle",
-        "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "id": "world-05aaa751",
+        "title": "What we know about Krakow mass shooting so far",
+        "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
         "bullets": [
-          "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+          "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T23:24:15.000Z"
+        "publishedAt": "2026-11-07T18:22:11.000Z"
       },
       {
-        "id": "world-ce16bf3f",
-        "title": "Paraguay's president impeached and under house arrest after bank collapse",
-        "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "id": "world-6f28de80",
+        "title": "No clear winner after tight New Zealand general election",
+        "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
         "bullets": [
-          "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+          "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T07:20:00.000Z"
+        "publishedAt": "2026-11-07T15:56:28.000Z"
       },
       {
-        "id": "world-fb7ebbed",
-        "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-        "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+        "id": "world-d66b002a",
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
         "bullets": [
-          "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+          "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T12:49:36.000Z"
+        "publishedAt": "2026-11-07T18:14:38.000Z"
       },
       {
-        "id": "world-16a36f8d",
-        "title": "Pope in 'pretty good health' as he starts Latin America tour",
-        "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+        "id": "world-e793a7db",
+        "title": "Houthis say at least 25 killed in Saudi air strike",
+        "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
         "bullets": [
-          "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
+          "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T06:59:48.000Z"
+        "publishedAt": "2026-11-07T17:09:24.000Z"
       },
       {
-        "id": "world-d9531b43",
-        "title": "AI stocks climb after trillions wiped from market values",
-        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+        "id": "world-896862f6",
+        "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+        "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
         "bullets": [
-          "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+          "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T21:06:25.000Z"
+        "publishedAt": "2026-11-07T15:19:35.000Z"
       }
     ]
   }
