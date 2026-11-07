@@ -7779,59 +7779,46 @@
   },
   {
     "date": "2026-11-07",
-    "generatedAt": "2026-11-07T06:04:02.982Z",
+    "generatedAt": "2026-11-07T13:08:42.198Z",
     "articles": [
       {
-        "id": "top-091ec191",
-        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
-        "summary": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+        "id": "top-896862f6",
+        "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+        "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
         "bullets": [
-          "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented."
+          "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T21:26:56.000Z"
+        "publishedAt": "2026-11-07T13:02:21.000Z"
       },
       {
-        "id": "top-3e1f1b1c",
-        "title": "With Stephen Miller pick, Trump readies for a battle",
-        "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "id": "top-8e37af57",
+        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+        "summary": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
         "bullets": [
-          "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+          "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T23:24:15.000Z"
+        "publishedAt": "2026-11-07T11:04:28.000Z"
       },
       {
-        "id": "top-33afd037",
-        "title": "Texas mayor instructs police to limit cooperation with ICE",
-        "summary": "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who have been arrested for jailable offences.",
+        "id": "top-ca11763f",
+        "title": "Two men arrested after boy injured in sword attack",
+        "summary": "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday.",
         "bullets": [
-          "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who..."
+          "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T03:31:54.000Z"
-      },
-      {
-        "id": "top-42505e95",
-        "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
-        "summary": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
-        "bullets": [
-          "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T16:49:31.000Z"
+        "publishedAt": "2026-11-07T10:38:21.000Z"
       },
       {
         "id": "top-07568184",
@@ -7846,6 +7833,45 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-11-07T00:31:54.000Z"
+      },
+      {
+        "id": "top-fb7ebbed",
+        "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+        "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+        "bullets": [
+          "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T12:49:36.000Z"
+      },
+      {
+        "id": "tech-fc2c6a17",
+        "title": "The migration that transformed Africa's languages, genes, and cultures",
+        "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+        "bullets": [
+          "Genes and archaeology are revealing how Bantu speakers spread across much of Africa."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T12:15:55.000Z"
+      },
+      {
+        "id": "tech-e27f1cc2",
+        "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+        "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+        "bullets": [
+          "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T11:00:34.000Z"
       },
       {
         "id": "tech-be9c8b7f",
@@ -7885,32 +7911,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-11-06T22:08:47.000Z"
-      },
-      {
-        "id": "tech-79f76099",
-        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-        "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-        "bullets": [
-          "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T20:56:41.000Z"
-      },
-      {
-        "id": "tech-03d6c540",
-        "title": "Earth's churning mantle may have created the Great Unconformity",
-        "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
-        "bullets": [
-          "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T20:24:20.000Z"
       },
       {
         "id": "ai-ec38d371",
@@ -7982,6 +7982,58 @@
         "publishedAt": "2026-11-06T18:00:00.000Z"
       },
       {
+        "id": "world-3e1f1b1c",
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "bullets": [
+          "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T23:24:15.000Z"
+      },
+      {
+        "id": "world-ce16bf3f",
+        "title": "Paraguay's president impeached and under house arrest after bank collapse",
+        "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "bullets": [
+          "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T07:20:00.000Z"
+      },
+      {
+        "id": "world-fb7ebbed",
+        "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+        "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+        "bullets": [
+          "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T12:49:36.000Z"
+      },
+      {
+        "id": "world-16a36f8d",
+        "title": "Pope in 'pretty good health' as he starts Latin America tour",
+        "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+        "bullets": [
+          "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T06:59:48.000Z"
+      },
+      {
         "id": "world-d9531b43",
         "title": "AI stocks climb after trillions wiped from market values",
         "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
@@ -7993,58 +8045,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-06T21:06:25.000Z"
-      },
-      {
-        "id": "world-8d1ef285",
-        "title": "Four midterms takeaways for 2028 White House race",
-        "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-        "bullets": [
-          "The buzz about the presidential election is already under way - here's what we learned this week."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T16:12:22.000Z"
-      },
-      {
-        "id": "world-5c7933bd",
-        "title": "Two dead after bus crashes in France, officials say",
-        "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-        "bullets": [
-          "One child and one young adult were killed in the crash, local authorities say, with more injured."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T15:33:52.000Z"
-      },
-      {
-        "id": "world-5c85c1b3",
-        "title": "New wave of bomb threats hit European airlines",
-        "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-        "bullets": [
-          "No link has been established between the threats against the airlines and those against the media outlets."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T15:25:35.000Z"
-      },
-      {
-        "id": "world-0d3a7d54",
-        "title": "Paraguay's President Santiago Peña impeached and arrested",
-        "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-        "bullets": [
-          "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-07T03:25:00.000Z"
       }
     ]
   }
