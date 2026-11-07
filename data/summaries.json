@@ -1,275 +1,5 @@
 [
   {
-    "date": "2026-10-08",
-    "generatedAt": "2026-10-08T18:52:32.930Z",
-    "articles": [
-      {
-        "id": "top-ce177bfc",
-        "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
-        "summary": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
-        "bullets": [
-          "A criminal investigation into the former prince continues and police have retained material seized from his homes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T16:33:29.000Z"
-      },
-      {
-        "id": "top-c4a1860b",
-        "title": "Watch: What does the ruling mean for the investigation into the former prince?",
-        "summary": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
-        "bullets": [
-          "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T17:26:49.000Z"
-      },
-      {
-        "id": "top-6e81fe5a",
-        "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
-        "summary": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
-        "bullets": [
-          "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T17:36:28.000Z"
-      },
-      {
-        "id": "top-94b0d59a",
-        "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
-        "summary": "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.",
-        "bullets": [
-          "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T13:11:01.000Z"
-      },
-      {
-        "id": "top-2ccc99bd",
-        "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
-        "summary": "The 24-year-old man appeared at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
-        "bullets": [
-          "The 24-year-old man appeared at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T12:44:03.000Z"
-      },
-      {
-        "id": "tech-c48a8186",
-        "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
-        "summary": "Amazon killed its app store, so Google Play it is.",
-        "bullets": [
-          "Amazon killed its app store, so Google Play it is."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T16:32:46.000Z"
-      },
-      {
-        "id": "tech-a45cf787",
-        "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
-        "summary": "\"If this was easy, everybody else would be doing it.\"",
-        "bullets": [
-          "\"If this was easy, everybody else would be doing it.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T15:28:36.000Z"
-      },
-      {
-        "id": "tech-55260e17",
-        "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-        "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
-        "bullets": [
-          "Court filings reveal new details about Exxon's decades of internal climate deliberations."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T14:04:42.000Z"
-      },
-      {
-        "id": "tech-fdabf1af",
-        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-        "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-        "bullets": [
-          "Full-stack safety solution for physical AI is being used by robotics companies."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T11:15:33.000Z"
-      },
-      {
-        "id": "tech-9aa5c853",
-        "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-        "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
-        "bullets": [
-          "Blanche Lincoln wrote law that let US ban sports-event contracts.",
-          "She lobbies for the other side now."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T11:00:14.000Z"
-      },
-      {
-        "id": "ai-324cc55f",
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-        "bullets": [
-          "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights.",
-          "The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T18:20:32.000Z"
-      },
-      {
-        "id": "ai-bf7e3fd7",
-        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-        "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-        "bullets": [
-          "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T18:19:45.000Z"
-      },
-      {
-        "id": "ai-1ce82d9a",
-        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-        "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-        "bullets": [
-          "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T18:19:42.000Z"
-      },
-      {
-        "id": "ai-17350866",
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email...",
-        "bullets": [
-          "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems.",
-          "The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T18:18:00.000Z"
-      },
-      {
-        "id": "ai-97126b60",
-        "title": "Anthropic changes usage policy to ban model abuse and election interference",
-        "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons...",
-        "bullets": [
-          "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and...",
-          "The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T18:16:24.000Z"
-      },
-      {
-        "id": "world-173ddc6a",
-        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-        "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-        "bullets": [
-          "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T16:31:29.000Z"
-      },
-      {
-        "id": "world-5dff294a",
-        "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-        "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
-        "bullets": [
-          "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T15:02:32.000Z"
-      },
-      {
-        "id": "world-101f620c",
-        "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-        "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
-        "bullets": [
-          "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T17:38:59.000Z"
-      },
-      {
-        "id": "world-28825ba4",
-        "title": "Residents airlifted to safety after flooding in central Chile",
-        "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-        "bullets": [
-          "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T11:31:22.000Z"
-      },
-      {
-        "id": "world-3b08c9f9",
-        "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-        "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-        "bullets": [
-          "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T12:32:12.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-09",
     "generatedAt": "2026-10-09T18:23:16.012Z",
     "articles": [
@@ -8044,6 +7774,277 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-06T14:46:03.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "generatedAt": "2026-11-07T06:04:02.982Z",
+    "articles": [
+      {
+        "id": "top-091ec191",
+        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+        "summary": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+        "bullets": [
+          "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T21:26:56.000Z"
+      },
+      {
+        "id": "top-3e1f1b1c",
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "bullets": [
+          "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T23:24:15.000Z"
+      },
+      {
+        "id": "top-33afd037",
+        "title": "Texas mayor instructs police to limit cooperation with ICE",
+        "summary": "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who have been arrested for jailable offences.",
+        "bullets": [
+          "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T03:31:54.000Z"
+      },
+      {
+        "id": "top-42505e95",
+        "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+        "summary": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+        "bullets": [
+          "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T16:49:31.000Z"
+      },
+      {
+        "id": "top-07568184",
+        "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+        "summary": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+        "bullets": [
+          "A Black Sky event could leave millions without power, water and communications.",
+          "So how prepared is the UK?"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T00:31:54.000Z"
+      },
+      {
+        "id": "tech-be9c8b7f",
+        "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+        "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+        "bullets": [
+          "It's the exact path, not the apparent severity that matters most, doctors say."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T23:09:45.000Z"
+      },
+      {
+        "id": "tech-5e51512e",
+        "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+        "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+        "bullets": [
+          "Iran threatened to attack subsea cables if US escalates military strikes again."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T22:41:37.000Z"
+      },
+      {
+        "id": "tech-e46380c2",
+        "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+        "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+        "bullets": [
+          "It's mostly bad news from EA lately, but preservation efforts are nice to see."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T22:08:47.000Z"
+      },
+      {
+        "id": "tech-79f76099",
+        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+        "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+        "bullets": [
+          "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T20:56:41.000Z"
+      },
+      {
+        "id": "tech-03d6c540",
+        "title": "Earth's churning mantle may have created the Great Unconformity",
+        "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+        "bullets": [
+          "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T20:24:20.000Z"
+      },
+      {
+        "id": "ai-ec38d371",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "bullets": [
+          "The deal highlights the challenges of developing massive AI data centers."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T01:40:28.000Z"
+      },
+      {
+        "id": "ai-4fbd5678",
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "bullets": [
+          "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T22:53:46.000Z"
+      },
+      {
+        "id": "ai-d69f63c2",
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+        "bullets": [
+          "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T18:44:38.000Z"
+      },
+      {
+        "id": "ai-7066086b",
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+        "bullets": [
+          "Meta's Muse agents continue to get new features and integrations.",
+          "Spaces promises to be a new way to interact with the AI helpers."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T18:44:20.000Z"
+      },
+      {
+        "id": "ai-63450cd7",
+        "title": "How a Blue Wave midterm might reshape the AI industry",
+        "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on...",
+        "bullets": [
+          "Democrats’ historic victories in this week’s U.S.",
+          "midterm elections could also transform the tech industry.",
+          "The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center...",
+          "And even when data centers weren’t on the ballot directly, they were a [&#8230;]"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T18:00:00.000Z"
+      },
+      {
+        "id": "world-d9531b43",
+        "title": "AI stocks climb after trillions wiped from market values",
+        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+        "bullets": [
+          "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T21:06:25.000Z"
+      },
+      {
+        "id": "world-8d1ef285",
+        "title": "Four midterms takeaways for 2028 White House race",
+        "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+        "bullets": [
+          "The buzz about the presidential election is already under way - here's what we learned this week."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T16:12:22.000Z"
+      },
+      {
+        "id": "world-5c7933bd",
+        "title": "Two dead after bus crashes in France, officials say",
+        "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+        "bullets": [
+          "One child and one young adult were killed in the crash, local authorities say, with more injured."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T15:33:52.000Z"
+      },
+      {
+        "id": "world-5c85c1b3",
+        "title": "New wave of bomb threats hit European airlines",
+        "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+        "bullets": [
+          "No link has been established between the threats against the airlines and those against the media outlets."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T15:25:35.000Z"
+      },
+      {
+        "id": "world-0d3a7d54",
+        "title": "Paraguay's President Santiago Peña impeached and arrested",
+        "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "bullets": [
+          "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T03:25:00.000Z"
       }
     ]
   }
