@@ -1,279 +1,5 @@
 [
   {
-    "date": "2026-10-09",
-    "generatedAt": "2026-10-09T18:23:16.012Z",
-    "articles": [
-      {
-        "id": "top-349a81f0",
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "bullets": [
-          "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T17:43:03.000Z"
-      },
-      {
-        "id": "top-03a778a6",
-        "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
-        "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-        "bullets": [
-          "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T15:16:54.000Z"
-      },
-      {
-        "id": "top-8a2e0ebd",
-        "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-        "summary": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
-        "bullets": [
-          "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T12:29:02.000Z"
-      },
-      {
-        "id": "top-0666064f",
-        "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-        "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
-        "bullets": [
-          "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T14:35:31.000Z"
-      },
-      {
-        "id": "top-728519ba",
-        "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-        "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-        "bullets": [
-          "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed...",
-          "and are furious at this distraction.\""
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T17:14:16.000Z"
-      },
-      {
-        "id": "tech-3a6f977b",
-        "title": "Microsoft barred from sponsoring foreign workers for US residency",
-        "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
-        "bullets": [
-          "The US says Microsoft abused immigration rules; the company disputes the claim."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T13:14:33.000Z"
-      },
-      {
-        "id": "tech-5b25a9b9",
-        "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-        "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
-        "bullets": [
-          "\"I can say we’re weeks away from launching on Vulcan.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T11:00:57.000Z"
-      },
-      {
-        "id": "tech-2cbb53de",
-        "title": "Volkswagen's replacement for the ID.4 crossover is here",
-        "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
-        "bullets": [
-          "The new EV’s digital cockpit can mimic instrument displays from VWs of old."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T10:00:59.000Z"
-      },
-      {
-        "id": "tech-0c994999",
-        "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-        "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-        "bullets": [
-          "\"These led to conjunctions of tens of meters to hundreds of meters.",
-          "Way too close to comfort.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T21:37:32.000Z"
-      },
-      {
-        "id": "tech-55f60158",
-        "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-        "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
-        "bullets": [
-          "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-08T20:53:01.000Z"
-      },
-      {
-        "id": "ai-164e255a",
-        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to...",
-        "bullets": [
-          "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from...",
-          "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums...",
-          "Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T16:56:42.000Z"
-      },
-      {
-        "id": "ai-eb5ee29b",
-        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to...",
-        "bullets": [
-          "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from...",
-          "Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums...",
-          "Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T16:53:02.000Z"
-      },
-      {
-        "id": "ai-8b57db70",
-        "title": "Danu Robotics’ fight to build a better recycling robot",
-        "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-        "bullets": [
-          "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T16:45:00.000Z"
-      },
-      {
-        "id": "ai-fd76798e",
-        "title": "We can’t help treating AI like it’s human. But should we?",
-        "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-        "bullets": [
-          "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr.",
-          "Sherry Turkle writes.",
-          "\"And we are wired to care for it in return.\""
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T16:40:14.000Z"
-      },
-      {
-        "id": "ai-07ebcff6",
-        "title": "a16z’s Olivia Moore on the state of consumer AI",
-        "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-        "bullets": [
-          "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T15:43:33.000Z"
-      },
-      {
-        "id": "world-349a81f0",
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "bullets": [
-          "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T17:43:03.000Z"
-      },
-      {
-        "id": "world-fee6da49",
-        "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-        "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-        "bullets": [
-          "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T17:37:10.000Z"
-      },
-      {
-        "id": "world-f521e2b3",
-        "title": "Firing squad execution to be livestreamed, Pentagon says",
-        "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-        "bullets": [
-          "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T16:29:47.000Z"
-      },
-      {
-        "id": "world-e0a4c688",
-        "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-        "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-        "bullets": [
-          "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T17:14:44.000Z"
-      },
-      {
-        "id": "world-351b82c7",
-        "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-        "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-        "bullets": [
-          "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T09:09:03.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-10",
     "generatedAt": "2026-10-10T21:47:30.337Z",
     "articles": [
@@ -8044,6 +7770,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-07T15:19:35.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T00:40:59.128Z",
+    "articles": [
+      {
+        "id": "top-c09c46de",
+        "title": "Briton among six killed in 'far-right' shooting in Krakow",
+        "summary": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+        "bullets": [
+          "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T23:41:00.000Z"
+      },
+      {
+        "id": "top-133e650c",
+        "title": "What we know so far after Krakow gun attack",
+        "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+        "bullets": [
+          "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T22:58:49.000Z"
+      },
+      {
+        "id": "top-6908787d",
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "bullets": [
+          "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T22:19:59.000Z"
+      },
+      {
+        "id": "top-896862f6",
+        "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+        "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+        "bullets": [
+          "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T15:19:35.000Z"
+      },
+      {
+        "id": "top-f07223c6",
+        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+        "summary": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+        "bullets": [
+          "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T17:32:42.000Z"
+      },
+      {
+        "id": "tech-cd7b91da",
+        "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+        "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+        "bullets": [
+          "Genes and archaeology are revealing how Bantu speakers spread across much of Africa."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T12:15:55.000Z"
+      },
+      {
+        "id": "tech-e27f1cc2",
+        "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+        "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+        "bullets": [
+          "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T11:00:34.000Z"
+      },
+      {
+        "id": "tech-be9c8b7f",
+        "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+        "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+        "bullets": [
+          "It's the exact path, not the apparent severity that matters most, doctors say."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T23:09:45.000Z"
+      },
+      {
+        "id": "tech-5e51512e",
+        "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+        "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+        "bullets": [
+          "Iran threatened to attack subsea cables if US escalates military strikes again."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T22:41:37.000Z"
+      },
+      {
+        "id": "tech-e46380c2",
+        "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+        "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+        "bullets": [
+          "It's mostly bad news from EA lately, but preservation efforts are nice to see."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T22:08:47.000Z"
+      },
+      {
+        "id": "ai-381e41a3",
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+        "bullets": [
+          "On Equity, we unpacked what the midterms mean for the tech industry."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T22:07:22.000Z"
+      },
+      {
+        "id": "ai-5086a427",
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+        "bullets": [
+          "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T21:17:08.000Z"
+      },
+      {
+        "id": "ai-ec38d371",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "bullets": [
+          "The deal highlights the challenges of developing massive AI data centers."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T01:40:28.000Z"
+      },
+      {
+        "id": "ai-4fbd5678",
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "bullets": [
+          "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T22:53:46.000Z"
+      },
+      {
+        "id": "ai-d69f63c2",
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+        "bullets": [
+          "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T18:44:38.000Z"
+      },
+      {
+        "id": "world-133e650c",
+        "title": "What we know so far after Krakow gun attack",
+        "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+        "bullets": [
+          "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T22:58:49.000Z"
+      },
+      {
+        "id": "world-6908787d",
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "bullets": [
+          "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T22:19:59.000Z"
+      },
+      {
+        "id": "world-6f28de80",
+        "title": "No clear winner after tight New Zealand general election",
+        "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+        "bullets": [
+          "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T15:56:28.000Z"
+      },
+      {
+        "id": "world-d66b002a",
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+        "bullets": [
+          "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T18:14:38.000Z"
+      },
+      {
+        "id": "world-e793a7db",
+        "title": "Houthis say at least 25 killed in Saudi air strike",
+        "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+        "bullets": [
+          "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T17:09:24.000Z"
       }
     ]
   }
