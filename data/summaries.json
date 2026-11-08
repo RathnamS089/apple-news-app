@@ -7775,8 +7775,34 @@
   },
   {
     "date": "2026-11-08",
-    "generatedAt": "2026-11-08T17:57:16.933Z",
+    "generatedAt": "2026-11-08T22:10:37.006Z",
     "articles": [
+      {
+        "id": "top-63df7acc",
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "bullets": [
+          "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-08T21:40:46.000Z"
+      },
+      {
+        "id": "top-20337900",
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "bullets": [
+          "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-08T18:22:53.000Z"
+      },
       {
         "id": "top-fa1dc828",
         "title": "King leads solemn Remembrance Sunday service at Cenotaph",
@@ -7788,59 +7814,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-08T13:49:07.000Z"
+        "publishedAt": "2026-11-08T18:20:53.000Z"
       },
       {
-        "id": "top-bc665713",
-        "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-        "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+        "id": "top-857ae76b",
+        "title": "Maya Jama steps down as host of reality TV show Love Island",
+        "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
         "bullets": [
-          "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable..."
+          "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-08T16:05:57.000Z"
+        "publishedAt": "2026-11-08T21:19:48.000Z"
       },
       {
-        "id": "top-757398b0",
-        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-        "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+        "id": "top-4eb0b159",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
         "bullets": [
-          "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+          "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-08T13:05:30.000Z"
-      },
-      {
-        "id": "top-6098c566",
-        "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
-        "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
-        "bullets": [
-          "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-08T15:37:57.000Z"
-      },
-      {
-        "id": "top-46e7b4bf",
-        "title": "Iran executes three men for 'armed unrest' after January protests",
-        "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-        "bullets": [
-          "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-08T13:37:50.000Z"
+        "publishedAt": "2026-11-08T19:58:02.000Z"
       },
       {
         "id": "tech-cf50a68f",
@@ -7908,6 +7908,19 @@
         "publishedAt": "2026-11-06T22:41:37.000Z"
       },
       {
+        "id": "ai-679cb85c",
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "summary": "In a memo to the company, Huang admitted that he had an affair.",
+        "bullets": [
+          "In a memo to the company, Huang admitted that he had an affair."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-08T21:00:11.000Z"
+      },
+      {
         "id": "ai-381e41a3",
         "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
         "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
@@ -7960,30 +7973,30 @@
         "publishedAt": "2026-11-06T22:53:46.000Z"
       },
       {
-        "id": "ai-d69f63c2",
-        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-        "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-        "bullets": [
-          "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-06T18:44:38.000Z"
-      },
-      {
         "id": "world-20337900",
         "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-        "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+        "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
         "bullets": [
-          "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers."
+          "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-08T13:40:24.000Z"
+        "publishedAt": "2026-11-08T18:22:53.000Z"
+      },
+      {
+        "id": "world-4eb0b159",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "bullets": [
+          "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-08T19:58:02.000Z"
       },
       {
         "id": "world-7f9a7cf1",
@@ -8023,19 +8036,6 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-08T04:03:12.000Z"
-      },
-      {
-        "id": "world-5eee5e44",
-        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-        "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-        "bullets": [
-          "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-07T21:36:16.000Z"
       }
     ]
   }
