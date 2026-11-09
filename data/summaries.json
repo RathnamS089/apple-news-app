@@ -1,274 +1,5 @@
 [
   {
-    "date": "2026-10-10",
-    "generatedAt": "2026-10-10T21:47:30.337Z",
-    "articles": [
-      {
-        "id": "top-e272ba70",
-        "title": "Man dies after tiger attack at wildlife park",
-        "summary": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
-        "bullets": [
-          "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T19:09:59.000Z"
-      },
-      {
-        "id": "top-8dea0aeb",
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "bullets": [
-          "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T19:28:28.000Z"
-      },
-      {
-        "id": "top-eed7d74a",
-        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-        "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-        "bullets": [
-          "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T17:44:26.000Z"
-      },
-      {
-        "id": "top-85141f7b",
-        "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-        "summary": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
-        "bullets": [
-          "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T14:27:43.000Z"
-      },
-      {
-        "id": "top-35d1a3d5",
-        "title": "King warns malicious online actors are evolving tactics",
-        "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
-        "bullets": [
-          "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T15:56:32.000Z"
-      },
-      {
-        "id": "tech-65a529e7",
-        "title": "One with the world? A new look at brains transformed by psychedelics.",
-        "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
-        "bullets": [
-          "Participants meditated inside an MRI tube, with and without psilocybin."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T11:15:35.000Z"
-      },
-      {
-        "id": "tech-430c34e4",
-        "title": "Neanderthal wooden tools from Spain found preserved in stone",
-        "summary": "Dissolved rock precipitated around the tools, which then decayed.",
-        "bullets": [
-          "Dissolved rock precipitated around the tools, which then decayed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T22:34:03.000Z"
-      },
-      {
-        "id": "tech-5cf84025",
-        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-        "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-        "bullets": [
-          "One damaged data center has supercomputers used for training Yandex’s AI model."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T22:04:07.000Z"
-      },
-      {
-        "id": "tech-9ace2bfe",
-        "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-        "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
-        "bullets": [
-          "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T21:51:12.000Z"
-      },
-      {
-        "id": "tech-b3ff5735",
-        "title": "NASA issues long-awaited call to industry for private space stations",
-        "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-        "bullets": [
-          "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T21:34:09.000Z"
-      },
-      {
-        "id": "ai-5e4621b8",
-        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-        "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-        "bullets": [
-          "Is Apple hoping to get into the AI-generated podcast business?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T19:50:00.000Z"
-      },
-      {
-        "id": "ai-5456ef9a",
-        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-        "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to...",
-        "bullets": [
-          "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco.",
-          "Over 300 startups will show what they’ve built to 10,000 tech leaders.",
-          "Plus, 250+ speakers are ready to share insights across 200+ sessions.",
-          "Register before doors open to save up to $100 and get a second pass at 50% off."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T15:00:00.000Z"
-      },
-      {
-        "id": "ai-ab460902",
-        "title": "Here are the top AI agents that can live in your text messages",
-        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "bullets": [
-          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T14:00:00.000Z"
-      },
-      {
-        "id": "ai-65954354",
-        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-        "bullets": [
-          "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T00:18:32.000Z"
-      },
-      {
-        "id": "ai-1bafea25",
-        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-        "bullets": [
-          "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T21:41:29.000Z"
-      },
-      {
-        "id": "world-8dea0aeb",
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "bullets": [
-          "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T19:28:28.000Z"
-      },
-      {
-        "id": "world-25f3e6ed",
-        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-        "bullets": [
-          "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T20:51:12.000Z"
-      },
-      {
-        "id": "world-39552184",
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
-        "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-        "bullets": [
-          "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T21:27:10.000Z"
-      },
-      {
-        "id": "world-eed7d74a",
-        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-        "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-        "bullets": [
-          "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T17:44:26.000Z"
-      },
-      {
-        "id": "world-b63e7437",
-        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-        "bullets": [
-          "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T19:08:17.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-11",
     "generatedAt": "2026-10-11T19:34:37.835Z",
     "articles": [
@@ -8036,6 +7767,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-08T04:03:12.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09",
+    "generatedAt": "2026-11-09T06:41:36.197Z",
+    "articles": [
+      {
+        "id": "top-7d479a34",
+        "title": "Inside the French drug gangs recruiting children to kill",
+        "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+        "bullets": [
+          "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T06:00:26.000Z"
+      },
+      {
+        "id": "top-744c2258",
+        "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+        "summary": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+        "bullets": [
+          "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T00:57:05.000Z"
+      },
+      {
+        "id": "top-1edf61f0",
+        "title": "Krakow shooting suspect has died in hospital, police say",
+        "summary": "At least six people were killed in the shooting and a dozen more were injured.",
+        "bullets": [
+          "At least six people were killed in the shooting and a dozen more were injured."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T06:39:25.000Z"
+      },
+      {
+        "id": "top-5b2d5b33",
+        "title": "Dense fog threatens Monday morning rush-hour disruption",
+        "summary": "Fog could disrupt Monday morning’s commute",
+        "bullets": [
+          "Fog could disrupt Monday morning’s commute"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T06:17:34.000Z"
+      },
+      {
+        "id": "top-dbd7490a",
+        "title": "Government's EV targets expected to be reduced this week",
+        "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+        "bullets": [
+          "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T05:00:43.000Z"
+      },
+      {
+        "id": "tech-cf50a68f",
+        "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+        "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+        "bullets": [
+          "Tuning in to electronic noise can tell us whether electrons have paired up or not."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-08T12:15:31.000Z"
+      },
+      {
+        "id": "tech-cd7b91da",
+        "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+        "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+        "bullets": [
+          "Genes and archaeology are revealing how Bantu speakers spread across much of Africa."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T12:15:55.000Z"
+      },
+      {
+        "id": "tech-e27f1cc2",
+        "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+        "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+        "bullets": [
+          "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T11:00:34.000Z"
+      },
+      {
+        "id": "tech-be9c8b7f",
+        "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+        "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+        "bullets": [
+          "It's the exact path, not the apparent severity that matters most, doctors say."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T23:09:45.000Z"
+      },
+      {
+        "id": "tech-5e51512e",
+        "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+        "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+        "bullets": [
+          "Iran threatened to attack subsea cables if US escalates military strikes again."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-06T22:41:37.000Z"
+      },
+      {
+        "id": "ai-2fc44dad",
+        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+        "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+        "bullets": [
+          "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T05:26:29.000Z"
+      },
+      {
+        "id": "ai-679cb85c",
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "summary": "In a memo to the company, Huang admitted that he had an affair.",
+        "bullets": [
+          "In a memo to the company, Huang admitted that he had an affair."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-08T21:00:11.000Z"
+      },
+      {
+        "id": "ai-381e41a3",
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+        "bullets": [
+          "On Equity, we unpacked what the midterms mean for the tech industry."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T22:07:22.000Z"
+      },
+      {
+        "id": "ai-5086a427",
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+        "bullets": [
+          "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T21:17:08.000Z"
+      },
+      {
+        "id": "ai-ec38d371",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "bullets": [
+          "The deal highlights the challenges of developing massive AI data centers."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-07T01:40:28.000Z"
+      },
+      {
+        "id": "world-7d479a34",
+        "title": "Inside the French drug gangs recruiting children to kill",
+        "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+        "bullets": [
+          "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T06:00:26.000Z"
+      },
+      {
+        "id": "world-20337900",
+        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+        "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "bullets": [
+          "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-08T23:34:18.000Z"
+      },
+      {
+        "id": "world-4eb0b159",
+        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+        "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "bullets": [
+          "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-08T19:58:02.000Z"
+      },
+      {
+        "id": "world-c8e8a305",
+        "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+        "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+        "bullets": [
+          "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T05:30:37.000Z"
+      },
+      {
+        "id": "world-919428f7",
+        "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+        "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+        "bullets": [
+          "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T02:50:13.000Z"
       }
     ]
   }
