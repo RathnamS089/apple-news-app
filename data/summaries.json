@@ -7772,267 +7772,268 @@
   },
   {
     "date": "2026-11-09",
-    "generatedAt": "2026-11-09T06:41:36.197Z",
+    "generatedAt": "2026-11-09T19:52:00.669Z",
     "articles": [
       {
-        "id": "top-7d479a34",
-        "title": "Inside the French drug gangs recruiting children to kill",
-        "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+        "id": "top-bd8ba617",
+        "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+        "summary": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
         "bullets": [
-          "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
+          "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T06:00:26.000Z"
+        "publishedAt": "2026-11-09T17:31:08.000Z"
       },
       {
-        "id": "top-744c2258",
-        "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-        "summary": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+        "id": "top-1368eae2",
+        "title": "Watch: Moment judge sentences Brand in court",
+        "summary": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.",
         "bullets": [
-          "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
+          "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T00:57:05.000Z"
+        "publishedAt": "2026-11-09T15:18:04.000Z"
       },
       {
-        "id": "top-1edf61f0",
-        "title": "Krakow shooting suspect has died in hospital, police say",
-        "summary": "At least six people were killed in the shooting and a dozen more were injured.",
+        "id": "top-3add0ebc",
+        "title": "France accuses Iran of supermarket fridge hacking",
+        "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
         "bullets": [
-          "At least six people were killed in the shooting and a dozen more were injured."
+          "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T06:39:25.000Z"
+        "publishedAt": "2026-11-09T16:55:07.000Z"
       },
       {
-        "id": "top-5b2d5b33",
-        "title": "Dense fog threatens Monday morning rush-hour disruption",
-        "summary": "Fog could disrupt Monday morning’s commute",
+        "id": "top-7be4ef6f",
+        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+        "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
         "bullets": [
-          "Fog could disrupt Monday morning’s commute"
+          "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T06:17:34.000Z"
+        "publishedAt": "2026-11-09T18:11:11.000Z"
       },
       {
-        "id": "top-dbd7490a",
-        "title": "Government's EV targets expected to be reduced this week",
-        "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+        "id": "top-3a48d18b",
+        "title": "Civil servant who secretly held five jobs found guilty of fraud",
+        "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
         "bullets": [
-          "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
+          "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T05:00:43.000Z"
+        "publishedAt": "2026-11-09T17:17:16.000Z"
       },
       {
-        "id": "tech-cf50a68f",
-        "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-        "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+        "id": "tech-d9ccea4b",
+        "title": "Claude Code is accidentally exposing secrets all over GitHub",
+        "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
         "bullets": [
-          "Tuning in to electronic noise can tell us whether electrons have paired up or not."
+          "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-08T12:15:31.000Z"
+        "publishedAt": "2026-11-09T17:24:26.000Z"
       },
       {
-        "id": "tech-cd7b91da",
-        "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-        "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+        "id": "tech-f3e1a05f",
+        "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+        "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
         "bullets": [
-          "Genes and archaeology are revealing how Bantu speakers spread across much of Africa."
+          "\"Grok analyzing the same video is 99.9 percent perfect.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T12:15:55.000Z"
+        "publishedAt": "2026-11-09T15:39:21.000Z"
       },
       {
-        "id": "tech-e27f1cc2",
-        "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-        "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+        "id": "tech-42f1e61f",
+        "title": "Nvidia CEO's affair becomes a national security problem",
+        "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
         "bullets": [
-          "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed."
+          "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T11:00:34.000Z"
+        "publishedAt": "2026-11-09T15:23:20.000Z"
       },
       {
-        "id": "tech-be9c8b7f",
-        "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-        "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+        "id": "tech-284652e5",
+        "title": "F1 in Brazil: You’ve got to keep your tires alive",
+        "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
         "bullets": [
-          "It's the exact path, not the apparent severity that matters most, doctors say."
+          "A topsy-turvy grid and intermittent rain resulted in a very entertaining race."
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+        "sourceUrl": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T23:09:45.000Z"
+        "publishedAt": "2026-11-09T15:16:31.000Z"
       },
       {
-        "id": "tech-5e51512e",
-        "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-        "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+        "id": "tech-e8697730",
+        "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+        "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
         "bullets": [
-          "Iran threatened to attack subsea cables if US escalates military strikes again."
+          "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\""
         ],
         "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
         "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-06T22:41:37.000Z"
+        "publishedAt": "2026-11-09T12:00:05.000Z"
       },
       {
-        "id": "ai-2fc44dad",
-        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-        "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+        "id": "ai-ab346b45",
+        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
         "bullets": [
-          "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a..."
+          "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T05:26:29.000Z"
+        "publishedAt": "2026-11-09T19:24:51.000Z"
       },
       {
-        "id": "ai-679cb85c",
-        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-        "summary": "In a memo to the company, Huang admitted that he had an affair.",
+        "id": "ai-f1c7414c",
+        "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+        "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
         "bullets": [
-          "In a memo to the company, Huang admitted that he had an affair."
+          "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S.",
+          "chip export restrictions and maintain access to China’s lucrative AI market."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-08T21:00:11.000Z"
+        "publishedAt": "2026-11-09T18:09:52.000Z"
       },
       {
-        "id": "ai-381e41a3",
-        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-        "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+        "id": "ai-06d5c449",
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
         "bullets": [
-          "On Equity, we unpacked what the midterms mean for the tech industry."
+          "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T22:07:22.000Z"
+        "publishedAt": "2026-11-09T18:00:00.000Z"
       },
       {
-        "id": "ai-5086a427",
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+        "id": "ai-0780ead5",
+        "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+        "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
         "bullets": [
-          "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on..."
+          "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T21:17:08.000Z"
+        "publishedAt": "2026-11-09T16:56:54.000Z"
       },
       {
-        "id": "ai-ec38d371",
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "id": "ai-bc347aec",
+        "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+        "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
         "bullets": [
-          "The deal highlights the challenges of developing massive AI data centers."
+          "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
         ],
         "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
         "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-07T01:40:28.000Z"
+        "publishedAt": "2026-11-09T16:12:28.000Z"
       },
       {
-        "id": "world-7d479a34",
-        "title": "Inside the French drug gangs recruiting children to kill",
-        "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+        "id": "world-3add0ebc",
+        "title": "France accuses Iran of supermarket fridge hacking",
+        "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
         "bullets": [
-          "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
+          "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T06:00:26.000Z"
+        "publishedAt": "2026-11-09T16:55:07.000Z"
       },
       {
-        "id": "world-20337900",
-        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-        "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "id": "world-7be4ef6f",
+        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+        "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
         "bullets": [
-          "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+          "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-08T23:34:18.000Z"
+        "publishedAt": "2026-11-09T18:11:11.000Z"
       },
       {
-        "id": "world-4eb0b159",
-        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-        "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "id": "world-76858815",
+        "title": "Trump questions midterm elections integrity after previously accepting results",
+        "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
         "bullets": [
-          "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+          "Trump made the claims, without evidence, on Truth Social on Monday."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-08T19:58:02.000Z"
+        "publishedAt": "2026-11-09T17:47:29.000Z"
       },
       {
-        "id": "world-c8e8a305",
-        "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-        "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+        "id": "world-88b65a82",
+        "title": "Turkey steel factory blast kills at least 16 people",
+        "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
         "bullets": [
-          "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour."
+          "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T05:30:37.000Z"
+        "publishedAt": "2026-11-09T18:04:01.000Z"
       },
       {
-        "id": "world-919428f7",
-        "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-        "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+        "id": "world-468e9d36",
+        "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+        "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
         "bullets": [
-          "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
+          "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-09T02:50:13.000Z"
+        "publishedAt": "2026-11-09T19:39:33.000Z"
       }
     ]
   }
