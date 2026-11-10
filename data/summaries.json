@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-11",
-    "generatedAt": "2026-10-11T19:34:37.835Z",
-    "articles": [
-      {
-        "id": "top-0d278e43",
-        "title": "Saudi capital airport hit by second Houthi strike in two days",
-        "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-        "bullets": [
-          "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T16:41:37.000Z"
-      },
-      {
-        "id": "top-08288c9b",
-        "title": "PM says it is 'clear' Russia interfered with Brexit vote",
-        "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
-        "bullets": [
-          "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T18:00:30.000Z"
-      },
-      {
-        "id": "top-222e723a",
-        "title": "Wildlife park remains closed after fatal tiger attack",
-        "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
-        "bullets": [
-          "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T12:38:02.000Z"
-      },
-      {
-        "id": "top-4b5b1baa",
-        "title": "Poland detains man suspected of planning assassination of PM Tusk",
-        "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-        "bullets": [
-          "Police received credible information about possible attacks against Donald Tusk and his defence minister."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T17:27:24.000Z"
-      },
-      {
-        "id": "top-0e4b41ff",
-        "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
-        "summary": "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests.",
-        "bullets": [
-          "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T10:43:17.000Z"
-      },
-      {
-        "id": "tech-f4464522",
-        "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-        "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One",
-        "bullets": [
-          "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T14:50:24.000Z"
-      },
-      {
-        "id": "tech-65a529e7",
-        "title": "One with the world? A new look at brains transformed by psychedelics.",
-        "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
-        "bullets": [
-          "Participants meditated inside an MRI tube, with and without psilocybin."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T11:15:35.000Z"
-      },
-      {
-        "id": "tech-430c34e4",
-        "title": "Neanderthal wooden tools from Spain found preserved in stone",
-        "summary": "Dissolved rock precipitated around the tools, which then decayed.",
-        "bullets": [
-          "Dissolved rock precipitated around the tools, which then decayed."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T22:34:03.000Z"
-      },
-      {
-        "id": "tech-5cf84025",
-        "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-        "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-        "bullets": [
-          "One damaged data center has supercomputers used for training Yandex’s AI model."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T22:04:07.000Z"
-      },
-      {
-        "id": "tech-9ace2bfe",
-        "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-        "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
-        "bullets": [
-          "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-09T21:51:12.000Z"
-      },
-      {
-        "id": "ai-3100926e",
-        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-        "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-        "bullets": [
-          "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West.",
-          "Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass.",
-          "Or score other deals."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T19:00:00.000Z"
-      },
-      {
-        "id": "ai-f604ee95",
-        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-        "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-        "bullets": [
-          "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T16:52:33.000Z"
-      },
-      {
-        "id": "ai-ae9322bd",
-        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-        "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-        "bullets": [
-          "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T14:00:00.000Z"
-      },
-      {
-        "id": "ai-216fb7f6",
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-        "bullets": [
-          "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T21:47:51.000Z"
-      },
-      {
-        "id": "ai-5e4621b8",
-        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-        "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-        "bullets": [
-          "Is Apple hoping to get into the AI-generated podcast business?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-10T19:50:00.000Z"
-      },
-      {
-        "id": "world-0d278e43",
-        "title": "Saudi capital airport hit by second Houthi strike in two days",
-        "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-        "bullets": [
-          "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T16:41:37.000Z"
-      },
-      {
-        "id": "world-c5190661",
-        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-        "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-        "bullets": [
-          "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T14:38:10.000Z"
-      },
-      {
-        "id": "world-4b5b1baa",
-        "title": "Poland detains man suspected of planning assassination of PM Tusk",
-        "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-        "bullets": [
-          "Police received credible information about possible attacks against Donald Tusk and his defence minister."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T17:27:24.000Z"
-      },
-      {
-        "id": "world-5950c2f4",
-        "title": "Homes and bridges swept away as fresh floods hit Nepal",
-        "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-        "bullets": [
-          "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T12:03:52.000Z"
-      },
-      {
-        "id": "world-d72d8092",
-        "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-        "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
-        "bullets": [
-          "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-11T15:18:52.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-12",
     "generatedAt": "2026-10-12T21:17:32.899Z",
     "articles": [
@@ -8034,6 +7766,272 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-09T19:39:33.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "generatedAt": "2026-11-10T03:36:37.936Z",
+    "articles": [
+      {
+        "id": "top-8244cfc7",
+        "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+        "summary": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while the two were together.",
+        "bullets": [
+          "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while the two were together."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T02:59:42.000Z"
+      },
+      {
+        "id": "top-0798b74f",
+        "title": "What happened inside court as Brand was sentenced",
+        "summary": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+        "bullets": [
+          "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T20:13:41.000Z"
+      },
+      {
+        "id": "top-096fddc9",
+        "title": "Hundreds more offenders to leave jail on Tuesday",
+        "summary": "At least 1,350 offenders have been released from jail early under the scheme so far.",
+        "bullets": [
+          "At least 1,350 offenders have been released from jail early under the scheme so far."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T01:06:37.000Z"
+      },
+      {
+        "id": "top-d9b61ef7",
+        "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+        "summary": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+        "bullets": [
+          "The government says it is strengthening its guidance for schools in England, which came into force in June."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T22:51:09.000Z"
+      },
+      {
+        "id": "top-6867ce6c",
+        "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+        "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+        "bullets": [
+          "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T02:38:00.000Z"
+      },
+      {
+        "id": "tech-57fcd0db",
+        "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+        "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+        "bullets": [
+          "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T21:55:35.000Z"
+      },
+      {
+        "id": "tech-f13a2078",
+        "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+        "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+        "bullets": [
+          "Lawsuit demands Kalshi return losses because online betting is illegal in Washington."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T21:13:39.000Z"
+      },
+      {
+        "id": "tech-989940c6",
+        "title": "A Sam Altman parody offers an amusing lesson in memory management",
+        "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+        "bullets": [
+          "We verified the RAM numbers are real without sending any emails to OpenAI."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T20:49:09.000Z"
+      },
+      {
+        "id": "tech-26513f6f",
+        "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+        "summary": "\"*sshole\" poses a serious threat to Internet security.",
+        "bullets": [
+          "\"*sshole\" poses a serious threat to Internet security."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T19:41:34.000Z"
+      },
+      {
+        "id": "tech-baa80322",
+        "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+        "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+        "bullets": [
+          "\"Please jump on my cislunar bandwagon because I need some more friends here.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T19:08:37.000Z"
+      },
+      {
+        "id": "ai-b8c3cfe4",
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+        "bullets": [
+          "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T01:27:12.000Z"
+      },
+      {
+        "id": "ai-94b93ceb",
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+        "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "bullets": [
+          "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T23:28:37.000Z"
+      },
+      {
+        "id": "ai-a7c42874",
+        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+        "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "bullets": [
+          "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T22:46:09.000Z"
+      },
+      {
+        "id": "ai-0d9370b9",
+        "title": "The race is on to sue Nvidia",
+        "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a...",
+        "bullets": [
+          "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T22:23:42.000Z"
+      },
+      {
+        "id": "ai-f54b2429",
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "bullets": [
+          "The Nvidia CEO also pulled out of an Anthropic event earlier."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T20:09:06.000Z"
+      },
+      {
+        "id": "world-c6518704",
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+        "bullets": [
+          "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T01:44:53.000Z"
+      },
+      {
+        "id": "world-7be4ef6f",
+        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+        "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+        "bullets": [
+          "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T19:58:01.000Z"
+      },
+      {
+        "id": "world-afd9151a",
+        "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+        "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+        "bullets": [
+          "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T00:09:49.000Z"
+      },
+      {
+        "id": "world-8d2c3df6",
+        "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+        "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+        "bullets": [
+          "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T00:14:03.000Z"
+      },
+      {
+        "id": "world-3add0ebc",
+        "title": "France accuses Iran of supermarket fridge hacking",
+        "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+        "bullets": [
+          "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-09T20:20:08.000Z"
       }
     ]
   }
