@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-12",
-    "generatedAt": "2026-10-12T21:17:32.899Z",
-    "articles": [
-      {
-        "id": "top-62a5964d",
-        "title": "Burnham to push for new post-Brexit deals at EU summit",
-        "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
-        "bullets": [
-          "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T17:38:15.000Z"
-      },
-      {
-        "id": "top-2c609995",
-        "title": "Government expands police support to political figures who are not MPs",
-        "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
-        "bullets": [
-          "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T19:51:34.000Z"
-      },
-      {
-        "id": "top-1c388351",
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-        "bullets": [
-          "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T17:32:13.000Z"
-      },
-      {
-        "id": "top-e8d64fba",
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-        "bullets": [
-          "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T20:17:37.000Z"
-      },
-      {
-        "id": "top-f2efe6fd",
-        "title": "Abramovich's close associate misled UK court in £1bn oil-fields case, documents suggest",
-        "summary": "Former Chelsea FC director, Eugene Tenenbaum, helped to manage the oligarch’s wealth.",
-        "bullets": [
-          "Former Chelsea FC director, Eugene Tenenbaum, helped to manage the oligarch’s wealth."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T18:36:34.000Z"
-      },
-      {
-        "id": "tech-a4331b68",
-        "title": "Russia was not ready for the data center war it started with Ukraine",
-        "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-        "bullets": [
-          "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T17:52:36.000Z"
-      },
-      {
-        "id": "tech-21dee7f7",
-        "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-        "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-        "bullets": [
-          "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T16:01:08.000Z"
-      },
-      {
-        "id": "tech-f19f07e8",
-        "title": "F1 in Singapore: There's a new fastest car now",
-        "summary": "Also, F1’s final sprint saw our first real wet racing of the year.",
-        "bullets": [
-          "Also, F1’s final sprint saw our first real wet racing of the year."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T14:43:14.000Z"
-      },
-      {
-        "id": "tech-502da0ca",
-        "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-        "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-        "bullets": [
-          "The Fitbit Edge offers more than the Air, but it's not a real smartwatch."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T13:00:52.000Z"
-      },
-      {
-        "id": "tech-9792e2ef",
-        "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-        "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-        "bullets": [
-          "The second-largest corporate employer has bet big on robot workers to scale."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T12:43:10.000Z"
-      },
-      {
-        "id": "ai-26eeac95",
-        "title": "Meta releases its first frontier model, Muse Wonder",
-        "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-        "bullets": [
-          "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T17:56:56.000Z"
-      },
-      {
-        "id": "ai-c12874bb",
-        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-        "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-        "bullets": [
-          "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S.",
-          "military contract worth almost $50 million."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T17:19:14.000Z"
-      },
-      {
-        "id": "ai-5b98ba8f",
-        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-        "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-        "bullets": [
-          "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken.",
-          "But could AI actually make things better?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T15:45:00.000Z"
-      },
-      {
-        "id": "ai-c0664707",
-        "title": "Microsoft president says UK is best placed to drive AI regulation",
-        "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-        "bullets": [
-          "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T15:31:19.000Z"
-      },
-      {
-        "id": "ai-40d25bd9",
-        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-        "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-        "bullets": [
-          "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T15:27:59.000Z"
-      },
-      {
-        "id": "world-1c388351",
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-        "bullets": [
-          "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T17:32:13.000Z"
-      },
-      {
-        "id": "world-e8d64fba",
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-        "bullets": [
-          "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T20:17:37.000Z"
-      },
-      {
-        "id": "world-647fda9a",
-        "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-        "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-        "bullets": [
-          "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T05:00:52.000Z"
-      },
-      {
-        "id": "world-70b05726",
-        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-        "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-        "bullets": [
-          "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T20:54:09.000Z"
-      },
-      {
-        "id": "world-bf57159a",
-        "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-        "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-        "bullets": [
-          "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-12T16:46:49.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-13",
     "generatedAt": "2026-10-13T22:48:09.276Z",
     "articles": [
@@ -8034,6 +7766,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-10T20:46:40.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "generatedAt": "2026-11-11T06:31:20.931Z",
+    "articles": [
+      {
+        "id": "top-0439c42e",
+        "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+        "summary": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
+        "bullets": [
+          "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-11T04:03:25.000Z"
+      },
+      {
+        "id": "top-ee1dc070",
+        "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+        "summary": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
+        "bullets": [
+          "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T22:41:01.000Z"
+      },
+      {
+        "id": "top-d5056c8d",
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+        "bullets": [
+          "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-11T01:01:20.000Z"
+      },
+      {
+        "id": "top-8fef2cfe",
+        "title": "US Army soldier suspected of spying for Russia arrested in UK",
+        "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+        "bullets": [
+          "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T20:20:04.000Z"
+      },
+      {
+        "id": "top-37476ae0",
+        "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+        "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
+        "bullets": [
+          "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-11T00:17:42.000Z"
+      },
+      {
+        "id": "tech-e0ea0127",
+        "title": "Seagate's new hybrid drive raises some old questions",
+        "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+        "bullets": [
+          "The FireCuda Forge revisits an old idea, with some familiar questions."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T23:30:56.000Z"
+      },
+      {
+        "id": "tech-f335214b",
+        "title": "The US military seems to be getting nervous about the launch supply crunch",
+        "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+        "bullets": [
+          "\"Launch is extremely constrained and that is exactly the situation we predicted.\""
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T23:02:39.000Z"
+      },
+      {
+        "id": "tech-39e95ea4",
+        "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+        "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+        "bullets": [
+          "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T22:35:01.000Z"
+      },
+      {
+        "id": "tech-a6e704d7",
+        "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+        "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+        "bullets": [
+          "Democrats accuse FCC nominee of evading questions about Carr, her current boss."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T21:55:26.000Z"
+      },
+      {
+        "id": "tech-b882f24c",
+        "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "bullets": [
+          "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
+        ],
+        "source": "Ars Technica - All content",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T21:12:59.000Z"
+      },
+      {
+        "id": "ai-2c1987e2",
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "bullets": [
+          "OpenAI has not yet said what its plans are for the future of travel.",
+          "But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T21:08:52.000Z"
+      },
+      {
+        "id": "ai-9020f526",
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+        "bullets": [
+          "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T20:52:13.000Z"
+      },
+      {
+        "id": "ai-a530cb73",
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+        "bullets": [
+          "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T19:57:52.000Z"
+      },
+      {
+        "id": "ai-656c0403",
+        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+        "bullets": [
+          "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T19:23:34.000Z"
+      },
+      {
+        "id": "ai-5b180605",
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+        "bullets": [
+          "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T19:03:52.000Z"
+      },
+      {
+        "id": "world-d5056c8d",
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+        "bullets": [
+          "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-11T01:01:20.000Z"
+      },
+      {
+        "id": "world-8fef2cfe",
+        "title": "US Army soldier suspected of spying for Russia arrested in UK",
+        "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+        "bullets": [
+          "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-10T20:20:04.000Z"
+      },
+      {
+        "id": "world-2210dcdf",
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+        "bullets": [
+          "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-11T03:26:42.000Z"
+      },
+      {
+        "id": "world-80853fad",
+        "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+        "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+        "bullets": [
+          "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-11T02:41:16.000Z"
+      },
+      {
+        "id": "world-daac55a5",
+        "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+        "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+        "bullets": [
+          "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-11T00:18:07.000Z"
       }
     ]
   }
