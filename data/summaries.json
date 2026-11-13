@@ -1,274 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "generatedAt": "2026-10-14T21:43:57.647Z",
-    "articles": [
-      {
-        "id": "top-ab65013e",
-        "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-        "bullets": [
-          "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T20:55:24.000Z"
-      },
-      {
-        "id": "top-ebf6ce00",
-        "title": "We are behind you and that will not change, PM tells Zelensky",
-        "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
-        "bullets": [
-          "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T19:22:28.000Z"
-      },
-      {
-        "id": "top-ea8a364b",
-        "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-        "summary": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
-        "bullets": [
-          "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T17:55:53.000Z"
-      },
-      {
-        "id": "top-cc1d49e2",
-        "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-        "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
-        "bullets": [
-          "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T16:56:21.000Z"
-      },
-      {
-        "id": "top-699e2925",
-        "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-        "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-        "bullets": [
-          "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T17:46:30.000Z"
-      },
-      {
-        "id": "tech-3a9a12ab",
-        "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-        "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
-        "bullets": [
-          "\"This is great news for us."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T20:48:07.000Z"
-      },
-      {
-        "id": "tech-2cdadb65",
-        "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
-        "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
-        "bullets": [
-          "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T20:15:56.000Z"
-      },
-      {
-        "id": "tech-012b39ad",
-        "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-        "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
-        "bullets": [
-          "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T19:53:01.000Z"
-      },
-      {
-        "id": "tech-faa65b2f",
-        "title": "Software development and rules stability: Prototype racing in 2030",
-        "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
-        "bullets": [
-          "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T19:44:26.000Z"
-      },
-      {
-        "id": "tech-803d0a45",
-        "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-        "summary": "\"Have you ever seen a world born?\"",
-        "bullets": [
-          "\"Have you ever seen a world born?\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T19:10:58.000Z"
-      },
-      {
-        "id": "ai-446c3d2b",
-        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-        "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-        "bullets": [
-          "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T21:30:33.000Z"
-      },
-      {
-        "id": "ai-565eaad6",
-        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-        "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-        "bullets": [
-          "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T18:23:46.000Z"
-      },
-      {
-        "id": "ai-cf4d5ba6",
-        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-        "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-        "bullets": [
-          "Most companies use AI agents to ship products faster or speed up workflows.",
-          "Apate.ai sends them undercover to get scammed."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T18:00:00.000Z"
-      },
-      {
-        "id": "ai-d8e27e83",
-        "title": "Deezer will soon let you filter out AI-generated music",
-        "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-        "bullets": [
-          "Deezer said that the new toggle will be rolled out by the end of the year."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T15:16:04.000Z"
-      },
-      {
-        "id": "ai-279c376e",
-        "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-        "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-        "bullets": [
-          "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco.",
-          "Register now and join the rest of the startup ecosystem.",
-          "Today, it's all about physical and software AI."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T15:13:24.000Z"
-      },
-      {
-        "id": "world-ab65013e",
-        "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-        "bullets": [
-          "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T20:55:24.000Z"
-      },
-      {
-        "id": "world-9096e068",
-        "title": "Student protesters attack government buildings in Tirana",
-        "summary": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
-        "bullets": [
-          "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T20:29:05.000Z"
-      },
-      {
-        "id": "world-a563a31a",
-        "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-        "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-        "bullets": [
-          "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T15:12:46.000Z"
-      },
-      {
-        "id": "world-f8fb505c",
-        "title": "US inflation rises more than expected - here's what is happening with prices",
-        "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-        "bullets": [
-          "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T15:26:14.000Z"
-      },
-      {
-        "id": "world-993879f7",
-        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-        "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-        "bullets": [
-          "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-14T13:41:51.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-15",
     "generatedAt": "2026-10-15T21:26:21.118Z",
     "articles": [
@@ -8036,6 +7767,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-12T18:47:35.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "generatedAt": "2026-11-13T01:52:19.932Z",
+    "articles": [
+      {
+        "id": "top-0303d0dc",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "bullets": [
+          "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T23:34:05.000Z"
+      },
+      {
+        "id": "top-8a3a283c",
+        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+        "bullets": [
+          "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T20:09:16.000Z"
+      },
+      {
+        "id": "top-2d485176",
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "bullets": [
+          "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-13T00:55:31.000Z"
+      },
+      {
+        "id": "top-816166b7",
+        "title": "Military base asylum plans granted planning approval",
+        "summary": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+        "bullets": [
+          "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T22:16:34.000Z"
+      },
+      {
+        "id": "top-9b5c9231",
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+        "bullets": [
+          "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T21:00:42.000Z"
+      },
+      {
+        "id": "tech-7ac7ae54",
+        "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+        "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+        "bullets": [
+          "Men aged 50–69 and at average risk should get PSA screening every two years."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T22:59:51.000Z"
+      },
+      {
+        "id": "tech-766323da",
+        "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+        "bullets": [
+          "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T22:28:47.000Z"
+      },
+      {
+        "id": "tech-bdcd17e1",
+        "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+        "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+        "bullets": [
+          "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T19:59:59.000Z"
+      },
+      {
+        "id": "tech-de50a2f6",
+        "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+        "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
+        "bullets": [
+          "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T19:49:11.000Z"
+      },
+      {
+        "id": "tech-5bcc31c4",
+        "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+        "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+        "bullets": [
+          "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T19:23:03.000Z"
+      },
+      {
+        "id": "ai-ee3cc70e",
+        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+        "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+        "bullets": [
+          "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T22:42:51.000Z"
+      },
+      {
+        "id": "ai-d5171d01",
+        "title": "Muse can now place calls to US businesses — if you pay",
+        "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+        "bullets": [
+          "Muse's AI can now place outbound calls to U.S.",
+          "businesses — but it's not free."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T22:22:28.000Z"
+      },
+      {
+        "id": "ai-36b80159",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "bullets": [
+          "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S.",
+          "and China race to develop the most advanced AI infrastructure."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T21:35:00.000Z"
+      },
+      {
+        "id": "ai-d9c8f171",
+        "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+        "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+        "bullets": [
+          "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T21:27:10.000Z"
+      },
+      {
+        "id": "ai-d52ad701",
+        "title": "Jensen Huang was having a third affair, Reuters reports",
+        "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+        "bullets": [
+          "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T20:26:47.000Z"
+      },
+      {
+        "id": "world-0303d0dc",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+        "bullets": [
+          "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T23:34:05.000Z"
+      },
+      {
+        "id": "world-9b5c9231",
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+        "bullets": [
+          "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T21:00:42.000Z"
+      },
+      {
+        "id": "world-1d1aa28c",
+        "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+        "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+        "bullets": [
+          "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-13T00:20:24.000Z"
+      },
+      {
+        "id": "world-8a3a283c",
+        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+        "bullets": [
+          "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T20:09:16.000Z"
+      },
+      {
+        "id": "world-938b62af",
+        "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+        "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+        "bullets": [
+          "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-12T19:23:02.000Z"
       }
     ]
   }
