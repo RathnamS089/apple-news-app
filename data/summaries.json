@@ -7770,24 +7770,63 @@
   },
   {
     "date": "2026-11-14",
-    "generatedAt": "2026-11-14T01:28:22.712Z",
+    "generatedAt": "2026-11-14T10:31:57.018Z",
     "articles": [
       {
-        "id": "top-7297e88b",
-        "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-        "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+        "id": "top-0293c5eb",
+        "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+        "summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
         "bullets": [
-          "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week."
+          "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-13T16:53:50.000Z"
+        "publishedAt": "2026-11-14T09:05:48.000Z"
       },
       {
-        "id": "top-d7193fc5",
-        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "id": "top-05bd99eb",
+        "title": "What we know about the US ground stop and what to do if your flight is affected",
+        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+        "bullets": [
+          "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T07:42:11.000Z"
+      },
+      {
+        "id": "top-7a324436",
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "bullets": [
+          "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T05:52:31.000Z"
+      },
+      {
+        "id": "top-63a7b932",
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "bullets": [
+          "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T06:42:27.000Z"
+      },
+      {
+        "id": "top-871414bc",
+        "title": "Cruise ship left on its side after collision with tanker on Mississippi",
         "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
         "bullets": [
           "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
@@ -7797,45 +7836,6 @@
         "category": "top",
         "imageUrl": null,
         "publishedAt": "2026-11-13T23:40:45.000Z"
-      },
-      {
-        "id": "top-dd87a355",
-        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-        "bullets": [
-          "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T22:12:33.000Z"
-      },
-      {
-        "id": "top-b8b9fbab",
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "bullets": [
-          "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T21:14:22.000Z"
-      },
-      {
-        "id": "top-77ee518e",
-        "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-        "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-        "bullets": [
-          "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T16:40:31.000Z"
       },
       {
         "id": "tech-50d9aeb2",
@@ -7851,11 +7851,11 @@
         "publishedAt": "2026-11-14T00:49:13.000Z"
       },
       {
-        "id": "tech-5ce2e989",
-        "title": "FAA orders third nationwide ground stop in its history",
-        "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+        "id": "tech-398d6eb6",
+        "title": "FAA has lifted its third-ever nationwide ground stop",
+        "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
         "bullets": [
-          "Rare nationwide ground stop could go on for awhile as FAA troubleshoots."
+          "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage."
         ],
         "source": "Ars Technica",
         "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
@@ -7970,6 +7970,19 @@
         "publishedAt": "2026-11-13T15:58:00.000Z"
       },
       {
+        "id": "world-d07e3aee",
+        "title": "What we know about the ground stop and what to do if you're affected",
+        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+        "bullets": [
+          "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T07:42:11.000Z"
+      },
+      {
         "id": "world-d7193fc5",
         "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
         "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
@@ -7983,43 +7996,30 @@
         "publishedAt": "2026-11-13T23:40:45.000Z"
       },
       {
-        "id": "world-b8b9fbab",
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "id": "world-7a324436",
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
         "bullets": [
-          "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+          "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T05:52:31.000Z"
+      },
+      {
+        "id": "world-63a7b932",
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "bullets": [
+          "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-13T21:14:22.000Z"
-      },
-      {
-        "id": "world-0130b6cf",
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-        "bullets": [
-          "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T18:36:57.000Z"
-      },
-      {
-        "id": "world-45d16464",
-        "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-        "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-        "bullets": [
-          "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T11:43:27.000Z"
+        "publishedAt": "2026-11-14T06:42:27.000Z"
       },
       {
         "id": "world-b34fd0ef",
