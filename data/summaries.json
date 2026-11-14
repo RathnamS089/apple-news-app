@@ -7770,7 +7770,7 @@
   },
   {
     "date": "2026-11-14",
-    "generatedAt": "2026-11-14T10:31:57.018Z",
+    "generatedAt": "2026-11-14T18:09:45.751Z",
     "articles": [
       {
         "id": "top-0293c5eb",
@@ -7783,59 +7783,85 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T09:05:48.000Z"
+        "publishedAt": "2026-11-14T13:48:37.000Z"
       },
       {
-        "id": "top-05bd99eb",
-        "title": "What we know about the US ground stop and what to do if your flight is affected",
-        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+        "id": "top-49addd5f",
+        "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+        "summary": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
         "bullets": [
-          "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+          "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T07:42:11.000Z"
+        "publishedAt": "2026-11-14T12:22:43.000Z"
       },
       {
-        "id": "top-7a324436",
-        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-        "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "id": "top-f7862b8f",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
         "bullets": [
-          "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+          "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T05:52:31.000Z"
+        "publishedAt": "2026-11-14T15:15:57.000Z"
       },
       {
-        "id": "top-63a7b932",
-        "title": "Microsoft says services fully restored after day-long global outage",
-        "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "id": "top-0af1ea28",
+        "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+        "summary": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
         "bullets": [
-          "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+          "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T06:42:27.000Z"
+        "publishedAt": "2026-11-14T14:46:26.000Z"
       },
       {
-        "id": "top-871414bc",
-        "title": "Cruise ship left on its side after collision with tanker on Mississippi",
-        "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+        "id": "top-091377c1",
+        "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+        "summary": "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.",
         "bullets": [
-          "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+          "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish..."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-13T23:40:45.000Z"
+        "publishedAt": "2026-11-14T17:20:33.000Z"
+      },
+      {
+        "id": "tech-1fd8d38e",
+        "title": "James Webb telescope finds ice older than the star it orbits",
+        "summary": "Radiation and collisions reshape the planetary building materials.",
+        "bullets": [
+          "Radiation and collisions reshape the planetary building materials."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T12:15:48.000Z"
+      },
+      {
+        "id": "tech-7623ebae",
+        "title": "Winemakers are learning that conservation can be good for business",
+        "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+        "bullets": [
+          "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T12:05:51.000Z"
       },
       {
         "id": "tech-50d9aeb2",
@@ -7877,30 +7903,30 @@
         "publishedAt": "2026-11-13T21:59:01.000Z"
       },
       {
-        "id": "tech-766323da",
-        "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-        "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+        "id": "ai-713f4681",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
         "bullets": [
-          "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
+          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
         ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-13T21:20:47.000Z"
+        "publishedAt": "2026-11-14T17:30:00.000Z"
       },
       {
-        "id": "tech-fc5a5f74",
-        "title": "In elephants, the resilience of communities has its limits",
-        "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+        "id": "ai-cd360eaf",
+        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
         "bullets": [
-          "In Sri Lanka, ecological change is shrinking a park's elephant population."
+          "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing..."
         ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-13T20:03:13.000Z"
+        "publishedAt": "2026-11-14T16:34:15.000Z"
       },
       {
         "id": "ai-1ce4c391",
@@ -7943,31 +7969,17 @@
         "publishedAt": "2026-11-13T18:40:30.000Z"
       },
       {
-        "id": "ai-e0ea587f",
-        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-        "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+        "id": "world-5261ed6d",
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
         "bullets": [
-          "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S."
+          "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-13T16:00:12.000Z"
-      },
-      {
-        "id": "ai-36b80159",
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "bullets": [
-          "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S.",
-          "and China race to develop the most advanced AI infrastructure."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T15:58:00.000Z"
+        "publishedAt": "2026-11-14T17:16:36.000Z"
       },
       {
         "id": "world-d07e3aee",
@@ -7980,59 +7992,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T07:42:11.000Z"
+        "publishedAt": "2026-11-14T14:20:57.000Z"
       },
       {
-        "id": "world-d7193fc5",
-        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-        "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+        "id": "world-f7862b8f",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
         "bullets": [
-          "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+          "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-13T23:40:45.000Z"
+        "publishedAt": "2026-11-14T15:15:57.000Z"
       },
       {
-        "id": "world-7a324436",
-        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-        "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "id": "world-8cc9b658",
+        "title": "Italy fines Meta €805m over accessing users' photos",
+        "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
         "bullets": [
-          "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+          "The social media giant is accused of not informing 20 million users it had access to their photos."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T05:52:31.000Z"
+        "publishedAt": "2026-11-14T16:29:48.000Z"
       },
       {
-        "id": "world-63a7b932",
-        "title": "Microsoft says services fully restored after day-long global outage",
-        "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "id": "world-14a8acd6",
+        "title": "Philippines wins first Eurovision Song Contest Asia",
+        "summary": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
         "bullets": [
-          "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+          "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T06:42:27.000Z"
-      },
-      {
-        "id": "world-b34fd0ef",
-        "title": "Setback for SpaceX Starship rocket's double-catch test",
-        "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-        "bullets": [
-          "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-14T00:01:01.000Z"
+        "publishedAt": "2026-11-14T17:56:59.000Z"
       }
     ]
   }
