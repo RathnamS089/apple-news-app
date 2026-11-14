@@ -7770,8 +7770,21 @@
   },
   {
     "date": "2026-11-14",
-    "generatedAt": "2026-11-14T18:09:45.751Z",
+    "generatedAt": "2026-11-14T22:29:21.331Z",
     "articles": [
+      {
+        "id": "top-f7862b8f",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+        "bullets": [
+          "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T20:41:45.000Z"
+      },
       {
         "id": "top-0293c5eb",
         "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
@@ -7799,19 +7812,6 @@
         "publishedAt": "2026-11-14T12:22:43.000Z"
       },
       {
-        "id": "top-f7862b8f",
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-        "bullets": [
-          "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-14T15:15:57.000Z"
-      },
-      {
         "id": "top-0af1ea28",
         "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
         "summary": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
@@ -7825,17 +7825,17 @@
         "publishedAt": "2026-11-14T14:46:26.000Z"
       },
       {
-        "id": "top-091377c1",
-        "title": "Thousands turn out in Edinburgh to protest against AI data centres",
-        "summary": "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.",
+        "id": "top-2ecc0b27",
+        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
         "bullets": [
-          "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish..."
+          "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T17:20:33.000Z"
+        "publishedAt": "2026-11-14T22:09:40.000Z"
       },
       {
         "id": "tech-1fd8d38e",
@@ -7903,6 +7903,19 @@
         "publishedAt": "2026-11-13T21:59:01.000Z"
       },
       {
+        "id": "ai-6bfc6511",
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "bullets": [
+          "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T21:41:22.000Z"
+      },
+      {
         "id": "ai-713f4681",
         "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
         "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -7956,19 +7969,6 @@
         "publishedAt": "2026-11-13T19:37:57.000Z"
       },
       {
-        "id": "ai-0453e8b1",
-        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-        "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-        "bullets": [
-          "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T18:40:30.000Z"
-      },
-      {
         "id": "world-5261ed6d",
         "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
         "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
@@ -7979,33 +7979,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T17:16:36.000Z"
-      },
-      {
-        "id": "world-d07e3aee",
-        "title": "What we know about the ground stop and what to do if you're affected",
-        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-        "bullets": [
-          "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-14T14:20:57.000Z"
+        "publishedAt": "2026-11-14T19:12:25.000Z"
       },
       {
         "id": "world-f7862b8f",
         "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+        "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
         "bullets": [
-          "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+          "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T15:15:57.000Z"
+        "publishedAt": "2026-11-14T20:41:45.000Z"
       },
       {
         "id": "world-8cc9b658",
@@ -8018,20 +8005,33 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T16:29:48.000Z"
+        "publishedAt": "2026-11-14T18:28:06.000Z"
+      },
+      {
+        "id": "world-2ecc0b27",
+        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+        "bullets": [
+          "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T22:09:40.000Z"
       },
       {
         "id": "world-14a8acd6",
         "title": "Philippines wins first Eurovision Song Contest Asia",
-        "summary": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
+        "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
         "bullets": [
-          "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra."
+          "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T17:56:59.000Z"
+        "publishedAt": "2026-11-14T18:17:58.000Z"
       }
     ]
   }
