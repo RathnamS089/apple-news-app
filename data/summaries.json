@@ -7769,7 +7769,7 @@
   },
   {
     "date": "2026-11-15",
-    "generatedAt": "2026-11-15T16:24:25.113Z",
+    "generatedAt": "2026-11-15T22:53:04.210Z",
     "articles": [
       {
         "id": "top-7283615a",
@@ -7782,7 +7782,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T15:08:30.000Z"
+        "publishedAt": "2026-11-15T17:15:46.000Z"
       },
       {
         "id": "top-c093ee2e",
@@ -7798,43 +7798,43 @@
         "publishedAt": "2026-11-15T12:38:28.000Z"
       },
       {
-        "id": "top-8b3922da",
-        "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
-        "summary": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+        "id": "top-28a9bc98",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
         "bullets": [
-          "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room."
+          "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T06:01:46.000Z"
+        "publishedAt": "2026-11-15T19:32:39.000Z"
       },
       {
-        "id": "top-edeb933c",
-        "title": "Minister backs legal right to job support for young people",
-        "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+        "id": "top-250ba00f",
+        "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+        "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
         "bullets": [
-          "The work and pensions secretary said the level of support currently on offer was too vague."
+          "He has been showing support for injured veterans in Ukraine and praising the country's resilience."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T13:06:15.000Z"
+        "publishedAt": "2026-11-15T22:00:13.000Z"
       },
       {
-        "id": "top-00b1d7d9",
-        "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
-        "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+        "id": "top-8a262afc",
+        "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+        "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
         "bullets": [
-          "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+          "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T14:56:21.000Z"
+        "publishedAt": "2026-11-15T22:00:24.000Z"
       },
       {
         "id": "tech-19c2ee49",
@@ -7902,6 +7902,33 @@
         "publishedAt": "2026-11-14T00:49:13.000Z"
       },
       {
+        "id": "ai-5477d564",
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "bullets": [
+          "\"Jensen is Nvidia, right?",
+          "And so much of this economy is riding on Nvidia.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T21:56:35.000Z"
+      },
+      {
+        "id": "ai-696ee02a",
+        "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+        "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+        "bullets": [
+          "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T20:20:57.000Z"
+      },
+      {
         "id": "ai-e0cf8f5a",
         "title": "Where was Nvidia’s security team?",
         "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the...",
@@ -7941,57 +7968,17 @@
         "publishedAt": "2026-11-14T17:30:00.000Z"
       },
       {
-        "id": "ai-cd360eaf",
-        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-        "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+        "id": "world-28a9bc98",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
         "bullets": [
-          "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-14T16:34:15.000Z"
-      },
-      {
-        "id": "ai-1ce4c391",
-        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-        "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-        "bullets": [
-          "Nvidia poured tens of billions into AI startups under Huang.",
-          "Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T22:43:00.000Z"
-      },
-      {
-        "id": "world-e2d5b63a",
-        "title": "Iran targets US military base in Bahrain with drone attack",
-        "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-        "bullets": [
-          "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+          "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T13:42:58.000Z"
-      },
-      {
-        "id": "world-ab26d766",
-        "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-        "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-        "bullets": [
-          "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-15T11:06:32.000Z"
+        "publishedAt": "2026-11-15T19:32:39.000Z"
       },
       {
         "id": "world-978c41e5",
@@ -8007,6 +7994,19 @@
         "publishedAt": "2026-11-15T13:37:45.000Z"
       },
       {
+        "id": "world-f7b4f7fb",
+        "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+        "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+        "bullets": [
+          "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T18:38:11.000Z"
+      },
+      {
         "id": "world-0032fe0d",
         "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
         "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
@@ -8017,20 +8017,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T14:56:21.000Z"
+        "publishedAt": "2026-11-15T22:24:20.000Z"
       },
       {
-        "id": "world-7adfa1b0",
-        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-        "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+        "id": "world-dcab76ed",
+        "title": "Czechs rally against plan to switch funding of public media",
+        "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
         "bullets": [
-          "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
+          "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T08:17:41.000Z"
+        "publishedAt": "2026-11-15T21:03:40.000Z"
       }
     ]
   }
