@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-16",
-    "generatedAt": "2026-10-16T23:39:09.712Z",
-    "articles": [
-      {
-        "id": "top-4ebc201b",
-        "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-        "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-        "bullets": [
-          "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T15:45:10.000Z"
-      },
-      {
-        "id": "top-27988ace",
-        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-        "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-        "bullets": [
-          "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:00:30.000Z"
-      },
-      {
-        "id": "top-c6aa8154",
-        "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
-        "summary": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
-        "bullets": [
-          "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:07:37.000Z"
-      },
-      {
-        "id": "top-4a2f0484",
-        "title": "Man killed by tiger may have had medical records breached by NHS staff",
-        "summary": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
-        "bullets": [
-          "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:53:07.000Z"
-      },
-      {
-        "id": "top-c6683d5c",
-        "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-        "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
-        "bullets": [
-          "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T20:08:07.000Z"
-      },
-      {
-        "id": "tech-8bba61ef",
-        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-        "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-        "bullets": [
-          "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T20:20:07.000Z"
-      },
-      {
-        "id": "tech-ecaba8f7",
-        "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-        "summary": "There are still significant hurdles ahead, both technical and legislative.",
-        "bullets": [
-          "There are still significant hurdles ahead, both technical and legislative."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T19:41:18.000Z"
-      },
-      {
-        "id": "tech-d495bff2",
-        "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-        "summary": "The bug is fixed, but privacy concerns remain.",
-        "bullets": [
-          "The bug is fixed, but privacy concerns remain."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T19:11:50.000Z"
-      },
-      {
-        "id": "tech-7a684644",
-        "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-        "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
-        "bullets": [
-          "FDA scientists said none of the popular drugs have been proven safe or effective."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T17:05:59.000Z"
-      },
-      {
-        "id": "tech-0d98e765",
-        "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-        "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-        "bullets": [
-          "Meta “streamlined” its commercial TOS.",
-          "Legal experts warn it’s an AI power grab."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T15:41:00.000Z"
-      },
-      {
-        "id": "ai-6a594409",
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-        "bullets": [
-          "Masad said the decision was made for a number of different reasons, including cost.",
-          "Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T21:22:28.000Z"
-      },
-      {
-        "id": "ai-30c66410",
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-        "bullets": [
-          "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T17:52:24.000Z"
-      },
-      {
-        "id": "ai-bf52bff0",
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
-        "bullets": [
-          "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:30:00.000Z"
-      },
-      {
-        "id": "ai-ec0a1064",
-        "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
-        "bullets": [
-          "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:30:00.000Z"
-      },
-      {
-        "id": "ai-90541bf9",
-        "title": "Elorian’s first AI model wants to reason with images, not just about them",
-        "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-        "bullets": [
-          "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:01:37.000Z"
-      },
-      {
-        "id": "world-27988ace",
-        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-        "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-        "bullets": [
-          "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:00:30.000Z"
-      },
-      {
-        "id": "world-7a1a07fa",
-        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "bullets": [
-          "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T23:07:38.000Z"
-      },
-      {
-        "id": "world-e69ac3b1",
-        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-        "bullets": [
-          "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T14:31:04.000Z"
-      },
-      {
-        "id": "world-6533be86",
-        "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-        "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-        "bullets": [
-          "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T23:07:18.000Z"
-      },
-      {
-        "id": "world-413470e2",
-        "title": "Trump denies limiting Ukraine access to Starlink network",
-        "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-        "bullets": [
-          "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T19:33:48.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-17",
     "generatedAt": "2026-10-17T23:09:35.558Z",
     "articles": [
@@ -8032,6 +7764,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-14T18:17:58.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-15",
+    "generatedAt": "2026-11-15T06:39:30.891Z",
+    "articles": [
+      {
+        "id": "top-8b3922da",
+        "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+        "summary": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+        "bullets": [
+          "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T06:01:46.000Z"
+      },
+      {
+        "id": "top-9bb3abd8",
+        "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+        "summary": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+        "bullets": [
+          "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T22:37:14.000Z"
+      },
+      {
+        "id": "top-2ecc0b27",
+        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+        "bullets": [
+          "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T22:09:40.000Z"
+      },
+      {
+        "id": "top-49addd5f",
+        "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+        "summary": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+        "bullets": [
+          "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T12:22:43.000Z"
+      },
+      {
+        "id": "top-f7862b8f",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "bullets": [
+          "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T22:37:25.000Z"
+      },
+      {
+        "id": "tech-1da41442",
+        "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+        "summary": "It felt like stepping into the future.",
+        "bullets": [
+          "It felt like stepping into the future."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T00:40:59.000Z"
+      },
+      {
+        "id": "tech-1fd8d38e",
+        "title": "James Webb telescope finds ice older than the star it orbits",
+        "summary": "Radiation and collisions reshape the planetary building materials.",
+        "bullets": [
+          "Radiation and collisions reshape the planetary building materials."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T12:15:48.000Z"
+      },
+      {
+        "id": "tech-7623ebae",
+        "title": "Winemakers are learning that conservation can be good for business",
+        "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+        "bullets": [
+          "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T12:05:51.000Z"
+      },
+      {
+        "id": "tech-50d9aeb2",
+        "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+        "summary": "One way or another, the company will get some more data on Saturday.",
+        "bullets": [
+          "One way or another, the company will get some more data on Saturday."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T00:49:13.000Z"
+      },
+      {
+        "id": "tech-398d6eb6",
+        "title": "FAA has lifted its third-ever nationwide ground stop",
+        "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+        "bullets": [
+          "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-13T23:17:38.000Z"
+      },
+      {
+        "id": "ai-e0cf8f5a",
+        "title": "Where was Nvidia’s security team?",
+        "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the...",
+        "bullets": [
+          "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T00:08:07.000Z"
+      },
+      {
+        "id": "ai-6bfc6511",
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "bullets": [
+          "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T21:41:22.000Z"
+      },
+      {
+        "id": "ai-713f4681",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "bullets": [
+          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T17:30:00.000Z"
+      },
+      {
+        "id": "ai-cd360eaf",
+        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+        "bullets": [
+          "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T16:34:15.000Z"
+      },
+      {
+        "id": "ai-1ce4c391",
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+        "bullets": [
+          "Nvidia poured tens of billions into AI startups under Huang.",
+          "Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-13T22:43:00.000Z"
+      },
+      {
+        "id": "world-f7862b8f",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "bullets": [
+          "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T22:37:25.000Z"
+      },
+      {
+        "id": "world-5261ed6d",
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+        "bullets": [
+          "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T19:12:25.000Z"
+      },
+      {
+        "id": "world-0fe58a52",
+        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+        "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+        "bullets": [
+          "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T02:49:45.000Z"
+      },
+      {
+        "id": "world-7822bdb2",
+        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+        "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+        "bullets": [
+          "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T03:21:04.000Z"
+      },
+      {
+        "id": "world-8cc9b658",
+        "title": "Italy fines Meta €805m over accessing users' photos",
+        "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+        "bullets": [
+          "The social media giant is accused of not informing 20 million users it had access to their photos."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T18:28:06.000Z"
       }
     ]
   }
