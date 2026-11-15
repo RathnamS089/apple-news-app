@@ -7769,8 +7769,34 @@
   },
   {
     "date": "2026-11-15",
-    "generatedAt": "2026-11-15T06:39:30.891Z",
+    "generatedAt": "2026-11-15T16:24:25.113Z",
     "articles": [
+      {
+        "id": "top-7283615a",
+        "title": "Staggered age of consent to be discussed after Brand case, minister says",
+        "summary": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+        "bullets": [
+          "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T15:08:30.000Z"
+      },
+      {
+        "id": "top-c093ee2e",
+        "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+        "summary": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+        "bullets": [
+          "Four people have been arrested on suspicion of causing death by dangerous driving, police say."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T12:38:28.000Z"
+      },
       {
         "id": "top-8b3922da",
         "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
@@ -7785,60 +7811,47 @@
         "publishedAt": "2026-11-15T06:01:46.000Z"
       },
       {
-        "id": "top-9bb3abd8",
-        "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-        "summary": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+        "id": "top-edeb933c",
+        "title": "Minister backs legal right to job support for young people",
+        "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
         "bullets": [
-          "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent."
+          "The work and pensions secretary said the level of support currently on offer was too vague."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T22:37:14.000Z"
+        "publishedAt": "2026-11-15T13:06:15.000Z"
       },
       {
-        "id": "top-2ecc0b27",
-        "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-        "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+        "id": "top-00b1d7d9",
+        "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+        "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
         "bullets": [
-          "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+          "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T22:09:40.000Z"
+        "publishedAt": "2026-11-15T14:56:21.000Z"
       },
       {
-        "id": "top-49addd5f",
-        "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-        "summary": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+        "id": "tech-19c2ee49",
+        "title": "How the world’s fires changed while humanity hit pause",
+        "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
         "bullets": [
-          "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg."
+          "COVID-19 lockdowns cut global fire activity by 12.3 percent."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T12:22:43.000Z"
+        "publishedAt": "2026-11-15T12:07:34.000Z"
       },
       {
-        "id": "top-f7862b8f",
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-        "bullets": [
-          "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-11-14T22:37:25.000Z"
-      },
-      {
-        "id": "tech-1da41442",
-        "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+        "id": "tech-68f18a8d",
+        "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
         "summary": "It felt like stepping into the future.",
         "bullets": [
           "It felt like stepping into the future."
@@ -7887,19 +7900,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-11-14T00:49:13.000Z"
-      },
-      {
-        "id": "tech-398d6eb6",
-        "title": "FAA has lifted its third-ever nationwide ground stop",
-        "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
-        "bullets": [
-          "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage."
-        ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-13T23:17:38.000Z"
       },
       {
         "id": "ai-e0cf8f5a",
@@ -7968,69 +7968,69 @@
         "publishedAt": "2026-11-13T22:43:00.000Z"
       },
       {
-        "id": "world-f7862b8f",
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "id": "world-e2d5b63a",
+        "title": "Iran targets US military base in Bahrain with drone attack",
+        "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
         "bullets": [
-          "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
+          "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T22:37:25.000Z"
+        "publishedAt": "2026-11-15T13:42:58.000Z"
       },
       {
-        "id": "world-5261ed6d",
-        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+        "id": "world-ab26d766",
+        "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+        "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
         "bullets": [
-          "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+          "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T19:12:25.000Z"
+        "publishedAt": "2026-11-15T11:06:32.000Z"
       },
       {
-        "id": "world-0fe58a52",
-        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-        "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+        "id": "world-978c41e5",
+        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+        "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
         "bullets": [
-          "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023."
+          "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T02:49:45.000Z"
+        "publishedAt": "2026-11-15T13:37:45.000Z"
       },
       {
-        "id": "world-7822bdb2",
-        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-        "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+        "id": "world-0032fe0d",
+        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+        "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
         "bullets": [
-          "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links."
+          "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-15T03:21:04.000Z"
+        "publishedAt": "2026-11-15T14:56:21.000Z"
       },
       {
-        "id": "world-8cc9b658",
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+        "id": "world-7adfa1b0",
+        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+        "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
         "bullets": [
-          "The social media giant is accused of not informing 20 million users it had access to their photos."
+          "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-14T18:28:06.000Z"
+        "publishedAt": "2026-11-15T08:17:41.000Z"
       }
     ]
   }
