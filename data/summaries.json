@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "generatedAt": "2026-10-17T23:09:35.558Z",
-    "articles": [
-      {
-        "id": "top-eb092d41",
-        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-        "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-        "bullets": [
-          "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T20:52:17.000Z"
-      },
-      {
-        "id": "top-7b69e1b2",
-        "title": "How day of protests unfolded as disorder breaks out across France",
-        "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-        "bullets": [
-          "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T21:33:17.000Z"
-      },
-      {
-        "id": "top-fb2895b1",
-        "title": "More NHS staff sacked over attacks victims' records",
-        "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
-        "bullets": [
-          "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T16:34:39.000Z"
-      },
-      {
-        "id": "top-f03a6636",
-        "title": "Anti-government protesters battle with police in Albania",
-        "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-        "bullets": [
-          "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T20:53:00.000Z"
-      },
-      {
-        "id": "top-fd11eee1",
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-        "bullets": [
-          "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T18:38:57.000Z"
-      },
-      {
-        "id": "tech-9da9138d",
-        "title": "Science says your boss should talk less in meetings",
-        "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
-        "bullets": [
-          "Research suggests listening more while talking less.",
-          "Killing aimless meetings can help, too."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T11:15:11.000Z"
-      },
-      {
-        "id": "tech-91bced72",
-        "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-        "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
-        "bullets": [
-          "The single-player is just OK, but according to the players, that doesn't matter."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T11:00:21.000Z"
-      },
-      {
-        "id": "tech-0dfd41f0",
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-        "bullets": [
-          "The actions could have resulted in criminal charges had humans been behind the keyboard."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T20:59:01.000Z"
-      },
-      {
-        "id": "tech-8bba61ef",
-        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-        "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-        "bullets": [
-          "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T20:20:07.000Z"
-      },
-      {
-        "id": "tech-ecaba8f7",
-        "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-        "summary": "There are still significant hurdles ahead, both technical and legislative.",
-        "bullets": [
-          "There are still significant hurdles ahead, both technical and legislative."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T19:41:18.000Z"
-      },
-      {
-        "id": "ai-f2dae098",
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-        "bullets": [
-          "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T21:31:32.000Z"
-      },
-      {
-        "id": "ai-206a12dc",
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-        "bullets": [
-          "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T20:21:19.000Z"
-      },
-      {
-        "id": "ai-3487b0a6",
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-        "bullets": [
-          "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
-          "Claude will still be available to customers on the platform."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T18:48:08.000Z"
-      },
-      {
-        "id": "ai-30c66410",
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-        "bullets": [
-          "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T17:52:24.000Z"
-      },
-      {
-        "id": "ai-bf52bff0",
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
-        "bullets": [
-          "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T16:30:00.000Z"
-      },
-      {
-        "id": "world-eb092d41",
-        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-        "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-        "bullets": [
-          "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T20:52:17.000Z"
-      },
-      {
-        "id": "world-ecef1769",
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "bullets": [
-          "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T19:19:19.000Z"
-      },
-      {
-        "id": "world-fd11eee1",
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-        "bullets": [
-          "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T18:38:57.000Z"
-      },
-      {
-        "id": "world-f03a6636",
-        "title": "Anti-government protesters battle with police in Albania",
-        "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-        "bullets": [
-          "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T20:53:00.000Z"
-      },
-      {
-        "id": "world-79dee0a5",
-        "title": "At least 17 dead in crush at Hindu festival event in India",
-        "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-        "bullets": [
-          "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T19:19:16.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-18",
     "generatedAt": "2026-10-18T23:16:41.336Z",
     "articles": [
@@ -8031,6 +7763,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-15T21:03:40.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "generatedAt": "2026-11-16T06:37:13.882Z",
+    "articles": [
+      {
+        "id": "top-d2ad4ec4",
+        "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
+        "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+        "bullets": [
+          "The report being launched this week will suggest gradually reducing employment costs over five years."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T22:30:03.000Z"
+      },
+      {
+        "id": "top-8a262afc",
+        "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+        "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+        "bullets": [
+          "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T22:00:24.000Z"
+      },
+      {
+        "id": "top-97e6fa4c",
+        "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+        "summary": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
+        "bullets": [
+          "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T02:53:15.000Z"
+      },
+      {
+        "id": "top-28a9bc98",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+        "bullets": [
+          "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T19:32:39.000Z"
+      },
+      {
+        "id": "top-95cfbb96",
+        "title": "Trident submarine returns home after record-breaking undersea patrol",
+        "summary": "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel.",
+        "bullets": [
+          "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T21:48:10.000Z"
+      },
+      {
+        "id": "tech-dfe69f3d",
+        "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+        "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+        "bullets": [
+          "This was the first total mission failure in United Launch Alliance's 20-year history."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T23:11:54.000Z"
+      },
+      {
+        "id": "tech-19c2ee49",
+        "title": "How the world’s fires changed while humanity hit pause",
+        "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+        "bullets": [
+          "COVID-19 lockdowns cut global fire activity by 12.3 percent."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T12:07:34.000Z"
+      },
+      {
+        "id": "tech-68f18a8d",
+        "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+        "summary": "It felt like stepping into the future.",
+        "bullets": [
+          "It felt like stepping into the future."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T00:40:59.000Z"
+      },
+      {
+        "id": "tech-1fd8d38e",
+        "title": "James Webb telescope finds ice older than the star it orbits",
+        "summary": "Radiation and collisions reshape the planetary building materials.",
+        "bullets": [
+          "Radiation and collisions reshape the planetary building materials."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T12:15:48.000Z"
+      },
+      {
+        "id": "tech-7623ebae",
+        "title": "Winemakers are learning that conservation can be good for business",
+        "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+        "bullets": [
+          "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-14T12:05:51.000Z"
+      },
+      {
+        "id": "ai-adf85ee1",
+        "title": "Apple launches new app to study how people use AI for health",
+        "summary": "Apple's new app for a study will answer everyday medical questions",
+        "bullets": [
+          "Apple's new app for a study will answer everyday medical questions"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T01:30:00.000Z"
+      },
+      {
+        "id": "ai-a28a197b",
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "bullets": [
+          "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T23:30:00.000Z"
+      },
+      {
+        "id": "ai-5477d564",
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "bullets": [
+          "\"Jensen is Nvidia, right?",
+          "And so much of this economy is riding on Nvidia.\""
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T21:56:35.000Z"
+      },
+      {
+        "id": "ai-696ee02a",
+        "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+        "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+        "bullets": [
+          "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T20:20:57.000Z"
+      },
+      {
+        "id": "ai-e0cf8f5a",
+        "title": "Where was Nvidia’s security team?",
+        "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the...",
+        "bullets": [
+          "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T00:08:07.000Z"
+      },
+      {
+        "id": "world-28a9bc98",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+        "bullets": [
+          "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-15T19:32:39.000Z"
+      },
+      {
+        "id": "world-390af291",
+        "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+        "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+        "bullets": [
+          "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T03:08:31.000Z"
+      },
+      {
+        "id": "world-0032fe0d",
+        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+        "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+        "bullets": [
+          "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T01:47:57.000Z"
+      },
+      {
+        "id": "world-9dfbb877",
+        "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+        "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+        "bullets": [
+          "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T03:09:49.000Z"
+      },
+      {
+        "id": "world-0b272ad9",
+        "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+        "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+        "bullets": [
+          "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T03:21:56.000Z"
       }
     ]
   }
