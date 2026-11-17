@@ -1,274 +1,5 @@
 [
   {
-    "date": "2026-10-18",
-    "generatedAt": "2026-10-18T23:16:41.336Z",
-    "articles": [
-      {
-        "id": "top-49c01a60",
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-        "bullets": [
-          "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T20:33:21.000Z"
-      },
-      {
-        "id": "top-06bc1f77",
-        "title": "Major fire at Canada military base leaves four dead, dozens injured",
-        "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
-        "bullets": [
-          "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T23:06:09.000Z"
-      },
-      {
-        "id": "top-9ab11d73",
-        "title": "What we know so far about deadly fire at Canadian military base",
-        "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-        "bullets": [
-          "At least four people are confirmed to have died after a huge fire swept through the base."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T21:37:56.000Z"
-      },
-      {
-        "id": "top-4d9d6ead",
-        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-        "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-        "bullets": [
-          "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T14:57:19.000Z"
-      },
-      {
-        "id": "top-571f9a3c",
-        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-        "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-        "bullets": [
-          "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T05:04:31.000Z"
-      },
-      {
-        "id": "tech-1d691230",
-        "title": "Anthropic gives outside AI watchdog “employee-like” access",
-        "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-        "bullets": [
-          "The outside watchdog can publish its findings without Anthropic's approval."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T16:25:19.000Z"
-      },
-      {
-        "id": "tech-9da9138d",
-        "title": "Science says your boss should talk less in meetings",
-        "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
-        "bullets": [
-          "Research suggests listening more while talking less.",
-          "Killing aimless meetings can help, too."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T11:15:11.000Z"
-      },
-      {
-        "id": "tech-91bced72",
-        "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-        "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
-        "bullets": [
-          "The single-player is just OK, but according to the players, that doesn't matter."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T11:00:21.000Z"
-      },
-      {
-        "id": "tech-0dfd41f0",
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-        "bullets": [
-          "The actions could have resulted in criminal charges had humans been behind the keyboard."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T20:59:01.000Z"
-      },
-      {
-        "id": "tech-8bba61ef",
-        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-        "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-        "bullets": [
-          "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-16T20:20:07.000Z"
-      },
-      {
-        "id": "ai-1dd5c11f",
-        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-        "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-        "bullets": [
-          "Anthropic said that it will commit 5% of its shares to the fund."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T20:37:40.000Z"
-      },
-      {
-        "id": "ai-91e24908",
-        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-        "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-        "bullets": [
-          "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them.",
-          "However, this is a stalking horse bid, so another company could come forward with a higher offer."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T16:30:00.000Z"
-      },
-      {
-        "id": "ai-f2dae098",
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-        "bullets": [
-          "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T21:31:32.000Z"
-      },
-      {
-        "id": "ai-206a12dc",
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-        "bullets": [
-          "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T20:21:19.000Z"
-      },
-      {
-        "id": "ai-3487b0a6",
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-        "bullets": [
-          "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
-          "Claude will still be available to customers on the platform."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-17T18:48:08.000Z"
-      },
-      {
-        "id": "world-49c01a60",
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-        "bullets": [
-          "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T20:33:21.000Z"
-      },
-      {
-        "id": "world-9ab11d73",
-        "title": "What we know so far about deadly fire at Canadian military base",
-        "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-        "bullets": [
-          "At least four people are confirmed to have died after a huge fire swept through the base."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T21:37:56.000Z"
-      },
-      {
-        "id": "world-7b6f4e9d",
-        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-        "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-        "bullets": [
-          "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T22:10:45.000Z"
-      },
-      {
-        "id": "world-fb7fb406",
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-        "bullets": [
-          "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T21:00:22.000Z"
-      },
-      {
-        "id": "world-82623a4e",
-        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-        "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-        "bullets": [
-          "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-18T15:46:10.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-19",
     "generatedAt": "2026-10-19T20:36:26.750Z",
     "articles": [
@@ -8004,6 +7735,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-16T19:16:52.000Z"
+      },
+      {
+        "id": "world-8cfa4966",
+        "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+        "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+        "bullets": [
+          "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T14:58:12.000Z"
+      },
+      {
+        "id": "world-83701c46",
+        "title": "When will we see Robert Pattinson as Bond in cinemas?",
+        "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+        "bullets": [
+          "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T17:18:54.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "generatedAt": "2026-11-17T03:56:33.639Z",
+    "articles": [
+      {
+        "id": "top-8571034c",
+        "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+        "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+        "bullets": [
+          "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T22:32:47.000Z"
+      },
+      {
+        "id": "top-b7f69a03",
+        "title": "The young people caught up in Britain's Neets crisis",
+        "summary": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
+        "bullets": [
+          "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T00:06:34.000Z"
+      },
+      {
+        "id": "top-9ea499f7",
+        "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+        "summary": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+        "bullets": [
+          "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T02:11:57.000Z"
+      },
+      {
+        "id": "top-d5e2797f",
+        "title": "Cass report author says she does not support draft conversion practices bill",
+        "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+        "bullets": [
+          "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T22:08:03.000Z"
+      },
+      {
+        "id": "top-0abf1f5b",
+        "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+        "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+        "bullets": [
+          "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T20:33:57.000Z"
+      },
+      {
+        "id": "tech-65dd582a",
+        "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+        "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+        "bullets": [
+          "Robotics startup misses payroll a year after CEO used funds for luxury home."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T22:58:27.000Z"
+      },
+      {
+        "id": "tech-e1607916",
+        "title": "Three small failures combined to take down Microsoft 365",
+        "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+        "bullets": [
+          "A hidden bug, shifting traffic, and reduced capacity led to cascading failures."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T21:56:39.000Z"
+      },
+      {
+        "id": "tech-1ff677d6",
+        "title": "Hyperscale data centers use 2% of US electricity",
+        "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
+        "bullets": [
+          "Study attempts to tally hyperscalers’ energy use and emissions."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T20:52:10.000Z"
+      },
+      {
+        "id": "tech-cdd6bd6b",
+        "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+        "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+        "bullets": [
+          "The PC sales slump \"more than offset” AI boom gains, shareholders say."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T20:37:47.000Z"
+      },
+      {
+        "id": "tech-01b04666",
+        "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+        "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
+        "bullets": [
+          "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T20:27:58.000Z"
+      },
+      {
+        "id": "ai-167a5ed2",
+        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+        "bullets": [
+          "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T23:32:32.000Z"
+      },
+      {
+        "id": "ai-6f12e560",
+        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia...",
+        "bullets": [
+          "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its...",
+          "Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T22:03:02.000Z"
+      },
+      {
+        "id": "ai-ca2751a8",
+        "title": "California state AG sues OpenAI over rogue agent incidents",
+        "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+        "bullets": [
+          "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T20:07:13.000Z"
+      },
+      {
+        "id": "ai-48af60df",
+        "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+        "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+        "bullets": [
+          "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T19:12:02.000Z"
+      },
+      {
+        "id": "ai-9f7218d9",
+        "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+        "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+        "bullets": [
+          "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T18:11:10.000Z"
+      },
+      {
+        "id": "world-fabc7bf7",
+        "title": "Five EU countries announce migrant deportation centre in Rwanda",
+        "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+        "bullets": [
+          "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T23:20:45.000Z"
+      },
+      {
+        "id": "world-33fd1a5a",
+        "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+        "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+        "bullets": [
+          "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-16T21:40:07.000Z"
+      },
+      {
+        "id": "world-c8b1f92c",
+        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+        "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+        "bullets": [
+          "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T02:37:53.000Z"
       },
       {
         "id": "world-8cfa4966",
