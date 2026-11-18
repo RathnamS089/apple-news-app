@@ -1,275 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "generatedAt": "2026-10-19T20:36:26.750Z",
-    "articles": [
-      {
-        "id": "top-1505373c",
-        "title": "Watch: Are the French riots a warning of an intense election to come?",
-        "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
-        "bullets": [
-          "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T13:43:27.000Z"
-      },
-      {
-        "id": "top-cdc6e7c9",
-        "title": "Australian MP critically injured after being hit by car in apparent attack",
-        "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-        "bullets": [
-          "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T14:09:54.000Z"
-      },
-      {
-        "id": "top-ed89101a",
-        "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-        "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-        "bullets": [
-          "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T18:22:06.000Z"
-      },
-      {
-        "id": "top-56afd315",
-        "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-        "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-        "bullets": [
-          "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
-          "The White House said there had been no changes to intelligence sharing."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T20:13:27.000Z"
-      },
-      {
-        "id": "top-7d14dd17",
-        "title": "Mission blasts off for Mars to grab a piece of its moon",
-        "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-        "bullets": [
-          "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T19:45:46.000Z"
-      },
-      {
-        "id": "tech-4654675a",
-        "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-        "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
-        "bullets": [
-          "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?"
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T19:27:24.000Z"
-      },
-      {
-        "id": "tech-8493c033",
-        "title": "ReactOS reaches major milestone with NTFS install support",
-        "summary": "ReactOS gains NTFS install support with new driver.",
-        "bullets": [
-          "ReactOS gains NTFS install support with new driver."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T18:30:56.000Z"
-      },
-      {
-        "id": "tech-488712d9",
-        "title": "AI game clones are making indie developers afraid to show their work",
-        "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-        "bullets": [
-          "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T16:59:22.000Z"
-      },
-      {
-        "id": "tech-4f738b2f",
-        "title": "Florida DMV hacked after police dept insecurely stored login info",
-        "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
-        "bullets": [
-          "Florida issues alerts after statewide DMV data breach linked to ShinyHunters."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T16:38:13.000Z"
-      },
-      {
-        "id": "tech-14d3ebf9",
-        "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-        "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-        "bullets": [
-          "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T14:45:43.000Z"
-      },
-      {
-        "id": "ai-67489b6f",
-        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-        "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-        "bullets": [
-          "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T20:09:24.000Z"
-      },
-      {
-        "id": "ai-51412f89",
-        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-        "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look...",
-        "bullets": [
-          "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor.",
-          "But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T19:28:34.000Z"
-      },
-      {
-        "id": "ai-5ce7f1c2",
-        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-        "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-        "bullets": [
-          "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T19:00:12.000Z"
-      },
-      {
-        "id": "ai-e95a6f1f",
-        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-        "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-        "bullets": [
-          "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago.",
-          "Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T18:49:04.000Z"
-      },
-      {
-        "id": "ai-8960c94e",
-        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-        "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-        "bullets": [
-          "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T18:37:27.000Z"
-      },
-      {
-        "id": "world-cdc6e7c9",
-        "title": "Australian MP critically injured after being hit by car in apparent attack",
-        "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-        "bullets": [
-          "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T14:09:54.000Z"
-      },
-      {
-        "id": "world-56afd315",
-        "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-        "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-        "bullets": [
-          "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
-          "The White House said there had been no changes to intelligence sharing."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T20:13:27.000Z"
-      },
-      {
-        "id": "world-a71c4727",
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-        "bullets": [
-          "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T17:18:04.000Z"
-      },
-      {
-        "id": "world-10466e10",
-        "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-        "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
-        "bullets": [
-          "The Saudi government did not immediately respond to BBC requests for comment."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T16:22:12.000Z"
-      },
-      {
-        "id": "world-24937421",
-        "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-        "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-        "bullets": [
-          "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-19T13:44:57.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-20",
     "generatedAt": "2026-10-20T23:55:15.570Z",
     "articles": [
@@ -8029,6 +7759,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-17T09:27:44.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "generatedAt": "2026-11-18T00:59:38.987Z",
+    "articles": [
+      {
+        "id": "top-13d81853",
+        "title": "Government backs welfare shake-up to prevent 'lost generation'",
+        "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+        "bullets": [
+          "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T18:43:05.000Z"
+      },
+      {
+        "id": "top-c60e6ce7",
+        "title": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
+        "summary": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+        "bullets": [
+          "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T22:51:15.000Z"
+      },
+      {
+        "id": "top-825319fe",
+        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+        "bullets": [
+          "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-18T00:28:01.000Z"
+      },
+      {
+        "id": "top-28e36bc0",
+        "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+        "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+        "bullets": [
+          "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T22:46:30.000Z"
+      },
+      {
+        "id": "top-2c1fc727",
+        "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+        "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+        "bullets": [
+          "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T20:25:46.000Z"
+      },
+      {
+        "id": "tech-9cd09c4f",
+        "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+        "bullets": [
+          "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-18T00:27:29.000Z"
+      },
+      {
+        "id": "tech-7c67f188",
+        "title": "San Diego dumps both Flock cameras and smart streetlights",
+        "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+        "bullets": [
+          "500+ cameras will go dark just 3 years after mayor urged approval."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T23:09:09.000Z"
+      },
+      {
+        "id": "tech-91bbc4d0",
+        "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+        "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+        "bullets": [
+          "\"Governments need control of their critical space infrastructure, and Europe needs it most.\""
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T22:44:46.000Z"
+      },
+      {
+        "id": "tech-95c59519",
+        "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+        "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+        "bullets": [
+          "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T22:32:16.000Z"
+      },
+      {
+        "id": "tech-46796b0e",
+        "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+        "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+        "bullets": [
+          "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T20:32:55.000Z"
+      },
+      {
+        "id": "ai-94662fdb",
+        "title": "Nvidia promises that revenue will keep soaring — for now",
+        "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+        "bullets": [
+          "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-18T00:16:50.000Z"
+      },
+      {
+        "id": "ai-a1841ed7",
+        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+        "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+        "bullets": [
+          "Nvidia's interim CEO says the company is done selling chips to China.",
+          "How much will that cost?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T23:37:48.000Z"
+      },
+      {
+        "id": "ai-93cb4210",
+        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+        "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+        "bullets": [
+          "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T23:04:35.000Z"
+      },
+      {
+        "id": "ai-1f49cd42",
+        "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+        "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+        "bullets": [
+          "The former CEO offered to return to his top role at the company after his resignation last week."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T22:42:27.000Z"
+      },
+      {
+        "id": "ai-b484c41e",
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+        "bullets": [
+          "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher.",
+          "Google is a close second with holdings of nearly 14%."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T22:29:05.000Z"
+      },
+      {
+        "id": "world-19e214da",
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "bullets": [
+          "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T21:24:35.000Z"
+      },
+      {
+        "id": "world-2d1a29cc",
+        "title": "How the attack on Crimean Bridge unfolded",
+        "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+        "bullets": [
+          "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T15:38:10.000Z"
+      },
+      {
+        "id": "world-825319fe",
+        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+        "bullets": [
+          "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-18T00:28:01.000Z"
+      },
+      {
+        "id": "world-d2519a19",
+        "title": "Thomas Markle charged over child sex abuse material in Philippines",
+        "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+        "bullets": [
+          "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T22:44:15.000Z"
+      },
+      {
+        "id": "world-4d095ad9",
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+        "bullets": [
+          "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-17T17:19:57.000Z"
       }
     ]
   }
