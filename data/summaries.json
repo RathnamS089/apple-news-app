@@ -7763,20 +7763,20 @@
   },
   {
     "date": "2026-11-19",
-    "generatedAt": "2026-11-19T02:36:48.450Z",
+    "generatedAt": "2026-11-19T11:46:04.917Z",
     "articles": [
       {
-        "id": "top-2385e1ef",
-        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-        "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+        "id": "top-0880f305",
+        "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
+        "summary": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
         "bullets": [
-          "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
+          "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-18T17:00:40.000Z"
+        "publishedAt": "2026-11-19T08:31:09.000Z"
       },
       {
         "id": "top-3f92f84c",
@@ -7792,8 +7792,8 @@
         "publishedAt": "2026-11-19T00:00:59.000Z"
       },
       {
-        "id": "top-37b69bd5",
-        "title": "'Feudal' leasehold system set to be scrapped in England and Wales",
+        "id": "top-249588fe",
+        "title": "Leasehold system set to be scrapped in England and Wales",
         "summary": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.",
         "bullets": [
           "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250."
@@ -7802,33 +7802,46 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-19T02:02:23.000Z"
+        "publishedAt": "2026-11-19T09:26:59.000Z"
       },
       {
-        "id": "top-ca99b39b",
-        "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
-        "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+        "id": "top-8d500e7f",
+        "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+        "summary": "Move comes after Brand's wife shared a message from him in which he claimed his innocence.",
         "bullets": [
-          "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
+          "Move comes after Brand's wife shared a message from him in which he claimed his innocence."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T11:43:39.000Z"
+      },
+      {
+        "id": "top-e4b171bc",
+        "title": "Anthropic raises $81bn in record-breaking stock market debut",
+        "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+        "bullets": [
+          "The company behind the Claude chatbot will become one of the most valuable firms in the world."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-19T02:20:15.000Z"
+        "publishedAt": "2026-11-19T10:48:04.000Z"
       },
       {
-        "id": "top-f609e433",
-        "title": "Crew unaware of risks before Bayesian yacht accident, say investigators",
-        "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+        "id": "tech-540d952c",
+        "title": "How to tell a cyberattack from a plain old outage",
+        "summary": "When everything goes down, don’t assume it’s a cyberattack.",
         "bullets": [
-          "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch."
+          "When everything goes down, don’t assume it’s a cyberattack."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-19T00:05:31.000Z"
+        "publishedAt": "2026-11-19T11:13:01.000Z"
       },
       {
         "id": "tech-b10a7968",
@@ -7881,19 +7894,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-11-18T21:29:24.000Z"
-      },
-      {
-        "id": "tech-9d90dde3",
-        "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-        "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
-        "bullets": [
-          "Hardened defaults align with DoD standards, but there may be growing pains."
-        ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-18T20:41:12.000Z"
       },
       {
         "id": "ai-f43bdb89",
@@ -7961,56 +7961,43 @@
         "publishedAt": "2026-11-18T22:58:11.000Z"
       },
       {
-        "id": "world-2385e1ef",
-        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-        "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+        "id": "world-f7d74a46",
+        "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+        "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
         "bullets": [
-          "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
+          "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-18T17:00:40.000Z"
+        "publishedAt": "2026-11-19T04:42:52.000Z"
       },
       {
-        "id": "world-e668f094",
-        "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-        "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+        "id": "world-bbfc6ba7",
+        "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+        "summary": "Some local media report that at least four bodies have been recovered.",
         "bullets": [
-          "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
+          "Some local media report that at least four bodies have been recovered."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-18T17:00:04.000Z"
+        "publishedAt": "2026-11-19T09:02:52.000Z"
       },
       {
-        "id": "world-7ba8a0eb",
-        "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-        "summary": "No state has ever been found guilty by an international court of committing genocide.",
+        "id": "world-e4b171bc",
+        "title": "Anthropic raises $81bn in record-breaking stock market debut",
+        "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
         "bullets": [
-          "No state has ever been found guilty by an international court of committing genocide."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-18T23:04:06.000Z"
-      },
-      {
-        "id": "world-ca99b39b",
-        "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
-        "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-        "bullets": [
-          "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
+          "The company behind the Claude chatbot will become one of the most valuable firms in the world."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-19T02:20:15.000Z"
+        "publishedAt": "2026-11-19T10:48:04.000Z"
       },
       {
         "id": "world-adc7231b",
@@ -8024,6 +8011,19 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-19T00:49:19.000Z"
+      },
+      {
+        "id": "world-83fab040",
+        "title": "Crimean Bridge attacked again, Russia says",
+        "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+        "bullets": [
+          "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T07:32:06.000Z"
       }
     ]
   }
