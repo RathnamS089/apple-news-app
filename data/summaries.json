@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "generatedAt": "2026-10-21T21:45:44.950Z",
-    "articles": [
-      {
-        "id": "top-9ce165e1",
-        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-        "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
-        "bullets": [
-          "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T15:36:31.000Z"
-      },
-      {
-        "id": "top-ccb9317c",
-        "title": "Websites taken down worldwide as critical cyber-security update issued",
-        "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-        "bullets": [
-          "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T19:54:57.000Z"
-      },
-      {
-        "id": "top-08cb14e4",
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-        "bullets": [
-          "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T21:27:41.000Z"
-      },
-      {
-        "id": "top-c4dd2221",
-        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-        "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
-        "bullets": [
-          "Russia's President Putin does not feel under pressure right now to end the war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T19:58:06.000Z"
-      },
-      {
-        "id": "top-d6da308f",
-        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-        "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
-        "bullets": [
-          "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T18:10:42.000Z"
-      },
-      {
-        "id": "tech-be3ad2f2",
-        "title": "The new human-crafted Apple Music brand matters in an AI world",
-        "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-        "bullets": [
-          "Opinion: In a world of AI slop, showing the human hands making things helps."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T19:44:40.000Z"
-      },
-      {
-        "id": "tech-a8044888",
-        "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
-        "summary": "Next Mass Effect project canceled as parent company lays off 400.",
-        "bullets": [
-          "Next Mass Effect project canceled as parent company lays off 400."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T19:12:16.000Z"
-      },
-      {
-        "id": "tech-623b7f4c",
-        "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-        "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-        "bullets": [
-          "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T18:51:42.000Z"
-      },
-      {
-        "id": "tech-cc3acd4d",
-        "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
-        "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
-        "bullets": [
-          "Musk and Trump both denied ordering Starlink slowdown.",
-          "WSJ reports it was Musk."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T18:35:38.000Z"
-      },
-      {
-        "id": "tech-4ab13999",
-        "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-        "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-        "bullets": [
-          "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T18:20:40.000Z"
-      },
-      {
-        "id": "ai-20062945",
-        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-        "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-        "bullets": [
-          "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T21:16:20.000Z"
-      },
-      {
-        "id": "ai-b71da0c2",
-        "title": "Meta says Muse has over 10M users, with shopping a top activity",
-        "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
-        "bullets": [
-          "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings.",
-          "The AI app now has over 10M users."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T21:14:19.000Z"
-      },
-      {
-        "id": "ai-5e6845c2",
-        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-        "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-        "bullets": [
-          "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T20:27:41.000Z"
-      },
-      {
-        "id": "ai-2c5e9558",
-        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-        "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-        "bullets": [
-          "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T19:30:00.000Z"
-      },
-      {
-        "id": "ai-24abf82e",
-        "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-        "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-        "bullets": [
-          "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T14:00:00.000Z"
-      },
-      {
-        "id": "world-08cb14e4",
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-        "bullets": [
-          "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T21:27:41.000Z"
-      },
-      {
-        "id": "world-c4dd2221",
-        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-        "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
-        "bullets": [
-          "Russia's President Putin does not feel under pressure right now to end the war."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T19:58:06.000Z"
-      },
-      {
-        "id": "world-1b245636",
-        "title": "Macron accuses foreign leaders of exploiting French riots",
-        "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-        "bullets": [
-          "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T14:04:28.000Z"
-      },
-      {
-        "id": "world-5ed927f1",
-        "title": "Pope does not need further treatment after lung cancer surgery",
-        "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
-        "bullets": [
-          "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T20:09:10.000Z"
-      },
-      {
-        "id": "world-d6da308f",
-        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-        "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
-        "bullets": [
-          "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-21T18:10:42.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-22",
     "generatedAt": "2026-10-22T21:39:51.144Z",
     "articles": [
@@ -8026,6 +7758,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-19T13:07:35.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "generatedAt": "2026-11-20T02:21:42.752Z",
+    "articles": [
+      {
+        "id": "top-cf480666",
+        "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+        "summary": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\".",
+        "bullets": [
+          "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T01:12:45.000Z"
+      },
+      {
+        "id": "top-a9cd6e18",
+        "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+        "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+        "bullets": [
+          "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T00:02:07.000Z"
+      },
+      {
+        "id": "top-0e17d184",
+        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+        "bullets": [
+          "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T23:33:51.000Z"
+      },
+      {
+        "id": "top-97b6292b",
+        "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+        "summary": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+        "bullets": [
+          "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T20:02:02.000Z"
+      },
+      {
+        "id": "top-84a9726c",
+        "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
+        "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+        "bullets": [
+          "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T17:23:29.000Z"
+      },
+      {
+        "id": "tech-fd86e773",
+        "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+        "summary": "Amazon now uses its shopping platform for political purposes.",
+        "bullets": [
+          "Amazon now uses its shopping platform for political purposes."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T22:16:37.000Z"
+      },
+      {
+        "id": "tech-70855d49",
+        "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+        "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+        "bullets": [
+          "Expert called MAHA's spending \"pretty unusual\" for a PAC."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T21:19:12.000Z"
+      },
+      {
+        "id": "tech-2e23934e",
+        "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+        "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+        "bullets": [
+          "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T20:29:46.000Z"
+      },
+      {
+        "id": "tech-18201009",
+        "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+        "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+        "bullets": [
+          "Lawsuit: Over 99% of school system’s AI gun alerts were false positives."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T20:19:28.000Z"
+      },
+      {
+        "id": "tech-da7ed3d8",
+        "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+        "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+        "bullets": [
+          "\"Project Suncatcher is a long-term moonshot.\""
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T19:52:54.000Z"
+      },
+      {
+        "id": "ai-82a94f87",
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "bullets": [
+          "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T00:56:01.000Z"
+      },
+      {
+        "id": "ai-e3c8be40",
+        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "bullets": [
+          "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T00:43:50.000Z"
+      },
+      {
+        "id": "ai-3c895006",
+        "title": "Meta’s new Muse Charm device may cost $300",
+        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+        "bullets": [
+          "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T21:58:06.000Z"
+      },
+      {
+        "id": "ai-40a01734",
+        "title": "These tech outages are giving Y2K, AI agent style",
+        "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+        "bullets": [
+          "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence?",
+          "There's actually likely something deeper going on, cybersecurity experts say."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T21:42:31.000Z"
+      },
+      {
+        "id": "ai-36b80159",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "bullets": [
+          "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S.",
+          "and China race to develop the most advanced AI infrastructure."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T20:18:49.000Z"
+      },
+      {
+        "id": "world-0e17d184",
+        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+        "bullets": [
+          "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T23:33:51.000Z"
+      },
+      {
+        "id": "world-c547b101",
+        "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+        "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+        "bullets": [
+          "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T00:13:21.000Z"
+      },
+      {
+        "id": "world-a321807b",
+        "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+        "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+        "bullets": [
+          "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T20:07:02.000Z"
+      },
+      {
+        "id": "world-b5cf392a",
+        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+        "bullets": [
+          "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T00:50:24.000Z"
+      },
+      {
+        "id": "world-46c54f1b",
+        "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+        "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+        "bullets": [
+          "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-19T17:38:22.000Z"
       }
     ]
   }
