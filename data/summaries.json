@@ -7764,59 +7764,59 @@
   },
   {
     "date": "2026-11-21",
-    "generatedAt": "2026-11-21T11:11:31.968Z",
+    "generatedAt": "2026-11-21T19:21:06.190Z",
     "articles": [
       {
-        "id": "top-e4a7c160",
-        "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-        "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+        "id": "top-0280c475",
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+        "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
         "bullets": [
-          "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
+          "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-21T09:40:55.000Z"
+        "publishedAt": "2026-11-21T13:17:38.000Z"
       },
       {
-        "id": "top-5f5681e8",
-        "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-        "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+        "id": "top-44eee124",
+        "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+        "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
         "bullets": [
-          "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
+          "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-21T08:10:25.000Z"
+        "publishedAt": "2026-11-21T16:16:29.000Z"
       },
       {
-        "id": "top-d0162c42",
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "id": "top-3248c95b",
+        "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+        "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
         "bullets": [
-          "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+          "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-20T22:42:47.000Z"
+        "publishedAt": "2026-11-21T12:00:03.000Z"
       },
       {
-        "id": "top-73e50073",
-        "title": "Man convicted of starting Palisades fire in Los Angeles",
-        "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+        "id": "top-9ac8c33c",
+        "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+        "summary": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November.",
         "bullets": [
-          "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
+          "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-21T04:34:00.000Z"
+        "publishedAt": "2026-11-21T12:17:45.000Z"
       },
       {
         "id": "top-70788624",
@@ -7829,7 +7829,20 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-21T09:52:11.000Z"
+        "publishedAt": "2026-11-21T14:54:24.000Z"
+      },
+      {
+        "id": "tech-8f9cc53c",
+        "title": "“Race realism” isn’t realistic—and it isn’t good science",
+        "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+        "bullets": [
+          "Modern genetics does not support claims of innate racial differences in intelligence."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T12:01:13.000Z"
       },
       {
         "id": "tech-3986f771",
@@ -7884,17 +7897,31 @@
         "publishedAt": "2026-11-20T21:47:10.000Z"
       },
       {
-        "id": "tech-dfc7badd",
-        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-        "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+        "id": "ai-ab460902",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "bullets": [
-          "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
         ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-        "category": "tech",
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "category": "ai",
         "imageUrl": null,
-        "publishedAt": "2026-11-20T20:59:08.000Z"
+        "publishedAt": "2026-11-21T17:00:00.000Z"
+      },
+      {
+        "id": "ai-26ffa792",
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+        "bullets": [
+          "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China.",
+          "Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T16:00:00.000Z"
       },
       {
         "id": "ai-b8fa0366",
@@ -7938,30 +7965,30 @@
         "publishedAt": "2026-11-20T17:40:01.000Z"
       },
       {
-        "id": "ai-420e84af",
-        "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-        "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will...",
+        "id": "world-108b2666",
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
         "bullets": [
-          "At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]"
+          "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-20T14:55:44.000Z"
+        "publishedAt": "2026-11-21T13:17:38.000Z"
       },
       {
-        "id": "ai-bc6bd490",
-        "title": "Six AI-powered gadgets that could make your home office smarter",
-        "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+        "id": "world-5ca1d18f",
+        "title": "Russia-bound ship attacked in Gulf of Finland",
+        "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
         "bullets": [
-          "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+          "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
         ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-        "category": "ai",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-20T14:00:00.000Z"
+        "publishedAt": "2026-11-21T19:20:22.000Z"
       },
       {
         "id": "world-d0162c42",
@@ -7977,19 +8004,6 @@
         "publishedAt": "2026-11-20T22:42:47.000Z"
       },
       {
-        "id": "world-5f5681e8",
-        "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-        "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-        "bullets": [
-          "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-21T08:10:25.000Z"
-      },
-      {
         "id": "world-70788624",
         "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
         "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
@@ -8000,7 +8014,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-21T09:52:11.000Z"
+        "publishedAt": "2026-11-21T14:54:24.000Z"
       },
       {
         "id": "world-7660af35",
@@ -8013,20 +8027,7 @@
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-21T09:34:20.000Z"
-      },
-      {
-        "id": "world-e80a120d",
-        "title": "French police officers sentenced for beating of music producer Michel Zecler",
-        "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-        "bullets": [
-          "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-20T22:37:09.000Z"
+        "publishedAt": "2026-11-21T16:35:15.000Z"
       }
     ]
   }
