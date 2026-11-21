@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "generatedAt": "2026-10-22T21:39:51.144Z",
-    "articles": [
-      {
-        "id": "top-06e3ef0b",
-        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
-        "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
-        "bullets": [
-          "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T21:29:44.000Z"
-      },
-      {
-        "id": "top-9dfd9e6e",
-        "title": "Race to update services' computer systems after cyber-security flaw found",
-        "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-        "bullets": [
-          "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T17:12:51.000Z"
-      },
-      {
-        "id": "top-a2c462f1",
-        "title": "AI discovered a massive cyber-security flaw - here's what happened",
-        "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
-        "bullets": [
-          "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T12:17:44.000Z"
-      },
-      {
-        "id": "top-4f6fa756",
-        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-        "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-        "bullets": [
-          "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T17:14:04.000Z"
-      },
-      {
-        "id": "top-7667fbda",
-        "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
-        "summary": "The friend of a woman claiming to have been raped by Russell Brand says she said he was \"quite aggressive\".",
-        "bullets": [
-          "The friend of a woman claiming to have been raped by Russell Brand says she said he was \"quite aggressive\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T16:45:09.000Z"
-      },
-      {
-        "id": "tech-6a02bbba",
-        "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-        "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-        "bullets": [
-          "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T20:17:52.000Z"
-      },
-      {
-        "id": "tech-c95b4b95",
-        "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-        "summary": "We can't have nice things, but at least we can get trailers for them.",
-        "bullets": [
-          "We can't have nice things, but at least we can get trailers for them."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T19:59:37.000Z"
-      },
-      {
-        "id": "tech-21543e6e",
-        "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-        "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
-        "bullets": [
-          "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T19:34:40.000Z"
-      },
-      {
-        "id": "tech-38ca1495",
-        "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
-        "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
-        "bullets": [
-          "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T19:04:06.000Z"
-      },
-      {
-        "id": "tech-1901c5fd",
-        "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
-        "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get.",
-        "bullets": [
-          "460 kW charging and 450 miles of range are among the reasons the EV is the one to get."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T19:01:23.000Z"
-      },
-      {
-        "id": "ai-4e009f9e",
-        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-        "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-        "bullets": [
-          "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T19:07:09.000Z"
-      },
-      {
-        "id": "ai-e1c195a4",
-        "title": "Canva releases its first image generation model",
-        "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-        "bullets": [
-          "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T19:00:00.000Z"
-      },
-      {
-        "id": "ai-027ad3e8",
-        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-        "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-        "bullets": [
-          "OpenAI is launching its decision model to the world.",
-          "Can it compete with the original Jev?"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T19:00:00.000Z"
-      },
-      {
-        "id": "ai-e14a5481",
-        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-        "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-        "bullets": [
-          "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science.",
-          "But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T18:43:53.000Z"
-      },
-      {
-        "id": "ai-b4bf7499",
-        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-        "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-        "bullets": [
-          "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T16:47:17.000Z"
-      },
-      {
-        "id": "world-6e816929",
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "bullets": [
-          "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T15:56:36.000Z"
-      },
-      {
-        "id": "world-9dfd9e6e",
-        "title": "Race to update services' computer systems after cyber-security flaw found",
-        "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-        "bullets": [
-          "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T17:12:51.000Z"
-      },
-      {
-        "id": "world-4f6fa756",
-        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-        "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-        "bullets": [
-          "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T17:14:04.000Z"
-      },
-      {
-        "id": "world-51bb747f",
-        "title": "Crowd of 50 beats foreigner to death in South Africa",
-        "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
-        "bullets": [
-          "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T16:15:25.000Z"
-      },
-      {
-        "id": "world-a00a0e89",
-        "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-        "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-        "bullets": [
-          "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T17:07:03.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-23",
     "generatedAt": "2026-10-23T21:27:09.677Z",
     "articles": [
@@ -8027,6 +7759,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-20T20:00:53.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "generatedAt": "2026-11-21T02:21:45.984Z",
+    "articles": [
+      {
+        "id": "top-c53dc75b",
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "bullets": [
+          "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T17:49:48.000Z"
+      },
+      {
+        "id": "top-473ffbe5",
+        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+        "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+        "bullets": [
+          "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T16:41:52.000Z"
+      },
+      {
+        "id": "top-d0162c42",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "bullets": [
+          "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T22:42:47.000Z"
+      },
+      {
+        "id": "top-8db5611e",
+        "title": "Man guilty of murdering woman he groomed on fetish site",
+        "summary": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
+        "bullets": [
+          "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T18:17:56.000Z"
+      },
+      {
+        "id": "top-21eb6be5",
+        "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+        "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+        "bullets": [
+          "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T02:09:46.000Z"
+      },
+      {
+        "id": "tech-3986f771",
+        "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+        "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+        "bullets": [
+          "FCC preempts state rules that require AT&#038;T to keep offering home phone service."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T22:28:24.000Z"
+      },
+      {
+        "id": "tech-6c5bece2",
+        "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+        "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+        "bullets": [
+          "\"Explain the changes that were made to the Starshield service in October 2026.\""
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T22:16:51.000Z"
+      },
+      {
+        "id": "tech-e436dedc",
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "summary": "Google search is making it even easier to access AI tools on the search page.",
+        "bullets": [
+          "Google search is making it even easier to access AI tools on the search page."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T21:58:29.000Z"
+      },
+      {
+        "id": "tech-c62979ce",
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+        "bullets": [
+          "Meta is “re-evaluating” 2030 sustainability goals."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T21:47:10.000Z"
+      },
+      {
+        "id": "tech-dfc7badd",
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+        "bullets": [
+          "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T20:59:08.000Z"
+      },
+      {
+        "id": "ai-b8fa0366",
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "bullets": [
+          "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher.",
+          "Here's what the startup is building."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T19:53:41.000Z"
+      },
+      {
+        "id": "ai-5243729d",
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+        "bullets": [
+          "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T19:32:08.000Z"
+      },
+      {
+        "id": "ai-34d20ae7",
+        "title": "Chips can survive the space environment — can their financing?",
+        "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+        "bullets": [
+          "Lenders don't want SpaceX shooting their collateral into orbit.",
+          "What does that mean for space data centers writ large?"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T17:40:01.000Z"
+      },
+      {
+        "id": "ai-420e84af",
+        "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+        "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will...",
+        "bullets": [
+          "At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]"
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T14:55:44.000Z"
+      },
+      {
+        "id": "ai-bc6bd490",
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+        "bullets": [
+          "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T14:00:00.000Z"
+      },
+      {
+        "id": "world-d0162c42",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "bullets": [
+          "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T22:42:47.000Z"
+      },
+      {
+        "id": "world-c53dc75b",
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "bullets": [
+          "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T17:49:48.000Z"
+      },
+      {
+        "id": "world-c4879336",
+        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+        "bullets": [
+          "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T02:09:46.000Z"
+      },
+      {
+        "id": "world-e80a120d",
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+        "bullets": [
+          "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T22:37:09.000Z"
+      },
+      {
+        "id": "world-ed245b93",
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+        "bullets": [
+          "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T23:08:57.000Z"
       }
     ]
   }
