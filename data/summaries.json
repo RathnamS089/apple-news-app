@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-10-23",
-    "generatedAt": "2026-10-23T21:27:09.677Z",
-    "articles": [
-      {
-        "id": "top-fd85bb5f",
-        "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-        "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
-        "bullets": [
-          "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T21:10:47.000Z"
-      },
-      {
-        "id": "top-e7b9b4fc",
-        "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-        "summary": "The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.",
-        "bullets": [
-          "The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T21:01:31.000Z"
-      },
-      {
-        "id": "top-012bcf70",
-        "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-        "summary": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
-        "bullets": [
-          "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T18:17:06.000Z"
-      },
-      {
-        "id": "top-cf7c7cd5",
-        "title": "Meghan statement offers answers after years of questions about her relationship with father",
-        "summary": "Today, without exactly using the word, Meghan claimed vindication.",
-        "bullets": [
-          "Today, without exactly using the word, Meghan claimed vindication."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T17:27:50.000Z"
-      },
-      {
-        "id": "top-f65eddeb",
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-        "bullets": [
-          "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T19:42:08.000Z"
-      },
-      {
-        "id": "tech-df92bc23",
-        "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-        "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
-        "bullets": [
-          "Pentagon memo: Insider trading gives US enemies key intel on military operations."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T20:28:43.000Z"
-      },
-      {
-        "id": "tech-e2f8ffe4",
-        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-        "bullets": [
-          "Turning on Personal Intelligence gives the company more data for ad targeting."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T20:19:55.000Z"
-      },
-      {
-        "id": "tech-ea5cab2a",
-        "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
-        "summary": "Space Force considering options: public-private, federal installation, state land.",
-        "bullets": [
-          "Space Force considering options: public-private, federal installation, state land."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T19:33:58.000Z"
-      },
-      {
-        "id": "tech-4c7e4d0e",
-        "title": "Spotify ramps up policy enforcement on family plans",
-        "summary": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
-        "bullets": [
-          "If you share Spotify sub with family, you may need to scan QR code to prove it."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T19:20:27.000Z"
-      },
-      {
-        "id": "tech-7c0d1134",
-        "title": "Crows can evaluate visual info twice as fast as mammals",
-        "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
-        "bullets": [
-          "Birds' compact nervous system seems to help them handle tasks very quickly."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T17:32:58.000Z"
-      },
-      {
-        "id": "ai-9cc44706",
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling...",
-        "bullets": [
-          "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T19:06:23.000Z"
-      },
-      {
-        "id": "ai-76ea3d90",
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-        "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-        "bullets": [
-          "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T04:00:00.000Z"
-      },
-      {
-        "id": "ai-e1d446f0",
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-        "bullets": [
-          "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T00:45:37.000Z"
-      },
-      {
-        "id": "ai-14952378",
-        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-        "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-        "bullets": [
-          "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T22:08:24.000Z"
-      },
-      {
-        "id": "ai-4e009f9e",
-        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-        "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-        "bullets": [
-          "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-22T19:07:09.000Z"
-      },
-      {
-        "id": "world-f65eddeb",
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-        "bullets": [
-          "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T19:42:08.000Z"
-      },
-      {
-        "id": "world-fa3f69d2",
-        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-        "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-        "bullets": [
-          "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T19:46:30.000Z"
-      },
-      {
-        "id": "world-cfdcc3ad",
-        "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-        "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
-        "bullets": [
-          "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T20:18:13.000Z"
-      },
-      {
-        "id": "world-9ee0530d",
-        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-        "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-        "bullets": [
-          "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T15:37:07.000Z"
-      },
-      {
-        "id": "world-60baccae",
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-        "bullets": [
-          "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T19:30:19.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-24",
     "generatedAt": "2026-10-24T23:18:04.530Z",
     "articles": [
@@ -8028,6 +7762,275 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-21T16:35:15.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "generatedAt": "2026-11-22T01:23:01.986Z",
+    "articles": [
+      {
+        "id": "top-0280c475",
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+        "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+        "bullets": [
+          "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T13:17:38.000Z"
+      },
+      {
+        "id": "top-44eee124",
+        "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+        "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+        "bullets": [
+          "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T16:16:29.000Z"
+      },
+      {
+        "id": "top-3248c95b",
+        "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+        "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+        "bullets": [
+          "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T12:00:03.000Z"
+      },
+      {
+        "id": "top-9ac8c33c",
+        "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+        "summary": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November.",
+        "bullets": [
+          "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T12:17:45.000Z"
+      },
+      {
+        "id": "top-70788624",
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+        "bullets": [
+          "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T22:19:43.000Z"
+      },
+      {
+        "id": "tech-ffb6f8f1",
+        "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+        "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+        "bullets": [
+          "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T22:12:41.000Z"
+      },
+      {
+        "id": "tech-8f9cc53c",
+        "title": "“Race realism” isn’t realistic—and it isn’t good science",
+        "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+        "bullets": [
+          "Modern genetics does not support claims of innate racial differences in intelligence."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T12:01:13.000Z"
+      },
+      {
+        "id": "tech-3986f771",
+        "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+        "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+        "bullets": [
+          "FCC preempts state rules that require AT&#038;T to keep offering home phone service."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T22:28:24.000Z"
+      },
+      {
+        "id": "tech-6c5bece2",
+        "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+        "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+        "bullets": [
+          "\"Explain the changes that were made to the Starshield service in October 2026.\""
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T22:16:51.000Z"
+      },
+      {
+        "id": "tech-e436dedc",
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "summary": "Google search is making it even easier to access AI tools on the search page.",
+        "bullets": [
+          "Google search is making it even easier to access AI tools on the search page."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T21:58:29.000Z"
+      },
+      {
+        "id": "ai-d11f7cae",
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "bullets": [
+          "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T21:37:10.000Z"
+      },
+      {
+        "id": "ai-14c47dae",
+        "title": "A tale of two Nvidias",
+        "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+        "bullets": [
+          "We got two very different pictures of Nvidia — the company’s latest earnings report vs.",
+          "the tech executives loudly calling for Jensen Huang’s return."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T21:07:42.000Z"
+      },
+      {
+        "id": "ai-ab460902",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "bullets": [
+          "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T17:00:00.000Z"
+      },
+      {
+        "id": "ai-26ffa792",
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+        "bullets": [
+          "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China.",
+          "Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T16:00:00.000Z"
+      },
+      {
+        "id": "ai-b8fa0366",
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "bullets": [
+          "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher.",
+          "Here's what the startup is building."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-20T19:53:41.000Z"
+      },
+      {
+        "id": "world-108b2666",
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+        "bullets": [
+          "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T13:17:38.000Z"
+      },
+      {
+        "id": "world-5ca1d18f",
+        "title": "Russia-bound ship attacked in Gulf of Finland",
+        "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+        "bullets": [
+          "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T19:20:22.000Z"
+      },
+      {
+        "id": "world-70788624",
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+        "bullets": [
+          "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T22:19:43.000Z"
+      },
+      {
+        "id": "world-86711069",
+        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+        "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+        "bullets": [
+          "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-21T23:31:17.000Z"
+      },
+      {
+        "id": "world-7660af35",
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+        "bullets": [
+          "The National Crime Information Center database is used by federal and local law enforcement to share information."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-22T00:10:44.000Z"
       }
     ]
   }
