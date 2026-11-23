@@ -7770,72 +7770,98 @@
   },
   {
     "date": "2026-11-23",
-    "generatedAt": "2026-11-23T01:46:56.747Z",
+    "generatedAt": "2026-11-23T12:54:48.113Z",
     "articles": [
       {
-        "id": "top-168bd561",
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-        "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+        "id": "top-aadb58a5",
+        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+        "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
         "bullets": [
-          "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
+          "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T00:50:35.000Z"
+        "publishedAt": "2026-11-23T11:40:01.000Z"
       },
       {
-        "id": "top-13fb9e74",
-        "title": "What's next after no deal at COP31 climate talks?",
-        "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+        "id": "top-18c00a31",
+        "title": "Ukraine shares video of strikes on Russian ships off Libya",
+        "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
         "bullets": [
-          "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+          "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-22T18:57:24.000Z"
+        "publishedAt": "2026-11-23T11:34:10.000Z"
       },
       {
-        "id": "top-ad9f9760",
-        "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-        "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+        "id": "top-f81209bd",
+        "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
+        "summary": "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver gig.",
         "bullets": [
-          "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\"."
+          "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver gig."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-22T22:49:10.000Z"
+        "publishedAt": "2026-11-23T12:42:21.000Z"
       },
       {
-        "id": "top-4955421c",
-        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-        "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "id": "top-1c341da0",
+        "title": "Watch: What we know about Co-op Live 'major incident'",
+        "summary": "Thousands evacuated from concert in Manchester after an 'unknown substance' was released into the crowd.",
         "bullets": [
-          "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS."
+          "Thousands evacuated from concert in Manchester after an 'unknown substance' was released into the crowd."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T00:49:22.000Z"
+        "publishedAt": "2026-11-23T10:46:28.000Z"
       },
       {
-        "id": "top-ed31429e",
-        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-        "summary": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+        "id": "top-f3682ab0",
+        "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+        "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
         "bullets": [
-          "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building."
+          "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-22T23:53:45.000Z"
+        "publishedAt": "2026-11-23T11:57:33.000Z"
+      },
+      {
+        "id": "tech-67d08a66",
+        "title": "Tri-screen portable monitors aren’t for the faint of heart",
+        "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
+        "bullets": [
+          "Three extra screens boost multitasking but can distract and overwhelm."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T12:15:16.000Z"
+      },
+      {
+        "id": "tech-56e611d5",
+        "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+        "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+        "bullets": [
+          "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T12:00:00.000Z"
       },
       {
         "id": "tech-7c9dd7f4",
@@ -7875,32 +7901,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-11-21T12:01:13.000Z"
-      },
-      {
-        "id": "tech-3986f771",
-        "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-        "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-        "bullets": [
-          "FCC preempts state rules that require AT&#038;T to keep offering home phone service."
-        ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-20T22:28:24.000Z"
-      },
-      {
-        "id": "tech-6c5bece2",
-        "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-        "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-        "bullets": [
-          "\"Explain the changes that were made to the Starshield service in October 2026.\""
-        ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-20T22:16:51.000Z"
       },
       {
         "id": "ai-35fded8d",
@@ -7969,70 +7969,69 @@
         "publishedAt": "2026-11-21T21:07:42.000Z"
       },
       {
-        "id": "world-168bd561",
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-        "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+        "id": "world-aadb58a5",
+        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+        "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
         "bullets": [
-          "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-23T00:50:35.000Z"
-      },
-      {
-        "id": "world-13fb9e74",
-        "title": "What's next after no deal at COP31 climate talks?",
-        "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "bullets": [
-          "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-11-22T18:57:24.000Z"
-      },
-      {
-        "id": "world-bdd77349",
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-        "bullets": [
-          "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+          "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
         ],
         "source": "BBC News",
         "sourceUrl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-22T20:28:09.000Z"
+        "publishedAt": "2026-11-23T11:40:01.000Z"
       },
       {
-        "id": "world-da28a470",
-        "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-        "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+        "id": "world-e220ae25",
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+        "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
         "bullets": [
-          "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+          "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-22T22:37:43.000Z"
+        "publishedAt": "2026-11-23T05:15:06.000Z"
       },
       {
-        "id": "world-fa42ac46",
-        "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-        "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+        "id": "world-f3682ab0",
+        "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+        "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
         "bullets": [
-          "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday.",
-          "Kyiv has yet to comment."
+          "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-22T17:18:26.000Z"
+        "publishedAt": "2026-11-23T11:57:33.000Z"
+      },
+      {
+        "id": "world-ed31429e",
+        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+        "bullets": [
+          "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T05:33:17.000Z"
+      },
+      {
+        "id": "world-6e97af65",
+        "title": "Flights and train services cancelled in Belgium due to strike",
+        "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+        "bullets": [
+          "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T12:27:34.000Z"
       }
     ]
   }
