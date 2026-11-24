@@ -1,272 +1,5 @@
 [
   {
-    "date": "2026-10-25",
-    "generatedAt": "2026-10-25T23:18:10.924Z",
-    "articles": [
-      {
-        "id": "top-9824c0a9",
-        "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
-        "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-        "bullets": [
-          "An amber wind warning has now expired after severe weather sweeps across the UK."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T22:24:16.000Z"
-      },
-      {
-        "id": "top-6937c36b",
-        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-        "bullets": [
-          "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T22:54:57.000Z"
-      },
-      {
-        "id": "top-de05ec3e",
-        "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-        "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
-        "bullets": [
-          "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T22:37:36.000Z"
-      },
-      {
-        "id": "top-ccf4a815",
-        "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-        "summary": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
-        "bullets": [
-          "Roslyn Loveless, who has since died, divorced Meghan's father in 1975.",
-          "Meghan said she had been informed about the \"disturbing allegations\" in 2018."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T18:38:17.000Z"
-      },
-      {
-        "id": "top-3c0ecb6d",
-        "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-        "summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
-        "bullets": [
-          "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T21:24:21.000Z"
-      },
-      {
-        "id": "tech-fd58275f",
-        "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-        "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-        "bullets": [
-          "A new model suggests Mars may host ice-forming physics never directly observed before."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T11:50:28.000Z"
-      },
-      {
-        "id": "tech-bc0bcbfb",
-        "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-        "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
-        "bullets": [
-          "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T11:00:09.000Z"
-      },
-      {
-        "id": "tech-bff231e3",
-        "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-        "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-        "bullets": [
-          "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T22:48:25.000Z"
-      },
-      {
-        "id": "tech-df92bc23",
-        "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-        "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
-        "bullets": [
-          "Pentagon memo: Insider trading gives US enemies key intel on military operations."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T20:28:43.000Z"
-      },
-      {
-        "id": "tech-e2f8ffe4",
-        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-        "bullets": [
-          "Turning on Personal Intelligence gives the company more data for ad targeting."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-23T20:19:55.000Z"
-      },
-      {
-        "id": "ai-8aca6dbe",
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-        "bullets": [
-          "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T21:31:16.000Z"
-      },
-      {
-        "id": "ai-74700e7f",
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-        "bullets": [
-          "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T16:57:32.000Z"
-      },
-      {
-        "id": "ai-e00c120f",
-        "title": "The hottest AI wearables and gadgets you should know about",
-        "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-        "bullets": [
-          "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T14:10:00.000Z"
-      },
-      {
-        "id": "ai-713f4681",
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "bullets": [
-          "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T19:00:00.000Z"
-      },
-      {
-        "id": "ai-cd6ee5fe",
-        "title": "Block’s new voice model sounds eerily human",
-        "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-        "bullets": [
-          "Block said that the voice model can run locally on a MacBook M4 Max"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-24T16:00:00.000Z"
-      },
-      {
-        "id": "world-6937c36b",
-        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-        "bullets": [
-          "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T22:54:57.000Z"
-      },
-      {
-        "id": "world-9ecc3fe8",
-        "title": "Deeply divided Israel braces for pivotal election",
-        "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-        "bullets": [
-          "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T22:11:13.000Z"
-      },
-      {
-        "id": "world-478fe98d",
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "bullets": [
-          "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T18:29:00.000Z"
-      },
-      {
-        "id": "world-d5bf3493",
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-        "bullets": [
-          "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T09:00:00.000Z"
-      },
-      {
-        "id": "world-bdf4e859",
-        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-        "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-        "bullets": [
-          "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T15:32:51.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-26",
     "generatedAt": "2026-10-26T20:31:30.983Z",
     "articles": [
@@ -8032,6 +7765,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-23T12:27:34.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "generatedAt": "2026-11-24T02:15:13.206Z",
+    "articles": [
+      {
+        "id": "top-65d7e9d9",
+        "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+        "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+        "bullets": [
+          "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T01:21:41.000Z"
+      },
+      {
+        "id": "top-5477b9b1",
+        "title": "Benefits review to suggest quicker payment for some disabled people",
+        "summary": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+        "bullets": [
+          "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T00:53:31.000Z"
+      },
+      {
+        "id": "top-b510209f",
+        "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+        "summary": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
+        "bullets": [
+          "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T00:45:53.000Z"
+      },
+      {
+        "id": "top-957610fb",
+        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+        "bullets": [
+          "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T20:48:35.000Z"
+      },
+      {
+        "id": "top-ffa307b4",
+        "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
+        "summary": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal.",
+        "bullets": [
+          "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T22:01:09.000Z"
+      },
+      {
+        "id": "tech-82461880",
+        "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+        "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+        "bullets": [
+          "The Army said on Sunday that it would carry out the detonation on Wednesday."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T21:58:34.000Z"
+      },
+      {
+        "id": "tech-3fa2bf19",
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+        "bullets": [
+          "X says every Grok output is screened, but state AGs say Grok is still making CSAM."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T21:30:44.000Z"
+      },
+      {
+        "id": "tech-23bbe597",
+        "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+        "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
+        "bullets": [
+          "\"I would ask you to please reach out to Roscosmos directly.\""
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T20:34:51.000Z"
+      },
+      {
+        "id": "tech-71aba8f4",
+        "title": "Surveillance pricing uses our personal data to make us pay more",
+        "summary": "Personalized pricing can mean unfair, and even biased, prices.",
+        "bullets": [
+          "Personalized pricing can mean unfair, and even biased, prices."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T20:11:43.000Z"
+      },
+      {
+        "id": "tech-7c21f0e2",
+        "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+        "summary": "Amazon now uses its packages for political purposes.",
+        "bullets": [
+          "Amazon now uses its packages for political purposes."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T19:38:13.000Z"
+      },
+      {
+        "id": "ai-50fc913d",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "bullets": [
+          "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T22:05:50.000Z"
+      },
+      {
+        "id": "ai-104e82dc",
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "bullets": [
+          "Think you know where the market is headed?",
+          "A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T22:02:05.000Z"
+      },
+      {
+        "id": "ai-bf60588e",
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+        "bullets": [
+          "\"The mistake has been corrected,\" Elon Musk chimed in."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T21:47:41.000Z"
+      },
+      {
+        "id": "ai-0c3b4344",
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+        "bullets": [
+          "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S.",
+          "companies unless those companies attained a special license from the federal government."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T21:25:42.000Z"
+      },
+      {
+        "id": "ai-8212d4d9",
+        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+        "bullets": [
+          "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T20:38:53.000Z"
+      },
+      {
+        "id": "world-bf4382a0",
+        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+        "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+        "bullets": [
+          "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T23:16:08.000Z"
+      },
+      {
+        "id": "world-aadb58a5",
+        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+        "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+        "bullets": [
+          "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T15:41:23.000Z"
+      },
+      {
+        "id": "world-957610fb",
+        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+        "bullets": [
+          "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T20:48:35.000Z"
+      },
+      {
+        "id": "world-22a66b25",
+        "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+        "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+        "bullets": [
+          "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T18:04:20.000Z"
+      },
+      {
+        "id": "world-85849b06",
+        "title": "What failure of COP31 reveals about a divided world",
+        "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+        "bullets": [
+          "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-23T17:24:25.000Z"
       }
     ]
   }
