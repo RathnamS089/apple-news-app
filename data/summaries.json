@@ -7770,11 +7770,24 @@
   },
   {
     "date": "2026-11-24",
-    "generatedAt": "2026-11-24T02:15:13.206Z",
+    "generatedAt": "2026-11-24T13:49:43.430Z",
     "articles": [
       {
-        "id": "top-65d7e9d9",
-        "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+        "id": "top-43895afa",
+        "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+        "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+        "bullets": [
+          "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T13:25:40.000Z"
+      },
+      {
+        "id": "top-31a39aa8",
+        "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
         "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
         "bullets": [
           "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal."
@@ -7786,56 +7799,82 @@
         "publishedAt": "2026-11-24T01:21:41.000Z"
       },
       {
-        "id": "top-5477b9b1",
-        "title": "Benefits review to suggest quicker payment for some disabled people",
-        "summary": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+        "id": "top-75a96772",
+        "title": "Huntley murderer handed new whole life jail term",
+        "summary": "Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison.",
         "bullets": [
-          "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip."
+          "Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-24T00:53:31.000Z"
+        "publishedAt": "2026-11-24T13:32:43.000Z"
       },
       {
-        "id": "top-b510209f",
-        "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
-        "summary": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
+        "id": "top-7b390c01",
+        "title": "Inquiry expected into Birmingham housing scheme 'exploitation' after BBC investigation",
+        "summary": "Birmingham has more than 34,000 people living in Supported Exempt Accommodation.",
         "bullets": [
-          "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM."
+          "Birmingham has more than 34,000 people living in Supported Exempt Accommodation."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0rk19kl52do?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-24T00:45:53.000Z"
+        "publishedAt": "2026-11-24T10:47:53.000Z"
       },
       {
-        "id": "top-957610fb",
-        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-        "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+        "id": "top-1cc40150",
+        "title": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
+        "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
         "bullets": [
-          "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
+          "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
         "category": "top",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T20:48:35.000Z"
+        "publishedAt": "2026-11-24T09:33:00.000Z"
       },
       {
-        "id": "top-ffa307b4",
-        "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
-        "summary": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal.",
+        "id": "tech-c984d7bd",
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
         "bullets": [
-          "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal."
+          "The Cairn AI framework is proving to be a boon for defenders and attackers."
         ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "category": "tech",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T22:01:09.000Z"
+        "publishedAt": "2026-11-24T12:30:05.000Z"
+      },
+      {
+        "id": "tech-88cf3119",
+        "title": "One terminal command gave my forgotten Android device a desk job",
+        "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+        "bullets": [
+          "The free, open source PhoneBox dashboard puts old Android screens back to work."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T12:15:38.000Z"
+      },
+      {
+        "id": "tech-a7a95627",
+        "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+        "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+        "bullets": [
+          "Russian missile corvette latest casualty as Ukraine strikes back in war at sea."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T12:00:57.000Z"
       },
       {
         "id": "tech-82461880",
@@ -7862,45 +7901,6 @@
         "category": "tech",
         "imageUrl": null,
         "publishedAt": "2026-11-23T21:30:44.000Z"
-      },
-      {
-        "id": "tech-23bbe597",
-        "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-        "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
-        "bullets": [
-          "\"I would ask you to please reach out to Roscosmos directly.\""
-        ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-23T20:34:51.000Z"
-      },
-      {
-        "id": "tech-71aba8f4",
-        "title": "Surveillance pricing uses our personal data to make us pay more",
-        "summary": "Personalized pricing can mean unfair, and even biased, prices.",
-        "bullets": [
-          "Personalized pricing can mean unfair, and even biased, prices."
-        ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-23T20:11:43.000Z"
-      },
-      {
-        "id": "tech-7c21f0e2",
-        "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
-        "summary": "Amazon now uses its packages for political purposes.",
-        "bullets": [
-          "Amazon now uses its packages for political purposes."
-        ],
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-11-23T19:38:13.000Z"
       },
       {
         "id": "ai-50fc913d",
@@ -7970,69 +7970,69 @@
         "publishedAt": "2026-11-23T20:38:53.000Z"
       },
       {
-        "id": "world-bf4382a0",
-        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-        "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+        "id": "world-6cfbdcd4",
+        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+        "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
         "bullets": [
-          "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
+          "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T23:16:08.000Z"
+        "publishedAt": "2026-11-24T10:53:37.000Z"
       },
       {
-        "id": "world-aadb58a5",
-        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-        "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+        "id": "world-1504ea68",
+        "title": "What Jensen Huang's return teaches China's Xi about Trump",
+        "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
         "bullets": [
-          "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
+          "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T15:41:23.000Z"
+        "publishedAt": "2026-11-24T07:26:27.000Z"
       },
       {
-        "id": "world-957610fb",
-        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-        "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+        "id": "world-ae817249",
+        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
         "bullets": [
-          "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
+          "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T20:48:35.000Z"
+        "publishedAt": "2026-11-24T10:58:51.000Z"
       },
       {
-        "id": "world-22a66b25",
-        "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-        "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+        "id": "world-d6c74b55",
+        "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+        "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
         "bullets": [
-          "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom."
+          "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T18:04:20.000Z"
+        "publishedAt": "2026-11-23T21:24:47.000Z"
       },
       {
-        "id": "world-85849b06",
-        "title": "What failure of COP31 reveals about a divided world",
-        "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+        "id": "world-6e99915c",
+        "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+        "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
         "bullets": [
-          "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
+          "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\"."
         ],
         "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
         "category": "world",
         "imageUrl": null,
-        "publishedAt": "2026-11-23T17:24:25.000Z"
+        "publishedAt": "2026-11-24T05:33:07.000Z"
       }
     ]
   }
