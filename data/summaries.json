@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "generatedAt": "2026-10-26T20:31:30.983Z",
-    "articles": [
-      {
-        "id": "top-3e6bed7e",
-        "title": "Independent review announced into murder of student Henry Nowak",
-        "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
-        "bullets": [
-          "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T16:15:16.000Z"
-      },
-      {
-        "id": "top-5e6bc1a9",
-        "title": "Israel and the US are both going to the polls - the consequences will be global",
-        "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-        "bullets": [
-          "The next fortnight sees two elections on different continents.",
-          "The outcomes will shape geopolitics and the global economy, writes James Landale"
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T16:30:34.000Z"
-      },
-      {
-        "id": "top-072686e7",
-        "title": "Drivers who killed mum and girl while racing jailed",
-        "summary": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
-        "bullets": [
-          "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T15:39:39.000Z"
-      },
-      {
-        "id": "top-b78800e6",
-        "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-        "summary": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-        "bullets": [
-          "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of..."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T17:22:51.000Z"
-      },
-      {
-        "id": "top-db05e450",
-        "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-        "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-        "bullets": [
-          "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T15:37:33.000Z"
-      },
-      {
-        "id": "tech-98f6edbe",
-        "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
-        "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-        "bullets": [
-          "US robotics company stands by ICE deal as more than 300 employees warn of risk."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T18:50:41.000Z"
-      },
-      {
-        "id": "tech-9ec83248",
-        "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-        "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
-        "bullets": [
-          "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T18:09:08.000Z"
-      },
-      {
-        "id": "tech-7bb66257",
-        "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-        "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
-        "bullets": [
-          "Investigators explain how highway thieves stole $100M in data center equipment."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T17:26:36.000Z"
-      },
-      {
-        "id": "tech-c415d0a6",
-        "title": "Some iPhone Duo screens are already failing",
-        "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-        "bullets": [
-          "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T16:51:49.000Z"
-      },
-      {
-        "id": "tech-993c88a0",
-        "title": "F1 in Texas: The American race that fans love to attend",
-        "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
-        "bullets": [
-          "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T14:48:24.000Z"
-      },
-      {
-        "id": "ai-b4d2e136",
-        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-        "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-        "bullets": [
-          "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T16:49:42.000Z"
-      },
-      {
-        "id": "ai-c76ddaa5",
-        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-        "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU...",
-        "bullets": [
-          "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company...",
-          "In a statement, SpaceX called it the “largest committed GPU financing” ever."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T16:46:36.000Z"
-      },
-      {
-        "id": "ai-3440f72f",
-        "title": "Anthropic officially files for its public debut",
-        "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-        "bullets": [
-          "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T14:35:22.000Z"
-      },
-      {
-        "id": "ai-8aca6dbe",
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-        "bullets": [
-          "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T21:31:16.000Z"
-      },
-      {
-        "id": "ai-74700e7f",
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-        "bullets": [
-          "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-25T16:57:32.000Z"
-      },
-      {
-        "id": "world-3203560f",
-        "title": "Lula wins fourth term in dramatic Brazil election comeback",
-        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-        "bullets": [
-          "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T20:00:30.000Z"
-      },
-      {
-        "id": "world-73d7119e",
-        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-        "bullets": [
-          "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T14:34:52.000Z"
-      },
-      {
-        "id": "world-6719f8a7",
-        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-        "bullets": [
-          "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T19:27:21.000Z"
-      },
-      {
-        "id": "world-c10e419f",
-        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-        "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-        "bullets": [
-          "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T16:27:17.000Z"
-      },
-      {
-        "id": "world-043d4d1d",
-        "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-        "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-        "bullets": [
-          "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-26T15:46:31.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-27",
     "generatedAt": "2026-10-27T22:18:18.786Z",
     "articles": [
@@ -8032,6 +7764,273 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-24T15:17:28.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "generatedAt": "2026-11-25T08:41:40.379Z",
+    "articles": [
+      {
+        "id": "top-74ad0ccf",
+        "title": "Energy bills to rise by 26% from January",
+        "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+        "bullets": [
+          "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T08:38:13.000Z"
+      },
+      {
+        "id": "top-015a71f7",
+        "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+        "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+        "bullets": [
+          "More young people in Britain have never had sex, but many are sexting and watching porn."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T23:38:39.000Z"
+      },
+      {
+        "id": "top-2a2b1228",
+        "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+        "summary": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+        "bullets": [
+          "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T22:49:41.000Z"
+      },
+      {
+        "id": "top-777d9206",
+        "title": "Nuclear test veterans speak to BBC about 'search for justice'",
+        "summary": "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.",
+        "bullets": [
+          "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T22:45:03.000Z"
+      },
+      {
+        "id": "top-97161c26",
+        "title": "Racism, misogyny and homophobia remain in Met force, report finds",
+        "summary": "A new report has found institutional racism, misogyny and homophobia still exist in the Metropolitan Police, three years after a damning review.",
+        "bullets": [
+          "A new report has found institutional racism, misogyny and homophobia still exist in the Metropolitan Police, three years after a damning review."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwy0rg343j7o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T05:45:55.000Z"
+      },
+      {
+        "id": "tech-155b333a",
+        "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+        "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+        "bullets": [
+          "Perseverance is having trouble transmitting to Earth.",
+          "Odyssey is rapidly burning through its waning fuel supply."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T22:50:11.000Z"
+      },
+      {
+        "id": "tech-a7d61771",
+        "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+        "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+        "bullets": [
+          "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T22:36:28.000Z"
+      },
+      {
+        "id": "tech-03ac5909",
+        "title": "What's going on with the Riemann hypothesis?",
+        "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+        "bullets": [
+          "A new AI-assisted proof seems to be solid, but we're not sure what it tells us."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T20:34:53.000Z"
+      },
+      {
+        "id": "tech-dca5e105",
+        "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+        "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+        "bullets": [
+          "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T20:00:18.000Z"
+      },
+      {
+        "id": "tech-f8fda702",
+        "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+        "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+        "bullets": [
+          "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T18:47:57.000Z"
+      },
+      {
+        "id": "ai-e77043d4",
+        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+        "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile...",
+        "bullets": [
+          "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T00:12:02.000Z"
+      },
+      {
+        "id": "ai-4e901d5b",
+        "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+        "bullets": [
+          "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T22:27:52.000Z"
+      },
+      {
+        "id": "ai-5b04627e",
+        "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+        "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+        "bullets": [
+          "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T21:48:27.000Z"
+      },
+      {
+        "id": "ai-4d11c6c2",
+        "title": "Even the best AI agents struggle with everyday life",
+        "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+        "bullets": [
+          "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T21:33:29.000Z"
+      },
+      {
+        "id": "ai-38cdf7a5",
+        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+        "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+        "bullets": [
+          "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-24T21:32:38.000Z"
+      },
+      {
+        "id": "world-76e055c5",
+        "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+        "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+        "bullets": [
+          "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T00:56:51.000Z"
+      },
+      {
+        "id": "world-5f2fe769",
+        "title": "US attorney general dodges questions about Nvidia investigation",
+        "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+        "bullets": [
+          "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T03:44:07.000Z"
+      },
+      {
+        "id": "world-55602321",
+        "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+        "summary": "The verdict follows a months-long trial in New York.",
+        "bullets": [
+          "The verdict follows a months-long trial in New York."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T02:59:27.000Z"
+      },
+      {
+        "id": "world-9bfcb9c2",
+        "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+        "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+        "bullets": [
+          "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T06:00:36.000Z"
+      },
+      {
+        "id": "world-1c88db5e",
+        "title": "The rising cost of putting food on the table in India",
+        "summary": "India's food inflation is broadening, squeezing household budgets.",
+        "bullets": [
+          "India's food inflation is broadening, squeezing household budgets."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T01:02:13.000Z"
       }
     ]
   }
