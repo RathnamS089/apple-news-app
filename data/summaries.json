@@ -1,271 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "generatedAt": "2026-10-27T22:18:18.786Z",
-    "articles": [
-      {
-        "id": "top-4a0a0b95",
-        "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-        "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
-        "bullets": [
-          "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T15:01:27.000Z"
-      },
-      {
-        "id": "top-222636ad",
-        "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-        "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
-        "bullets": [
-          "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T19:41:05.000Z"
-      },
-      {
-        "id": "top-545ff80d",
-        "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
-        "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
-        "bullets": [
-          "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T18:32:54.000Z"
-      },
-      {
-        "id": "top-5ad62697",
-        "title": "King to acknowledge 'suffering of the past' as Caribbean tour begins",
-        "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-        "bullets": [
-          "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T22:13:37.000Z"
-      },
-      {
-        "id": "top-7bd03f3f",
-        "title": "Men abused woman after her husband drugged and advertised her online, court told",
-        "summary": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.",
-        "bullets": [
-          "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T17:34:27.000Z"
-      },
-      {
-        "id": "tech-e8546e96",
-        "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-        "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-        "bullets": [
-          "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T20:25:55.000Z"
-      },
-      {
-        "id": "tech-0e345101",
-        "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-        "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-        "bullets": [
-          "Easier app installs are coming to third-party stores, pending Google's stamp of approval."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T19:32:07.000Z"
-      },
-      {
-        "id": "tech-e5398111",
-        "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-        "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-        "bullets": [
-          "You can apparently now tell AI tools what sort of protein you want them to make."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T18:49:08.000Z"
-      },
-      {
-        "id": "tech-ea66325c",
-        "title": "Warner Bros. drops final trailer for Dune: Part Three",
-        "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-        "bullets": [
-          "\"After years of combat, I've become the oppressor Chani had sworn to fight.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T18:05:55.000Z"
-      },
-      {
-        "id": "tech-37b7dbe7",
-        "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-        "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
-        "bullets": [
-          "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T16:17:58.000Z"
-      },
-      {
-        "id": "ai-3e311572",
-        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-        "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-        "bullets": [
-          "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T21:44:34.000Z"
-      },
-      {
-        "id": "ai-0fb5680d",
-        "title": "Who’s really in charge at Anthropic after the IPO?",
-        "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-        "bullets": [
-          "Here's a clear explanation of Anthropic's incredibly complex governance structure."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T21:38:28.000Z"
-      },
-      {
-        "id": "ai-2f3e2d85",
-        "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-        "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-        "bullets": [
-          "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T18:55:35.000Z"
-      },
-      {
-        "id": "ai-aa1922cb",
-        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-        "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-        "bullets": [
-          "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T17:08:08.000Z"
-      },
-      {
-        "id": "ai-64963883",
-        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-        "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-        "bullets": [
-          "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T16:30:57.000Z"
-      },
-      {
-        "id": "world-ca800bd7",
-        "title": "Norway and Finland leaders hold rare call with Putin",
-        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-        "bullets": [
-          "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T18:28:23.000Z"
-      },
-      {
-        "id": "world-a8599f0c",
-        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-        "bullets": [
-          "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T22:11:08.000Z"
-      },
-      {
-        "id": "world-3945fc6f",
-        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-        "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-        "bullets": [
-          "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T13:25:54.000Z"
-      },
-      {
-        "id": "world-0ce7732e",
-        "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-        "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-        "bullets": [
-          "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T01:46:38.000Z"
-      },
-      {
-        "id": "world-5a87c0ed",
-        "title": "Dutch zookeeper dies after being mauled by leopard",
-        "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-        "bullets": [
-          "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-27T19:30:37.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-28",
     "generatedAt": "2026-10-28T20:18:42.033Z",
     "articles": [
@@ -8033,6 +7767,275 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-25T17:30:16.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "generatedAt": "2026-11-26T03:36:47.663Z",
+    "articles": [
+      {
+        "id": "top-6dc210d4",
+        "title": "Stalking law simplified to become one offence",
+        "summary": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+        "bullets": [
+          "The new stalking offence will be introduced after a review found existing legislation was confusing."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T00:02:50.000Z"
+      },
+      {
+        "id": "top-c463da29",
+        "title": "US approves SpaceX plan to send a million data satellites to space",
+        "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+        "bullets": [
+          "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T00:07:51.000Z"
+      },
+      {
+        "id": "top-1b67a0f4",
+        "title": "UK government set to publish new treaties agreed with EU",
+        "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+        "bullets": [
+          "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T02:13:00.000Z"
+      },
+      {
+        "id": "top-dba6ba57",
+        "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+        "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+        "bullets": [
+          "Changing seasons are affecting wildlife and leading some farmers to grow different crops."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T00:08:07.000Z"
+      },
+      {
+        "id": "top-9d41c9c1",
+        "title": "BBC launches partnership with Met Office for weather coverage",
+        "summary": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
+        "bullets": [
+          "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T00:12:37.000Z"
+      },
+      {
+        "id": "tech-2da6d080",
+        "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+        "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+        "bullets": [
+          "\"DART made a really, really large mess.",
+          "However, we didn’t really know what kind of mess.\""
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T22:36:45.000Z"
+      },
+      {
+        "id": "tech-1e5bbaa3",
+        "title": "Google search alternative Kagi launches Gmail rival",
+        "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+        "bullets": [
+          "The pitch is an unusual combination of privacy promises and AI features."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T20:57:09.000Z"
+      },
+      {
+        "id": "tech-999ced6e",
+        "title": "Backblaze explains why it's sharing customer information with advertisers",
+        "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+        "bullets": [
+          "Backblaze tells Ars it won't share users' backup, storage files with advertisers."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T18:38:29.000Z"
+      },
+      {
+        "id": "tech-d59699c6",
+        "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+        "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+        "bullets": [
+          "This constellation would increase the number of satellites in orbit by roughly 50-fold."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T18:22:38.000Z"
+      },
+      {
+        "id": "tech-b1a34bf4",
+        "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+        "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+        "bullets": [
+          "An independent browser engine arrives on Linux and macOS, and we've tried it."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T17:33:30.000Z"
+      },
+      {
+        "id": "ai-43f8383f",
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "bullets": [
+          "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T22:44:32.000Z"
+      },
+      {
+        "id": "ai-8b455206",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "bullets": [
+          "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T20:03:27.000Z"
+      },
+      {
+        "id": "ai-e445eb1b",
+        "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "bullets": [
+          "Most codes of conduct serve as a reflection of corporate culture.",
+          "In Nvidia's case, that could have consequences."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T19:54:57.000Z"
+      },
+      {
+        "id": "ai-fb371b6b",
+        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+        "bullets": [
+          "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T19:44:24.000Z"
+      },
+      {
+        "id": "ai-7f4ff6f3",
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+        "bullets": [
+          "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T18:11:46.000Z"
+      },
+      {
+        "id": "world-c5a6a8d8",
+        "title": "US announces new tariffs on host of countries including China",
+        "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+        "bullets": [
+          "The new levies would hit many of America's biggest trading partners, including China and the EU."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T03:01:40.000Z"
+      },
+      {
+        "id": "world-13a248a7",
+        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+        "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+        "bullets": [
+          "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T17:30:16.000Z"
+      },
+      {
+        "id": "world-dae5381e",
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+        "bullets": [
+          "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T22:18:06.000Z"
+      },
+      {
+        "id": "world-cc4a676b",
+        "title": "Has global jihadism failed, or is it simply changing shape?",
+        "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+        "bullets": [
+          "Jihadist groups appear to be focusing on local issues rather than global terror.",
+          "Does it signify a real change?"
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T00:22:18.000Z"
+      },
+      {
+        "id": "world-4b1f5e3f",
+        "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+        "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+        "bullets": [
+          "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T19:47:39.000Z"
       }
     ]
   }
