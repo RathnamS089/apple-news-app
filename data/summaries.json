@@ -1,274 +1,5 @@
 [
   {
-    "date": "2026-10-28",
-    "generatedAt": "2026-10-28T20:18:42.033Z",
-    "articles": [
-      {
-        "id": "top-8fcd28b6",
-        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-        "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-        "bullets": [
-          "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T18:45:09.000Z"
-      },
-      {
-        "id": "top-c2dc2914",
-        "title": "Key points at a glance",
-        "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-        "bullets": [
-          "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T16:55:27.000Z"
-      },
-      {
-        "id": "top-0dfed33e",
-        "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-        "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
-        "bullets": [
-          "The chancellor has had to grapple with a mix of public finances and household finances being a mess."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T16:52:16.000Z"
-      },
-      {
-        "id": "top-da0607da",
-        "title": "The main announcements from the Budget - and how they will be funded",
-        "summary": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-        "bullets": [
-          "The BBC's Joe Pike explains key things outlined by the Chancellor."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T16:12:57.000Z"
-      },
-      {
-        "id": "top-f215fc93",
-        "title": "How the Budget affects you",
-        "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-        "bullets": [
-          "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T16:43:35.000Z"
-      },
-      {
-        "id": "tech-abe1d2c5",
-        "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-        "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
-        "bullets": [
-          "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T18:05:22.000Z"
-      },
-      {
-        "id": "tech-f070fd8b",
-        "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-        "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
-        "bullets": [
-          "With more than 200 kWh, this luxury three-row can go 460 miles on a charge."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T17:55:45.000Z"
-      },
-      {
-        "id": "tech-a4498396",
-        "title": "Google AI gets cagey when asked who won the 2020 elections",
-        "summary": "But the AI responses get more forthright when asked outside the US.",
-        "bullets": [
-          "But the AI responses get more forthright when asked outside the US."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T17:46:32.000Z"
-      },
-      {
-        "id": "tech-4ee91fc0",
-        "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
-        "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
-        "bullets": [
-          "Florida county claims it lacks resources to find owners of unpermitted Flock cameras."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T17:37:49.000Z"
-      },
-      {
-        "id": "tech-73652504",
-        "title": "Apple announces touchscreen MacBook Pro with OLED display",
-        "summary": "The OLED display is the main draw, but the price is a lot to reckon with.",
-        "bullets": [
-          "The OLED display is the main draw, but the price is a lot to reckon with."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T17:25:04.000Z"
-      },
-      {
-        "id": "ai-0ea0c1e5",
-        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-        "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-        "bullets": [
-          "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T19:19:58.000Z"
-      },
-      {
-        "id": "ai-82df52d5",
-        "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-        "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline...",
-        "bullets": [
-          "The PHP scare may have faded from your feed, but the cleanup is far from over.",
-          "According to researchers who found the [&#8230;]"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T19:05:46.000Z"
-      },
-      {
-        "id": "ai-49cbf49d",
-        "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-        "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline...",
-        "bullets": [
-          "The PHP scare may have faded from your feed, but the cleanup is far from over.",
-          "According to researchers who found the [&#8230;]"
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T18:50:39.000Z"
-      },
-      {
-        "id": "ai-ca4cf23d",
-        "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-        "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-        "bullets": [
-          "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T17:00:00.000Z"
-      },
-      {
-        "id": "ai-58be1a39",
-        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-        "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-        "bullets": [
-          "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T17:00:00.000Z"
-      },
-      {
-        "id": "world-ece9d2bd",
-        "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-        "summary": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-        "bullets": [
-          "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T18:42:45.000Z"
-      },
-      {
-        "id": "world-6edfab2f",
-        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-        "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-        "bullets": [
-          "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T16:59:47.000Z"
-      },
-      {
-        "id": "world-3f83cf0c",
-        "title": "How could Israel break election deadlock? Here are four scenarios",
-        "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-        "bullets": [
-          "With 85% of votes counted, all signs point to an impasse.",
-          "The most likely outcome may be new elections."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T14:30:31.000Z"
-      },
-      {
-        "id": "world-4ad37e2b",
-        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-        "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-        "bullets": [
-          "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T10:31:22.000Z"
-      },
-      {
-        "id": "world-f44f7f28",
-        "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-        "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-        "bullets": [
-          "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T10:17:54.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-29",
     "generatedAt": "2026-10-29T18:29:45.069Z",
     "articles": [
@@ -8036,6 +7767,275 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-26T15:57:26.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "generatedAt": "2026-11-27T01:46:09.965Z",
+    "articles": [
+      {
+        "id": "top-9a8f1b6e",
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+        "bullets": [
+          "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T22:49:27.000Z"
+      },
+      {
+        "id": "top-2d198548",
+        "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+        "summary": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+        "bullets": [
+          "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T19:00:33.000Z"
+      },
+      {
+        "id": "top-95ff7bf5",
+        "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+        "summary": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
+        "bullets": [
+          "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T15:38:38.000Z"
+      },
+      {
+        "id": "top-e4b824ee",
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+        "bullets": [
+          "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T00:52:11.000Z"
+      },
+      {
+        "id": "top-0a13a9f3",
+        "title": "Drug rape husband says wife 'would have been terrified', court hears",
+        "summary": "The husband has told a jury that his wife \"would never agree to do any of this\".",
+        "bullets": [
+          "The husband has told a jury that his wife \"would never agree to do any of this\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T18:21:59.000Z"
+      },
+      {
+        "id": "tech-03df6544",
+        "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+        "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+        "bullets": [
+          "Ford enters the World Endurance Championship in 2027 with the new prototype."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T18:00:29.000Z"
+      },
+      {
+        "id": "tech-8ebc4e31",
+        "title": "Draining peatlands is responsible for a few percent of our global warming",
+        "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+        "bullets": [
+          "Detailed estimate going back to 1800 shows how much carbon is being liberated."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T12:15:42.000Z"
+      },
+      {
+        "id": "tech-369e0e38",
+        "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+        "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+        "bullets": [
+          "Our home offices range from tasteful to \"please explain yourself.\""
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T12:00:14.000Z"
+      },
+      {
+        "id": "tech-2da6d080",
+        "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+        "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+        "bullets": [
+          "\"DART made a really, really large mess.",
+          "However, we didn’t really know what kind of mess.\""
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T22:36:45.000Z"
+      },
+      {
+        "id": "tech-1e5bbaa3",
+        "title": "Google search alternative Kagi launches Gmail rival",
+        "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+        "bullets": [
+          "The pitch is an unusual combination of privacy promises and AI features."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T20:57:09.000Z"
+      },
+      {
+        "id": "ai-5e7b1c60",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "bullets": [
+          "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S.",
+          "tightens its push to keep AI chips out of China."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T20:03:54.000Z"
+      },
+      {
+        "id": "ai-f2572ce6",
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "bullets": [
+          "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T16:00:00.000Z"
+      },
+      {
+        "id": "ai-43f8383f",
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "bullets": [
+          "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T22:44:32.000Z"
+      },
+      {
+        "id": "ai-8b455206",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "bullets": [
+          "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T20:03:27.000Z"
+      },
+      {
+        "id": "ai-e445eb1b",
+        "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "bullets": [
+          "Most codes of conduct serve as a reflection of corporate culture.",
+          "In Nvidia's case, that could have consequences."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T19:54:57.000Z"
+      },
+      {
+        "id": "world-9a8f1b6e",
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+        "bullets": [
+          "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T22:49:27.000Z"
+      },
+      {
+        "id": "world-e4b824ee",
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+        "bullets": [
+          "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and..."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T00:52:11.000Z"
+      },
+      {
+        "id": "world-e8b70bd4",
+        "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+        "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+        "bullets": [
+          "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T19:26:16.000Z"
+      },
+      {
+        "id": "world-dd14c6f2",
+        "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+        "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+        "bullets": [
+          "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T05:00:24.000Z"
+      },
+      {
+        "id": "world-5356f5ca",
+        "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+        "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+        "bullets": [
+          "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T05:00:27.000Z"
       }
     ]
   }
