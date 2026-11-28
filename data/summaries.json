@@ -1,273 +1,5 @@
 [
   {
-    "date": "2026-10-29",
-    "generatedAt": "2026-10-29T18:29:45.069Z",
-    "articles": [
-      {
-        "id": "top-5220606d",
-        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-        "summary": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
-        "bullets": [
-          "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T15:42:56.000Z"
-      },
-      {
-        "id": "top-cce67301",
-        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-        "summary": "Budget forecasts show growth in living standards grinding almost to a halt.",
-        "bullets": [
-          "Budget forecasts show growth in living standards grinding almost to a halt."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T13:19:24.000Z"
-      },
-      {
-        "id": "top-6150fb85",
-        "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-        "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
-        "bullets": [
-          "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T11:07:35.000Z"
-      },
-      {
-        "id": "top-1c9e6f8a",
-        "title": "Met refers itself to police watchdog over letter about Meghan's father",
-        "summary": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.",
-        "bullets": [
-          "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T17:58:18.000Z"
-      },
-      {
-        "id": "top-00cd2d05",
-        "title": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
-        "summary": "A train crew member shows \"sheer courage and bravery in seeking to save lives\", a court hears.",
-        "bullets": [
-          "A train crew member shows \"sheer courage and bravery in seeking to save lives\", a court hears."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
-        "category": "top",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T17:25:41.000Z"
-      },
-      {
-        "id": "tech-af4e5dba",
-        "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-        "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-        "bullets": [
-          "The leak reveals undercover agents, surveillance groups, and sensitive DHS access."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T12:58:34.000Z"
-      },
-      {
-        "id": "tech-fd73d908",
-        "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-        "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
-        "bullets": [
-          "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T11:00:08.000Z"
-      },
-      {
-        "id": "tech-d892c643",
-        "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-        "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
-        "bullets": [
-          "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T22:51:15.000Z"
-      },
-      {
-        "id": "tech-e4e672a8",
-        "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-        "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
-        "bullets": [
-          "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea."
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T22:35:50.000Z"
-      },
-      {
-        "id": "tech-766881ab",
-        "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-        "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
-        "bullets": [
-          "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\""
-        ],
-        "source": "Ars Technica - All content",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-        "category": "tech",
-        "imageUrl": null,
-        "publishedAt": "2026-10-28T22:17:15.000Z"
-      },
-      {
-        "id": "ai-d2246def",
-        "title": "Granola crunches up a dictation feature to compete with Wispr",
-        "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-        "bullets": [
-          "After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker.",
-          "The voice AI wars are getting interesting."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T17:54:38.000Z"
-      },
-      {
-        "id": "ai-a4efff95",
-        "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-        "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-        "bullets": [
-          "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T17:00:00.000Z"
-      },
-      {
-        "id": "ai-f9fed4b5",
-        "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-        "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-        "bullets": [
-          "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy,..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T16:42:32.000Z"
-      },
-      {
-        "id": "ai-143e8ad6",
-        "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-        "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-        "bullets": [
-          "Dream is grounded in real physics and construction standards.",
-          "Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives..."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T16:21:00.000Z"
-      },
-      {
-        "id": "ai-b73c26d1",
-        "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-        "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-        "bullets": [
-          "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
-        ],
-        "source": "AI News & Artificial Intelligence | TechCrunch",
-        "sourceUrl": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-        "category": "ai",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T14:35:26.000Z"
-      },
-      {
-        "id": "world-6150fb85",
-        "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-        "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
-        "bullets": [
-          "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T11:07:35.000Z"
-      },
-      {
-        "id": "world-e3b1d87a",
-        "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-        "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-        "bullets": [
-          "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T14:17:35.000Z"
-      },
-      {
-        "id": "world-695ffe42",
-        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-        "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-        "bullets": [
-          "The defeated presidential candidate says he will lead the opposition from the US."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T14:58:28.000Z"
-      },
-      {
-        "id": "world-0e18eeba",
-        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-        "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-        "bullets": [
-          "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T13:25:07.000Z"
-      },
-      {
-        "id": "world-a14c9862",
-        "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-        "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-        "bullets": [
-          "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum."
-        ],
-        "source": "BBC News",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-        "category": "world",
-        "imageUrl": null,
-        "publishedAt": "2026-10-29T13:44:39.000Z"
-      }
-    ]
-  },
-  {
     "date": "2026-10-30",
     "generatedAt": "2026-10-30T22:24:26.482Z",
     "articles": [
@@ -8035,6 +7767,274 @@
         "category": "world",
         "imageUrl": null,
         "publishedAt": "2026-11-27T15:54:15.000Z"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "generatedAt": "2026-11-28T07:55:25.096Z",
+    "articles": [
+      {
+        "id": "top-141d21b4",
+        "title": "Pensions and benefits services still down after 'cyber incident'",
+        "summary": "Experts say the Department for Work and Pensions may have been hit by hackers but the government has not confirmed that.",
+        "bullets": [
+          "Experts say the Department for Work and Pensions may have been hit by hackers but the government has not confirmed that."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-28T07:36:33.000Z"
+      },
+      {
+        "id": "top-efbf83b3",
+        "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+        "summary": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+        "bullets": [
+          "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T22:03:22.000Z"
+      },
+      {
+        "id": "top-8de62d67",
+        "title": "Pharmacies get new powers to swap prescriptions during shortages",
+        "summary": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+        "bullets": [
+          "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-28T06:00:11.000Z"
+      },
+      {
+        "id": "top-bd21b1a0",
+        "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+        "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+        "bullets": [
+          "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-28T06:52:05.000Z"
+      },
+      {
+        "id": "top-88864d8b",
+        "title": "Set time aside for children to read for pleasure, schools to be told",
+        "summary": "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindless scrolling\".",
+        "bullets": [
+          "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindless scrolling\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "imageUrl": null,
+        "publishedAt": "2026-11-28T02:20:49.000Z"
+      },
+      {
+        "id": "tech-8af8d055",
+        "title": "The best Black Friday deals Ars could find",
+        "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+        "bullets": [
+          "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?"
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T17:05:37.000Z"
+      },
+      {
+        "id": "tech-d5209234",
+        "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+        "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+        "bullets": [
+          "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T12:05:01.000Z"
+      },
+      {
+        "id": "tech-57086c32",
+        "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+        "summary": "We polled the Ars staff about their favorite pickups this year; here's the list.",
+        "bullets": [
+          "We polled the Ars staff about their favorite pickups this year; here's the list."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T11:30:04.000Z"
+      },
+      {
+        "id": "tech-586d2747",
+        "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+        "summary": "There’s just one thing we still don’t know: How much will they cost?",
+        "bullets": [
+          "There’s just one thing we still don’t know: How much will they cost?"
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T08:00:53.000Z"
+      },
+      {
+        "id": "tech-03df6544",
+        "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+        "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+        "bullets": [
+          "Ford enters the World Endurance Championship in 2027 with the new prototype."
+        ],
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+        "category": "tech",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T18:00:29.000Z"
+      },
+      {
+        "id": "ai-5e7b1c60",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "bullets": [
+          "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S.",
+          "tightens its push to keep AI chips out of China."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T20:03:54.000Z"
+      },
+      {
+        "id": "ai-f2572ce6",
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "bullets": [
+          "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of..."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-26T16:00:00.000Z"
+      },
+      {
+        "id": "ai-43f8383f",
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "bullets": [
+          "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T22:44:32.000Z"
+      },
+      {
+        "id": "ai-8b455206",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "bullets": [
+          "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T20:03:27.000Z"
+      },
+      {
+        "id": "ai-e445eb1b",
+        "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "bullets": [
+          "Most codes of conduct serve as a reflection of corporate culture.",
+          "In Nvidia's case, that could have consequences."
+        ],
+        "source": "AI News & Artificial Intelligence | TechCrunch",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "category": "ai",
+        "imageUrl": null,
+        "publishedAt": "2026-11-25T19:54:57.000Z"
+      },
+      {
+        "id": "world-76c1bc99",
+        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+        "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+        "bullets": [
+          "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T21:55:53.000Z"
+      },
+      {
+        "id": "world-5542a35f",
+        "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+        "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+        "bullets": [
+          "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-28T04:13:45.000Z"
+      },
+      {
+        "id": "world-09163124",
+        "title": "Eight killed in Peruvian military helicopter crash",
+        "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+        "bullets": [
+          "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-28T04:19:16.000Z"
+      },
+      {
+        "id": "world-1f09cdfe",
+        "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+        "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+        "bullets": [
+          "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-28T00:56:55.000Z"
+      },
+      {
+        "id": "world-df354670",
+        "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+        "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+        "bullets": [
+          "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
+        ],
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "imageUrl": null,
+        "publishedAt": "2026-11-27T18:00:40.000Z"
       }
     ]
   }
